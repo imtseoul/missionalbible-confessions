@@ -1,0 +1,116 @@
+{
+  "schema_version": "confessions-library-1",
+  "release_id": "public-0.1",
+  "publication_status": "public_review_edition",
+  "site_name": "종교개혁 시대 신앙고백 문헌",
+  "complete_works": 3,
+  "complete_scopes": 0,
+  "work_count": 3,
+  "passage_count": 331,
+  "traditions": {
+    "lutheran": "루터파",
+    "reformed": "개혁파",
+    "anglican": "성공회",
+    "anabaptist": "재세례파",
+    "catholic": "로마 가톨릭",
+    "orthodox": "동방 정교회"
+  },
+  "works": [
+    {
+      "id": "wsc",
+      "title": "웨스트민스터 소교리문답",
+      "display_title": "웨스트민스터 소교리문답",
+      "original_title": "The humble Advice of the Assembly of Divines … Concerning A shorter Catechism",
+      "issuer": "웨스트민스터 신학자 회의",
+      "year": 1648,
+      "tradition": "reformed",
+      "language": "en",
+      "abbreviation": "WSC",
+      "reference_scheme": "question",
+      "expected_units": 108,
+      "coverage": "complete",
+      "scope": "표제와 107문 전체",
+      "source_language": "en",
+      "html_path": "works/wsc/index.html",
+      "json_path": "data/works/wsc.json",
+      "fixed_html_path": "releases/public-0.1/works/wsc/index.html",
+      "aliases": [
+        "소요리문답",
+        "Westminster Shorter Catechism",
+        "Shorter Catechism"
+      ],
+      "passage_count": 108,
+      "json_sha256": "987f3c00245a3a0078211c4e42e4fa0ba0f83fdc9b172d96093c90c1c67ad190"
+    },
+    {
+      "id": "hc",
+      "title": "하이델베르크 교리문답",
+      "display_title": "하이델베르크 교리문답",
+      "original_title": "Catechismus. [Oder Christlicher Underricht, wie der in Kirchen und Schulen der Churfürstlichen Pfaltz getrieben wirdt]",
+      "issuer": "팔츠 선제후령 교회",
+      "year": 1563,
+      "tradition": "reformed",
+      "language": "de",
+      "abbreviation": "HC",
+      "reference_scheme": "question",
+      "expected_units": 129,
+      "coverage": "complete",
+      "scope": "129문 전체 (52주일)",
+      "source_language": "de",
+      "html_path": "works/hc/index.html",
+      "json_path": "data/works/hc.json",
+      "fixed_html_path": "releases/public-0.1/works/hc/index.html",
+      "aliases": [
+        "하이델베르크 요리문답",
+        "Heidelberger Katechismus",
+        "Heidelberg Catechism"
+      ],
+      "passage_count": 129,
+      "json_sha256": "423879d894aa9135bd5d33207034f4af1672b6cb8f6cdff5d133879f33f88d54"
+    },
+    {
+      "id": "cd",
+      "title": "도르트 신경",
+      "display_title": "도르트 신경",
+      "original_title": "Canones Synodi Nationalis Dordrechtanæ",
+      "issuer": "도르트 총회",
+      "year": 1619,
+      "tradition": "reformed",
+      "language": "lat",
+      "abbreviation": "CD",
+      "reference_scheme": "head_article",
+      "expected_units": 94,
+      "coverage": "complete",
+      "scope": "네 교리(I, II, III/IV, V)의 조항 59개와 오류 배격 34개, 결론",
+      "source_language": "lat",
+      "html_path": "works/cd/index.html",
+      "json_path": "data/works/cd.json",
+      "fixed_html_path": "releases/public-0.1/works/cd/index.html",
+      "aliases": [
+        "도르트 신조",
+        "도르트 교회법",
+        "Canones Synodi Dordrechtanae",
+        "Canons of Dort",
+        "Iudicium Synodi Nationalis"
+      ],
+      "passage_count": 94,
+      "json_sha256": "dd4d99db89b75e00d28336dcebb073e6655d121776b68108db8774aaae039d53"
+    }
+  ],
+  "search_index": {
+    "schema_version": "confessions-search-1",
+    "path": "data/search.json",
+    "sha256": "5c4e2211a92dca50bc78f6b88012a639b8af858bcbca1d2596961257a0570883"
+  },
+  "base_url": "https://confessions.missionalbible.org/",
+  "fixed_edition": {
+    "schema_version": "confessions-fixed-edition-json-1",
+    "passages": "Each work JSON at json_path holds every passage, alignment, note and citation of this edition.",
+    "omitted_copies": [
+      "data/passages.jsonl",
+      "data/works/cd.jsonl",
+      "data/works/hc.jsonl",
+      "data/works/wsc.jsonl"
+    ]
+  }
+}
