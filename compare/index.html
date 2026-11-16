@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta name="robots" content="index,follow">
+  <title>교리 비교 | 종교개혁 시대 신앙고백 문헌</title>
+  <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/assets/library.css">
+  <link rel="stylesheet" href="/assets/comparison.css">
+  <script type="module" src="/assets/comparison.mjs"></script>
+<link rel="canonical" href="https://confessions.missionalbible.org/compare/"></head>
+<body>
+  <a class="skip" href="#main">본문으로 건너뛰기</a>
+  <header class="site-header">
+    <div class="shell header-inner">
+      <a class="brand" href="/"><span class="brand-dot" aria-hidden="true"></span><span>종교개혁 시대 신앙고백 문헌</span></a>
+      <nav id="site-nav" aria-label="주 메뉴"><a href="/">문헌</a><a href="/compare/" aria-current="page">교리 비교</a></nav>
+    </div>
+  </header>
+  <main class="shell doctrine-comparison" id="main">
+    <header class="comparison-intro">
+      <h1>교리 비교</h1>
+      <p>교리 주장을 입력하고 관련 신앙고백 조항을 읽어 보세요.</p>
+      <p class="comparison-scope">비교 범위는 개혁파 신앙고백 문헌 3편입니다.</p>
+    </header>
+    <form id="claim-form" hidden>
+      <label for="claim">비교할 문장</label>
+      <textarea id="claim" rows="3" maxlength="500" required placeholder="예: 성부와 성자와 성령은 서로 다른 세 신이다."></textarea>
+      <div class="claim-actions">
+        <button type="submit" class="claim-submit">신앙고백과 비교</button>
+        <button type="reset" class="claim-reset">지우기</button>
+      </div>
+      <div class="claim-examples" role="group" aria-label="주제별 비교 예시">
+        <p>예시로 비교하기</p>
+        <div class="claim-example-links"><button type="button" data-topic="trinity">삼위일체</button><button type="button" data-topic="christ">그리스도의 신성과 인성</button><button type="button" data-topic="resurrection">그리스도의 부활</button><button type="button" data-topic="justification">칭의와 선행</button><button type="button" data-topic="supper">성찬</button><button type="button" data-topic="perseverance">성도의 견인</button></div>
+      </div>
+    </form>
+    <noscript><p>문장 비교를 하려면 JavaScript를 켜세요. <a href="/">문헌 목록에서 조항을 읽을 수 있습니다.</a></p></noscript>
+    <p class="sr-only" id="comparison-status" role="status"></p>
+    <section id="comparison-results" aria-labelledby="comparison-heading" hidden>
+      <h2 id="comparison-heading" tabindex="-1">비교 결과</h2>
+      <div id="comparison-content"></div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="shell">
+    <span>미셔널바이블 · 종교개혁 시대 신앙고백 문헌</span>
+    <nav aria-label="자료 안내"><a href="/about/">번역·판본 안내</a><a href="/rights/">출처·이용 조건</a><a href="https://www.missionalbible.org/">미셔널바이블</a></nav>
+  </div></footer>
+  <script id="comparison-data" type="application/json">[{"id":"trinity","name":"삼위일체","keywords":["삼위일체","삼신론","세 신","세 위격","성부","성자","성령"],"scope":"하나님의 한 본질과 세 위격","references":[{"label":"웨스트민스터 소교리문답 제6문","path":"/works/wsc/index.html#p-6","question":"신격 안에는 몇 위격이 계시는가?","text":"신격 안에는 성부와 성자와 성령, 세 위격이 계신다. 이 세 위격은 한 하나님이시며, 본질이 같고 능력과 영광이 동등하시다."},{"label":"하이델베르크 교리문답 제25문","path":"/works/hc/index.html#p-25","question":"하나님의 본질은 오직 하나뿐인데, 너는 왜 성부와 성자와 성령, 셋을 일컫는가?","text":"하나님께서 자기 말씀에서 자신을 그렇게 계시하셨기 때문이다. 곧 서로 구별되는 이 세 위격이 유일하시고 참되시며 영원하신 한 하나님이시라는 것이다."}],"example":"성부와 성자와 성령은 서로 다른 세 신이다.","relation":"differs","explanation":"웨스트민스터 소교리문답과 하이델베르크 교리문답은 서로 구별되는 세 위격이 한 하나님이시라고 고백합니다."},{"id":"christ","name":"그리스도의 신성과 인성","keywords":["그리스도의 신성","그리스도의 인성","두 본성","참 하나님","참 사람이","예수는 하나님","성육신","가현설"],"scope":"그리스도의 두 본성과 한 위격","references":[{"label":"웨스트민스터 소교리문답 제21문","path":"/works/wsc/index.html#p-21","question":"하나님께서 택하신 자들의 구속자는 누구인가?","text":"하나님께서 택하신 자들의 유일한 구속자는 주 예수 그리스도이시다. 그분은 하나님의 영원한 아들로서 사람이 되셨고, 그리하여 구별된 두 본성과 한 위격 안에서 하나님이시자 사람이셨고, 지금도 영원토록 그러하시다."},{"label":"하이델베르크 교리문답 제35문","path":"/works/hc/index.html#p-35","question":"\"성령으로 잉태되시고 동정녀 마리아에게서 나셨다\"는 말은 무슨 뜻인가?","text":"참되고 영원하신 하나님이시며 변함없이 그러하신 하나님의 영원하신 아들께서 동정녀 마리아의 살과 피로부터 참된 사람의 본성을 성령의 역사로 취하셨다는 뜻이다. 이는 그분께서 다윗의 참된 후손이 되시고, 모든 일에서 자기 형제들과 같으시되, 죄는 없으시게 하려는 것이다."}],"example":"예수 그리스도는 참 하나님이시며 참 사람이시다.","relation":"agrees","explanation":"두 문헌은 하나님의 영원한 아들께서 참된 인간 본성을 취하셨다고 고백합니다. 웨스트민스터 소교리문답은 구별된 두 본성과 한 위격을 명시합니다."},{"id":"resurrection","name":"그리스도의 부활","keywords":["부활","되살아나","사흘 만에","다시 살아나"],"scope":"그리스도의 부활과 신자의 소망","references":[{"label":"웨스트민스터 소교리문답 제28문","path":"/works/wsc/index.html#p-28","question":"그리스도의 높아지심은 무엇으로 이루어지는가?","text":"그리스도의 높아지심은 그분이 사흘 만에 죽은 자들 가운데서 다시 살아나시고, 하늘에 오르시고, 하나님 아버지 우편에 앉아 계시고, 마지막 날에 세상을 심판하러 오시는 데 있다."},{"label":"하이델베르크 교리문답 제45문","path":"/works/hc/index.html#p-45","question":"그리스도의 부활은 우리에게 어떤 유익을 주는가?","text":"첫째, 그분은 부활로 죽음을 이기셔서, 자신의 죽음으로 우리를 위하여 얻으신 의에 우리를 참여하게 하실 수 있다. 둘째, 우리도 이제 그분의 능력으로 새 생명으로 일으킴을 받는다. 셋째, 그리스도의 부활은 우리의 복된 부활에 대한 확실한 보증이다."}],"example":"예수 그리스도는 죽은 자들 가운데서 실제로 다시 살아나지 않으셨다.","relation":"differs","explanation":"웨스트민스터 소교리문답은 그리스도께서 사흘 만에 다시 살아나셨다고 고백합니다. 하이델베르크 교리문답은 그리스도의 부활을 신자의 부활에 대한 보증으로 설명합니다."},{"id":"justification","name":"칭의와 선행","keywords":["칭의","이신칭의","선행","선한 행위","의롭","그리스도의 의"],"scope":"개혁파 고백문헌의 칭의 이해","references":[{"label":"웨스트민스터 소교리문답 제33문","path":"/works/wsc/index.html#p-33","question":"칭의란 무엇인가?","text":"칭의는 하나님의 값없는 은혜의 행위이다. 이 행위로 하나님은 우리의 모든 죄를 용서하시고, 우리를 자기 앞에서 의롭다고 받아 주신다. 이는 오직 우리에게 전가되고 오직 믿음으로 받는 그리스도의 의 때문이다."},{"label":"하이델베르크 교리문답 제62문","path":"/works/hc/index.html#p-62","question":"그러나 왜 우리의 선한 행위는 하나님 앞에서 의가 될 수 없고, 그 의의 일부도 될 수 없는가?","text":"하나님의 심판 앞에서 설 수 있는 의는 철저히 완전하고 하나님의 율법에 온전히 일치해야 하는데, 이생에서 우리가 하는 가장 선한 행위도 모두 불완전하고 죄로 더럽혀져 있기 때문이다."},{"label":"하이델베르크 교리문답 제64문","path":"/works/hc/index.html#p-64","question":"그러나 이 가르침은 사람들을 안일하고 방종하게 만들지 않는가?","text":"아니다. 참된 믿음으로 그리스도께 접붙여진 사람들이 감사의 열매를 맺지 않는 것은 불가능하기 때문이다."}],"example":"하나님은 내가 쌓은 선행의 공로를 근거로 나를 의롭다고 받아 주신다.","relation":"differs","explanation":"이 문헌들은 칭의의 근거를 그리스도의 의에서 찾습니다. 하이델베르크 교리문답은 참된 믿음이 감사의 열매를 맺는다고 설명합니다."},{"id":"supper","name":"성찬","keywords":["성찬","주의 만찬","주의 만찬의 떡","떡과 포도주","화체설","성체"],"scope":"교파별 설명이 다른 주제 · 개혁파 문헌의 견해","references":[{"label":"하이델베르크 교리문답 제78문","path":"/works/hc/index.html#p-78","question":"그러면 떡과 포도주가 그리스도의 실체적인 몸과 피가 되는가?","text":"아니다. 세례의 물이 그리스도의 피로 변하지도 않고 죄를 씻는 것 자체가 되지도 않으며, 다만 죄 씻음에 대한 하나님의 표와 보증일 뿐인 것처럼, 만찬의 거룩한 떡도 그리스도의 몸 자체가 되지 않는다. 비록 성례의 성질과 관례에 따라 그리스도의 몸이라고 불리기는 하지만 말이다."},{"label":"웨스트민스터 소교리문답 제96문","path":"/works/wsc/index.html#p-96","question":"주의 만찬이란 무엇인가?","text":"주의 만찬은 성례이니, 이 성례에서는 그리스도께서 정하신 대로 떡과 포도주를 주고받음으로써 그분의 죽으심이 선포된다. 또 합당하게 받는 사람들은 몸으로 먹는 육적인 방식이 아니라 믿음으로 그분의 몸과 피에 참여하게 되며, 그분의 모든 유익에도 참여하여 영적으로 양육되고 은혜 안에서 자라 간다."}],"example":"주의 만찬에서 떡과 포도주가 그리스도의 실체적인 몸과 피로 변한다.","relation":"differs","explanation":"하이델베르크 교리문답은 떡이 그리스도의 몸 자체가 된다는 설명을 받아들이지 않습니다. 웨스트민스터 소교리문답은 믿음으로 그리스도의 몸과 피에 참여한다고 설명합니다."},{"id":"perseverance","name":"성도의 견인","keywords":["성도의 견인","견인","구원을 잃","은혜에서 떨어","믿음을 잃","은혜 안에서 끝까지"],"scope":"교파별 설명이 다른 주제 · 도르트 신경의 견해","references":[{"label":"도르트 신경 제5교리 3조","path":"/works/cd/index.html#p-V-3","question":"","text":"안에 거하는 죄의 이 남은 것들과, 게다가 세상과 사탄의 시험 때문에, 회심한 사람들이 자기 힘에 맡겨진다면 이 은혜 안에 계속 서 있을 수 없을 것이다. 그러나 하나님께서는 신실하시다. 하나님께서는 한 번 주신 은혜 안에서 그들을 자비롭게 굳게 하시고, 그 은혜 안에서 끝까지 능력으로 보존하신다."},{"label":"도르트 신경 제5교리 8조","path":"/works/cd/index.html#p-V-8","question":"","text":"이처럼 그들은 자기 공로나 힘이 아니라 하나님의 값없는 자비로 이것을 얻는다. 곧 그들은 믿음과 은혜에서 완전히 떨어져 나가지 않고, 넘어짐 가운데 끝내 머물러 있거나 멸망하지도 않는다. 그들 자신에 관한 한, 그렇게 떨어져 나가 멸망하는 일은 쉽게 일어날 수 있을 뿐 아니라 틀림없이 일어날 것이다. 그러나 하나님 편에서 보면 그런 일은 결코 일어날 수 없다. 하나님의 결정은 바뀔 수 없고, 약속은 무너질 수 없으며, 목적에 따른 부르심은 취소될 수 없고, 그리스도의 공로와 간구와 지키심은 헛되게 될 수 없으며, 성령의 인 치심도 헛되게 되거나 지워질 수 없기 때문이다."}],"example":"회심한 신자는 자기 힘과 공로로 은혜 안에 끝까지 서야 한다.","relation":"differs","explanation":"도르트 신경은 회심한 사람을 끝까지 보존하는 근거를 하나님의 신실하심과 자비에서 찾습니다."}]</script>
+</body>
+</html>

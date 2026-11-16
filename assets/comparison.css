@@ -1,0 +1,49 @@
+.doctrine-comparison {
+  max-width: 760px;
+  padding-block: 48px 24px;
+  min-height: 64vh;
+  overflow-wrap: anywhere;
+  word-break: keep-all;
+}
+.comparison-intro { margin-bottom: 32px; }
+.comparison-intro > p { margin-top: 8px; }
+.comparison-scope, .claim-examples p, .comparison-topic-scope { color: var(--muted); font-size: 14px; }
+.doctrine-comparison form > label { display: block; font-weight: 600; margin-bottom: 8px; }
+.doctrine-comparison textarea {
+  display: block;
+  width: 100%;
+  min-height: 112px;
+  padding: 16px;
+  border: 1px solid var(--field);
+  border-radius: 3px;
+  background: var(--paper);
+  color: var(--ink);
+  font: inherit;
+  resize: vertical;
+}
+.doctrine-comparison textarea:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.claim-actions, .claim-example-links { display: flex; flex-wrap: wrap; gap: 8px; }
+.claim-actions { margin-top: 16px; }
+.doctrine-comparison button { min-height: 48px; padding: 8px 16px; font: inherit; border-radius: 3px; }
+.claim-submit { background: var(--ink); color: var(--paper); border: 1px solid var(--ink); }
+.claim-reset, .claim-example-links button { background: var(--paper); color: var(--ink); border: 1px solid var(--field); }
+.claim-reset:hover, .claim-example-links button:hover { background: var(--wash); }
+.claim-examples { margin-top: 24px; }
+.claim-example-links { margin-top: 8px; }
+#comparison-results { border-top: 1px solid var(--ink); margin-top: 32px; padding-top: 24px; }
+#comparison-heading { margin-bottom: 16px; font-size: 22px; }
+.comparison-claim { margin: 0 0 16px; padding-left: 16px; border-left: 2px solid var(--accent); }
+.comparison-topic { padding-block: 16px; }
+.comparison-topic + .comparison-topic { border-top: 1px solid var(--line); }
+.comparison-topic h3 { font-size: 20px; margin-bottom: 8px; }
+.comparison-relation { font-weight: 600; margin: 16px 0 8px; }
+.comparison-sources { list-style: none; padding: 0; margin: 16px 0 0; }
+.comparison-sources li { border-top: 1px solid var(--line); padding: 16px 0; }
+.comparison-sources a, .doctrine-comparison noscript a { text-decoration: underline; text-underline-offset: 4px; }
+.comparison-sources a { display: inline-flex; align-items: center; min-height: 48px; font-weight: 600; }
+.comparison-sources blockquote { margin: 0; font-size: 16px; line-height: 1.75; }
+.comparison-question { margin-bottom: 8px; color: var(--muted); font-size: 15px; }
+@media (max-width: 700px) {
+  .doctrine-comparison { padding-top: 32px; }
+  .comparison-intro { margin-bottom: 24px; }
+}
