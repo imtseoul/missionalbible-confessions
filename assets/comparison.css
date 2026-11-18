@@ -7,7 +7,7 @@
 }
 .comparison-intro { margin-bottom: 32px; }
 .comparison-intro > p { margin-top: 8px; }
-.comparison-scope, .claim-examples p, .comparison-topic-scope { color: var(--muted); font-size: 14px; }
+.comparison-scope, .comparison-topic-scope { color: var(--muted); font-size: 14px; }
 .claim-notice { margin-top: 8px; }
 .doctrine-comparison form > label { display: block; font-weight: 600; margin-bottom: 8px; }
 .doctrine-comparison textarea {
@@ -27,12 +27,28 @@
 .claim-actions { margin-top: 16px; }
 .doctrine-comparison button { min-height: 48px; padding: 8px 16px; font: inherit; border-radius: 3px; }
 .claim-submit { background: var(--ink); color: var(--paper); border: 1px solid var(--ink); }
-.claim-reset, .claim-example-links button { background: var(--paper); color: var(--ink); border: 1px solid var(--field); }
-.claim-reset:hover, .claim-example-links button:hover { background: var(--wash); }
-.claim-examples { margin-top: 24px; }
-.claim-example-links { margin-top: 8px; }
-.comparison-guide { margin-top: 16px; }
-.comparison-guide summary { display: list-item; width: fit-content; min-height: 48px; padding-block: 8px; cursor: pointer; }
+.claim-reset { background: var(--paper); color: var(--ink); border: 1px solid var(--field); }
+.claim-reset:hover { background: var(--wash); }
+.claim-examples { margin-top: 16px; }
+.claim-examples summary, .comparison-guide summary {
+  display: list-item;
+  width: fit-content;
+  min-height: 44px;
+  padding-block: 8px;
+  cursor: pointer;
+}
+.claim-example-links { column-gap: 20px; row-gap: 0; padding-inline-start: 16px; }
+.claim-example-links button {
+  min-height: 44px;
+  padding: 4px 0;
+  border: 0;
+  background: transparent;
+  color: var(--ink);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  cursor: pointer;
+}
+.claim-example-links button:hover { text-decoration-color: var(--accent); }
 .comparison-guide dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 16px; }
 .comparison-guide dt { font-weight: 600; }
 .comparison-guide dd { margin: 0; }
