@@ -25,13 +25,14 @@
       <p>교리에 관한 주장이나 질문을 입력하고 신앙고백 조항과 대조해 보세요.</p>
       <p class="comparison-scope">비교 문헌 6편</p>
     </header>
-    <form id="claim-form" hidden>
+    <form id="claim-form" hidden data-api="https://missionalbible-confessions-compare.imtseoul.workers.dev/api/compare">
       <label for="claim">비교할 진술 또는 질문</label>
       <textarea id="claim" rows="3" maxlength="500" required placeholder="예: 성부와 성자와 성령은 서로 구별되신다."></textarea>
       <div class="claim-actions">
         <button type="submit" class="claim-submit">신앙고백과 비교</button>
         <button type="reset" class="claim-reset">지우기</button>
       </div>
+      <p class="comparison-scope claim-notice">입력한 내용은 비교를 위해 OpenAI에 전송됩니다. 이름이나 연락처 등 개인정보는 빼고 적어 주세요.</p>
       <div class="claim-examples" role="group" aria-label="주제별 비교 예시">
         <p>예시로 비교하기</p>
         <div class="claim-example-links"><button type="button" data-topic="trinity">삼위일체</button><button type="button" data-topic="christ">그리스도의 신성과 인성</button><button type="button" data-topic="resurrection">그리스도의 부활</button><button type="button" data-topic="justification">칭의와 선행</button><button type="button" data-topic="supper">성찬</button><button type="button" data-topic="perseverance">성도의 견인</button><button type="button" data-judgment="2">삼위의 구별</button><button type="button" data-judgment="12">성찬의 참여 방식</button></div>

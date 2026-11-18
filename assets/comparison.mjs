@@ -95,7 +95,7 @@ export function isComparisonResult(result) {
   if (result.verdict === 'insufficient') return result.sources.length === 0;
   return typeof result.proposition === 'string' && result.sources.length > 0
     && result.sources.length <= 6 && result.sources.every(source => source
-      && ['agrees', 'conflicts'].includes(source.relation)
+      && ['agrees', 'similar', 'conflicts', 'describes'].includes(source.relation)
       && typeof source.path === 'string' && /^\/works\/[a-z0-9-]+\/index\.html#p-[a-zA-Z0-9.-]+$/u.test(source.path)
       && ['label', 'text', 'question', 'explanation'].every(key => typeof source[key] === 'string'));
 }
@@ -193,8 +193,13 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
       field.reportValidity();
       return;
     }
+    const local = requestComparison ? null : findLocalJudgment(claim, topics, judgments);
+    if (local) {
+      showVerdict(claim, local);
+      return;
+    }
     if (!canCompare) {
-      showLocal(claim);
+      showRelated(claim);
       return;
     }
     const controller = new AbortController();
@@ -221,6 +226,9 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
       }
       if (result?.error === 'free_credits_unavailable') {
         message = '지금은 무료 크레딧을 사용할 수 없어 자동 비교가 중단됐습니다.';
+      }
+      if (result?.error === 'rate_limited') {
+        message = '요청이 많습니다. 잠시 후 다시 비교해 주세요.';
       }
     } catch {
       if (activeRequest !== controller) return;
