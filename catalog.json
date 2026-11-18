@@ -1,12 +1,12 @@
 {
   "schema_version": "confessions-library-1",
-  "release_id": "public-0.1",
+  "release_id": "public-0.2",
   "publication_status": "public_review_edition",
   "site_name": "종교개혁 시대 신앙고백 문헌",
-  "complete_works": 3,
+  "complete_works": 6,
   "complete_scopes": 0,
-  "work_count": 3,
-  "passage_count": 331,
+  "work_count": 6,
+  "passage_count": 617,
   "traditions": {
     "lutheran": "루터파",
     "reformed": "개혁파",
@@ -33,14 +33,14 @@
       "source_language": "en",
       "html_path": "works/wsc/index.html",
       "json_path": "data/works/wsc.json",
-      "fixed_html_path": "releases/public-0.1/works/wsc/index.html",
+      "fixed_html_path": "releases/public-0.2/works/wsc/index.html",
       "aliases": [
         "소요리문답",
         "Westminster Shorter Catechism",
         "Shorter Catechism"
       ],
       "passage_count": 108,
-      "json_sha256": "987f3c00245a3a0078211c4e42e4fa0ba0f83fdc9b172d96093c90c1c67ad190"
+      "json_sha256": "42bc3f7917a485f697f58bd253900e9aef950b3087251cbf121b0dfa5fcab387"
     },
     {
       "id": "hc",
@@ -59,14 +59,14 @@
       "source_language": "de",
       "html_path": "works/hc/index.html",
       "json_path": "data/works/hc.json",
-      "fixed_html_path": "releases/public-0.1/works/hc/index.html",
+      "fixed_html_path": "releases/public-0.2/works/hc/index.html",
       "aliases": [
         "하이델베르크 요리문답",
         "Heidelberger Katechismus",
         "Heidelberg Catechism"
       ],
       "passage_count": 129,
-      "json_sha256": "423879d894aa9135bd5d33207034f4af1672b6cb8f6cdff5d133879f33f88d54"
+      "json_sha256": "d968377e0987372465f07753a18ea51721cad23f88966fc341d70d82211011f8"
     },
     {
       "id": "cd",
@@ -85,7 +85,7 @@
       "source_language": "lat",
       "html_path": "works/cd/index.html",
       "json_path": "data/works/cd.json",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html",
       "aliases": [
         "도르트 신조",
         "도르트 교회법",
@@ -94,14 +94,94 @@
         "Iudicium Synodi Nationalis"
       ],
       "passage_count": 94,
-      "json_sha256": "dd4d99db89b75e00d28336dcebb073e6655d121776b68108db8774aaae039d53"
+      "json_sha256": "9f0a1ff549e659b7f09f359c12067b47953f5122fded5a81e03ad3a775a3265f"
+    },
+    {
+      "id": "ca",
+      "title": "아우크스부르크 신앙고백",
+      "display_title": "아우크스부르크 신앙고백",
+      "original_title": "Confessio fidei exhibita invictiss. Imp. Carolo V. Caesari Augusto, in Comiciis Augustae, anno M. D. XXX.",
+      "issuer": "작센 선제후 등 독일 루터파 제후와 도시들",
+      "year": 1530,
+      "tradition": "lutheran",
+      "language": "lat",
+      "abbreviation": "CA",
+      "reference_scheme": "article",
+      "expected_units": 99,
+      "coverage": "complete",
+      "scope": "서문, 제1부 신앙 조항 21개와 맺음말, 제2부 머리말과 폐습 조항 7개, 결론",
+      "source_language": "lat",
+      "html_path": "works/ca/index.html",
+      "json_path": "data/works/ca.json",
+      "fixed_html_path": "releases/public-0.2/works/ca/index.html",
+      "aliases": [
+        "아우구스타나",
+        "Confessio Augustana",
+        "Augsburg Confession"
+      ],
+      "passage_count": 99,
+      "json_sha256": "acd9a5ffbfc8619ce313145dba6d518f35e53ab61f5d08a3a5e1e71a0a131fdc"
+    },
+    {
+      "id": "cb",
+      "title": "벨직 신앙고백",
+      "display_title": "벨직 신앙고백",
+      "original_title": "La Confession de Foi des églises réformées wallonnes et flamandes.",
+      "issuer": "귀도 드 브레",
+      "year": 1561,
+      "tradition": "reformed",
+      "language": "fr",
+      "abbreviation": "CB",
+      "reference_scheme": "article",
+      "expected_units": 38,
+      "coverage": "complete",
+      "scope": "37조 전체",
+      "source_language": "fr",
+      "html_path": "works/cb/index.html",
+      "json_path": "data/works/cb.json",
+      "fixed_html_path": "releases/public-0.2/works/cb/index.html",
+      "aliases": [
+        "벨기에 신앙고백",
+        "Confessio Belgica",
+        "Belgic Confession",
+        "Confession de Foi des Pays-Bas"
+      ],
+      "passage_count": 38,
+      "json_sha256": "22361df0be98379c8c65e1bfd015d3fe7a0e5008fbb70225f8f1a809a99251bc"
+    },
+    {
+      "id": "chp",
+      "title": "제2스위스 신앙고백",
+      "display_title": "제2스위스 신앙고백",
+      "original_title": "Confessio et expositio simplex orthodoxae fidei, & dogmatum Catholicorum syncerae religionis Christianae",
+      "issuer": "하인리히 불링거",
+      "year": 1566,
+      "tradition": "reformed",
+      "language": "lat",
+      "abbreviation": "CHP",
+      "reference_scheme": "chapter_section",
+      "expected_units": 149,
+      "coverage": "complete",
+      "scope": "머리말, 신앙고백 30장, 맺음 기도",
+      "source_language": "lat",
+      "html_path": "works/chp/index.html",
+      "json_path": "data/works/chp.json",
+      "fixed_html_path": "releases/public-0.2/works/chp/index.html",
+      "aliases": [
+        "제2 스위스 신앙고백",
+        "후기 스위스 신앙고백",
+        "Confessio Helvetica Posterior",
+        "Second Helvetic Confession"
+      ],
+      "passage_count": 149,
+      "json_sha256": "255a028f46fe70d89a8036462ea0438dc673dbcf5408837b8f840644bea8f31e"
     }
   ],
   "passage_index": {
     "schema_version": "confessions-passages-compact-1",
     "path": "data/passages.jsonl",
     "scope": "main_works",
-    "passage_count": 331,
+    "passage_count": 617,
     "fields": [
       "work_id",
       "work_json_path",
@@ -124,12 +204,12 @@
     ],
     "detail_source": "work_json_path",
     "detail_key": "work_passage_id",
-    "sha256": "e1a0f19306c38d320658cdff3aab419e34b50fe1f2d1485a8849668e85b55a8d"
+    "sha256": "0aa5f9ce8886f87620fc55bcb02f473270d0b7a4f03b238f247e6527c15146d9"
   },
   "search_index": {
     "schema_version": "confessions-search-1",
     "path": "data/search.json",
-    "sha256": "5c4e2211a92dca50bc78f6b88012a639b8af858bcbca1d2596961257a0570883"
+    "sha256": "3b8860d4212db856740848b1070d175de09e8d8b8e01ac1ffab027db0938dfbb"
   },
   "base_url": "https://confessions.missionalbible.org/"
 }

@@ -22,7 +22,7 @@
   "label": "전문",
   "kind": "work",
   "summary": "1619년 도르트 총회가 항론파와의 논쟁에서 다룬 다섯 교리 조항(예정, 그리스도의 죽음, 사람의 부패와 회심, 성도의 견인. 제3·4교리는 한데 다룬다)에 대해 정통 교리를 조항으로 밝히고 그에 맞서는 오류를 배격한 라틴어 결정문이다.",
-  "base_edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
+  "base_edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
   "other_official_forms": [
     {
       "label": "1619년 네덜란드어 공식 번역",
@@ -40,14 +40,14 @@
   "language_label": "라틴어",
   "coverage_label": "전문",
   "coverage": "complete",
-  "release_id": "public-0.1",
+  "release_id": "public-0.2",
   "source_language": "lat",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/cd/index.html",
   "json_path": "data/works/cd.json",
-  "fixed_html_path": "releases/public-0.1/works/cd/index.html",
+  "fixed_html_path": "releases/public-0.2/works/cd/index.html",
   "source_profile": "cd-acta1620-djvu-1",
   "base_witness": {
     "id": "acta1620",
@@ -932,11 +932,11 @@
       ],
       "notes": [
         "\"verſ. 23.\"은 장 없이 절만 찍은 참조다. 바로 앞의 롬 3:19와 같은 장이므로 롬 3:23을 가리킨다.",
-        "rei facti의 reus는 \"죄인\"보다 \"(형벌을) 받아 마땅한, 책임을 진\"이라는 법률 용어다. 그래서 \"저주와 영원한 죽음을 받아 마땅한 자가 되었다\"로 옮겼다."
+        "rei facti의 reus는 \"죄인\"보다 \"(형벌을) 받아 마땅한, 책임을 진\"이라는 법률 용어다."
       ],
       "work_passage_id": "cd:I.1",
       "html_path": "works/cd/index.html#p-I-1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-1",
       "alignment_revision": "sha256:8ea130b61434036022bfe8c5a11531e2ddb9cc03cf73c793b30289c381e2e9d9",
       "review_state": {
         "human_reviewed": false,
@@ -959,10 +959,10 @@
         "work": "도르트 신경",
         "reference": "I.1",
         "display_reference": "CD I.1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:0f03a0174e5da75099fdad48e54d183e339f8d9ae340ab6a7fb8650802d6de0e",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-1"
       }
     },
     {
@@ -1065,7 +1065,7 @@
       "notes": [],
       "work_passage_id": "cd:I.2",
       "html_path": "works/cd/index.html#p-I-2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-2",
       "alignment_revision": "sha256:3c8fb341fa2f54134f2d51352c477a16b0f492d0729fe6bda8653bfe070a1e10",
       "review_state": {
         "human_reviewed": false,
@@ -1088,10 +1088,10 @@
         "work": "도르트 신경",
         "reference": "I.2",
         "display_reference": "CD I.2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:5b21295a82fb18512c97b22ffb86325fcc7ffa74417a09a1067a057b3f0a412a",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-2"
       }
     },
     {
@@ -1251,7 +1251,7 @@
       "notes": [],
       "work_passage_id": "cd:I.3",
       "html_path": "works/cd/index.html#p-I-3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-3",
       "alignment_revision": "sha256:581e40352f5696bd78d6261d9b12deba10bf8e9c0d561cded5f80ec7212c28fa",
       "review_state": {
         "human_reviewed": false,
@@ -1274,10 +1274,10 @@
         "work": "도르트 신경",
         "reference": "I.3",
         "display_reference": "CD I.3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:ae8c621a26d1f0ebc71588d8865e68c0b36183ebf3d303b3136c9e776a2fcff0",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-3"
       }
     },
     {
@@ -1406,7 +1406,7 @@
       "notes": [],
       "work_passage_id": "cd:I.4",
       "html_path": "works/cd/index.html#p-I-4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-4",
       "alignment_revision": "sha256:795eaefdbe161fdaee19a83838cada4b72aefc1be53c19d1cd95798a4bb60d4c",
       "review_state": {
         "human_reviewed": false,
@@ -1429,10 +1429,10 @@
         "work": "도르트 신경",
         "reference": "I.4",
         "display_reference": "CD I.4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:4101621267b3f162dab119c371875b5da5e54246411dcd354770106cf9774a45",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-4"
       }
     },
     {
@@ -1566,7 +1566,7 @@
       "notes": [],
       "work_passage_id": "cd:I.5",
       "html_path": "works/cd/index.html#p-I-5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-5",
       "alignment_revision": "sha256:7d1845cf5b75abf5491ab852b3b657710c9a4d63484b5200737a1ad859710fe7",
       "review_state": {
         "human_reviewed": false,
@@ -1589,10 +1589,10 @@
         "work": "도르트 신경",
         "reference": "I.5",
         "display_reference": "CD I.5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:ebda35eabf2da8838fa6ad03f8a7cd8928ab923a689f5bfe84713480d3301b9d",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-5"
       }
     },
     {
@@ -1848,11 +1848,11 @@
       ],
       "notes": [
         "discretio는 오늘의 \"분별력\"이 아니라, 똑같이 멸망에 빠진 사람들 가운데서 하나님께서 어떤 이들을 가려내신 \"구별\"이라는 뜻이다. 총회는 곧이어 이 구별이 선택과 유기의 작정이라고 풀어 말한다.",
-        "Reprobatio는 한국 교회에서 오래 써 온 대로 \"유기\"(遺棄, 버려둠)로 옮겼다. 그 뜻은 제15조가 설명한다. 하나님께서 어떤 사람들을 선택에서 지나치시고 그들이 스스로 빠진 비참 가운데 버려두기로 작정하신 것이다."
+        "Reprobatio는 한국 교회에서 오래 \"유기\"(遺棄, 버려둠)라고 불러 왔다. 그 뜻은 제15조가 설명한다. 하나님께서 어떤 사람들을 선택에서 지나치시고 그들이 스스로 빠진 비참 가운데 버려두기로 작정하신 것이다."
       ],
       "work_passage_id": "cd:I.6",
       "html_path": "works/cd/index.html#p-I-6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-6",
       "alignment_revision": "sha256:d77f88361880f5a79bea257277424bd154cf419958b6f59b572398613f1cf340",
       "review_state": {
         "human_reviewed": false,
@@ -1875,10 +1875,10 @@
         "work": "도르트 신경",
         "reference": "I.6",
         "display_reference": "CD I.6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:4ccea192781b1c7d9a8209953523c0875a4413e9846fc30c4a0e18e600484264",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-6"
       }
     },
     {
@@ -2409,13 +2409,13 @@
         }
       ],
       "notes": [
-        "Electio는 \"선택\", 동사 eligere는 \"택하다\"로 옮겼다. 택함을 받은 사람들(Electi)은 하이델베르크 교리문답, 웨스트민스터 소교리문답과 같이 \"택함받은 자들\"이다.",
-        "beneplacitum은 웨스트민스터 소교리문답의 good pleasure(기뻐하시는 뜻)와 같은 개념이다. 이 신경에는 voluntatis suae beneplacitum(자기 뜻의 기뻐하심)처럼 소유격과 함께 쓰는 곳이 많아 명사형 \"기뻐하심\"으로 옮겼다.",
+        "Electio는 \"선택\", 동사 eligere는 \"택하다\"다. 택함을 받은 사람들(Electi)은 하이델베르크 교리문답, 웨스트민스터 소교리문답과 같이 \"택함받은 자들\"이다.",
+        "beneplacitum(기뻐하심)은 웨스트민스터 소교리문답의 good pleasure(기뻐하시는 뜻)와 같은 개념이다. 이 신경에는 voluntatis suae beneplacitum(자기 뜻의 기뻐하심)처럼 소유격과 함께 쓰는 곳이 많다.",
         "certa multitudo는 \"많은 무리\"가 아니라 수가 정해진 무리라는 뜻이다. 제11조는 택함받은 자들의 수가 줄어들 수 없다고 말한다."
       ],
       "work_passage_id": "cd:I.7",
       "html_path": "works/cd/index.html#p-I-7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-7",
       "alignment_revision": "sha256:24b8742ea502b855548f02d12a2b806c7a5883643e74727954c71910879e42ae",
       "review_state": {
         "human_reviewed": false,
@@ -2438,10 +2438,10 @@
         "work": "도르트 신경",
         "reference": "I.7",
         "display_reference": "CD I.7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:403c19a8fb0ce87a3266be068afb2784bacd8fd9026da895b42f0d25f39b4876",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-7"
       }
     },
     {
@@ -2590,7 +2590,7 @@
       ],
       "work_passage_id": "cd:I.8",
       "html_path": "works/cd/index.html#p-I-8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-8",
       "alignment_revision": "sha256:0f2f0baced8a8432334061e39b89768bde81a3a27e0b322f3bc4a32842e0343f",
       "review_state": {
         "human_reviewed": false,
@@ -2613,10 +2613,10 @@
         "work": "도르트 신경",
         "reference": "I.8",
         "display_reference": "CD I.8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:873f483f2b2181dce9ed8dcdc37974d3b4aca104b790dfca36841c84002cf066",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-8"
       }
     },
     {
@@ -2818,7 +2818,7 @@
       ],
       "work_passage_id": "cd:I.9",
       "html_path": "works/cd/index.html#p-I-9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-9",
       "alignment_revision": "sha256:6e19b4aa5646ac2d4fb9705812e19dcf8977634d51c6249531706a9cb88a3dda",
       "review_state": {
         "human_reviewed": false,
@@ -2841,10 +2841,10 @@
         "work": "도르트 신경",
         "reference": "I.9",
         "display_reference": "CD I.9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:6a48e305c68a8a3633edb1a61b6645207a50183ffe963c6313e8d92b48e79f83",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-9"
       }
     },
     {
@@ -3046,7 +3046,7 @@
       ],
       "work_passage_id": "cd:I.10",
       "html_path": "works/cd/index.html#p-I-10",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-10",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-10",
       "alignment_revision": "sha256:9d0302815231f746e783cf1b3aec6508971d97e46a8b3e0f3960a7b1d4a8d181",
       "review_state": {
         "human_reviewed": false,
@@ -3069,10 +3069,10 @@
         "work": "도르트 신경",
         "reference": "I.10",
         "display_reference": "CD I.10",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:00478df88712b3fdd38ab43a2a619f94224a611675adde1fbc8717d98847cbfa",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-10"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-10"
       }
     },
     {
@@ -3162,7 +3162,7 @@
       "notes": [],
       "work_passage_id": "cd:I.11",
       "html_path": "works/cd/index.html#p-I-11",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-11",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-11",
       "alignment_revision": "sha256:669b0c89a63c6fad529c958c8648ad6f2cbc9c1acec5f2267163a29713b2bb4d",
       "review_state": {
         "human_reviewed": false,
@@ -3185,10 +3185,10 @@
         "work": "도르트 신경",
         "reference": "I.11",
         "display_reference": "CD I.11",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:5f447f3ffd5c51134edf0c63b5f7e334f1a4fc641933fc834852dc4f7dfced3e",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-11"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-11"
       }
     },
     {
@@ -3357,7 +3357,7 @@
       "notes": [],
       "work_passage_id": "cd:I.12",
       "html_path": "works/cd/index.html#p-I-12",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-12",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-12",
       "alignment_revision": "sha256:449a71dcc3ffe1cac25e0deee6ec5e5da1433c9625a8fdb739bd44d1b8f84f68",
       "review_state": {
         "human_reviewed": false,
@@ -3380,10 +3380,10 @@
         "work": "도르트 신경",
         "reference": "I.12",
         "display_reference": "CD I.12",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:d76784e2f48eeb70f57abc0329bb1a8fa5f2c48122e0f02d7a2e4d8fd451ec65",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-12"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-12"
       }
     },
     {
@@ -3581,11 +3581,11 @@
         }
       ],
       "notes": [
-        "sensus Electionis는 감각 기관의 느낌이 아니라, 자기가 택함받았음을 마음으로 알아차리고 체험하는 것을 말한다. \"선택에 대한 의식\"으로 옮겼고, 제1교리 오류 배격 7에서도 같은 말을 쓴다."
+        "sensus Electionis(선택에 대한 의식)는 감각 기관의 느낌이 아니라, 자기가 택함받았음을 마음으로 알아차리고 체험하는 것을 말한다. 제1교리 오류 배격 7에서도 같은 말을 쓴다."
       ],
       "work_passage_id": "cd:I.13",
       "html_path": "works/cd/index.html#p-I-13",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-13",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-13",
       "alignment_revision": "sha256:3dce008b0649c8d4446004e0f7714e75b13c39c3270c5461597ad87d1963e394",
       "review_state": {
         "human_reviewed": false,
@@ -3608,10 +3608,10 @@
         "work": "도르트 신경",
         "reference": "I.13",
         "display_reference": "CD I.13",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7a917f350eb6de8261b74808ae6c374794014684298e1650c80f196da1ee32ee",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-13"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-13"
       }
     },
     {
@@ -3811,7 +3811,7 @@
       "notes": [],
       "work_passage_id": "cd:I.14",
       "html_path": "works/cd/index.html#p-I-14",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-14",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-14",
       "alignment_revision": "sha256:ca2f272beaec66648b91a36745f5cc8aff55e70f54087945f5c6a4e8da60ecd5",
       "review_state": {
         "human_reviewed": false,
@@ -3834,10 +3834,10 @@
         "work": "도르트 신경",
         "reference": "I.14",
         "display_reference": "CD I.14",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:08ba04047c66e05c41e9dc72212e0b6f7c56855a8a3d32994b8b626d0cb0885b",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-14"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-14"
       }
     },
     {
@@ -4137,11 +4137,11 @@
       ],
       "notes": [
         "praeteriti(지나쳐진 자들)는 하나님께서 어떤 사람들을 선택하실 때 그냥 지나가셨다는 뜻이다. 신학에서는 이것을 흔히 \"간과\"(praeteritio)라고 부른다.",
-        "peccati autor는 \"죄를 일으킨 장본인\"이라는 뜻이다. 한국 신학계의 관용을 따라 \"죄의 조성자\"로 옮겼다."
+        "peccati autor는 \"죄를 일으킨 장본인\"이라는 뜻으로, 한국 신학계에서는 흔히 \"죄의 조성자\"라고 한다."
       ],
       "work_passage_id": "cd:I.15",
       "html_path": "works/cd/index.html#p-I-15",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-15",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-15",
       "alignment_revision": "sha256:23f504a4df8e8745f11939f9f6aa7665abce9a9f300940c6a4a08c9d8a4d43db",
       "review_state": {
         "human_reviewed": false,
@@ -4164,10 +4164,10 @@
         "work": "도르트 신경",
         "reference": "I.15",
         "display_reference": "CD I.15",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b1d7d41803db9b5e33aa7eba16c9ec62a5e1f381f1ca6ef0681dd50112b04993",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-15"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-15"
       }
     },
     {
@@ -4524,11 +4524,11 @@
       ],
       "notes": [
         "\"연기 나는 심지\"와 \"상한 갈대\"는 사 42:3과 마 12:20의 말씀이다. 인쇄본은 이 대목에 성경 참조를 찍지 않았다.",
-        "efficaciter sentiunt는 이것들을 자기 안에서 실제로 힘 있게 경험하지 못한다는 뜻이다. 그래서 \"힘 있게 느끼지 못하지만\"으로 옮겼다."
+        "efficaciter sentiunt는 이것들을 자기 안에서 실제로 힘 있게 경험하지 못한다는 뜻이다."
       ],
       "work_passage_id": "cd:I.16",
       "html_path": "works/cd/index.html#p-I-16",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-16",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-16",
       "alignment_revision": "sha256:d1fefc0355a7022e8b3ae4ec165c20808af0a33bb7358c8ff19be2a7930446ad",
       "review_state": {
         "human_reviewed": false,
@@ -4551,10 +4551,10 @@
         "work": "도르트 신경",
         "reference": "I.16",
         "display_reference": "CD I.16",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:d9066d108c6d645715bdf1d33ac819634264841296bf4538118a7cfede0756c5",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-16"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-16"
       }
     },
     {
@@ -4686,11 +4686,11 @@
         }
       ],
       "notes": [
-        "in infantia의 infantia는 라틴어에서 말을 배우기 전후의 어린 시기를 가리킨다. 그래서 \"어린 나이에\"로 옮겼다."
+        "in infantia의 infantia는 라틴어에서 말을 배우기 전후의 어린 시기를 가리킨다."
       ],
       "work_passage_id": "cd:I.17",
       "html_path": "works/cd/index.html#p-I-17",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-17",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-17",
       "alignment_revision": "sha256:cf18961598d48224b1d3e1dd93f619d1530f4c36ba2eca47e5c20625dc8aedb3",
       "review_state": {
         "human_reviewed": false,
@@ -4713,10 +4713,10 @@
         "work": "도르트 신경",
         "reference": "I.17",
         "display_reference": "CD I.17",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:72c8dcdcbf043966980b99bf60e8bb856afbadd40ccd223dc3f33030a2aca116",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-17"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-17"
       }
     },
     {
@@ -4990,7 +4990,7 @@
       "notes": [],
       "work_passage_id": "cd:I.18",
       "html_path": "works/cd/index.html#p-I-18",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-18",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-18",
       "alignment_revision": "sha256:f973cd659fef12ed57a0817a8af91d5a05ff536c125a42f5f1f523fa4b0811c5",
       "review_state": {
         "human_reviewed": false,
@@ -5013,10 +5013,10 @@
         "work": "도르트 신경",
         "reference": "I.18",
         "display_reference": "CD I.18",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:8ebf2379df959297946a24fcc3ca483ec1e8e162d812a5b1e998c0d4a0d90c6a",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-18"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-18"
       }
     },
     {
@@ -5328,12 +5328,12 @@
         }
       ],
       "notes": [
-        "각 교리의 오류 배격은 도입 문장 하나(\"…우리 총회는 … 오류들을 배격한다\", 라틴어 errores eorum)에 관계절 \"Qui docent\"가 줄줄이 걸리는 짜임이다. 번역은 도입 문장을 \"…정통 교리를 설명하였으므로, 우리 총회는 이제 오류들을 배격한다\"로 옮기고, 대목마다 \"다음과 같이 가르치는 자들의 오류를 배격한다\"로 시작하며, 오류의 내용은 \"~라는 것이다\"로 끝내어 총회의 가르침과 구별했다.",
-        "perseverantia는 \"견인\"(堅忍)으로 옮겼다. 믿음 안에서 끝까지 굳게 견디는 것을 말하며, 웨스트민스터 소교리문답의 perseverance(끝까지 견딤(견인))와 같은 말이다. 동사 perseverare는 \"끝까지 견디다\"로 옮겼다."
+        "각 교리의 오류 배격은 도입 문장 하나(\"…우리 총회는 … 오류들을 배격한다\", 라틴어 errores eorum)에 관계절 \"Qui docent\"가 줄줄이 걸리는 짜임이다. 한국어에서는 대목마다 \"다음과 같이 가르치는 자들의 오류를 배격한다\"로 시작하고, 오류의 내용은 \"~라는 것이다\"로 끝나 총회의 가르침과 구별된다.",
+        "perseverantia(견인, 堅忍)는 믿음 안에서 끝까지 굳게 견디는 것을 말하며, 웨스트민스터 소교리문답의 perseverance(끝까지 견딤(견인))와 같은 말이다. 동사 perseverare는 \"끝까지 견디다\"다."
       ],
       "work_passage_id": "cd:I.R1",
       "html_path": "works/cd/index.html#p-I-R1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R1",
       "alignment_revision": "sha256:295dd50093a0884937461759ec198db08ef44a57af214330db1a558d40ac6c3b",
       "review_state": {
         "human_reviewed": false,
@@ -5356,10 +5356,10 @@
         "work": "도르트 신경",
         "reference": "I.R1",
         "display_reference": "CD I.R1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:038eb3b8981c12af1c7150b6834fafe2abbe2e7d71e27112370b8a60f8158287",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R1"
       }
     },
     {
@@ -5627,11 +5627,11 @@
         }
       ],
       "notes": [
-        "peremptorius는 원래 법정 용어로 \"최종적이고 결정적인\"이라는 뜻이다. 반대자들은 취소될 수 있는 조건적 선택과 끝까지 견딘 사람에 대한 최종 선택을 나누었다. 번역은 \"확정적인\"으로 옮겼다."
+        "peremptorius(확정적인)는 원래 법정 용어로 \"최종적이고 결정적인\"이라는 뜻이다. 반대자들은 취소될 수 있는 조건적 선택과 끝까지 견딘 사람에 대한 최종 선택을 나누었다."
       ],
       "work_passage_id": "cd:I.R2",
       "html_path": "works/cd/index.html#p-I-R2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R2",
       "alignment_revision": "sha256:77cb432a7ab6ede66ae8b30c9df107a2ea3d8324b82fc82dd6695c1054c7fed9",
       "review_state": {
         "human_reviewed": false,
@@ -5654,10 +5654,10 @@
         "work": "도르트 신경",
         "reference": "I.R2",
         "display_reference": "CD I.R2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:f58a2c337906b753754d427180fa00a5e9c75588bd09741ae31908f1312d5bcb",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R2"
       }
     },
     {
@@ -5984,7 +5984,7 @@
       "notes": [],
       "work_passage_id": "cd:I.R3",
       "html_path": "works/cd/index.html#p-I-R3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R3",
       "alignment_revision": "sha256:f1d90c38d12e67d266a32ae0e376780989b32f226291dd599df0515366843d2f",
       "review_state": {
         "human_reviewed": false,
@@ -6007,10 +6007,10 @@
         "work": "도르트 신경",
         "reference": "I.R3",
         "display_reference": "CD I.R3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b219ecaffa7a0cc9580360d227e0740e114668b52f7d6d01ead4ee58ce8028ed",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R3"
       }
     },
     {
@@ -6349,11 +6349,11 @@
       ],
       "notes": [
         "Pelagium sapiunt는 \"펠라기우스의 맛이 난다\", 곧 펠라기우스의 생각을 닮았다는 뜻이다. 펠라기우스는 사람이 하나님의 은혜 없이도 본성의 힘으로 선을 행할 수 있다고 가르친 5세기의 수도사다.",
-        "parvus(작은)는 키나 나이가 아니라 자기를 낮추는 마음을 가리키는 말로 보인다(마 18:4 참조). 인쇄된 대로 \"작고\"로 옮겼다."
+        "parvus(작은)는 키나 나이가 아니라 자기를 낮추는 마음을 가리키는 말로 보인다(마 18:4 참조)."
       ],
       "work_passage_id": "cd:I.R4",
       "html_path": "works/cd/index.html#p-I-R4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R4",
       "alignment_revision": "sha256:66012c8ac983d7a06a7b49edece30c298180f8b21e1f75c5fec550addee8ce84",
       "review_state": {
         "human_reviewed": false,
@@ -6376,10 +6376,10 @@
         "work": "도르트 신경",
         "reference": "I.R4",
         "display_reference": "CD I.R4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7ee3054859e16ca286355045df2feae0ba0027b60fd5d7e8018fc966aa1f57cc",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R4"
       }
     },
     {
@@ -6771,12 +6771,12 @@
       ],
       "notes": [
         "causae sine quibus non은 스콜라 철학 용어 causa sine qua non을 복수로 쓴 것이다. 결과를 직접 낳는 원인은 아니어도 그것이 없으면 결과가 생기지 않는 필수 조건을 말한다.",
-        "\"Et hanc esse … dignitatem\"의 hanc(이것)는 뒤의 dignitatem에 끌려 여성형이 된 것으로 보아, 미리 보신 믿음, 회개, 거룩함, 경건과 그 최종 견인 전체를 가리키는 \"이것이\"로 옮겼다. 바로 앞의 최종 견인(perseverantia)만 가리킨다고 읽을 수도 있다.",
-        "행 13:48의 Credebant는 제10조와 오류 배격 1의 Crediderunt와 시제가 다르지만 뜻이 같아 같은 말로 옮겼다."
+        "\"Et hanc esse … dignitatem\"의 hanc(이것)는 뒤의 dignitatem에 끌려 여성형이 된 것으로 보면 미리 보신 믿음, 회개, 거룩함, 경건과 그 최종 견인 전체를 가리킨다. 바로 앞의 최종 견인(perseverantia)만 가리킨다고 읽을 수도 있다.",
+        "행 13:48의 Credebant는 제10조와 오류 배격 1의 Crediderunt와 시제가 다르지만 뜻은 같다."
       ],
       "work_passage_id": "cd:I.R5",
       "html_path": "works/cd/index.html#p-I-R5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R5",
       "alignment_revision": "sha256:d7b0c4af9c827edff65aabe102db737df3800342e70d73dd23a15ed5026c0695",
       "review_state": {
         "human_reviewed": false,
@@ -6799,10 +6799,10 @@
         "work": "도르트 신경",
         "reference": "I.R5",
         "display_reference": "CD I.R5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:f0411e828f72b3df0d6f9c5f2a9a799248901316864c4210b0813da8a6d4c7ec",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R5"
       }
     },
     {
@@ -7006,7 +7006,7 @@
       "notes": [],
       "work_passage_id": "cd:I.R6",
       "html_path": "works/cd/index.html#p-I-R6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R6",
       "alignment_revision": "sha256:3e7bf52e25c0da416620fef226233f1347b48912419d3e078e87df0f7cd4f708",
       "review_state": {
         "human_reviewed": false,
@@ -7029,10 +7029,10 @@
         "work": "도르트 신경",
         "reference": "I.R6",
         "display_reference": "CD I.R6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:c166b1e069c118727d8d074f6aeebbf13fc500e01e2fc6fd5815c9c6f20b7a57",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R6"
       }
     },
     {
@@ -7280,7 +7280,7 @@
       "notes": [],
       "work_passage_id": "cd:I.R7",
       "html_path": "works/cd/index.html#p-I-R7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R7",
       "alignment_revision": "sha256:008c4f9cdeb521322a1bedab412ad4d3a6db9af233ddbaa22022e14723c441fa",
       "review_state": {
         "human_reviewed": false,
@@ -7303,10 +7303,10 @@
         "work": "도르트 신경",
         "reference": "I.R7",
         "display_reference": "CD I.R7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7ee2030f5306298895bd96fc107bd24c1c7f10e860a8e68fd74d4a5dae258dc6",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R7"
       }
     },
     {
@@ -7532,7 +7532,7 @@
       "notes": [],
       "work_passage_id": "cd:I.R8",
       "html_path": "works/cd/index.html#p-I-R8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R8",
       "alignment_revision": "sha256:e005ab981a7a0d82e1de2a2f7dab104ce837d728aabd41ce4a59525ee639ae98",
       "review_state": {
         "human_reviewed": false,
@@ -7555,10 +7555,10 @@
         "work": "도르트 신경",
         "reference": "I.R8",
         "display_reference": "CD I.R8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:476370928d207cd09f6522bc17ba3fe5a776a3bc376101b59e1086532b7a5be2",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R8"
       }
     },
     {
@@ -7817,12 +7817,12 @@
         }
       ],
       "notes": [
-        "Jehova는 하나님의 이름을 17세기 라틴어로 적은 것이라 \"여호와\"로 옮겼다.",
+        "Jehova(여호와)는 하나님의 이름을 17세기 라틴어로 적은 것이다.",
         "Tantum in majores tuos는 \"오직 네 조상들에게만\"이라는 뜻이다. 하나님께서 다른 민족이 아니라 이스라엘의 조상을 사랑하신 까닭이 오직 그분의 사랑에 있다는 말로 오류를 반박한다."
       ],
       "work_passage_id": "cd:I.R9",
       "html_path": "works/cd/index.html#p-I-R9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-I-R9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-I-R9",
       "alignment_revision": "sha256:3f0173180e8a4fa5e63a08fff02cbd8c286c51eac697e4f8d8615db05cb6e0c1",
       "review_state": {
         "human_reviewed": false,
@@ -7845,10 +7845,10 @@
         "work": "도르트 신경",
         "reference": "I.R9",
         "display_reference": "CD I.R9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7308895d0b1cbfccf5e009c11c9ca2b4e8ef00ff6237ccf3ea97545b813887a3",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-I-R9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-I-R9"
       }
     },
     {
@@ -7980,11 +7980,11 @@
         }
       ],
       "notes": [
-        "[prout se in verbo revelavit]는 하나님을 주어로 읽어 \"하나님께서 말씀에서 자신을 계시하신 대로\"로 옮겼다. 문법상 앞의 justitia(공의)를 주어로 읽어 \"그 공의가 말씀에서 자신을 계시한 대로\"로 옮길 수도 있다."
+        "[prout se in verbo revelavit]는 하나님을 주어로 읽으면 \"하나님께서 말씀에서 자신을 계시하신 대로\"이고, 문법상 앞의 justitia(공의)를 주어로 읽으면 \"그 공의가 말씀에서 자신을 계시한 대로\"다."
       ],
       "work_passage_id": "cd:II.1",
       "html_path": "works/cd/index.html#p-II-1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-1",
       "alignment_revision": "sha256:0d1164defe5e670689e63c215da28a1d5153a04f7a4335efec091a5b12a8c641",
       "review_state": {
         "human_reviewed": false,
@@ -8007,10 +8007,10 @@
         "work": "도르트 신경",
         "reference": "II.1",
         "display_reference": "CD II.1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:f7d349426e84dad26b870ad8bbda3a91da8b9045d9aaee93a39708fdb06ecadd",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-1"
       }
     },
     {
@@ -8120,12 +8120,12 @@
         }
       ],
       "notes": [
-        "satisfactio, satisfacere는 하이델베르크 교리문답의 gnugthuung, genůg thun과 같이 \"만족\", \"만족을 이루다\"로 옮겼다. 하나님의 공의가 요구하는 값이 다 치러진다는 뜻이며 \"배상\"이라고도 한다.",
+        "satisfactio, satisfacere(만족, 만족을 이루다)는 하이델베르크 교리문답의 gnugthuung, genůg thun과 같은 말이다. 하나님의 공의가 요구하는 값이 다 치러진다는 뜻이며 \"배상\"이라고도 한다.",
         "sponsor는 남의 빚을 대신 갚기로 책임지는 \"보증인\"이다. 히 7:22에 나오는 말이다."
       ],
       "work_passage_id": "cd:II.2",
       "html_path": "works/cd/index.html#p-II-2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-2",
       "alignment_revision": "sha256:b3b4b9a0ef607fa49464fc2ca84738854624e06710538901ff1d940655069fd9",
       "review_state": {
         "human_reviewed": false,
@@ -8148,10 +8148,10 @@
         "work": "도르트 신경",
         "reference": "II.2",
         "display_reference": "CD II.2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:42d08c4b366148cf734c1b256839747bf8ad7f900462bd0942d41a27cc1ab979",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-2"
       }
     },
     {
@@ -8243,7 +8243,7 @@
       ],
       "work_passage_id": "cd:II.3",
       "html_path": "works/cd/index.html#p-II-3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-3",
       "alignment_revision": "sha256:b0ca516a2800bb62d174ce5091a79ff247c1005aacb289d60d94e3f57d838155",
       "review_state": {
         "human_reviewed": false,
@@ -8266,10 +8266,10 @@
         "work": "도르트 신경",
         "reference": "II.3",
         "display_reference": "CD II.3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:0b68c492789fe31b6cee3ae11ef85605cb5c0ddfdbdae99e1483192aa9abd3fb",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-3"
       }
     },
     {
@@ -8449,11 +8449,11 @@
         }
       ],
       "notes": [
-        "quam(그것)은 단수라서 문법상 가까운 maledictio(저주)만 가리킬 수도 있다. 뜻으로는 진노와 저주를 함께 받는다고 보아 \"이 진노와 저주는\"으로 옮겼다."
+        "quam(그것)은 단수라서 문법상 가까운 maledictio(저주)만 가리킬 수도 있으나, 뜻으로는 진노와 저주를 함께 가리키는 것으로 읽힌다."
       ],
       "work_passage_id": "cd:II.4",
       "html_path": "works/cd/index.html#p-II-4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-4",
       "alignment_revision": "sha256:940a99fd3652f66d2d93edf64434f32572c4b7903727211d3e837461d56bb274",
       "review_state": {
         "human_reviewed": false,
@@ -8476,10 +8476,10 @@
         "work": "도르트 신경",
         "reference": "II.4",
         "display_reference": "CD II.4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:926932f9fb743ddb65ec2aaffa51db12b3c0149e2aeea58edf2d04f258415d41",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-4"
       }
     },
     {
@@ -8626,7 +8626,7 @@
       "notes": [],
       "work_passage_id": "cd:II.5",
       "html_path": "works/cd/index.html#p-II-5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-5",
       "alignment_revision": "sha256:fbc03a958ab9ecc45541438b843cf4618fc6576ff9ec80299d6aff27576e86fc",
       "review_state": {
         "human_reviewed": false,
@@ -8649,10 +8649,10 @@
         "work": "도르트 신경",
         "reference": "II.5",
         "display_reference": "CD II.5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:e95a62f7e8a00a60bae93f260af7b824dde08f0060089605b32c0b1dd8fb75d7",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-5"
       }
     },
     {
@@ -8755,7 +8755,7 @@
       "notes": [],
       "work_passage_id": "cd:II.6",
       "html_path": "works/cd/index.html#p-II-6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-6",
       "alignment_revision": "sha256:0eac731e0fdb7919c44b90cc81adeef931db5fe3e5300ecef5a5879e90f5dba1",
       "review_state": {
         "human_reviewed": false,
@@ -8778,10 +8778,10 @@
         "work": "도르트 신경",
         "reference": "II.6",
         "display_reference": "CD II.6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:988e670f38aca4bba6ffd92fb7108d40d35940ebb39c1c28251be08d28c8f94e",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-6"
       }
     },
     {
@@ -8871,7 +8871,7 @@
       "notes": [],
       "work_passage_id": "cd:II.7",
       "html_path": "works/cd/index.html#p-II-7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-7",
       "alignment_revision": "sha256:7f4d0910747da8faadf31f025927bf2621d3c5a9de6cf2ee77e53f6f9f1cc431",
       "review_state": {
         "human_reviewed": false,
@@ -8894,10 +8894,10 @@
         "work": "도르트 신경",
         "reference": "II.7",
         "display_reference": "CD II.7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b7e1e2fec918c57f0ec1a29b244d731e3e95c810bc9d521d14022de5a39c9404",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-7"
       }
     },
     {
@@ -9224,7 +9224,7 @@
       "notes": [],
       "work_passage_id": "cd:II.8",
       "html_path": "works/cd/index.html#p-II-8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-8",
       "alignment_revision": "sha256:442ba14785dc3a54d78e1be0fb9fe6c79e29fd9ff679c5fadbf5734d27d3b24d",
       "review_state": {
         "human_reviewed": false,
@@ -9247,10 +9247,10 @@
         "work": "도르트 신경",
         "reference": "II.8",
         "display_reference": "CD II.8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:8c41b3c41ade1abd5262b284fea2ad3802d77ef88a9348c69698e64aa7358949",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-8"
       }
     },
     {
@@ -9461,11 +9461,11 @@
         }
       ],
       "notes": [
-        "inferorum portae는 마 16:18의 \"음부의 문들\"이다. 이 번역은 inferi를 모두 \"음부\"로 옮겼다(제2교리 오류 배격 3)."
+        "inferorum portae는 마 16:18의 \"음부의 문들\"이다. 제2교리 오류 배격 3의 inferi도 \"음부\"다."
       ],
       "work_passage_id": "cd:II.9",
       "html_path": "works/cd/index.html#p-II-9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-9",
       "alignment_revision": "sha256:40b55af7e7eaf92d3667114bf0608516e2c538655c92dd3d26398c770b57ceac",
       "review_state": {
         "human_reviewed": false,
@@ -9488,10 +9488,10 @@
         "work": "도르트 신경",
         "reference": "II.9",
         "display_reference": "CD II.9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:bb1cc49f967a60bf30cb0392b9feb73aec4e45d6f4825bb07aab07b09fd0a8b6",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-9"
       }
     },
     {
@@ -9809,7 +9809,7 @@
       ],
       "work_passage_id": "cd:II.R1",
       "html_path": "works/cd/index.html#p-II-R1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R1",
       "alignment_revision": "sha256:8b66b91bde5362c04058c0b9f2109302188deb16185aa074059a7003fa13326b",
       "review_state": {
         "human_reviewed": false,
@@ -9832,10 +9832,10 @@
         "work": "도르트 신경",
         "reference": "II.R1",
         "display_reference": "CD II.R1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:f67d5db414c28fa361157c72cb1f858e2f0367ae6e3569320b0eef98a8d94b15",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R1"
       }
     },
     {
@@ -10002,11 +10002,11 @@
         }
       ],
       "notes": [
-        "Testamentum은 \"언약\"과 \"유언\"을 함께 뜻하는 말이다. 히 9:15-17은 이 두 뜻을 겹쳐 쓴다. 여기서는 사람이 죽어야 효력이 생기는 문서를 말하므로 \"유언\"으로 옮겼다."
+        "Testamentum은 \"언약\"과 \"유언\"을 함께 뜻하는 말이다. 히 9:15-17은 이 두 뜻을 겹쳐 쓴다. 여기서는 사람이 죽어야 효력이 생기는 문서, 곧 \"유언\"을 말한다."
       ],
       "work_passage_id": "cd:II.R2",
       "html_path": "works/cd/index.html#p-II-R2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R2",
       "alignment_revision": "sha256:d0c61adccf93dff5df67515d65b7702ae6d24a7c2b8340618e709caed5e773e1",
       "review_state": {
         "human_reviewed": false,
@@ -10029,10 +10029,10 @@
         "work": "도르트 신경",
         "reference": "II.R2",
         "display_reference": "CD II.R2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:3f1547bd994436160ede8685ec6e65c133f4de6023f978cb0cc3ea6c80bfba1d",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R2"
       }
     },
     {
@@ -10245,7 +10245,7 @@
       "notes": [],
       "work_passage_id": "cd:II.R3",
       "html_path": "works/cd/index.html#p-II-R3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R3",
       "alignment_revision": "sha256:76e7067779814c63b93dca7b22083531a1f6c61944642a92805eedee7c4b14ba",
       "review_state": {
         "human_reviewed": false,
@@ -10268,10 +10268,10 @@
         "work": "도르트 신경",
         "reference": "II.R3",
         "display_reference": "CD II.R3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:fe2e00c35208a8b69bbce0584cec20e45e20708d7103e52f05030d1439348bc6",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R3"
       }
     },
     {
@@ -10540,11 +10540,11 @@
       ],
       "notes": [
         "소키누스(Faustus Socinus, 1539-1604)는 그리스도의 신성과 형벌 대속을 부인한 이탈리아 출신 신학자다. 그를 따르는 무리를 소키누스파라고 부른다.",
-        "placamentum은 하나님의 진노를 누그러뜨리는 제물을 말한다. 롬 3:25의 이 말을 \"화목 제물\"로 옮겼다."
+        "placamentum은 하나님의 진노를 누그러뜨리는 제물을 말하며, 롬 3:25의 \"화목 제물\"이다."
       ],
       "work_passage_id": "cd:II.R4",
       "html_path": "works/cd/index.html#p-II-R4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R4",
       "alignment_revision": "sha256:1d837a2ed7002908002c86740e73a4f5776caf94ad4f07b8de97cc75b883cfc6",
       "review_state": {
         "human_reviewed": false,
@@ -10567,10 +10567,10 @@
         "work": "도르트 신경",
         "reference": "II.R4",
         "display_reference": "CD II.R4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:8e418fc8e62c11e77e837ce460c80244b63d07b6a5a118ffc974e372e929b35b",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R4"
       }
     },
     {
@@ -10710,7 +10710,7 @@
       ],
       "work_passage_id": "cd:II.R5",
       "html_path": "works/cd/index.html#p-II-R5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R5",
       "alignment_revision": "sha256:0b7b82faf7bd85efc6ff28e818fa2f1ebcbc22f7f54edbeac6dd053e02951f2a",
       "review_state": {
         "human_reviewed": false,
@@ -10733,10 +10733,10 @@
         "work": "도르트 신경",
         "reference": "II.R5",
         "display_reference": "CD II.R5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:775cdcaa1cfa8662cc25e69fd9c668e0c6329551539da46d44191629dea1e3c6",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R5"
       }
     },
     {
@@ -10969,7 +10969,7 @@
       ],
       "work_passage_id": "cd:II.R6",
       "html_path": "works/cd/index.html#p-II-R6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R6",
       "alignment_revision": "sha256:e2dc5a9c8d05571d5ed7a894a6d3f11168155f174d4715f131fb38b0daf9efdd",
       "review_state": {
         "human_reviewed": false,
@@ -10992,10 +10992,10 @@
         "work": "도르트 신경",
         "reference": "II.R6",
         "display_reference": "CD II.R6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:86884b58f955d860eebeaf8d47945e090a08bdef0d6386387aebfeb2a234a25f",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R6"
       }
     },
     {
@@ -11280,12 +11280,12 @@
         }
       ],
       "notes": [
-        "인쇄된 참조는 \"Romanorum 8. verſ. 33.\"이지만 인용은 34절 앞부분(\"누가 정죄하겠느냐? 죽으신 분은 그리스도이시다\")까지 이어진다. 참조는 인쇄된 대로 (롬 8:33)으로 두었다.",
+        "인쇄된 참조는 \"Romanorum 8. verſ. 33.\"이지만 인용은 34절 앞부분(\"누가 정죄하겠느냐? 죽으신 분은 그리스도이시다\")까지 이어진다. 본문의 참조 (롬 8:33)은 인쇄된 번호다.",
         "\"곧 그들을 위하여 죽으셨다\"(nimirum, pro illis)는 인용문 뒤에 총회가 덧붙인 풀이다."
       ],
       "work_passage_id": "cd:II.R7",
       "html_path": "works/cd/index.html#p-II-R7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-II-R7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-II-R7",
       "alignment_revision": "sha256:1cae4b4d8890e8e67cd8cc5c604e9dd399f8041c782c5c50a96926b0a81064ad",
       "review_state": {
         "human_reviewed": false,
@@ -11308,10 +11308,10 @@
         "work": "도르트 신경",
         "reference": "II.R7",
         "display_reference": "CD II.R7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:d0c1330aed007dd49c90ad98d5911e9418d012264275d8f6ebb6c0d27e1f40c7",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-II-R7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-II-R7"
       }
     },
     {
@@ -11522,12 +11522,12 @@
         }
       ],
       "notes": [
-        "mens(지성), voluntas(의지), affectus(감정)는 17세기 신학이 영혼의 능력을 나누던 말이다. 제3·4교리 전체에서 같은 말로 옮겼다.",
+        "mens(지성), voluntas(의지), affectus(감정)는 17세기 신학이 영혼의 능력을 나누던 말이다. 제3·4교리 전체에서 세 말의 번역어는 각각 같다.",
         "diaboli instinctus의 instinctus는 오늘의 \"본능\"이 아니라 \"부추김, 꾐\"이라는 뜻이다."
       ],
       "work_passage_id": "cd:III/IV.1",
       "html_path": "works/cd/index.html#p-III-IV-1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-1",
       "alignment_revision": "sha256:1860c31904a5485b400551562e087fe28b8a2c9693f2c0c0d6fa2a5138f8768a",
       "review_state": {
         "human_reviewed": false,
@@ -11550,10 +11550,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.1",
         "display_reference": "CD III/IV.1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7edb468af6b8af0bb0b031cd4f2f307cd7594db5c23ff13f123da84fc0174216",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-1"
       }
     },
     {
@@ -11680,7 +11680,7 @@
       ],
       "work_passage_id": "cd:III/IV.2",
       "html_path": "works/cd/index.html#p-III-IV-2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-2",
       "alignment_revision": "sha256:f29fb4907afc319a85c641de749c10b1bf057d16e355478d79a662d96a0f0e88",
       "review_state": {
         "human_reviewed": false,
@@ -11703,10 +11703,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.2",
         "display_reference": "CD III/IV.2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7f2196e2497013c81d3ab6e20bf9d0051bd9bbce4811616b86a7c92d9ffa76e6",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-2"
       }
     },
     {
@@ -11840,7 +11840,7 @@
       "notes": [],
       "work_passage_id": "cd:III/IV.3",
       "html_path": "works/cd/index.html#p-III-IV-3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-3",
       "alignment_revision": "sha256:50b70286582de5a85874d45d71a5219e62a971dbcfabc832425adae066e3a276",
       "review_state": {
         "human_reviewed": false,
@@ -11863,10 +11863,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.3",
         "display_reference": "CD III/IV.3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b301ab864c6aadc43f6a529c4ae145161d8e014143f2b46d8ea7b08c937cc4df",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-3"
       }
     },
     {
@@ -12095,7 +12095,7 @@
       ],
       "work_passage_id": "cd:III/IV.4",
       "html_path": "works/cd/index.html#p-III-IV-4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-4",
       "alignment_revision": "sha256:73b25dd275224a9c61d0b4cf0da97380ad954df95116af2c02eb0a5f26b59933",
       "review_state": {
         "human_reviewed": false,
@@ -12118,10 +12118,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.4",
         "display_reference": "CD III/IV.4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:8dff9dbf6ba5cb3063fa8b62d66c7a306df495b99264f028453520fde013cd68",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-4"
       }
     },
     {
@@ -12279,7 +12279,7 @@
       ],
       "work_passage_id": "cd:III/IV.5",
       "html_path": "works/cd/index.html#p-III-IV-5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-5",
       "alignment_revision": "sha256:25cd5c334e96bd9b87b2e46987a1074f55c1500e9432b00a0ef57ca5cf8bf135",
       "review_state": {
         "human_reviewed": false,
@@ -12302,10 +12302,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.5",
         "display_reference": "CD III/IV.5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:348c9bbc9688089a68af1deecf79ae6e9c6c91e21fff70c73536ed8983fa7344",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-5"
       }
     },
     {
@@ -12432,7 +12432,7 @@
       ],
       "work_passage_id": "cd:III/IV.6",
       "html_path": "works/cd/index.html#p-III-IV-6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-6",
       "alignment_revision": "sha256:dddf2dbfad93bb61177d41152650c1d2e847e2c361a71c255e4574de828f1f26",
       "review_state": {
         "human_reviewed": false,
@@ -12455,10 +12455,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.6",
         "display_reference": "CD III/IV.6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:2f6ad5104c484b9c896cea88848be557e9854e8c6a950f8a0c4e6e8497069bc5",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-6"
       }
     },
     {
@@ -12691,11 +12691,11 @@
         }
       ],
       "notes": [
-        "dispensatio는 하나님께서 구약과 신약에서 계시를 달리 베푸신 일을 가리킨다. 신학 용어로 \"경륜\"이라고도 하지만 뜻이 드러나도록 \"이렇게 달리 베푸시는 일\"로 풀었다."
+        "dispensatio(이렇게 달리 베푸시는 일)는 하나님께서 구약과 신약에서 계시를 달리 베푸신 일을 가리킨다. 신학 용어로 \"경륜\"이라고도 한다."
       ],
       "work_passage_id": "cd:III/IV.7",
       "html_path": "works/cd/index.html#p-III-IV-7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-7",
       "alignment_revision": "sha256:f259bad4d04762729e4ca625edc50d1e835d3f06dc3e8d63c46c2fc92a5f4ebd",
       "review_state": {
         "human_reviewed": false,
@@ -12718,10 +12718,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.7",
         "display_reference": "CD III/IV.7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:41d5b43acae46334172752c97912e742aaf0a444d50099367f92faffe99dac31",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-7"
       }
     },
     {
@@ -12835,7 +12835,7 @@
       ],
       "work_passage_id": "cd:III/IV.8",
       "html_path": "works/cd/index.html#p-III-IV-8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-8",
       "alignment_revision": "sha256:e1afa26be34e25128930085c53034873388287ec5adc91980a5059879b810b21",
       "review_state": {
         "human_reviewed": false,
@@ -12858,10 +12858,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.8",
         "display_reference": "CD III/IV.8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:5464325df67449fbd96da3ef9b81eae5c53fadefd405f53385c769f24cfd16cc",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-8"
       }
     },
     {
@@ -13090,7 +13090,7 @@
       ],
       "work_passage_id": "cd:III/IV.9",
       "html_path": "works/cd/index.html#p-III-IV-9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-9",
       "alignment_revision": "sha256:feb3fa64523aa31e134bfaabf01c45e2af701a59bd4d7a8ab274678d4c445f18",
       "review_state": {
         "human_reviewed": false,
@@ -13113,10 +13113,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.9",
         "display_reference": "CD III/IV.9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:87a0001c24447f5a26246d2579399f22d19cd869b204202ef32d8e7823e4e4c3",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-9"
       }
     },
     {
@@ -13362,11 +13362,11 @@
         }
       ],
       "notes": [
-        "virtutes는 여기서 덕목이 아니라 하나님의 \"뛰어나심, 훌륭한 일\"을 뜻한다(벧전 2:9). \"덕\"으로 옮겼다."
+        "virtutes(덕)는 여기서 덕목이 아니라 하나님의 \"뛰어나심, 훌륭한 일\"을 뜻한다(벧전 2:9)."
       ],
       "work_passage_id": "cd:III/IV.10",
       "html_path": "works/cd/index.html#p-III-IV-10",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-10",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-10",
       "alignment_revision": "sha256:91076861b5d9e85fc1e4f9d58e9fe6da0b76a4a94d0615287a61df6d4fd41694",
       "review_state": {
         "human_reviewed": false,
@@ -13389,10 +13389,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.10",
         "display_reference": "CD III/IV.10",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:a2cde0324fb9c1a1894c86b2eba6beab6a4eed466678b8da3785146230a0ce4e",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-10"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-10"
       }
     },
     {
@@ -13652,11 +13652,11 @@
       ],
       "notes": [
         "infundere(부어 넣다)는 스콜라 신학의 말이다. 하나님께서 새로운 성질을 의지 안에 직접 넣어 주신다는 뜻이다.",
-        "\"할례받지 않은 마음에 할례를 베푸시며\"는 신 30:6, 렘 4:4가 말하는 마음의 할례를 가리킨다. 라틴어에는 \"마음\"이 되풀이되지 않지만 앞의 cor(마음)를 받는 말이라 넣었다."
+        "\"할례받지 않은 마음에 할례를 베푸시며\"는 신 30:6, 렘 4:4가 말하는 마음의 할례를 가리킨다. 라틴어에는 \"마음\"이 되풀이되지 않으며, 이 \"마음\"은 앞의 cor(마음)를 받는다."
       ],
       "work_passage_id": "cd:III/IV.11",
       "html_path": "works/cd/index.html#p-III-IV-11",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-11",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-11",
       "alignment_revision": "sha256:84bf3548696b79b110a6aa70809d2a3715a878e6e5c9cea8b0fd10562f1e90e0",
       "review_state": {
         "human_reviewed": false,
@@ -13679,10 +13679,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.11",
         "display_reference": "CD III/IV.11",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:3e1f9c4091dabbe8b5af9b0fbb59242e36944ae386e5835c9e2568ed7da8f5ef",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-11"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-11"
       }
     },
     {
@@ -14038,12 +14038,12 @@
         }
       ],
       "notes": [
-        "인쇄본은 \"virtute fua\"로 찍었다. fua는 sua(그)의 ſ를 f로 잘못 찍은 것으로 보여 sua로 읽었다.",
+        "인쇄본은 \"virtute fua\"로 찍었다. fua는 sua(그)의 ſ를 f로 잘못 찍은 것으로 보인다.",
         "\"우리 없이 우리 안에서\"(sine nobis, in nobis)는 거듭남이 시작될 때 사람이 협력하지 않는다는 뜻이다. 거듭난 뒤의 의지는 스스로도 행동한다고 같은 조항 끝에서 말한다."
       ],
       "work_passage_id": "cd:III/IV.12",
       "html_path": "works/cd/index.html#p-III-IV-12",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-12",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-12",
       "alignment_revision": "sha256:6d45db77b82a4c7d73f681ffa98a4b70929dfe2cedd96e24e9d51a9c259f5901",
       "review_state": {
         "human_reviewed": false,
@@ -14066,10 +14066,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.12",
         "display_reference": "CD III/IV.12",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b92bca4d238c96f8cf2d15978b034b267e67985334d10bbdc42144c6f7121b13",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-12"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-12"
       }
     },
     {
@@ -14159,7 +14159,7 @@
       "notes": [],
       "work_passage_id": "cd:III/IV.13",
       "html_path": "works/cd/index.html#p-III-IV-13",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-13",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-13",
       "alignment_revision": "sha256:60f7c84905c81e20d8215c0121d6c98c3ca68ec3b03efec173ecd54ed2c5e044",
       "review_state": {
         "human_reviewed": false,
@@ -14182,10 +14182,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.13",
         "display_reference": "CD III/IV.13",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:ef3dca8f4eaade15c57f6579c958f19af4cf268b76dff2b4e0856821586ec9b8",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-13"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-13"
       }
     },
     {
@@ -14353,11 +14353,11 @@
       ],
       "notes": [
         "\"원하는 것과 행하는 것을 이루시는 분\"은 빌 2:13, \"모든 것을 모든 것 안에서 이루시는 분\"은 고전 12:6의 말이다. 인쇄본은 참조를 찍지 않았다.",
-        "arbitrium은 여기서 \"선택\"으로 옮겼다(제5교리 오류 배격 2의 voluntatis arbitrium = 의지의 선택). \"의지\"는 voluntas에 쓴다. 믿음을 사람의 선택에 맡겨 내놓으신다는 뜻이다."
+        "arbitrium은 여기서 \"선택\"이다(제5교리 오류 배격 2의 voluntatis arbitrium = 의지의 선택). \"의지\"는 voluntas다. 믿음을 사람의 선택에 맡겨 내놓으신다는 뜻이다."
       ],
       "work_passage_id": "cd:III/IV.14",
       "html_path": "works/cd/index.html#p-III-IV-14",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-14",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-14",
       "alignment_revision": "sha256:81d23d7c2ba656fb2db483baa50f70a8a9af11438c16aaf9448f05f0a6e27f29",
       "review_state": {
         "human_reviewed": false,
@@ -14380,10 +14380,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.14",
         "display_reference": "CD III/IV.14",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:3fc7b6d3f4ac13f49c75fc903ae9b8a1cd951abb23c56a4297e393ad55ad44b7",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-14"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-14"
       }
     },
     {
@@ -14691,7 +14691,7 @@
       ],
       "work_passage_id": "cd:III/IV.15",
       "html_path": "works/cd/index.html#p-III-IV-15",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-15",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-15",
       "alignment_revision": "sha256:fb0aeb68eb806b5ebd1c6b68d8f5b953629dee34f2cb5878ec4c9db5272ec3ce",
       "review_state": {
         "human_reviewed": false,
@@ -14714,10 +14714,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.15",
         "display_reference": "CD III/IV.15",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b73efa319c56c798e3e636f1564e132fc731b5dc26a4e9bd3636306b9ba84429",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-15"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-15"
       }
     },
     {
@@ -15018,11 +15018,11 @@
       "notes": [
         "인쇄본은 \"ſpititualiter\"로 찍었다. spiritualiter(영적으로)의 오식이다.",
         "truncis & stipitibus(통나무와 막대기)는 사람을 아무 의지도 없는 물건처럼 다룬다는 뜻의 당시 관용구다.",
-        "Spiritus obedientia는 \"성령의 순종\"으로 옮겼다. 성령께서 일으키시는 순종으로도, 성령께 드리는 순종으로도 읽을 수 있다."
+        "Spiritus obedientia(성령의 순종)는 성령께서 일으키시는 순종으로도, 성령께 드리는 순종으로도 읽을 수 있다."
       ],
       "work_passage_id": "cd:III/IV.16",
       "html_path": "works/cd/index.html#p-III-IV-16",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-16",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-16",
       "alignment_revision": "sha256:f3a501ccf8fd27a5b33f7f97801785222c2cf20adaa25955a1b4e0c14ea9d2e6",
       "review_state": {
         "human_reviewed": false,
@@ -15045,10 +15045,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.16",
         "display_reference": "CD III/IV.16",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:a3cf7d73e7787446139951643c05a66154cff23a5f8937db91ed413a0c97fbe4",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-16"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-16"
       }
     },
     {
@@ -15431,12 +15431,12 @@
         }
       ],
       "notes": [
-        "Disciplina는 교회의 권징(치리)을 말한다. 하이델베르크 교리문답의 Bůßzucht와 같은 말로 옮겼다.",
+        "Disciplina는 교회의 권징(치리)을 말한다. 하이델베르크 교리문답의 Bůßzucht도 한국어로는 \"권징\"이다.",
         "\"앞에서 말한, 우리를 거듭나게 하시는 하나님의 이 초자연적인 작용\"은 제11, 12조가 설명한 작용이다."
       ],
       "work_passage_id": "cd:III/IV.17",
       "html_path": "works/cd/index.html#p-III-IV-17",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-17",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-17",
       "alignment_revision": "sha256:08d7a4ba6f987402f8f7c00a597a844c6c382aed1711bdda92f378a0890afc1f",
       "review_state": {
         "human_reviewed": false,
@@ -15459,10 +15459,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.17",
         "display_reference": "CD III/IV.17",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:c1659e720e0697c4012f9e630e8aa85c3544746c548d0c9d17230b0bc1ef333f",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-17"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-17"
       }
     },
     {
@@ -15673,12 +15673,12 @@
         }
       ],
       "notes": [
-        "in quo omnes peccaverunt는 라틴어 성경(불가타)의 읽기로 \"그 사람 안에서 모두가 죄를 지었다\"는 뜻이다. 그리스어 본문은 흔히 \"모든 사람이 죄를 지었으므로\"로 옮긴다. 번역은 인쇄된 라틴어를 따랐다.",
+        "in quo omnes peccaverunt는 라틴어 성경(불가타)의 읽기로 \"그 사람 안에서 모두가 죄를 지었다\"는 뜻이다. 그리스어 본문은 흔히 \"모든 사람이 죄를 지었으므로\"로 옮긴다.",
         "\"Et verſ. 16.\"은 장 없이 절만 찍은 참조로, 앞의 롬 5:12와 같은 장이다."
       ],
       "work_passage_id": "cd:III/IV.R1",
       "html_path": "works/cd/index.html#p-III-IV-R1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R1",
       "alignment_revision": "sha256:7ecff91c6c8926e02cc691e30805bd10408107b97c51d320dfa8ddcca7f09250",
       "review_state": {
         "human_reviewed": false,
@@ -15701,10 +15701,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R1",
         "display_reference": "CD III/IV.R1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:25ffda4313e6d6e7c3214de7579554b3eb2b49addf24c8ee9bf09f33cce27275",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R1"
       }
     },
     {
@@ -15875,7 +15875,7 @@
       ],
       "work_passage_id": "cd:III/IV.R2",
       "html_path": "works/cd/index.html#p-III-IV-R2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R2",
       "alignment_revision": "sha256:7dacfa802f92aa31e37bd6d4d532c8bc22344e3d907448f145b4acb17492de37",
       "review_state": {
         "human_reviewed": false,
@@ -15898,10 +15898,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R2",
         "display_reference": "CD III/IV.R2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b7a96852c4b4a0a9d7d9946682637ad53c17a296d31ffd302c8781f30e66bada",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R2"
       }
     },
     {
@@ -16199,7 +16199,7 @@
       ],
       "work_passage_id": "cd:III/IV.R3",
       "html_path": "works/cd/index.html#p-III-IV-R3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R3",
       "alignment_revision": "sha256:64d76a8c463de097e9252d0152375bf9ea1aa92b032eb494a8dfc668f86299cd",
       "review_state": {
         "human_reviewed": false,
@@ -16222,10 +16222,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R3",
         "display_reference": "CD III/IV.R3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:e9e4d43aafbeab4da0d5011b97cf23e6d9b0b227859be24b3748c328e9bed918",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R3"
       }
     },
     {
@@ -16476,7 +16476,7 @@
       ],
       "work_passage_id": "cd:III/IV.R4",
       "html_path": "works/cd/index.html#p-III-IV-R4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R4",
       "alignment_revision": "sha256:7e9696c04fd56ee930a7ab44336499f6a861f72cafd06e09000c5dbdea162a4d",
       "review_state": {
         "human_reviewed": false,
@@ -16499,10 +16499,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R4",
         "display_reference": "CD III/IV.R4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:1bd4412a1db6796acdf1b6ae825b95d2bd95a2795017a135b1559effb574007a",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R4"
       }
     },
     {
@@ -16806,7 +16806,7 @@
       ],
       "work_passage_id": "cd:III/IV.R5",
       "html_path": "works/cd/index.html#p-III-IV-R5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R5",
       "alignment_revision": "sha256:f228b5a134d791bddc1669023b4db4538415f3409379db5dbaa1f726cfd5f6dd",
       "review_state": {
         "human_reviewed": false,
@@ -16829,10 +16829,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R5",
         "display_reference": "CD III/IV.R5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:ec1be98ca38d27167e7b52d681b9e571e9d47b05620dd5abfdb8dd84c349e9eb",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R5"
       }
     },
     {
@@ -17144,11 +17144,11 @@
         }
       ],
       "notes": [
-        "\"Converte me Domine\"의 Domine(주여)는 렘 31:18에서 여호와를 부르는 말이다. 라틴어 인쇄문을 따라 \"주여\"로 옮겼다."
+        "\"Converte me Domine\"의 Domine(주여)는 렘 31:18에서 여호와를 부르는 말이다."
       ],
       "work_passage_id": "cd:III/IV.R6",
       "html_path": "works/cd/index.html#p-III-IV-R6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R6",
       "alignment_revision": "sha256:abd94b66f1aed05c9ede0b90b6c6c4b0fa592f8e35dcb5a81fd521880fb81ffe",
       "review_state": {
         "human_reviewed": false,
@@ -17171,10 +17171,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R6",
         "display_reference": "CD III/IV.R6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:d5dce34c8402644f1a7d6432dce5bee44899cbe99e2cbd12a061145a34f2ae8d",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R6"
       }
     },
     {
@@ -17477,7 +17477,7 @@
       ],
       "work_passage_id": "cd:III/IV.R7",
       "html_path": "works/cd/index.html#p-III-IV-R7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R7",
       "alignment_revision": "sha256:0ccb9d465f1b56a65f0bf872450261f373a40f01da2bad73339a99e13de21bd1",
       "review_state": {
         "human_reviewed": false,
@@ -17500,10 +17500,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R7",
         "display_reference": "CD III/IV.R7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:7e9e0e90172bcc12a91e26d920eaa908849f7c1fa4e2abfcada44673e3284736",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R7"
       }
     },
     {
@@ -17813,7 +17813,7 @@
       "notes": [],
       "work_passage_id": "cd:III/IV.R8",
       "html_path": "works/cd/index.html#p-III-IV-R8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R8",
       "alignment_revision": "sha256:b7a79c7a83435a4a8da575322936616731c5051d75d20225d9ce9eedd38f2c1d",
       "review_state": {
         "human_reviewed": false,
@@ -17836,10 +17836,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R8",
         "display_reference": "CD III/IV.R8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:6397b97d8c3f4a151bcfdcded5ecc0724cbdfdbf3a84a7c2455d5f782f19b0a8",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R8"
       }
     },
     {
@@ -18054,7 +18054,7 @@
       ],
       "work_passage_id": "cd:III/IV.R9",
       "html_path": "works/cd/index.html#p-III-IV-R9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R9",
       "alignment_revision": "sha256:35b9bf4489524e90d5608f132eaac3654f195b30e3aa77c52d13221bc139868b",
       "review_state": {
         "human_reviewed": false,
@@ -18077,10 +18077,10 @@
         "work": "도르트 신경",
         "reference": "III/IV.R9",
         "display_reference": "CD III/IV.R9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:910a52914b75fbdd2fe09aa713a541c389986bb6aadf66f7c7bb7e9d9d6a89aa",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-III-IV-R9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-III-IV-R9"
       }
     },
     {
@@ -18177,11 +18177,11 @@
         }
       ],
       "notes": [
-        "제5교리의 머리(이 번역 본문에는 넣지 않았다)는 \"성도의 견인에 관하여\"(De perseverantia sanctorum)다. perseverantia는 이 번역 전체에서 \"견인\"으로 옮겼다(제1교리 오류 배격 1 메모)."
+        "인쇄본의 제5교리 머리는 \"성도의 견인에 관하여\"(De perseverantia sanctorum)다. perseverantia는 이 신경 전체에서 \"견인\"이다(제1교리 오류 배격 1 메모)."
       ],
       "work_passage_id": "cd:V.1",
       "html_path": "works/cd/index.html#p-V-1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-1",
       "alignment_revision": "sha256:daf3c6a69ce61023785d37bdf39e36e20c50a5b67184541c9473b62608b55a51",
       "review_state": {
         "human_reviewed": false,
@@ -18204,10 +18204,10 @@
         "work": "도르트 신경",
         "reference": "V.1",
         "display_reference": "CD V.1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:61f9fd4a41710cc75d1533f063f668fc6dcdf55496cb9b4a0c83c2608106f094",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-1"
       }
     },
     {
@@ -18378,7 +18378,7 @@
       ],
       "work_passage_id": "cd:V.2",
       "html_path": "works/cd/index.html#p-V-2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-2",
       "alignment_revision": "sha256:f2bb0bf02c96f77149e299413b51dd0eb3af68b2fec087fe49b5c5c021c515e4",
       "review_state": {
         "human_reviewed": false,
@@ -18401,10 +18401,10 @@
         "work": "도르트 신경",
         "reference": "V.2",
         "display_reference": "CD V.2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:78c06a03c25e55e3b5e4dc50a156f9c75c1c7413a3eb4d709317bf26cb4fccd0",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-2"
       }
     },
     {
@@ -18542,7 +18542,7 @@
       "notes": [],
       "work_passage_id": "cd:V.3",
       "html_path": "works/cd/index.html#p-V-3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-3",
       "alignment_revision": "sha256:d76edf9107654a2befcf43bd3a8cfaa52a64ac6f4e167215895114b6e340093c",
       "review_state": {
         "human_reviewed": false,
@@ -18565,10 +18565,10 @@
         "work": "도르트 신경",
         "reference": "V.3",
         "display_reference": "CD V.3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:efb1007aa79ae23ccf613b24c25935ae28b2361714b4c278d1b77eb17b0d35af",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-3"
       }
     },
     {
@@ -18810,11 +18810,11 @@
         }
       ],
       "notes": [
-        "lapsus는 아담의 타락(제1, 제3·4교리)과 같은 낱말이다. 제5교리에서는 신자가 죄에 빠지는 일을 가리키므로 \"넘어짐\"으로 옮겼다."
+        "lapsus(넘어짐)는 아담의 타락(제1, 제3·4교리)과 같은 낱말이며, 제5교리에서는 신자가 죄에 빠지는 일을 가리킨다."
       ],
       "work_passage_id": "cd:V.4",
       "html_path": "works/cd/index.html#p-V-4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-4",
       "alignment_revision": "sha256:3254fbb5b2c05513e1b208da75f6d9c723d0ed9a1e595d072bff15a811c2e5d4",
       "review_state": {
         "human_reviewed": false,
@@ -18837,10 +18837,10 @@
         "work": "도르트 신경",
         "reference": "V.4",
         "display_reference": "CD V.4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:00a3669151990a8581e81348e616aea8454cbf036b8fbd028fc603a05c825884",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-4"
       }
     },
     {
@@ -18974,7 +18974,7 @@
       "notes": [],
       "work_passage_id": "cd:V.5",
       "html_path": "works/cd/index.html#p-V-5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-5",
       "alignment_revision": "sha256:7b4bdd2639cd9061be414a546cea73d8dbf5dee8e9d2171e88900f848160f77e",
       "review_state": {
         "human_reviewed": false,
@@ -18997,10 +18997,10 @@
         "work": "도르트 신경",
         "reference": "V.5",
         "display_reference": "CD V.5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:5482c52ca88c0ed05b3941570bd534ad60f6ca2cf2821e90539f007d44f41aad",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-5"
       }
     },
     {
@@ -19145,12 +19145,12 @@
         }
       ],
       "notes": [
-        "\"성령께 완전히 버림받아\"의 ab eo(그에게)는 문법상 가장 가까운 Spiritus Sanctus(성령)로 읽었다. 문장의 주어인 하나님으로 읽을 수도 있다.",
+        "\"성령께 완전히 버림받아\"의 ab eo(그에게)는 문법상 가장 가까운 Spiritus Sanctus(성령)로도, 문장의 주어인 하나님으로도 읽을 수 있다.",
         "\"죽음에 이르는 죄\"는 요일 5:16, \"성령을 거스르는 죄\"는 마 12:31-32의 말이다. 인쇄본의 \"eouſq;\"는 eousque의 줄임 표기다."
       ],
       "work_passage_id": "cd:V.6",
       "html_path": "works/cd/index.html#p-V-6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-6",
       "alignment_revision": "sha256:bcbe467cb6db9755e5239d3962124db5da9d8dae375933c07682b93fdff055a6",
       "review_state": {
         "human_reviewed": false,
@@ -19173,10 +19173,10 @@
         "work": "도르트 신경",
         "reference": "V.6",
         "display_reference": "CD V.6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:53e0638a4df23729a45585e412250e77b7a0ebd678ba00e15d5221a9cbffcbf3",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-6"
       }
     },
     {
@@ -19379,7 +19379,7 @@
       ],
       "work_passage_id": "cd:V.7",
       "html_path": "works/cd/index.html#p-V-7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-7",
       "alignment_revision": "sha256:81120b72b66bc46dd5d25b4a78af1a308c19cdbfe63a09d93b4be055fd620e0d",
       "review_state": {
         "human_reviewed": false,
@@ -19402,10 +19402,10 @@
         "work": "도르트 신경",
         "reference": "V.7",
         "display_reference": "CD V.7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:e7bd696bcc49012d60be1e6cc4be06f08226d22f53337d89bafb11401ea6127c",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-7"
       }
     },
     {
@@ -19581,11 +19581,11 @@
         }
       ],
       "notes": [
-        "\"그렇게 떨어져 나가 멸망하는 일\"의 원문은 Quod(이것) 한 낱말이다. 앞 문장의 \"믿음과 은혜에서 완전히 떨어져 나가 넘어짐 가운데 멸망하는 일\"을 가리키므로 풀어 옮겼다."
+        "\"그렇게 떨어져 나가 멸망하는 일\"의 원문은 Quod(이것) 한 낱말이며, 앞 문장의 \"믿음과 은혜에서 완전히 떨어져 나가 넘어짐 가운데 멸망하는 일\"을 가리킨다."
       ],
       "work_passage_id": "cd:V.8",
       "html_path": "works/cd/index.html#p-V-8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-8",
       "alignment_revision": "sha256:fe3b3c7269a56c45f538adf1fbc6db08b0d2385b4c3d88bec45731dbfe632b0f",
       "review_state": {
         "human_reviewed": false,
@@ -19608,10 +19608,10 @@
         "work": "도르트 신경",
         "reference": "V.8",
         "display_reference": "CD V.8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b872690c1b4e90e142114c18e91b14f68ab730f1eff8eb1880ec64dccec23596",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-8"
       }
     },
     {
@@ -19708,11 +19708,11 @@
         }
       ],
       "notes": [
-        "custodia는 하나님께서 택함받은 자들을 \"지키심\"을 말한다. 제5교리 8조와 오류 배격 3의 custodia도 같은 말로 옮겼다."
+        "custodia(지키심)는 하나님께서 택함받은 자들을 지키시는 일을 말한다. 제5교리 8조와 오류 배격 3의 custodia도 같다."
       ],
       "work_passage_id": "cd:V.9",
       "html_path": "works/cd/index.html#p-V-9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-9",
       "alignment_revision": "sha256:9bb19afbbc524501356f7f8baf82414468344822265b308761e0688f2e91bbd8",
       "review_state": {
         "human_reviewed": false,
@@ -19735,10 +19735,10 @@
         "work": "도르트 신경",
         "reference": "V.9",
         "display_reference": "CD V.9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:96561b19f66a4795bc9d76c4524ebffdd587e8fadfb4312f9a7a05a21d578703",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-9"
       }
     },
     {
@@ -19924,12 +19924,12 @@
       ],
       "notes": [
         "인쇄본의 \"Verbū\"는 Verbum(말씀)의 줄임 표기다.",
-        "arrha는 계약을 확실히 하려고 미리 주는 보증금을 말한다(고후 1:22, 엡 1:14). \"보증\"으로 옮겼다.",
+        "arrha(보증)는 계약을 확실히 하려고 미리 주는 보증금을 말한다(고후 1:22, 엡 1:14).",
         "\"모든 사람 가운데 가장 비참한 사람\"은 고전 15:19의 말이다."
       ],
       "work_passage_id": "cd:V.10",
       "html_path": "works/cd/index.html#p-V-10",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-10",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-10",
       "alignment_revision": "sha256:528ac995a2174af8e0fddf42b59135f068da746d1b806b194111151bee78c5d2",
       "review_state": {
         "human_reviewed": false,
@@ -19952,10 +19952,10 @@
         "work": "도르트 신경",
         "reference": "V.10",
         "display_reference": "CD V.10",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b5e8c11f18251325208beb8f6edeaac2f8288cc1068498f72ff0e670c3a4d1c1",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-10"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-10"
       }
     },
     {
@@ -20100,7 +20100,7 @@
       ],
       "work_passage_id": "cd:V.11",
       "html_path": "works/cd/index.html#p-V-11",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-11",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-11",
       "alignment_revision": "sha256:ae058a830c5f87515f239132cb5a8b7e4441de5bf63f8e4006a9984fd326af8e",
       "review_state": {
         "human_reviewed": false,
@@ -20123,10 +20123,10 @@
         "work": "도르트 신경",
         "reference": "V.11",
         "display_reference": "CD V.11",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:eaab3d4b319424626f8e415fd5476f8617173446d11441b0aa03723eac00f6cc",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-11"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-11"
       }
     },
     {
@@ -20291,7 +20291,7 @@
       "notes": [],
       "work_passage_id": "cd:V.12",
       "html_path": "works/cd/index.html#p-V-12",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-12",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-12",
       "alignment_revision": "sha256:5b866ac8271eea0d6bc0d0e531fe7ae3294aa2c55a3db2705c6c2c365ecd7e4e",
       "review_state": {
         "human_reviewed": false,
@@ -20314,10 +20314,10 @@
         "work": "도르트 신경",
         "reference": "V.12",
         "display_reference": "CD V.12",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:9a7e65d546cff6d574343442583cb7fe6f9431c3657cd7075b6dde5716e461c7",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-12"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-12"
       }
     },
     {
@@ -20493,13 +20493,13 @@
         }
       ],
       "notes": [
-        "이 교리에서 certitudo는 \"확신\", fiducia는 \"신뢰\"로 나누어 옮겼다. rediviva perseverantiae fiducia는 넘어졌다가 회복된 사람 안에서 \"다시 살아난, 견인에 대한 신뢰\"를 말한다.",
-        "\"그 길은 … 예비된 길이다\"는 ut-절을 \"예비된\"(praeparatae sunt)에 걸어 읽은 것이다. \"마음 씀\"에 걸어 \"자기 견인의 확신을 지켜 가려고 주의 길을 지키는 마음 씀\"으로 읽을 수도 있다.",
-        "ne(…하지 않도록)는 \"마음 씀\"에 걸리는 말이라, 한국어에서는 문장 끝에 \"조심한다\"를 넣어 이었다."
+        "이 교리에서 certitudo는 \"확신\", fiducia는 \"신뢰\"다. rediviva perseverantiae fiducia는 넘어졌다가 회복된 사람 안에서 \"다시 살아난, 견인에 대한 신뢰\"를 말한다.",
+        "\"그 길은 … 예비된 길이다\"는 ut-절을 \"예비된\"(praeparatae sunt)에 거는 읽기다. \"마음 씀\"에 걸어 \"자기 견인의 확신을 지켜 가려고 주의 길을 지키는 마음 씀\"으로 읽을 수도 있다.",
+        "ne(…하지 않도록)는 \"마음 씀\"에 걸리는 말이다. 한국어 문장 끝의 \"조심한다\"가 이 ne를 받는다."
       ],
       "work_passage_id": "cd:V.13",
       "html_path": "works/cd/index.html#p-V-13",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-13",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-13",
       "alignment_revision": "sha256:c87009203e79e06d3e0ab8f2cc13102a53e7e60592a1de0ce7caafc89b6fd844",
       "review_state": {
         "human_reviewed": false,
@@ -20522,10 +20522,10 @@
         "work": "도르트 신경",
         "reference": "V.13",
         "display_reference": "CD V.13",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:d99940ea27c48020953666b98114beaf25cf51ecf231c9c8ed4b4d15d0421a3a",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-13"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-13"
       }
     },
     {
@@ -20624,7 +20624,7 @@
       "notes": [],
       "work_passage_id": "cd:V.14",
       "html_path": "works/cd/index.html#p-V-14",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-14",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-14",
       "alignment_revision": "sha256:9ac0484a05143fbebbdf7e9eac41cba9bc497ddff2bba1ca25aab3af2396d55e",
       "review_state": {
         "human_reviewed": false,
@@ -20647,10 +20647,10 @@
         "work": "도르트 신경",
         "reference": "V.14",
         "display_reference": "CD V.14",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:65a0085bc17f861e724b2bebe428fd509c58fae939575d9b59649790ac609603",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-14"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-14"
       }
     },
     {
@@ -20896,7 +20896,7 @@
       ],
       "work_passage_id": "cd:V.15",
       "html_path": "works/cd/index.html#p-V-15",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-15",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-15",
       "alignment_revision": "sha256:5dee1eb9f1eab83b6cec5a89c021fb67c0602b5cdcc081091fc0d48fc7b55fa5",
       "review_state": {
         "human_reviewed": false,
@@ -20919,10 +20919,10 @@
         "work": "도르트 신경",
         "reference": "V.15",
         "display_reference": "CD V.15",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b8d7964583cd84336d573aa664374a786f9fcf7e632b3ab6194baa6e952a00db",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-15"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-15"
       }
     },
     {
@@ -21257,12 +21257,12 @@
       ],
       "notes": [
         "(ut ipsi loquuntur)는 \"그들의 말대로\"라는 뜻으로, peremptoria(확정적인) 선택이 반대자들의 용어임을 밝힌다(제1교리 오류 배격 2 메모). 인쇄본은 여기서 peremtoriam으로 찍었다.",
-        "롬 11:7의 Electio(선택)는 추상명사로 택함받은 무리를 가리킨다. 그래서 용어집대로 \"택함받은 자들\"로 옮겼다.",
+        "롬 11:7의 Electio(선택)는 추상명사로 택함받은 무리, 곧 \"택함받은 자들\"을 가리킨다.",
         "인쇄된 참조는 롬 8:32 하나지만, 인용은 \"누가 … 고발하겠느냐?\"부터 \"누가 우리를 그리스도의 사랑에서 끊겠느냐?\"까지 롬 8:33-35로 이어진다."
       ],
       "work_passage_id": "cd:V.R1",
       "html_path": "works/cd/index.html#p-V-R1",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R1",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R1",
       "alignment_revision": "sha256:5c5120e62418afe663d962fbf5448bc1a83acbcd3c0beaffd446875d8530704f",
       "review_state": {
         "human_reviewed": false,
@@ -21285,10 +21285,10 @@
         "work": "도르트 신경",
         "reference": "V.R1",
         "display_reference": "CD V.R1",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:2b660198f5ad13d79583927c21b8680878c99e6d5760aa4e98e3ad1caa936ce3",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R1"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R1"
       }
     },
     {
@@ -21569,12 +21569,12 @@
         }
       ],
       "notes": [
-        "sacrilegus는 원래 거룩한 것을 훔치는 사람, 곧 하나님께 돌릴 영광을 가로채는 사람이다. \"신성을 모독하는 자들\"로 옮겼다.",
-        "인쇄본의 라틴어는 고전 1:8을 \"Deum esse qui confirmabit\"(굳게 하실 분은 하나님이시다)로 적었다. 번역은 인쇄된 대로 옮겼다."
+        "sacrilegus(신성을 모독하는 자들)는 원래 거룩한 것을 훔치는 사람, 곧 하나님께 돌릴 영광을 가로채는 사람이다.",
+        "인쇄본의 라틴어는 고전 1:8을 \"Deum esse qui confirmabit\"(굳게 하실 분은 하나님이시다)로 적었다."
       ],
       "work_passage_id": "cd:V.R2",
       "html_path": "works/cd/index.html#p-V-R2",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R2",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R2",
       "alignment_revision": "sha256:c9996c14c579254db8db7d81e33ccb8c51bb55622fcf7803ab7989164f69be17",
       "review_state": {
         "human_reviewed": false,
@@ -21597,10 +21597,10 @@
         "work": "도르트 신경",
         "reference": "V.R2",
         "display_reference": "CD V.R2",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:b7c7bad3a6b1fcf55da28e0c84006fd5626de97f51ef13f0bb3b02b763ff5ef7",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R2"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R2"
       }
     },
     {
@@ -21925,12 +21925,12 @@
         }
       ],
       "notes": [
-        "인쇄된 참조는 \"Ioh. 3. 9.\"(요한복음 3:9)이지만 인용문은 요일 3:9이다. 바로 앞에서 \"사도 요한\"을 말하고, 요 3:9는 니고데모의 물음이라 내용이 맞지 않는다. 참조는 인쇄된 대로 (요 3:9)로 두었다.",
+        "인쇄된 참조는 \"Ioh. 3. 9.\"(요한복음 3:9)이지만 인용문은 요일 3:9이다. 바로 앞에서 \"사도 요한\"을 말하고, 요 3:9는 니고데모의 물음이라 내용이 맞지 않는다. 본문의 참조 (요 3:9)는 인쇄된 번호다.",
         "인쇄된 참조는 롬 5:9 하나지만, 인용은 롬 5:8(\"우리가 아직 죄인이었을 때 …\")부터 이어진다."
       ],
       "work_passage_id": "cd:V.R3",
       "html_path": "works/cd/index.html#p-V-R3",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R3",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R3",
       "alignment_revision": "sha256:a725cd09827219a9a9653c31fabdc1ac875f45c6363651c9b18bd37a42f5c2a6",
       "review_state": {
         "human_reviewed": false,
@@ -21953,10 +21953,10 @@
         "work": "도르트 신경",
         "reference": "V.R3",
         "display_reference": "CD V.R3",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:09fbb29f2423633cf4c3b8ccc3daf6397e1902307dff5acbad4cb8b762c2a2bd",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R3"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R3"
       }
     },
     {
@@ -22136,12 +22136,12 @@
         }
       ],
       "notes": [
-        "\"5장\", \"16, 17절\", \"18절\"은 요한일서 5장을 가리킨다. 인쇄본은 이것들을 문장 안의 말로 적었으므로 괄호 참조로 바꾸지 않았다.",
+        "\"5장\", \"16, 17절\", \"18절\"은 요한일서 5장을 가리킨다. 인쇄본은 이것들을 괄호 참조가 아니라 문장 안의 말로 적었다.",
         "(곧 그런 종류의 죄를)(nempe illo peccati genere)은 총회가 인용문 안에 넣은 풀이로, \"죄를 짓지 않는다\"가 죽음에 이르는 죄를 말한다는 뜻이다."
       ],
       "work_passage_id": "cd:V.R4",
       "html_path": "works/cd/index.html#p-V-R4",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R4",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R4",
       "alignment_revision": "sha256:1f1585552fa351d83bf50f03798fb8ac1e27ec1939d0b8a81b4d2b7597979e0c",
       "review_state": {
         "human_reviewed": false,
@@ -22164,10 +22164,10 @@
         "work": "도르트 신경",
         "reference": "V.R4",
         "display_reference": "CD V.R4",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:42d4195020b3e61c1d498434ba79ba1136ecc7e713f94d97580ac8b8c163446f",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R4"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R4"
       }
     },
     {
@@ -22426,12 +22426,12 @@
         }
       ],
       "notes": [
-        "인쇄된 참조 \"Epiſt. 1. cap. 3. 34.\"는 오식이다. 요한일서 3장은 24절까지 있고, 인용된 말씀은 요일 3:24이다. 참조는 인쇄된 대로 (요일 3:34)로 두었다.",
+        "인쇄된 참조 \"Epiſt. 1. cap. 3. 34.\"는 오식이다. 요한일서 3장은 24절까지 있고, 인용된 말씀은 요일 3:24이다. 본문의 참조 (요일 3:34)는 인쇄된 번호다.",
         "Pontificii(교황주의자들)는 로마 가톨릭 신학자들을 말한다. 트리엔트 공의회(제6회기)는 특별한 계시 없이는 아무도 자기가 택함받았다고 확신할 수 없다고 가르쳤다."
       ],
       "work_passage_id": "cd:V.R5",
       "html_path": "works/cd/index.html#p-V-R5",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R5",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R5",
       "alignment_revision": "sha256:d6c7a2b520877920fd7acf4326481d4556ab2a92396a10a9d8c009bf372008b2",
       "review_state": {
         "human_reviewed": false,
@@ -22454,10 +22454,10 @@
         "work": "도르트 신경",
         "reference": "V.R5",
         "display_reference": "CD V.R5",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:3474be0398c91c2b3d6a848057421fb83b51d566827b2cd0392ef53f67034308",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R5"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R5"
       }
     },
     {
@@ -22747,7 +22747,7 @@
       ],
       "work_passage_id": "cd:V.R6",
       "html_path": "works/cd/index.html#p-V-R6",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R6",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R6",
       "alignment_revision": "sha256:a6e2f112dd4bd7f98de903017b5d4edcb1db788292e9464bbd616c8d8766aafc",
       "review_state": {
         "human_reviewed": false,
@@ -22770,10 +22770,10 @@
         "work": "도르트 신경",
         "reference": "V.R6",
         "display_reference": "CD V.R6",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:3b23b728a087c0dd9191227bc11c687399920f37d12fe8546522594cc6fb84ca",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R6"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R6"
       }
     },
     {
@@ -22949,11 +22949,11 @@
         }
       ],
       "notes": [
-        "ac deinceps는 \"그리고 그다음\"이라는 뜻이라 \"이하\"로 옮겼다. 씨 뿌리는 비유의 풀이(마 13:20-23, 눅 8:13-15)를 가리킨다."
+        "ac deinceps(이하)는 \"그리고 그다음\"이라는 뜻으로, 씨 뿌리는 비유의 풀이(마 13:20-23, 눅 8:13-15)를 가리킨다."
       ],
       "work_passage_id": "cd:V.R7",
       "html_path": "works/cd/index.html#p-V-R7",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R7",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R7",
       "alignment_revision": "sha256:2e93899ddc49687b00272caf8919b00e08b6c35ddab8cb5864006b17e731ae4a",
       "review_state": {
         "human_reviewed": false,
@@ -22976,10 +22976,10 @@
         "work": "도르트 신경",
         "reference": "V.R7",
         "display_reference": "CD V.R7",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:a49f8fc6b585e5dd3d48f0078e6ba4f464851d687aa8560858c359c31905b11d",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R7"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R7"
       }
     },
     {
@@ -23102,11 +23102,11 @@
         }
       ],
       "notes": [
-        "인용문 \"Renati non ex semine corruptibili, sed incorruptibili\"는 벧전 1:23의 분사 구문을 그대로 옮겨 온 것이라 \"…거듭난 사람들이다\"로 옮겼다."
+        "인용문 \"Renati non ex semine corruptibili, sed incorruptibili\"는 벧전 1:23의 분사 구문을 그대로 가져온 것으로, \"…거듭난 사람들\"이라는 뜻이다."
       ],
       "work_passage_id": "cd:V.R8",
       "html_path": "works/cd/index.html#p-V-R8",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R8",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R8",
       "alignment_revision": "sha256:7728eaba0fea9b1754bf9797684f4f20b8fa35f7ecfb06ef96a8784506fee728",
       "review_state": {
         "human_reviewed": false,
@@ -23129,10 +23129,10 @@
         "work": "도르트 신경",
         "reference": "V.R8",
         "display_reference": "CD V.R8",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:4e1b91a3596b596aaad339f0d63e9f4111ca340c8bacafd117df6f7139b6987c",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R8"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R8"
       }
     },
     {
@@ -23316,7 +23316,7 @@
       ],
       "work_passage_id": "cd:V.R9",
       "html_path": "works/cd/index.html#p-V-R9",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-V-R9",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-V-R9",
       "alignment_revision": "sha256:c457481107da73338fa0ef40e8ae667d98ee52ecd176119acae291ab9d92a868",
       "review_state": {
         "human_reviewed": false,
@@ -23339,10 +23339,10 @@
         "work": "도르트 신경",
         "reference": "V.R9",
         "display_reference": "CD V.R9",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:f1eaa8875b474c3ac7652e08e845a0f2200ae98a1632497e3bd245bdafa20279",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-V-R9"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-V-R9"
       }
     },
     {
@@ -24503,16 +24503,16 @@
         }
       ],
       "notes": [
-        "Belgium, Ecclesiae Belgicae는 오늘의 벨기에가 아니라 네덜란드 연합주를 포함한 저지대를 가리킨다. 이 문맥에서는 네덜란드의 교회들이라 \"네덜란드\"로 옮겼다.",
+        "Belgium, Ecclesiae Belgicae는 오늘의 벨기에가 아니라 네덜란드 연합주를 포함한 저지대를 가리키며, 이 문맥에서는 네덜란드와 그 교회들이다.",
         "\"다섯 조항\"은 1610년 항론파가 낸 항의서의 다섯 조항을 말한다. 도르트 신경의 네 교리(제3·4교리는 둘을 합쳤다)가 이에 답한다.",
         "Libertinismus(자유파 사상)는 16세기의 이른바 영적 자유파의 가르침을, Turcismus(튀르크교)는 당시 유럽에서 이슬람교를 부르던 말을 가리킨다.",
-        "Symmystae는 \"함께 신비에 참여한 사람들\"이라는 그리스어에서 온 말로, 같은 복음을 섬기는 동료 목회자들을 가리킨다. \"동역자들\"로 옮겼다.",
+        "Symmystae(동역자들)는 \"함께 신비에 참여한 사람들\"이라는 그리스어에서 온 말로, 같은 복음을 섬기는 동료 목회자들을 가리킨다.",
         "analogia fidei(믿음의 유비)는 성경을 성경 전체의 일관된 가르침에 맞게 풀어야 한다는 원칙을 말한다(롬 12:6).",
-        "Synodus haec Dordrechtana는 \"이 도르드레흐트 총회\"로 옮겼다. 도르트(Dort)는 이 도시의 옛 이름이다. 인쇄본의 \"nonnullorū\", \"atq;\"는 nonnullorum, atque의 줄임 표기다."
+        "Synodus haec Dordrechtana는 \"이 도르드레흐트 총회\"다. 도르트(Dort)는 이 도시의 옛 이름이다. 인쇄본의 \"nonnullorū\", \"atq;\"는 nonnullorum, atque의 줄임 표기다."
       ],
       "work_passage_id": "cd:concl",
       "html_path": "works/cd/index.html#p-concl",
-      "fixed_html_path": "releases/public-0.1/works/cd/index.html#p-concl",
+      "fixed_html_path": "releases/public-0.2/works/cd/index.html#p-concl",
       "alignment_revision": "sha256:7b3eeb8ee33dcee0c2d83065660b8ef99c0d98cb7f6deacb93ba3d09a66e844d",
       "review_state": {
         "human_reviewed": false,
@@ -24535,10 +24535,10 @@
         "work": "도르트 신경",
         "reference": "concl",
         "display_reference": "CD concl",
-        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org 스캔(Google Books)과 한 줄씩 대조했다. 스캔 이미지는 대조에만 쓰고 이 사이트에 다시 싣지 않는다. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 인쇄된 대로 본문에 두었고 따로 증거 구절 목록을 두지 않았다.",
-        "release": "public-0.1",
+        "edition": "Acta Synodi Nationalis ... Dordrechti habitae anno MDCXVIII et MDCXIX, Leiden: Isaac Elzevir, 1620, 1부 241-271쪽. archive.org의 Google Books 스캔. 이 인쇄본은 성경 참조를 본문 줄 안에 찍었으므로 따로 증거 구절 목록이 없다.",
+        "release": "public-0.2",
         "translation_revision": "sha256:4e05fe42774e722169327f2a13b2cbf9c958806abbcaba7626bab2e934c3df5d",
-        "fixed_path": "releases/public-0.1/works/cd/index.html#p-concl"
+        "fixed_path": "releases/public-0.2/works/cd/index.html#p-concl"
       }
     }
   ],

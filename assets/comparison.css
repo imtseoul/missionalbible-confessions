@@ -8,6 +8,7 @@
 .comparison-intro { margin-bottom: 32px; }
 .comparison-intro > p { margin-top: 8px; }
 .comparison-scope, .claim-examples p, .comparison-topic-scope { color: var(--muted); font-size: 14px; }
+.claim-notice { margin-top: 8px; }
 .doctrine-comparison form > label { display: block; font-weight: 600; margin-bottom: 8px; }
 .doctrine-comparison textarea {
   display: block;
@@ -30,6 +31,11 @@
 .claim-reset:hover, .claim-example-links button:hover { background: var(--wash); }
 .claim-examples { margin-top: 24px; }
 .claim-example-links { margin-top: 8px; }
+.comparison-guide { margin-top: 16px; }
+.comparison-guide summary { display: list-item; width: fit-content; min-height: 48px; padding-block: 8px; cursor: pointer; }
+.comparison-guide dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 16px; }
+.comparison-guide dt { font-weight: 600; }
+.comparison-guide dd { margin: 0; }
 #comparison-results { border-top: 1px solid var(--ink); margin-top: 32px; padding-top: 24px; }
 #comparison-heading { margin-bottom: 16px; font-size: 22px; }
 .comparison-claim { margin: 0 0 16px; padding-left: 16px; border-left: 2px solid var(--accent); }
@@ -40,9 +46,16 @@
 .comparison-sources { list-style: none; padding: 0; margin: 16px 0 0; }
 .comparison-sources li { border-top: 1px solid var(--line); padding: 16px 0; }
 .comparison-sources a, .doctrine-comparison noscript a { text-decoration: underline; text-underline-offset: 4px; }
+.comparison-search-link { display: inline-flex; align-items: center; min-height: 48px; text-decoration: underline; text-underline-offset: 4px; }
 .comparison-sources a { display: inline-flex; align-items: center; min-height: 48px; font-weight: 600; }
+.comparison-sources a + .comparison-summary-label { margin-inline-start: 8px; }
 .comparison-sources blockquote { margin: 0; font-size: 16px; line-height: 1.75; }
 .comparison-question { margin-bottom: 8px; color: var(--muted); font-size: 15px; }
+.comparison-sources .comparison-relation { margin: 8px 0; }
+.comparison-explanation { margin-top: 8px; }
+.comparison-summary { margin-bottom: 8px; }
+.comparison-summary-label { margin-inline-end: 8px; color: var(--muted); font-size: 14px; }
+.comparison-message { margin-block: 8px 16px; }
 @media (max-width: 700px) {
   .doctrine-comparison { padding-top: 32px; }
   .comparison-intro { margin-bottom: 24px; }

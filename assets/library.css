@@ -139,6 +139,7 @@
 
 /* Original languages: one face with complete Latin-script coverage, never a per-letter mix. */
 [lang="grc"],[lang="de"],[lang="fr"],[lang="en"],[lang="nl"],[lang="lat"]{font-family:'Segoe UI',Arial,'Noto Sans','Lucida Grande',sans-serif}
+.extended-latin :is([lang="grc"],[lang="de"],[lang="fr"],[lang="en"],[lang="nl"],[lang="lat"]){font-family:Geneva,'Noto Sans','Segoe UI',Arial,'Lucida Grande',sans-serif}
 
 /* Catalogue: the whole row opens the work. */
 .catalog-row{position:relative}.catalog-row h2 a::after{content:'';position:absolute;inset:0}.catalog-row:hover h2 a{color:var(--link);text-decoration:underline;text-underline-offset:4px}.coverage{color:var(--muted)}
@@ -239,3 +240,5 @@ a.text-link,.information section p a,.translation-notes p a{text-decoration:unde
 
 /* Notes quoting another official form. */
 .official-form-label{display:block;font-size:12px;color:var(--muted)}
+/* Article readers: a two-word passage name (제1부 맺음말, 제2부 머리말) wraps between its words instead of running into the text. */
+.section-reader .passage-number span{white-space:normal;word-break:keep-all}

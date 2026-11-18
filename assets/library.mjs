@@ -107,10 +107,13 @@ if($('.reader')){
   const markLinks=links=>{if(links===markedLinks)return;for(const link of markedLinks)link.setAttribute('aria-current','false');for(const link of links)link.setAttribute('aria-current','true');markedLinks=links;followBook(links);showPosition(links[0]);for(const link of links)revealLink(link);};
   function firstAfter(items,before){let lo=0,hi=items.length;while(lo<hi){const mid=(lo+hi)>>>1;if(before(items[mid]))lo=mid+1;else hi=mid;}return lo;}
   const markRange=ref=>{const i=passageIndexes.get(ref);const range=i===undefined?null:ranges[firstAfter(ranges,r=>r.end<i)];markLinks(range&&range.start<=i?range.links:[]);};
-  function targetHash(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target)return;if(id.startsWith('note-')){const details=target.closest('details');if(details)details.open=true;}const ref=target.closest('[data-ref]')?.dataset.ref;markRange(ref);requestAnimationFrame(()=>{target.scrollIntoView({block:'start'});scheduleRange();});}
-  let frame=null;
+  function targetHash(){let id;try{id=decodeURIComponent(location.hash.slice(1));}catch{return;}const target=document.getElementById(id);if(!target)return;if(id.startsWith('note-')){const details=target.closest('details');if(details)details.open=true;}const ref=target.closest('[data-ref]')?.dataset.ref;markRange(ref);requestAnimationFrame(()=>{target.scrollIntoView({block:'start'});pinned=ref===undefined?null:{ref,y:scrollY};scheduleRange();});}
+  // A passage reached through a link stays marked until the reader scrolls: a short passage at the top or the end of the page may never reach the reading line.
+  let frame=null,pinned=null;
   function refreshRange(){
     frame=null;const y=innerHeight*.18;
+    if(pinned&&Math.abs(scrollY-pinned.y)<2){markRange(pinned.ref);return;}
+    pinned=null;
     const selected=passages[Math.min(passages.length-1,firstAfter(passages,target=>target.getBoundingClientRect().bottom<=y))];
     if(selected&&!reader.contains(document.activeElement))setRoving(selected);
     if(selected)markRange(selected.dataset.ref);
