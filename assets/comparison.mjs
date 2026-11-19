@@ -49,6 +49,7 @@ const verdicts = {
   conflicts: '충돌',
   varies: '문헌별 차이',
   clarify: '뜻 확인',
+  explains: '문헌의 설명',
   insufficient: '근거 부족',
 };
 
@@ -93,12 +94,14 @@ function renderTopic(topic, example, sourceOrigin) {
 export function isComparisonResult(result) {
   if (!result || !Object.hasOwn(verdicts, result.verdict) || typeof result.reason !== 'string'
       || !Array.isArray(result.sources)) return false;
-  if (result.verdict === 'insufficient') return result.sources.length === 0;
-  return typeof result.proposition === 'string' && result.sources.length > 0
-    && result.sources.length <= 6 && result.sources.every(source => source
+  const validSources = sources => Array.isArray(sources) && sources.length <= 6
+    && sources.every(source => source
       && ['agrees', 'similar', 'conflicts', 'describes'].includes(source.relation)
       && typeof source.path === 'string' && /^\/works\/[a-z0-9-]+\/index\.html#p-[a-zA-Z0-9.-]+$/u.test(source.path)
       && ['label', 'text', 'question', 'explanation'].every(key => typeof source[key] === 'string'));
+  if (!validSources(result.relatedSources ?? [])) return false;
+  if (result.verdict === 'insufficient') return result.sources.length === 0;
+  return typeof result.proposition === 'string' && result.sources.length > 0 && validSources(result.sources);
 }
 
 export function installComparison({ requestComparison, sourceOrigin = '', demoExamples = {} } = {}) {
@@ -181,8 +184,16 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
       sources.append(...result.sources.map(reference => renderSource(reference, result.verdict === 'varies', sourceOrigin)));
       nodes.push(sources);
     }
+    if (result.relatedSources?.length) {
+      const sources = node('ul', '', 'comparison-sources');
+      sources.append(...result.relatedSources.map(reference => renderSource(reference, false, sourceOrigin)));
+      nodes.push(node('h3', '참고 조항'), sources);
+    }
     const verdict = verdicts[result.verdict];
-    show(verdict, nodes, verdict + '. 근거 조항 ' + result.sources.length + '개');
+    const count = !result.sources.length && result.relatedSources?.length
+      ? '참고 조항 ' + result.relatedSources.length
+      : '근거 조항 ' + result.sources.length;
+    show(verdict, nodes, verdict + '. ' + count + '개');
   }
 
   async function compare() {
