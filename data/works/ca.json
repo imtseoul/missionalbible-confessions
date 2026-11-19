@@ -38,14 +38,14 @@
   "language_label": "라틴어",
   "coverage_label": "전문",
   "coverage": "complete",
-  "release_id": "public-0.3",
+  "release_id": "public-0.4",
   "source_language": "lat",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/ca/index.html",
   "json_path": "data/works/ca.json",
-  "fixed_html_path": "releases/public-0.3/works/ca/index.html",
+  "fixed_html_path": "releases/public-0.4/works/ca/index.html",
   "source_profile": "ca-rhau1531-iiif-1",
   "base_witness": {
     "id": "rhau1531",
@@ -2526,7 +2526,7 @@
       ],
       "work_passage_id": "ca:pref",
       "html_path": "works/ca/index.html#p-pref",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-pref",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-pref",
       "alignment_revision": "sha256:b3c44cc7712765711e8c8e25d4e2d1c0ea039af015bcdc2bfd668684108a4d28",
       "review_state": {
         "human_reviewed": false,
@@ -2550,9 +2550,9 @@
         "reference": "pref",
         "display_reference": "CA pref",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:dab43579ff19b472c0aa0d370e3c123b79517664a9986ad3d70ff5c74813bb67",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-pref"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-pref"
       }
     },
     {
@@ -3022,7 +3022,7 @@
       ],
       "work_passage_id": "ca:1",
       "html_path": "works/ca/index.html#p-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-1",
       "alignment_revision": "sha256:83788aa07b74519cda135008072732da2d6bfd1c1530bdf50025a40249a1669a",
       "review_state": {
         "human_reviewed": false,
@@ -3046,9 +3046,9 @@
         "reference": "1",
         "display_reference": "CA 1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:626622559bf02630351322ddf3f21273eb82e24953d0191d469aa140af79fef2",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-1"
       }
     },
     {
@@ -3278,7 +3278,7 @@
       ],
       "work_passage_id": "ca:2",
       "html_path": "works/ca/index.html#p-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-2",
       "alignment_revision": "sha256:16c11906a9bff8521f079b86db56816a4807490f21b07add92b48956a0cd36ea",
       "review_state": {
         "human_reviewed": false,
@@ -3302,9 +3302,9 @@
         "reference": "2",
         "display_reference": "CA 2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:18c079ce52ff48abc982eb9f468b8437366777090c51409f177ec9d82daeecc0",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-2"
       }
     },
     {
@@ -3634,7 +3634,7 @@
       ],
       "work_passage_id": "ca:3",
       "html_path": "works/ca/index.html#p-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-3",
       "alignment_revision": "sha256:5fba27a9fc5eb5406b6814cbac473c6855c07fee34f1cc2705936ab34e1aa492",
       "review_state": {
         "human_reviewed": false,
@@ -3658,9 +3658,9 @@
         "reference": "3",
         "display_reference": "CA 3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:e3c21350a4713d845593e086ded60de87ce147b290419d8bccabcbc3502b4016",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-3"
       }
     },
     {
@@ -3815,7 +3815,7 @@
       ],
       "work_passage_id": "ca:4",
       "html_path": "works/ca/index.html#p-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-4",
       "alignment_revision": "sha256:e8b88119c03a7e599172665f46ffcfacf3693257836bf5b2ac7f07a396c3c5b3",
       "review_state": {
         "human_reviewed": false,
@@ -3839,9 +3839,9 @@
         "reference": "4",
         "display_reference": "CA 4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:5dffe7b8feb3c62526cc8fcde4f6d1057bea5780f79c8fba9e7d618181e1606a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-4"
       }
     },
     {
@@ -4044,7 +4044,7 @@
       ],
       "work_passage_id": "ca:5",
       "html_path": "works/ca/index.html#p-5",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-5",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-5",
       "alignment_revision": "sha256:6f700fc2954e848cc8d354f3fe3988d65723eea81c61ec4b72102aefcb583d11",
       "review_state": {
         "human_reviewed": false,
@@ -4068,9 +4068,9 @@
         "reference": "5",
         "display_reference": "CA 5",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:142b3cd1e569a92cec97b53a04b3788de4dd12d9b44802c8c7bbac58a9bc00e7",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-5"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-5"
       }
     },
     {
@@ -4300,7 +4300,7 @@
       ],
       "work_passage_id": "ca:6",
       "html_path": "works/ca/index.html#p-6",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-6",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-6",
       "alignment_revision": "sha256:6b7546beea84eda907621366cd3b7eafadf1d71c54be933a49c3ae65e6573b79",
       "review_state": {
         "human_reviewed": false,
@@ -4324,9 +4324,9 @@
         "reference": "6",
         "display_reference": "CA 6",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:68f62b633aaf94ad315883314479f19917bf9c1174d8915921e5914a0152786f",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-6"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-6"
       }
     },
     {
@@ -4509,7 +4509,7 @@
       ],
       "work_passage_id": "ca:7",
       "html_path": "works/ca/index.html#p-7",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-7",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-7",
       "alignment_revision": "sha256:3631d4138d11d97c4b5c4cea9824043e24117db4e224e271e4720f1266b77ee5",
       "review_state": {
         "human_reviewed": false,
@@ -4533,9 +4533,9 @@
         "reference": "7",
         "display_reference": "CA 7",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:a92a3dfa41c91eed641bc28aac6f1869589f24593e1bb56ed02fc00ee857f80e",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-7"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-7"
       }
     },
     {
@@ -4765,7 +4765,7 @@
       ],
       "work_passage_id": "ca:8",
       "html_path": "works/ca/index.html#p-8",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-8",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-8",
       "alignment_revision": "sha256:85041ea97d0ae18adcfa833b6ae0fa34481e8d986f156a9c4d6286a22f1df799",
       "review_state": {
         "human_reviewed": false,
@@ -4789,9 +4789,9 @@
         "reference": "8",
         "display_reference": "CA 8",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:7d8154e0f1f44cc1491e8dbca8a3176b7229db574796ca4e380e40e27009dd70",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-8"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-8"
       }
     },
     {
@@ -4953,7 +4953,7 @@
       ],
       "work_passage_id": "ca:9",
       "html_path": "works/ca/index.html#p-9",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-9",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-9",
       "alignment_revision": "sha256:5d2f6ef5e3d6eafce9b265b9e37b680a534cad49d9d7deca8b79d6c770f175d0",
       "review_state": {
         "human_reviewed": false,
@@ -4977,9 +4977,9 @@
         "reference": "9",
         "display_reference": "CA 9",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:493755a53484142e88d338443612cedacd26e65e9dedf1d03cabce011f8fca0a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-9"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-9"
       }
     },
     {
@@ -5080,7 +5080,7 @@
       ],
       "work_passage_id": "ca:10",
       "html_path": "works/ca/index.html#p-10",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-10",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-10",
       "alignment_revision": "sha256:d8668936c13f4b2f5cd2cee8ad21ea77384cb2657b698902a933b040bcfe8493",
       "review_state": {
         "human_reviewed": false,
@@ -5104,9 +5104,9 @@
         "reference": "10",
         "display_reference": "CA 10",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:d418d4dacc2a6c6af9f6995ccf45f7189789c3b1c003a6a828850d274d026dfc",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-10"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-10"
       }
     },
     {
@@ -5217,7 +5217,7 @@
       ],
       "work_passage_id": "ca:11",
       "html_path": "works/ca/index.html#p-11",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-11",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-11",
       "alignment_revision": "sha256:d187e20e6885e3819b531cd0555c896e684581cdbef8933d3835b0af1ddbf5ed",
       "review_state": {
         "human_reviewed": false,
@@ -5241,9 +5241,9 @@
         "reference": "11",
         "display_reference": "CA 11",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:3092ebd4f5073aa85813abcf44ee70263f4c8b9a01c4b7064e127f3bbba6b1bf",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-11"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-11"
       }
     },
     {
@@ -5625,7 +5625,7 @@
       ],
       "work_passage_id": "ca:12",
       "html_path": "works/ca/index.html#p-12",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-12",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-12",
       "alignment_revision": "sha256:c2af682c456ea06d7851286884e9a1cea4b610dcd3216a216b93fc9b62d7ae54",
       "review_state": {
         "human_reviewed": false,
@@ -5649,9 +5649,9 @@
         "reference": "12",
         "display_reference": "CA 12",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:1eb5cb195732f1432a56e4375f50dddd60f77cc26b8c4eb5fb06f31eddb05010",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-12"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-12"
       }
     },
     {
@@ -5889,7 +5889,7 @@
       ],
       "work_passage_id": "ca:13",
       "html_path": "works/ca/index.html#p-13",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-13",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-13",
       "alignment_revision": "sha256:21616617bf1c9b881e182b6cc1b1e241888c69813a8700615e0eb5c02058fe71",
       "review_state": {
         "human_reviewed": false,
@@ -5913,9 +5913,9 @@
         "reference": "13",
         "display_reference": "CA 13",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:7870746d0a80b1e1be0d81202e30660fc5380b0c3d2b1477fdb558c2c9a27405",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-13"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-13"
       }
     },
     {
@@ -5994,7 +5994,7 @@
       ],
       "work_passage_id": "ca:14",
       "html_path": "works/ca/index.html#p-14",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-14",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-14",
       "alignment_revision": "sha256:c3ee0170971c56adb39541c0c091641ec08e3ab7ca0364b13d7a146d718e0a9a",
       "review_state": {
         "human_reviewed": false,
@@ -6018,9 +6018,9 @@
         "reference": "14",
         "display_reference": "CA 14",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:343b3a88ac4ab1ff7a121b64d34fe23534958a510a23762a952f7959a3d83391",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-14"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-14"
       }
     },
     {
@@ -6248,7 +6248,7 @@
       "notes": [],
       "work_passage_id": "ca:15",
       "html_path": "works/ca/index.html#p-15",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-15",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-15",
       "alignment_revision": "sha256:8f4071f5b33c59deaede4c91210dca6b3423d5db73873870e0d7cdce78f34937",
       "review_state": {
         "human_reviewed": false,
@@ -6272,9 +6272,9 @@
         "reference": "15",
         "display_reference": "CA 15",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:dc6d3fa513b5258f25067c89d1b5f53da0a4a94bd202e31cd73b75a393b18724",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-15"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-15"
       }
     },
     {
@@ -6641,7 +6641,7 @@
       ],
       "work_passage_id": "ca:16",
       "html_path": "works/ca/index.html#p-16",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-16",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-16",
       "alignment_revision": "sha256:4a79ca3f83fc94734f6ae8ac89a6ac3e04086d5cf2d2db7c37e2eb9f198cf989",
       "review_state": {
         "human_reviewed": false,
@@ -6665,9 +6665,9 @@
         "reference": "16",
         "display_reference": "CA 16",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:32dd72f35d8372046171f44ea5ca4b8c6abfa2930783fead65a76ca9bfcd9526",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-16"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-16"
       }
     },
     {
@@ -6883,7 +6883,7 @@
       ],
       "work_passage_id": "ca:17",
       "html_path": "works/ca/index.html#p-17",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-17",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-17",
       "alignment_revision": "sha256:9b9d5025843adcfdbdbde908682977fc49e0609debb788718714fa9f51cfce2f",
       "review_state": {
         "human_reviewed": false,
@@ -6907,9 +6907,9 @@
         "reference": "17",
         "display_reference": "CA 17",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:07e63b9a098863cf420ef118be87c9790b39a5d0c9d819621dbbcee828440083",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-17"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-17"
       }
     },
     {
@@ -7476,7 +7476,7 @@
       ],
       "work_passage_id": "ca:18",
       "html_path": "works/ca/index.html#p-18",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-18",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-18",
       "alignment_revision": "sha256:52914095ce56fcbf2e369486b7d0a1270b12444a79f1f0736ce103da2ee9e488",
       "review_state": {
         "human_reviewed": false,
@@ -7500,9 +7500,9 @@
         "reference": "18",
         "display_reference": "CA 18",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:4aacfa30849bd70575a42ebe754659a8c6012165631e822b3602b4763cf55d8c",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-18"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-18"
       }
     },
     {
@@ -7634,7 +7634,7 @@
       ],
       "work_passage_id": "ca:19",
       "html_path": "works/ca/index.html#p-19",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-19",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-19",
       "alignment_revision": "sha256:97b01a080508cf61f453a7888ace79840d8610ba7ba1443078034c0d3612c2a9",
       "review_state": {
         "human_reviewed": false,
@@ -7658,9 +7658,9 @@
         "reference": "19",
         "display_reference": "CA 19",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:ba2815df796eb4f1ed75e46b05b84c99830757904b5e8e42348ae6f1e99cc414",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-19"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-19"
       }
     },
     {
@@ -8018,7 +8018,7 @@
       ],
       "work_passage_id": "ca:20.1",
       "html_path": "works/ca/index.html#p-20-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-1",
       "alignment_revision": "sha256:7d7912258aecce0a3947b08134968439efea5dd4a74f6b69f8c571db5bf2dece",
       "review_state": {
         "human_reviewed": false,
@@ -8042,9 +8042,9 @@
         "reference": "20.1",
         "display_reference": "CA 20.1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:cdb0a8438d6cb435f32387499db745760cc728c3588f29c88fe7af82d461a381",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-1"
       }
     },
     {
@@ -8174,7 +8174,7 @@
       "notes": [],
       "work_passage_id": "ca:20.2",
       "html_path": "works/ca/index.html#p-20-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-2",
       "alignment_revision": "sha256:9ed25011d726b7dd8dd49d94fc00c5e8f8a547d150dd520e3ed411cf9cc1fb8b",
       "review_state": {
         "human_reviewed": false,
@@ -8198,9 +8198,9 @@
         "reference": "20.2",
         "display_reference": "CA 20.2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:dac44037a27a9d1940b2b1b0d02bcec14b4518c7f2bdee8e09d0fbe0cae5498a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-2"
       }
     },
     {
@@ -8421,7 +8421,7 @@
       ],
       "work_passage_id": "ca:20.3",
       "html_path": "works/ca/index.html#p-20-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-3",
       "alignment_revision": "sha256:fa695b26a7ea170350a478839164f95e771c042547d145b5c713ec92caf296c7",
       "review_state": {
         "human_reviewed": false,
@@ -8445,9 +8445,9 @@
         "reference": "20.3",
         "display_reference": "CA 20.3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:681c49ff3f2b1727e45dc7f578fe683802c5d019db650cde8b7b8c10a9d76b50",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-3"
       }
     },
     {
@@ -8526,7 +8526,7 @@
       ],
       "work_passage_id": "ca:20.4",
       "html_path": "works/ca/index.html#p-20-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-4",
       "alignment_revision": "sha256:7ca158ff1e9c55ececb0ccc0abc80d176294ffba5d5f318270e8ac8e907f5ec7",
       "review_state": {
         "human_reviewed": false,
@@ -8550,9 +8550,9 @@
         "reference": "20.4",
         "display_reference": "CA 20.4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:00ac42c7359b6ba14e3124d4d0991db7ad4c778ff743622a68c8bf36250690cf",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-4"
       }
     },
     {
@@ -8768,7 +8768,7 @@
       ],
       "work_passage_id": "ca:20.5",
       "html_path": "works/ca/index.html#p-20-5",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-5",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-5",
       "alignment_revision": "sha256:639c1068fb5a92d5fcaddf0d6793729d6f4f5f89e0f09c1a90c4665f2ff9734c",
       "review_state": {
         "human_reviewed": false,
@@ -8792,9 +8792,9 @@
         "reference": "20.5",
         "display_reference": "CA 20.5",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:97bc5a38d8fe14a03244539428ffd72f0d2d5d6640b35504f92010091c2421ea",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-5"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-5"
       }
     },
     {
@@ -9055,7 +9055,7 @@
       ],
       "work_passage_id": "ca:20.6",
       "html_path": "works/ca/index.html#p-20-6",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-6",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-6",
       "alignment_revision": "sha256:f53e48662f975a295f376fb3aca5b7334e08d71e69b248499483bbe5aba952e5",
       "review_state": {
         "human_reviewed": false,
@@ -9079,9 +9079,9 @@
         "reference": "20.6",
         "display_reference": "CA 20.6",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:bf13637f508e3f0e6273fbcd338d401b4e3822edcd1484db7ddac9ab262e29fc",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-6"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-6"
       }
     },
     {
@@ -9308,7 +9308,7 @@
       "notes": [],
       "work_passage_id": "ca:20.7",
       "html_path": "works/ca/index.html#p-20-7",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-7",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-7",
       "alignment_revision": "sha256:3da3c49da6c50cd90a50d54de457abae0bc05c363e9c39bbf117a2342c14a6e4",
       "review_state": {
         "human_reviewed": false,
@@ -9332,9 +9332,9 @@
         "reference": "20.7",
         "display_reference": "CA 20.7",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:22c823fe0ff255882daefedd7d3e12702ec5c820b038cb43f08883b1665b8c41",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-7"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-7"
       }
     },
     {
@@ -9488,7 +9488,7 @@
       ],
       "work_passage_id": "ca:20.8",
       "html_path": "works/ca/index.html#p-20-8",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-8",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-8",
       "alignment_revision": "sha256:60f45f111cf8d5b79e6e7564c48baa50271fe737a9d8ea921db3d3bd01143445",
       "review_state": {
         "human_reviewed": false,
@@ -9512,9 +9512,9 @@
         "reference": "20.8",
         "display_reference": "CA 20.8",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:a81ae49f89191528b9e07f943367292312629d2f976499d87244e6426680c60a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-8"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-8"
       }
     },
     {
@@ -9741,7 +9741,7 @@
       "notes": [],
       "work_passage_id": "ca:20.9",
       "html_path": "works/ca/index.html#p-20-9",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-9",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-9",
       "alignment_revision": "sha256:eb90570e847097fa03e70eb8bcb2596decd980a818739f9e7c1a6a99eb37a1e1",
       "review_state": {
         "human_reviewed": false,
@@ -9765,9 +9765,9 @@
         "reference": "20.9",
         "display_reference": "CA 20.9",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:8e5c5c37c35d6e576a9dc1904537bdf55e44acbf9833c06bae0899bc4355518d",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-9"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-9"
       }
     },
     {
@@ -10098,7 +10098,7 @@
       ],
       "work_passage_id": "ca:20.10",
       "html_path": "works/ca/index.html#p-20-10",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-10",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-10",
       "alignment_revision": "sha256:93076f1f3eab7a6346c6d14d9a40165e553775e4f2d4d606ad429df9a10587d0",
       "review_state": {
         "human_reviewed": false,
@@ -10122,9 +10122,9 @@
         "reference": "20.10",
         "display_reference": "CA 20.10",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:3871954c2034f3e5bc38a2b403fb90b49b47302a882ec64890058174dc7eaa47",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-10"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-10"
       }
     },
     {
@@ -10381,7 +10381,7 @@
       ],
       "work_passage_id": "ca:20.11",
       "html_path": "works/ca/index.html#p-20-11",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-20-11",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-20-11",
       "alignment_revision": "sha256:c359a57f1821b71f3250c9fdf9c6b1fec3dd1b579b5523df791d50e5337995d9",
       "review_state": {
         "human_reviewed": false,
@@ -10405,9 +10405,9 @@
         "reference": "20.11",
         "display_reference": "CA 20.11",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:95aec6835e3d00c5f19a3a237a8a8c36c98669c1677868065c6c03134f6691cc",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-20-11"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-20-11"
       }
     },
     {
@@ -10659,7 +10659,7 @@
       ],
       "work_passage_id": "ca:21",
       "html_path": "works/ca/index.html#p-21",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-21",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-21",
       "alignment_revision": "sha256:e46040e12891db2a35bcf499ac5a8fe05a6e3488c53667c016e52d1315521956",
       "review_state": {
         "human_reviewed": false,
@@ -10683,9 +10683,9 @@
         "reference": "21",
         "display_reference": "CA 21",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:9af85823a79c0931107ec725791b21aa5b341525c462bc4e0ad2dd738ef475c3",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-21"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-21"
       }
     },
     {
@@ -11065,7 +11065,7 @@
       ],
       "work_passage_id": "ca:epil1",
       "html_path": "works/ca/index.html#p-epil1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-epil1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-epil1",
       "alignment_revision": "sha256:5d17130836ffb267b3cc960a99de998d4ebde0ccb238e16c750147d1f4736090",
       "review_state": {
         "human_reviewed": false,
@@ -11089,9 +11089,9 @@
         "reference": "epil1",
         "display_reference": "CA epil1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:8fb1253639b37ecb7834cbb73ae5e98c541b4b63b53f501aca8ac7ced75e5cd5",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-epil1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-epil1"
       }
     },
     {
@@ -11497,7 +11497,7 @@
       ],
       "work_passage_id": "ca:pref2",
       "html_path": "works/ca/index.html#p-pref2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-pref2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-pref2",
       "alignment_revision": "sha256:f95877395b5acd470ec682427bb091b7172920d6b855ff764a906a2d58bde0a4",
       "review_state": {
         "human_reviewed": false,
@@ -11521,9 +11521,9 @@
         "reference": "pref2",
         "display_reference": "CA pref2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:c1dd77be4084e91b28f613b769be573f80ed333c795c35327439b1ccaf0fb955",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-pref2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-pref2"
       }
     },
     {
@@ -12064,7 +12064,7 @@
       ],
       "work_passage_id": "ca:22",
       "html_path": "works/ca/index.html#p-22",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-22",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-22",
       "alignment_revision": "sha256:f7136bd85a3c5b4cb091e6f680c88f3eb57a2ee09e07f8fc2a11b575ae40a899",
       "review_state": {
         "human_reviewed": false,
@@ -12088,9 +12088,9 @@
         "reference": "22",
         "display_reference": "CA 22",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:5b246bbbeee388ce169681b0c59913ec5af26de976003b8df5f13454e69a42bd",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-22"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-22"
       }
     },
     {
@@ -12741,7 +12741,7 @@
       ],
       "work_passage_id": "ca:23.1",
       "html_path": "works/ca/index.html#p-23-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-23-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-23-1",
       "alignment_revision": "sha256:d13bc67b4126ba059082a3d01c878a543a6ded6f30f02e24c01d73baf7dddca1",
       "review_state": {
         "human_reviewed": false,
@@ -12765,9 +12765,9 @@
         "reference": "23.1",
         "display_reference": "CA 23.1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:7178d8988ae5d8dc253f39f77c36d3381177574b3e356c0e666a50be8d4d1f6c",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-23-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-23-1"
       }
     },
     {
@@ -12960,7 +12960,7 @@
       ],
       "work_passage_id": "ca:23.2",
       "html_path": "works/ca/index.html#p-23-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-23-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-23-2",
       "alignment_revision": "sha256:b43d2967ac245425df899da90693cc594c7d79864d83d782ad8ad245de0af69e",
       "review_state": {
         "human_reviewed": false,
@@ -12984,9 +12984,9 @@
         "reference": "23.2",
         "display_reference": "CA 23.2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:a63ab57c370b340b6059cec9a1c226d56f75825d2c4652cc02c3d46184b8f31b",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-23-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-23-2"
       }
     },
     {
@@ -13251,7 +13251,7 @@
       ],
       "work_passage_id": "ca:23.3",
       "html_path": "works/ca/index.html#p-23-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-23-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-23-3",
       "alignment_revision": "sha256:477f3546583447c7e8e48679f3cda5b8f170aa9e6390ac41227e37effe5429b8",
       "review_state": {
         "human_reviewed": false,
@@ -13275,9 +13275,9 @@
         "reference": "23.3",
         "display_reference": "CA 23.3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:71b7ab3aa986d5f49cd4eb24f1c4656e5b8a21658af40ce73c367b565e2f55b3",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-23-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-23-3"
       }
     },
     {
@@ -13493,7 +13493,7 @@
       ],
       "work_passage_id": "ca:23.4",
       "html_path": "works/ca/index.html#p-23-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-23-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-23-4",
       "alignment_revision": "sha256:2539be133a2374e5fdb07c9ef944e291d29c6c10c4ebc5607a5313cfe7d027aa",
       "review_state": {
         "human_reviewed": false,
@@ -13517,9 +13517,9 @@
         "reference": "23.4",
         "display_reference": "CA 23.4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:8d081c4211f1abb7aa25ffb3aa44c429ee441cbb5f29e9584d22c9537c73bcf5",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-23-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-23-4"
       }
     },
     {
@@ -13739,7 +13739,7 @@
       ],
       "work_passage_id": "ca:24.1",
       "html_path": "works/ca/index.html#p-24-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-1",
       "alignment_revision": "sha256:7270157578d845407dc11dfd84396a7869e624a1ec23a3dd3b00d76f1ef6fb63",
       "review_state": {
         "human_reviewed": false,
@@ -13763,9 +13763,9 @@
         "reference": "24.1",
         "display_reference": "CA 24.1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:733b20aeb9853913f5d2af3646cf07a851d136083d6194197a551ea78c6b7f75",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-1"
       }
     },
     {
@@ -13979,7 +13979,7 @@
       "notes": [],
       "work_passage_id": "ca:24.2",
       "html_path": "works/ca/index.html#p-24-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-2",
       "alignment_revision": "sha256:aa1979658d61a2359e3f6e4f4f0550d06c6f003f2f3ac97e05be61751febdb5b",
       "review_state": {
         "human_reviewed": false,
@@ -14003,9 +14003,9 @@
         "reference": "24.2",
         "display_reference": "CA 24.2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:fcbc3b9afbab0bcb7adfac4e84708054e6ecf1a9e570a7e5241542955f08ba92",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-2"
       }
     },
     {
@@ -14262,7 +14262,7 @@
       ],
       "work_passage_id": "ca:24.3",
       "html_path": "works/ca/index.html#p-24-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-3",
       "alignment_revision": "sha256:fc7bc7fda61d6a8100abcafa4b1e78c4d1c291cbea0e7e96079f618cf52b3521",
       "review_state": {
         "human_reviewed": false,
@@ -14286,9 +14286,9 @@
         "reference": "24.3",
         "display_reference": "CA 24.3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:526b192bc617bf9ccebd3a323421d2a3805dff95174636ea3a5ada2459180aab",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-3"
       }
     },
     {
@@ -14579,7 +14579,7 @@
       ],
       "work_passage_id": "ca:24.4",
       "html_path": "works/ca/index.html#p-24-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-4",
       "alignment_revision": "sha256:fb198f1ca82fa4617d491682509714bb861e3fd0509a79b8e9e749cb74f2b1a7",
       "review_state": {
         "human_reviewed": false,
@@ -14603,9 +14603,9 @@
         "reference": "24.4",
         "display_reference": "CA 24.4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:ef9065dd77afd4519af71999445f027cded9911904b15084502267e28393ab14",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-4"
       }
     },
     {
@@ -14799,7 +14799,7 @@
       ],
       "work_passage_id": "ca:24.5",
       "html_path": "works/ca/index.html#p-24-5",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-5",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-5",
       "alignment_revision": "sha256:900db45c7192d066497818d07235ca4339337c986920cf21d21797875435e4b9",
       "review_state": {
         "human_reviewed": false,
@@ -14823,9 +14823,9 @@
         "reference": "24.5",
         "display_reference": "CA 24.5",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:fd30eb2e463c8ebe76b5cb5caa6fd067dcdbf2541032dde0a6132f6dda056992",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-5"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-5"
       }
     },
     {
@@ -14975,7 +14975,7 @@
       ],
       "work_passage_id": "ca:24.6",
       "html_path": "works/ca/index.html#p-24-6",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-6",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-6",
       "alignment_revision": "sha256:cda94ee49f72491820643237b37829ed9c5a49be6363ad62bb2831043c25cbef",
       "review_state": {
         "human_reviewed": false,
@@ -14999,9 +14999,9 @@
         "reference": "24.6",
         "display_reference": "CA 24.6",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:d98f9f382e8d5ac145e35449a8051c8865d45441c5f0f8217e866f01468b039e",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-6"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-6"
       }
     },
     {
@@ -15131,7 +15131,7 @@
       "notes": [],
       "work_passage_id": "ca:24.7",
       "html_path": "works/ca/index.html#p-24-7",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-7",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-7",
       "alignment_revision": "sha256:954553a4981134ebbdf991bce6a5b26e7de86e3dd3c2509535bd1d942938c04a",
       "review_state": {
         "human_reviewed": false,
@@ -15155,9 +15155,9 @@
         "reference": "24.7",
         "display_reference": "CA 24.7",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:e688dd48e00ceeb08b9b59b0b680d72c94da73a8602a9090ba12255b4b100e6a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-7"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-7"
       }
     },
     {
@@ -15373,7 +15373,7 @@
       ],
       "work_passage_id": "ca:24.8",
       "html_path": "works/ca/index.html#p-24-8",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-8",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-8",
       "alignment_revision": "sha256:9c0efa346d21fe7bb95e62d6ded35598511a1275990cd6cefdc61b28d381da4c",
       "review_state": {
         "human_reviewed": false,
@@ -15397,9 +15397,9 @@
         "reference": "24.8",
         "display_reference": "CA 24.8",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:5f9c5454f32f0285cc38454df363c3e6f2f02f1c8b9c53c002bf1223c510bee7",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-8"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-8"
       }
     },
     {
@@ -15744,7 +15744,7 @@
       ],
       "work_passage_id": "ca:24.9",
       "html_path": "works/ca/index.html#p-24-9",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-9",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-9",
       "alignment_revision": "sha256:a89b3f58bf1ca8addf6826ab29e677170c4bb7db05598ad950e55636e4b0b0a0",
       "review_state": {
         "human_reviewed": false,
@@ -15768,9 +15768,9 @@
         "reference": "24.9",
         "display_reference": "CA 24.9",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:f0dc2bb490f9b5a6dc9ef3d3de50362907128ce134ffda02a81928d909a82132",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-9"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-9"
       }
     },
     {
@@ -16021,7 +16021,7 @@
       ],
       "work_passage_id": "ca:24.10",
       "html_path": "works/ca/index.html#p-24-10",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-24-10",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-24-10",
       "alignment_revision": "sha256:e337cb449a6cc62cb4a08b86e29d298e8ed209cc7755c59c5f1be16bb4f16bbf",
       "review_state": {
         "human_reviewed": false,
@@ -16045,9 +16045,9 @@
         "reference": "24.10",
         "display_reference": "CA 24.10",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:aa962e845dbe92889d684bca76e2388edf62bd9f8cca3dcb83aaa2b97b5026d0",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-24-10"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-24-10"
       }
     },
     {
@@ -16776,7 +16776,7 @@
       ],
       "work_passage_id": "ca:25",
       "html_path": "works/ca/index.html#p-25",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-25",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-25",
       "alignment_revision": "sha256:6bde64a6fe67c0ea8925cef7b95e61dccd223bdbfce48b009ac9446bef4ff230",
       "review_state": {
         "human_reviewed": false,
@@ -16800,9 +16800,9 @@
         "reference": "25",
         "display_reference": "CA 25",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:293455611805731ba4a9c3b35d807094a4f81c12979a84b8415a99d09039e748",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-25"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-25"
       }
     },
     {
@@ -17038,7 +17038,7 @@
       "notes": [],
       "work_passage_id": "ca:26.1",
       "html_path": "works/ca/index.html#p-26-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-1",
       "alignment_revision": "sha256:d4df3a7ce8c13f8c8d2e1374b66ddaa9a64577d31f7be7ab853b82f8ab61dc5f",
       "review_state": {
         "human_reviewed": false,
@@ -17062,9 +17062,9 @@
         "reference": "26.1",
         "display_reference": "CA 26.1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:bb2cb2e3e7e337e89ddbf9191d38329afe0c5d7864de4b5d0ae78985dc6d88fc",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-1"
       }
     },
     {
@@ -17371,7 +17371,7 @@
       "notes": [],
       "work_passage_id": "ca:26.2",
       "html_path": "works/ca/index.html#p-26-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-2",
       "alignment_revision": "sha256:1322b5e81016b74144a7cb0abe998d424e59abc13b6722fc18630ee8ca1606bd",
       "review_state": {
         "human_reviewed": false,
@@ -17395,9 +17395,9 @@
         "reference": "26.2",
         "display_reference": "CA 26.2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:c08ce91d2f9c53ae95af46acea8cfc0d4ae81ca177295bafe4d9ee36272cb1ce",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-2"
       }
     },
     {
@@ -17691,7 +17691,7 @@
       "notes": [],
       "work_passage_id": "ca:26.3",
       "html_path": "works/ca/index.html#p-26-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-3",
       "alignment_revision": "sha256:09015570b8756ea8008245f8feff7eb50636247a663b9c4f0a2240833dfa1795",
       "review_state": {
         "human_reviewed": false,
@@ -17715,9 +17715,9 @@
         "reference": "26.3",
         "display_reference": "CA 26.3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:84d7f5d1efdb67b1b4ea6cbacf1324f517fe36871202880c7762b2a512c12115",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-3"
       }
     },
     {
@@ -17880,7 +17880,7 @@
       ],
       "work_passage_id": "ca:26.4",
       "html_path": "works/ca/index.html#p-26-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-4",
       "alignment_revision": "sha256:feb8930fa314e52c23cb8e6a01031d858e3ad726aa80f56ddc1d94157e83cf6f",
       "review_state": {
         "human_reviewed": false,
@@ -17904,9 +17904,9 @@
         "reference": "26.4",
         "display_reference": "CA 26.4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:48d5111fcb40d603de5a4e7f7e699b335eadc2a1097e0e8bb17646a8a77266f5",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-4"
       }
     },
     {
@@ -18198,7 +18198,7 @@
       ],
       "work_passage_id": "ca:26.5",
       "html_path": "works/ca/index.html#p-26-5",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-5",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-5",
       "alignment_revision": "sha256:a5f818d62a8a89514bb66b0413bab917fcab5062457be055a744a9c6b6b27d41",
       "review_state": {
         "human_reviewed": false,
@@ -18222,9 +18222,9 @@
         "reference": "26.5",
         "display_reference": "CA 26.5",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:e28eecf83932fe92d199a8c65eec0906ab6daaf59204c39e1dab684320add8d1",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-5"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-5"
       }
     },
     {
@@ -18372,7 +18372,7 @@
       "notes": [],
       "work_passage_id": "ca:26.6",
       "html_path": "works/ca/index.html#p-26-6",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-6",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-6",
       "alignment_revision": "sha256:1f5b77ff969eab6a865fd919a015b7825abb959291d741d6e8fa390875cd73b9",
       "review_state": {
         "human_reviewed": false,
@@ -18396,9 +18396,9 @@
         "reference": "26.6",
         "display_reference": "CA 26.6",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:6660496ab2d9a0dd0c6807538b41de24aff6750b0c6da20b6534f6a2c6984d72",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-6"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-6"
       }
     },
     {
@@ -18493,7 +18493,7 @@
       "notes": [],
       "work_passage_id": "ca:26.7",
       "html_path": "works/ca/index.html#p-26-7",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-7",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-7",
       "alignment_revision": "sha256:af2e2fb49f957176e2cabbdce15fffa20c061b3371c2f0c9761da15718e2e3ee",
       "review_state": {
         "human_reviewed": false,
@@ -18517,9 +18517,9 @@
         "reference": "26.7",
         "display_reference": "CA 26.7",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:e9f9c0d120a0907721c871c5d1b2a905647874d5144ae60f7f50cfc3f3beab3a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-7"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-7"
       }
     },
     {
@@ -18898,7 +18898,7 @@
       ],
       "work_passage_id": "ca:26.8",
       "html_path": "works/ca/index.html#p-26-8",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-8",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-8",
       "alignment_revision": "sha256:4c64df26ed764072ccb86101f4242e6a03f72c273bd83171fce61b83bdd8002f",
       "review_state": {
         "human_reviewed": false,
@@ -18922,9 +18922,9 @@
         "reference": "26.8",
         "display_reference": "CA 26.8",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:96339f40ad8c5bb6ebd9f53ff358b90339f21d8fb7fd3c7e79539f54ac8ce6fa",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-8"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-8"
       }
     },
     {
@@ -19034,7 +19034,7 @@
       ],
       "work_passage_id": "ca:26.9",
       "html_path": "works/ca/index.html#p-26-9",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-9",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-9",
       "alignment_revision": "sha256:993e7271eb22a69c8c22af8839e34c5e1de2e749d26af22e5fc0a06709c2a076",
       "review_state": {
         "human_reviewed": false,
@@ -19058,9 +19058,9 @@
         "reference": "26.9",
         "display_reference": "CA 26.9",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:8cd6536ca6f9f62e2f00e10b1ff87c7276365e3bc78d303706fe8b196639151e",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-9"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-9"
       }
     },
     {
@@ -19201,7 +19201,7 @@
       ],
       "work_passage_id": "ca:26.10",
       "html_path": "works/ca/index.html#p-26-10",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-10",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-10",
       "alignment_revision": "sha256:ba235685d56b594cffaf29e1eeba8419acbecddd687f324205d98d9469c58de5",
       "review_state": {
         "human_reviewed": false,
@@ -19225,9 +19225,9 @@
         "reference": "26.10",
         "display_reference": "CA 26.10",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:43c8d4e3c7c43047f1b351aa00b2048bb235c9afab299779d8945105aa90bfeb",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-10"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-10"
       }
     },
     {
@@ -19567,7 +19567,7 @@
       ],
       "work_passage_id": "ca:26.11",
       "html_path": "works/ca/index.html#p-26-11",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-11",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-11",
       "alignment_revision": "sha256:cd2baf8ea55e5b4909c7628ae0db4ad03a94db5c1c3ef34b729ae0dec35c9646",
       "review_state": {
         "human_reviewed": false,
@@ -19591,9 +19591,9 @@
         "reference": "26.11",
         "display_reference": "CA 26.11",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:24e164e28c7d22d719dc3d7e05250dacc051284cc9cefbc0983f4eed56ff5c3d",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-11"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-11"
       }
     },
     {
@@ -19946,7 +19946,7 @@
       ],
       "work_passage_id": "ca:26.12",
       "html_path": "works/ca/index.html#p-26-12",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-26-12",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-26-12",
       "alignment_revision": "sha256:210ed39552716d21111232de02369e7ca369de7d0b09460148a15e768c811b67",
       "review_state": {
         "human_reviewed": false,
@@ -19970,9 +19970,9 @@
         "reference": "26.12",
         "display_reference": "CA 26.12",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:50b22a9545bb53e208b3c47715d7361039fe1695f116ce93bd08ac71c9e8ebb4",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-26-12"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-26-12"
       }
     },
     {
@@ -20411,7 +20411,7 @@
       "notes": [],
       "work_passage_id": "ca:27.1",
       "html_path": "works/ca/index.html#p-27-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-1",
       "alignment_revision": "sha256:bee823d964c7bf1e8b3e549105eac4721fe316756c1ad335ad3ff95f37f89eb6",
       "review_state": {
         "human_reviewed": false,
@@ -20435,9 +20435,9 @@
         "reference": "27.1",
         "display_reference": "CA 27.1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:388d3a4b8a31a35d7cc5423539fd61555501b011bbcd44af16136e6bb28459ca",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-1"
       }
     },
     {
@@ -20622,7 +20622,7 @@
       ],
       "work_passage_id": "ca:27.2",
       "html_path": "works/ca/index.html#p-27-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-2",
       "alignment_revision": "sha256:a90bb5f1defecdfc40492b2527851a4aa4b9cf9118ce8e74742ee799a30ea128",
       "review_state": {
         "human_reviewed": false,
@@ -20646,9 +20646,9 @@
         "reference": "27.2",
         "display_reference": "CA 27.2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:fb922606bc8b69621adf5c7ea284b0cf58281d69506f5ee397b0c33862762e93",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-2"
       }
     },
     {
@@ -20780,7 +20780,7 @@
       ],
       "work_passage_id": "ca:27.3",
       "html_path": "works/ca/index.html#p-27-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-3",
       "alignment_revision": "sha256:4508a47e45dfe652f70a0a0c3cbdde9c8ac5dbef26071f00c54019749b45d0dd",
       "review_state": {
         "human_reviewed": false,
@@ -20804,9 +20804,9 @@
         "reference": "27.3",
         "display_reference": "CA 27.3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:42ea4d19e5ef08285651a60998f0a92064b8850119ab9841bdc141b48495c94b",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-3"
       }
     },
     {
@@ -21002,7 +21002,7 @@
       "notes": [],
       "work_passage_id": "ca:27.4",
       "html_path": "works/ca/index.html#p-27-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-4",
       "alignment_revision": "sha256:6b82ab3e9e5ea50632455d5c5d6d49bdb775d824e7a8ed3945e1313396ee8830",
       "review_state": {
         "human_reviewed": false,
@@ -21026,9 +21026,9 @@
         "reference": "27.4",
         "display_reference": "CA 27.4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:7c6f1ef44d5e2f01118c8fbfd4046f4452dc8de04560e318d72f1b368ff8163b",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-4"
       }
     },
     {
@@ -21341,7 +21341,7 @@
       ],
       "work_passage_id": "ca:27.5",
       "html_path": "works/ca/index.html#p-27-5",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-5",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-5",
       "alignment_revision": "sha256:4ef4d5342ea8cc197e71f359f61efd716c6a76d96108726d149c2364419ae057",
       "review_state": {
         "human_reviewed": false,
@@ -21365,9 +21365,9 @@
         "reference": "27.5",
         "display_reference": "CA 27.5",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:6b6c69b9c1efe9da3e4eda6064b159d6ad4a240d022e86c9bcb1af410bde7318",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-5"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-5"
       }
     },
     {
@@ -21454,7 +21454,7 @@
       ],
       "work_passage_id": "ca:27.6",
       "html_path": "works/ca/index.html#p-27-6",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-6",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-6",
       "alignment_revision": "sha256:4fc1e5a75ddc37fbb2504a6da56e403b4f32e887015de94d3dc2bcdb4eb0c707",
       "review_state": {
         "human_reviewed": false,
@@ -21478,9 +21478,9 @@
         "reference": "27.6",
         "display_reference": "CA 27.6",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:54c68274a711c5584b35ea3a242cb97b9c85d102469013be2910ea4ba9779f2d",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-6"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-6"
       }
     },
     {
@@ -21661,7 +21661,7 @@
       ],
       "work_passage_id": "ca:27.7",
       "html_path": "works/ca/index.html#p-27-7",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-7",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-7",
       "alignment_revision": "sha256:0b784facded4017230f531f4da866a39a6cb6480673cb92f3361325f1927ef00",
       "review_state": {
         "human_reviewed": false,
@@ -21685,9 +21685,9 @@
         "reference": "27.7",
         "display_reference": "CA 27.7",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:d2718b59ff885d2c7f21cf541656611a3c4ead2d00e78ddf73d79126c329c860",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-7"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-7"
       }
     },
     {
@@ -21925,7 +21925,7 @@
       ],
       "work_passage_id": "ca:27.8",
       "html_path": "works/ca/index.html#p-27-8",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-8",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-8",
       "alignment_revision": "sha256:588797c51302194990a546e99f4d84b7097811068857531af07aebcbdfe41f61",
       "review_state": {
         "human_reviewed": false,
@@ -21949,9 +21949,9 @@
         "reference": "27.8",
         "display_reference": "CA 27.8",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:bbfd786ea9802ef647729ada3128181c56cfb108ccddf787e3fc9f64287079a1",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-8"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-8"
       }
     },
     {
@@ -22099,7 +22099,7 @@
       "notes": [],
       "work_passage_id": "ca:27.9",
       "html_path": "works/ca/index.html#p-27-9",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-9",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-9",
       "alignment_revision": "sha256:61c667d8c4811adbbef82edd95032f88473ae53ffd93e1f17c72dddf9b0366a1",
       "review_state": {
         "human_reviewed": false,
@@ -22123,9 +22123,9 @@
         "reference": "27.9",
         "display_reference": "CA 27.9",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:d89b65ff9762023621bb31fba707dc4b1a61d4bd77244688e59e4ca772b701f9",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-9"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-9"
       }
     },
     {
@@ -22257,7 +22257,7 @@
       ],
       "work_passage_id": "ca:27.10",
       "html_path": "works/ca/index.html#p-27-10",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-10",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-10",
       "alignment_revision": "sha256:2b41df91369e3d02f2a9417d9b70889a376b4e214dd1d54699a358759865468a",
       "review_state": {
         "human_reviewed": false,
@@ -22281,9 +22281,9 @@
         "reference": "27.10",
         "display_reference": "CA 27.10",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:7489d4ccddd7279d75df6faa993464a0151790950832f1d5308630dfc0248f60",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-10"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-10"
       }
     },
     {
@@ -22486,7 +22486,7 @@
       ],
       "work_passage_id": "ca:27.11",
       "html_path": "works/ca/index.html#p-27-11",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-11",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-11",
       "alignment_revision": "sha256:140d29f5fd4850479c80035ba07bb030c0275743cb99e62a840b164990c6868f",
       "review_state": {
         "human_reviewed": false,
@@ -22510,9 +22510,9 @@
         "reference": "27.11",
         "display_reference": "CA 27.11",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:bc9f68f2f2516dd5e5c563f6a10da056b27810183439bd0e60893433520ac93a",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-11"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-11"
       }
     },
     {
@@ -22682,7 +22682,7 @@
       "notes": [],
       "work_passage_id": "ca:27.12",
       "html_path": "works/ca/index.html#p-27-12",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-12",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-12",
       "alignment_revision": "sha256:b59e111ce29a7caa17cc239f6ec9a69a529df61bc7d7ca774eefbddb06cfc5c9",
       "review_state": {
         "human_reviewed": false,
@@ -22706,9 +22706,9 @@
         "reference": "27.12",
         "display_reference": "CA 27.12",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:da204d9da0b3122231283f43f6ec90238ee15c8b252a22d0c1c0f15c3166ba9d",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-12"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-12"
       }
     },
     {
@@ -23088,7 +23088,7 @@
       ],
       "work_passage_id": "ca:27.13",
       "html_path": "works/ca/index.html#p-27-13",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-13",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-13",
       "alignment_revision": "sha256:33bdaf0755b45ffa926a2d72a55e59599e9b30bb498aae9312baa58b5318224e",
       "review_state": {
         "human_reviewed": false,
@@ -23112,9 +23112,9 @@
         "reference": "27.13",
         "display_reference": "CA 27.13",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:8aa0fccd899ca237d84de438be829ef988d05fe7c5af9c5222f6dbb3ad778579",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-13"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-13"
       }
     },
     {
@@ -23511,7 +23511,7 @@
       ],
       "work_passage_id": "ca:27.14",
       "html_path": "works/ca/index.html#p-27-14",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-14",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-14",
       "alignment_revision": "sha256:b8ccb17fceac131057b574c86687d4814e10b758b789e0a7911864b07f0192ed",
       "review_state": {
         "human_reviewed": false,
@@ -23535,9 +23535,9 @@
         "reference": "27.14",
         "display_reference": "CA 27.14",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:1114ae9c642d0b659201eb5a466c495b95ab235022cb5da15dd48507cc585647",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-14"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-14"
       }
     },
     {
@@ -23769,7 +23769,7 @@
       "notes": [],
       "work_passage_id": "ca:27.15",
       "html_path": "works/ca/index.html#p-27-15",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-15",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-15",
       "alignment_revision": "sha256:af424743e57fd0a12ba76615f411c7774f592b5b0344b8b55321e21e44e2792c",
       "review_state": {
         "human_reviewed": false,
@@ -23793,9 +23793,9 @@
         "reference": "27.15",
         "display_reference": "CA 27.15",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:c865ba38a62c5bb3101ba308fdb0f5b6c4974557bfe79283b1090d8fc2000111",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-15"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-15"
       }
     },
     {
@@ -23905,7 +23905,7 @@
       ],
       "work_passage_id": "ca:27.16",
       "html_path": "works/ca/index.html#p-27-16",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-27-16",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-27-16",
       "alignment_revision": "sha256:b1f203b6636dde3c49951c6f55e2e9be751822e81cb0970ea75df586dfd727b1",
       "review_state": {
         "human_reviewed": false,
@@ -23929,9 +23929,9 @@
         "reference": "27.16",
         "display_reference": "CA 27.16",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:3762203632656f4e6835f7bee3834fb8f6fb24853487b7c85864b506144ae320",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-27-16"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-27-16"
       }
     },
     {
@@ -24241,7 +24241,7 @@
       ],
       "work_passage_id": "ca:28.1",
       "html_path": "works/ca/index.html#p-28-1",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-1",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-1",
       "alignment_revision": "sha256:6e416d3000f5a3e2af61f6df6e31adaa13e0fbbecef526b199c6e7015b77a422",
       "review_state": {
         "human_reviewed": false,
@@ -24265,9 +24265,9 @@
         "reference": "28.1",
         "display_reference": "CA 28.1",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:52d71bd5b23d581b68eb7c46601be3221a468aa9a475760449300642c6a9ab91",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-1"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-1"
       }
     },
     {
@@ -24474,7 +24474,7 @@
       ],
       "work_passage_id": "ca:28.2",
       "html_path": "works/ca/index.html#p-28-2",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-2",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-2",
       "alignment_revision": "sha256:152342cd4de61026786659062c16faf41f94d1c9942fa073f3d57e1d00ac9e94",
       "review_state": {
         "human_reviewed": false,
@@ -24498,9 +24498,9 @@
         "reference": "28.2",
         "display_reference": "CA 28.2",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:2dfe9f304080bf5d1b3e519dd9a9f140d21c05e19843081b3ec927eea1c3f097",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-2"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-2"
       }
     },
     {
@@ -24796,7 +24796,7 @@
       ],
       "work_passage_id": "ca:28.3",
       "html_path": "works/ca/index.html#p-28-3",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-3",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-3",
       "alignment_revision": "sha256:0e72ef4dbe2acc527e97e12a9cfeb112e84e6de6a26b6b42b5726c23fd2c32d2",
       "review_state": {
         "human_reviewed": false,
@@ -24820,9 +24820,9 @@
         "reference": "28.3",
         "display_reference": "CA 28.3",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:8fce3a328dfb891979e765f8da4c8612799a84d748f18b2a245a792144eaae1e",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-3"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-3"
       }
     },
     {
@@ -25144,7 +25144,7 @@
       ],
       "work_passage_id": "ca:28.4",
       "html_path": "works/ca/index.html#p-28-4",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-4",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-4",
       "alignment_revision": "sha256:f8c0fe0da61cc038e6a0c6c561b4367c9ca99ff44e0f8f5bc4330c87bfc15fe9",
       "review_state": {
         "human_reviewed": false,
@@ -25168,9 +25168,9 @@
         "reference": "28.4",
         "display_reference": "CA 28.4",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:5c2896a02ec3dda6c5ab5b187d81a146aaaeb30771c374a0ed7fe23805373845",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-4"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-4"
       }
     },
     {
@@ -25300,7 +25300,7 @@
       "notes": [],
       "work_passage_id": "ca:28.5",
       "html_path": "works/ca/index.html#p-28-5",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-5",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-5",
       "alignment_revision": "sha256:60a0cbc1a98e273a13335a03b983c7ae151c8b79693b98e9a84d12d005a2ecdd",
       "review_state": {
         "human_reviewed": false,
@@ -25324,9 +25324,9 @@
         "reference": "28.5",
         "display_reference": "CA 28.5",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:7ddb641afa408a7c48b2cbc91590109941a195ff0820cf693be930e89b7918c0",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-5"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-5"
       }
     },
     {
@@ -25586,7 +25586,7 @@
       ],
       "work_passage_id": "ca:28.6",
       "html_path": "works/ca/index.html#p-28-6",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-6",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-6",
       "alignment_revision": "sha256:d1f397524ca7391d22251455f0cab0f8af208317604f892143fbefab90267cef",
       "review_state": {
         "human_reviewed": false,
@@ -25610,9 +25610,9 @@
         "reference": "28.6",
         "display_reference": "CA 28.6",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:d20c93d690b42b05faa0d9ef5b74ce1d937779879e79c489396e21f4e3bda8de",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-6"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-6"
       }
     },
     {
@@ -25873,7 +25873,7 @@
       ],
       "work_passage_id": "ca:28.7",
       "html_path": "works/ca/index.html#p-28-7",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-7",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-7",
       "alignment_revision": "sha256:6f5622c3af4c35ab7a47a80dc05db69bb67252b34c6aede112f9a173bd09494c",
       "review_state": {
         "human_reviewed": false,
@@ -25897,9 +25897,9 @@
         "reference": "28.7",
         "display_reference": "CA 28.7",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:ab10414dcdb45d8a8b85df7770b6795141ff8cd20f135aef3e56f2a08c1510bb",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-7"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-7"
       }
     },
     {
@@ -26018,7 +26018,7 @@
       ],
       "work_passage_id": "ca:28.8",
       "html_path": "works/ca/index.html#p-28-8",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-8",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-8",
       "alignment_revision": "sha256:df15122f22dfee9800661ace534f2ea158564c78588e6cebb87049adf6c6c59a",
       "review_state": {
         "human_reviewed": false,
@@ -26042,9 +26042,9 @@
         "reference": "28.8",
         "display_reference": "CA 28.8",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:329642d509b04a1f7855d175c9fbd17f9cca0660c1799ff147eb292cc1ae3646",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-8"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-8"
       }
     },
     {
@@ -26313,7 +26313,7 @@
       ],
       "work_passage_id": "ca:28.9",
       "html_path": "works/ca/index.html#p-28-9",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-9",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-9",
       "alignment_revision": "sha256:10d94b9c3ddb5933ea58c3cfed44d538c1b609736db1e1a0e31631eba32e18f5",
       "review_state": {
         "human_reviewed": false,
@@ -26337,9 +26337,9 @@
         "reference": "28.9",
         "display_reference": "CA 28.9",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:21a6bbe1a8979df4ce369350a5ca978a9660ce26689fa3175690f8f15e8544b5",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-9"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-9"
       }
     },
     {
@@ -26646,7 +26646,7 @@
       "notes": [],
       "work_passage_id": "ca:28.10",
       "html_path": "works/ca/index.html#p-28-10",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-10",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-10",
       "alignment_revision": "sha256:76ef9fc16c413ffe070af46a1c00d27c085c91fc55fbac0b7e3e595e376bcfe0",
       "review_state": {
         "human_reviewed": false,
@@ -26670,9 +26670,9 @@
         "reference": "28.10",
         "display_reference": "CA 28.10",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:de32bc9db3fc841bc48398e9296d217e66660d0b9a1838dbc18d9ece64f04407",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-10"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-10"
       }
     },
     {
@@ -26981,7 +26981,7 @@
       ],
       "work_passage_id": "ca:28.11",
       "html_path": "works/ca/index.html#p-28-11",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-11",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-11",
       "alignment_revision": "sha256:a2c9dd45a9ee0380658220712215837b15b468bb591c7f40e647fdbdbf5cfb35",
       "review_state": {
         "human_reviewed": false,
@@ -27005,9 +27005,9 @@
         "reference": "28.11",
         "display_reference": "CA 28.11",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:9ea392c2f0d2c7aa2e32de356846d2140550dfb402e5c948a96f81fae41e9cbc",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-11"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-11"
       }
     },
     {
@@ -27139,7 +27139,7 @@
       ],
       "work_passage_id": "ca:28.12",
       "html_path": "works/ca/index.html#p-28-12",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-12",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-12",
       "alignment_revision": "sha256:4915a66473472a5a5f61abd4ebd82fe43a657d07501d9a31fcb8ddd504689bf0",
       "review_state": {
         "human_reviewed": false,
@@ -27163,9 +27163,9 @@
         "reference": "28.12",
         "display_reference": "CA 28.12",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:a66697371e383399eb6e16d7d4ca420e6c773576f8befce721988e415608ddeb",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-12"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-12"
       }
     },
     {
@@ -27439,7 +27439,7 @@
       ],
       "work_passage_id": "ca:28.13",
       "html_path": "works/ca/index.html#p-28-13",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-13",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-13",
       "alignment_revision": "sha256:0ac87869f6a02e07b2fd1f1dafe90d8c7aefbb9b2a0a976a0656e9fd2fd9a995",
       "review_state": {
         "human_reviewed": false,
@@ -27463,9 +27463,9 @@
         "reference": "28.13",
         "display_reference": "CA 28.13",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:a6c070ec7e04a8505c729e0866be3c17d3a3a0d8f51201508ca0918ab4c6a8b9",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-13"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-13"
       }
     },
     {
@@ -27765,7 +27765,7 @@
       ],
       "work_passage_id": "ca:28.14",
       "html_path": "works/ca/index.html#p-28-14",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-14",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-14",
       "alignment_revision": "sha256:db19788d27fcc03366aab3fc75409ce3135b90e9392940f9cc594aa7d03da4c8",
       "review_state": {
         "human_reviewed": false,
@@ -27789,9 +27789,9 @@
         "reference": "28.14",
         "display_reference": "CA 28.14",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:2f493d90e3a6eda3a640c9cc220153f05f44152e8cc87b87dbab79c1db0d9d0b",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-14"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-14"
       }
     },
     {
@@ -27985,7 +27985,7 @@
       ],
       "work_passage_id": "ca:28.15",
       "html_path": "works/ca/index.html#p-28-15",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-15",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-15",
       "alignment_revision": "sha256:c846996fb8c2ba11bf4a816117116a3be90469be88f1e2b7703080d267d139f9",
       "review_state": {
         "human_reviewed": false,
@@ -28009,9 +28009,9 @@
         "reference": "28.15",
         "display_reference": "CA 28.15",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:dc590d6f24ec100f1838d0acd5528fd76dc28e8e0ce5f28a4e459d44b8cc4f8f",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-15"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-15"
       }
     },
     {
@@ -28172,7 +28172,7 @@
       "notes": [],
       "work_passage_id": "ca:28.16",
       "html_path": "works/ca/index.html#p-28-16",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-16",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-16",
       "alignment_revision": "sha256:a147262b851caefbac4a4493316a3b0fe9259e6226e30472ff0675d0306d8044",
       "review_state": {
         "human_reviewed": false,
@@ -28196,9 +28196,9 @@
         "reference": "28.16",
         "display_reference": "CA 28.16",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:04596420b180ec65e03231b40abb8515c835c05861fd148ac419bea132227b5f",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-16"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-16"
       }
     },
     {
@@ -28430,7 +28430,7 @@
       "notes": [],
       "work_passage_id": "ca:28.17",
       "html_path": "works/ca/index.html#p-28-17",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-17",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-17",
       "alignment_revision": "sha256:d44cc0ccdcc185a714b3d9d90856aa95276895b506273f2ded69832b99947cf7",
       "review_state": {
         "human_reviewed": false,
@@ -28454,9 +28454,9 @@
         "reference": "28.17",
         "display_reference": "CA 28.17",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:fcb45e5206383f48aed4695341e8559b74c60875cdfba885b8a5001491aa2dd6",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-17"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-17"
       }
     },
     {
@@ -28747,7 +28747,7 @@
       ],
       "work_passage_id": "ca:28.18",
       "html_path": "works/ca/index.html#p-28-18",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-18",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-18",
       "alignment_revision": "sha256:90012d82b68803b5f2e3796a0371880b752d38f27d9fb54602902336c08c1c8e",
       "review_state": {
         "human_reviewed": false,
@@ -28771,9 +28771,9 @@
         "reference": "28.18",
         "display_reference": "CA 28.18",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:ff418d46a537e333d4df0e9ea18473fd0758d66316ed0ab6a61da304eee39f7f",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-18"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-18"
       }
     },
     {
@@ -29002,7 +29002,7 @@
       ],
       "work_passage_id": "ca:28.19",
       "html_path": "works/ca/index.html#p-28-19",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-19",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-19",
       "alignment_revision": "sha256:7ae91086231836cdb450539934e407418392793145872386861b3f8f2901dfd6",
       "review_state": {
         "human_reviewed": false,
@@ -29026,9 +29026,9 @@
         "reference": "28.19",
         "display_reference": "CA 28.19",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:44707a4db3dd4baff57f079c69bc1fbe2e468c13bce74df188024e9aab3fb088",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-19"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-19"
       }
     },
     {
@@ -29545,7 +29545,7 @@
       ],
       "work_passage_id": "ca:28.20",
       "html_path": "works/ca/index.html#p-28-20",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-28-20",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-28-20",
       "alignment_revision": "sha256:c9554953b93d97437ddee112cf671101ba1bd48256bc6c74f2ac54360fe03912",
       "review_state": {
         "human_reviewed": false,
@@ -29569,9 +29569,9 @@
         "reference": "28.20",
         "display_reference": "CA 28.20",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:514b10599aca5717cbe0ca9cf0ad94774927067d7ed5634c9bf9be4b1660d45e",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-28-20"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-28-20"
       }
     },
     {
@@ -30274,7 +30274,7 @@
       ],
       "work_passage_id": "ca:concl",
       "html_path": "works/ca/index.html#p-concl",
-      "fixed_html_path": "releases/public-0.3/works/ca/index.html#p-concl",
+      "fixed_html_path": "releases/public-0.4/works/ca/index.html#p-concl",
       "alignment_revision": "sha256:063e1a5b10c29b10026ecdc3ce37af1465c7e4ab9379c2c9801ee183181cfbd9",
       "review_state": {
         "human_reviewed": false,
@@ -30298,9 +30298,9 @@
         "reference": "concl",
         "display_reference": "CA concl",
         "edition": "1531년 비텐베르크 라틴어 초판(게오르크 라우 인쇄, 4절판, 『변증』 합본). 베를린 국립도서관 소장본 Df 1508. 인쇄본에 찍힌 조항 번호는 제1-21조의 로마 숫자뿐이며, 제22-28조의 번호는 관례 번호이고 조항 안의 단락 번호(20.1, 28.12 등)는 인쇄된 단락 순서에 따른 번호다.",
-        "release": "public-0.3",
+        "release": "public-0.4",
         "translation_revision": "sha256:3b7aecd7bbed1bd2ba7ffed1d7cc1e1e30cf6abd8bebbc0c8e4786addcebc6e5",
-        "fixed_path": "releases/public-0.3/works/ca/index.html#p-concl"
+        "fixed_path": "releases/public-0.4/works/ca/index.html#p-concl"
       }
     }
   ],
