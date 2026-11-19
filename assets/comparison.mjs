@@ -232,6 +232,10 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
         showVerdict(claim, result);
         return;
       }
+      if (response.status === 422 && result?.error === 'out_of_scope') {
+        show('비교 범위 밖', [node('p', '신앙고백 문헌과 비교할 교리 질문이나 주장을 적어 주세요.')], '비교 범위 밖');
+        return;
+      }
       if (result?.error === 'free_credits_unavailable') {
         message = '지금은 무료 크레딧을 사용할 수 없어 자동 비교가 중단됐습니다.';
       }
