@@ -48,6 +48,7 @@ const verdicts = {
   similar: '유사',
   conflicts: '충돌',
   varies: '문헌별 차이',
+  clarify: '뜻 확인',
   insufficient: '근거 부족',
 };
 
