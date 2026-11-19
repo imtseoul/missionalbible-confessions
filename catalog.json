@@ -1,12 +1,12 @@
 {
   "schema_version": "confessions-library-1",
-  "release_id": "public-0.2",
+  "release_id": "public-0.3",
   "publication_status": "public_review_edition",
   "site_name": "종교개혁 시대 신앙고백 문헌",
-  "complete_works": 6,
+  "complete_works": 7,
   "complete_scopes": 0,
-  "work_count": 6,
-  "passage_count": 617,
+  "work_count": 7,
+  "passage_count": 790,
   "traditions": {
     "lutheran": "루터파",
     "reformed": "개혁파",
@@ -33,14 +33,14 @@
       "source_language": "en",
       "html_path": "works/wsc/index.html",
       "json_path": "data/works/wsc.json",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html",
       "aliases": [
         "소요리문답",
         "Westminster Shorter Catechism",
         "Shorter Catechism"
       ],
       "passage_count": 108,
-      "json_sha256": "42bc3f7917a485f697f58bd253900e9aef950b3087251cbf121b0dfa5fcab387"
+      "json_sha256": "52baca00ae7d7fbab866516a2dea4553c3c64f23f0515f28ab443e2a3c2865d0"
     },
     {
       "id": "hc",
@@ -59,14 +59,14 @@
       "source_language": "de",
       "html_path": "works/hc/index.html",
       "json_path": "data/works/hc.json",
-      "fixed_html_path": "releases/public-0.2/works/hc/index.html",
+      "fixed_html_path": "releases/public-0.3/works/hc/index.html",
       "aliases": [
         "하이델베르크 요리문답",
         "Heidelberger Katechismus",
         "Heidelberg Catechism"
       ],
       "passage_count": 129,
-      "json_sha256": "d968377e0987372465f07753a18ea51721cad23f88966fc341d70d82211011f8"
+      "json_sha256": "a363e1649fcada6184fb3b3f2dc0bf7c791b93f66dcaf87e4644cb2ae63c5c47"
     },
     {
       "id": "cd",
@@ -85,7 +85,7 @@
       "source_language": "lat",
       "html_path": "works/cd/index.html",
       "json_path": "data/works/cd.json",
-      "fixed_html_path": "releases/public-0.2/works/cd/index.html",
+      "fixed_html_path": "releases/public-0.3/works/cd/index.html",
       "aliases": [
         "도르트 신조",
         "도르트 교회법",
@@ -94,7 +94,7 @@
         "Iudicium Synodi Nationalis"
       ],
       "passage_count": 94,
-      "json_sha256": "9f0a1ff549e659b7f09f359c12067b47953f5122fded5a81e03ad3a775a3265f"
+      "json_sha256": "72511e1cb671e954c1512813ef80e996a9faa9a89e36477d4d22a55753f12c97"
     },
     {
       "id": "ca",
@@ -113,14 +113,14 @@
       "source_language": "lat",
       "html_path": "works/ca/index.html",
       "json_path": "data/works/ca.json",
-      "fixed_html_path": "releases/public-0.2/works/ca/index.html",
+      "fixed_html_path": "releases/public-0.3/works/ca/index.html",
       "aliases": [
         "아우구스타나",
         "Confessio Augustana",
         "Augsburg Confession"
       ],
       "passage_count": 99,
-      "json_sha256": "acd9a5ffbfc8619ce313145dba6d518f35e53ab61f5d08a3a5e1e71a0a131fdc"
+      "json_sha256": "e638cad1643eacc5659e98326bdd4c487ed60fcb7929f35a7bf4eaa0c79b4fd5"
     },
     {
       "id": "cb",
@@ -139,7 +139,7 @@
       "source_language": "fr",
       "html_path": "works/cb/index.html",
       "json_path": "data/works/cb.json",
-      "fixed_html_path": "releases/public-0.2/works/cb/index.html",
+      "fixed_html_path": "releases/public-0.3/works/cb/index.html",
       "aliases": [
         "벨기에 신앙고백",
         "Confessio Belgica",
@@ -147,7 +147,7 @@
         "Confession de Foi des Pays-Bas"
       ],
       "passage_count": 38,
-      "json_sha256": "22361df0be98379c8c65e1bfd015d3fe7a0e5008fbb70225f8f1a809a99251bc"
+      "json_sha256": "fd8b0c3cf19e76f867a2e3c924809cba9879e877a1f5764b2f99a905a0e201e2"
     },
     {
       "id": "chp",
@@ -166,7 +166,7 @@
       "source_language": "lat",
       "html_path": "works/chp/index.html",
       "json_path": "data/works/chp.json",
-      "fixed_html_path": "releases/public-0.2/works/chp/index.html",
+      "fixed_html_path": "releases/public-0.3/works/chp/index.html",
       "aliases": [
         "제2 스위스 신앙고백",
         "후기 스위스 신앙고백",
@@ -174,14 +174,40 @@
         "Second Helvetic Confession"
       ],
       "passage_count": 149,
-      "json_sha256": "255a028f46fe70d89a8036462ea0438dc673dbcf5408837b8f840644bea8f31e"
+      "json_sha256": "afdb783d5c6e0bb1e81cf8e90dbf75ab382d7c63600fa923001f357accf24f93"
+    },
+    {
+      "id": "wcf",
+      "title": "웨스트민스터 신앙고백",
+      "display_title": "웨스트민스터 신앙고백",
+      "original_title": "The humble Advice of the Assembly of Divines, Now by Authority of Parliament sitting at Westminster, Concerning a Confession of Faith",
+      "issuer": "웨스트민스터 신학자 회의",
+      "year": 1647,
+      "tradition": "reformed",
+      "language": "en",
+      "abbreviation": "WCF",
+      "reference_scheme": "chapter_section",
+      "expected_units": 173,
+      "coverage": "complete",
+      "scope": "표제와 33장 172항 전체",
+      "source_language": "en",
+      "html_path": "works/wcf/index.html",
+      "json_path": "data/works/wcf.json",
+      "fixed_html_path": "releases/public-0.3/works/wcf/index.html",
+      "aliases": [
+        "웨스트민스터 신앙고백서",
+        "Westminster Confession of Faith",
+        "Westminster Confession"
+      ],
+      "passage_count": 173,
+      "json_sha256": "b3ab2597a1a1bbd35f7ee88be7945e5c18541fcac298e6034166c3c9ef28c567"
     }
   ],
   "passage_index": {
     "schema_version": "confessions-passages-compact-1",
     "path": "data/passages.jsonl",
     "scope": "main_works",
-    "passage_count": 617,
+    "passage_count": 790,
     "fields": [
       "work_id",
       "work_json_path",
@@ -204,12 +230,12 @@
     ],
     "detail_source": "work_json_path",
     "detail_key": "work_passage_id",
-    "sha256": "0aa5f9ce8886f87620fc55bcb02f473270d0b7a4f03b238f247e6527c15146d9"
+    "sha256": "6fd0088528d6897d54e30840439ed9a76efd93955898df8695f5a4a69ef4dbd4"
   },
   "search_index": {
     "schema_version": "confessions-search-1",
     "path": "data/search.json",
-    "sha256": "3b8860d4212db856740848b1070d175de09e8d8b8e01ac1ffab027db0938dfbb"
+    "sha256": "713b9b95e7c23d29fc892dd0aad29240702de15022c7aba9d76a1f0570aea8e0"
   },
   "base_url": "https://confessions.missionalbible.org/"
 }

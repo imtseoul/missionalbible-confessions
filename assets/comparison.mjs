@@ -171,8 +171,9 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
     show(title, nodes, '관련 주제 ' + match.topics.length + '개');
   }
 
-  function showVerdict(claim, result) {
+  function showVerdict(claim, result, notice) {
     const nodes = [node('blockquote', claim, 'comparison-claim')];
+    if (notice) nodes.push(node('p', notice, 'comparison-message'));
     if (result.proposition && normalizeClaim(result.proposition) !== normalizeClaim(claim)) {
       const summary = node('p', '', 'comparison-summary');
       summary.append(node('span', '비교한 주장', 'comparison-summary-label'), node('span', result.proposition));
@@ -205,13 +206,8 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
       field.reportValidity();
       return;
     }
-    const local = requestComparison ? null : findLocalJudgment(claim, topics, judgments);
-    if (local) {
-      showVerdict(claim, local);
-      return;
-    }
     if (!canCompare) {
-      showRelated(claim);
+      showLocal(claim);
       return;
     }
     const controller = new AbortController();
@@ -247,7 +243,9 @@ export function installComparison({ requestComparison, sourceOrigin = '', demoEx
     } finally {
       if (activeRequest === controller) finishRequest();
     }
-    showRelated(claim, message);
+    const local = requestComparison ? null : findLocalJudgment(claim, topics, judgments);
+    if (local) showVerdict(claim, local, message + ' 검토된 답변을 표시합니다.');
+    else showRelated(claim, message);
   }
 
   function showLocal(claim) {

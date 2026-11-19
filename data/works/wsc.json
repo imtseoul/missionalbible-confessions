@@ -38,14 +38,14 @@
   "language_label": "영어",
   "coverage_label": "107문 전문",
   "coverage": "complete",
-  "release_id": "public-0.2",
+  "release_id": "public-0.3",
   "source_language": "en",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/wsc/index.html",
   "json_path": "data/works/wsc.json",
-  "fixed_html_path": "releases/public-0.2/works/wsc/index.html",
+  "fixed_html_path": "releases/public-0.3/works/wsc/index.html",
   "source_profile": "wsc-w1440c-djvu-1",
   "base_witness": {
     "id": "w1440c",
@@ -640,7 +640,7 @@
       "notes": [],
       "work_passage_id": "wsc:title",
       "html_path": "works/wsc/index.html#p-title",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-title",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-title",
       "alignment_revision": "sha256:efe62a355969f3c0697d7eeb306f0d590f081701a77806831f4dffb6e7abc108",
       "review_state": {
         "human_reviewed": false,
@@ -664,9 +664,9 @@
         "reference": "title",
         "display_reference": "WSC title",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:c563040655f47f4b1c8a6db58faad0c9e342374115755f38bd6cee4fdb04b8cd",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-title"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-title"
       }
     },
     {
@@ -817,7 +817,7 @@
       "notes": [],
       "work_passage_id": "wsc:1",
       "html_path": "works/wsc/index.html#p-1",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-1",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-1",
       "alignment_revision": "sha256:e42defcb67a743e770aa75e24645d52f9ade303bdc1db6c3d9928449d73dc03f",
       "review_state": {
         "human_reviewed": false,
@@ -841,9 +841,9 @@
         "reference": "1",
         "display_reference": "WSC 1",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:df5b2648ba63fcc48f393a0b4e99e758478fa24e15cc4bf1eba7f5dc912aa049",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-1"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-1"
       }
     },
     {
@@ -1019,7 +1019,7 @@
       "notes": [],
       "work_passage_id": "wsc:2",
       "html_path": "works/wsc/index.html#p-2",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-2",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-2",
       "alignment_revision": "sha256:f4b54cc4b0347bd1de3d435facdd86ec381d4e7254133e137879814e552f1b49",
       "review_state": {
         "human_reviewed": false,
@@ -1043,9 +1043,9 @@
         "reference": "2",
         "display_reference": "WSC 2",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:76f85b6942b95f16c3629e8f3095283a04fa0d5c5d420c1dcf446ba08bde96ad",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-2"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-2"
       }
     },
     {
@@ -1192,7 +1192,7 @@
       "notes": [],
       "work_passage_id": "wsc:3",
       "html_path": "works/wsc/index.html#p-3",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-3",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-3",
       "alignment_revision": "sha256:67bdcb5e0c152e53f29bcc27f23632f5402b5fc7e2ffb1afbcc07fd54cf04000",
       "review_state": {
         "human_reviewed": false,
@@ -1216,9 +1216,9 @@
         "reference": "3",
         "display_reference": "WSC 3",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:1c08aa344cfab8fb5ee4e7d9ee86ac2af54177ef979eecb31138ed8af93e64bc",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-3"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-3"
       }
     },
     {
@@ -1492,7 +1492,7 @@
       ],
       "work_passage_id": "wsc:4",
       "html_path": "works/wsc/index.html#p-4",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-4",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-4",
       "alignment_revision": "sha256:4ec9233a33abb81f76b962421f5a14bd9b2dcac711ab7ad1b7bfed2b983e5ee2",
       "review_state": {
         "human_reviewed": false,
@@ -1516,9 +1516,9 @@
         "reference": "4",
         "display_reference": "WSC 4",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:68db558e1ec13c03150644b506cbdd9e58d3219439debf76426ea8db289b3bb2",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-4"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-4"
       }
     },
     {
@@ -1634,7 +1634,7 @@
       "notes": [],
       "work_passage_id": "wsc:5",
       "html_path": "works/wsc/index.html#p-5",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-5",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-5",
       "alignment_revision": "sha256:16aa0256ab9fdf863e453e4bdd3988cbf7315978723a37061c9962f8f9fc4b53",
       "review_state": {
         "human_reviewed": false,
@@ -1658,9 +1658,9 @@
         "reference": "5",
         "display_reference": "WSC 5",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:4905de532f5c8a88828572036f8806d339e31aefa3bf86038c37c8d489afa4b3",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-5"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-5"
       }
     },
     {
@@ -1820,7 +1820,7 @@
       "notes": [],
       "work_passage_id": "wsc:6",
       "html_path": "works/wsc/index.html#p-6",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-6",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-6",
       "alignment_revision": "sha256:9479bdb8d76384e855b972b2a81625535cff11cbff9cd96c5352b0a6e51a2bc4",
       "review_state": {
         "human_reviewed": false,
@@ -1844,9 +1844,9 @@
         "reference": "6",
         "display_reference": "WSC 6",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:571ac66d7512e3b2199e7792f2ffd5ed51f7db7fa692a248fa9f207889d79f49",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-6"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-6"
       }
     },
     {
@@ -2007,7 +2007,7 @@
       ],
       "work_passage_id": "wsc:7",
       "html_path": "works/wsc/index.html#p-7",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-7",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-7",
       "alignment_revision": "sha256:17c59519575d4e0c9e73f8a44407cc9c47bca4ac557ef8506e76ec900475e6f8",
       "review_state": {
         "human_reviewed": false,
@@ -2031,9 +2031,9 @@
         "reference": "7",
         "display_reference": "WSC 7",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:7fc043c30555f2502c293a2e78452c9de16e2bc75804efc72aa553d92fc867bc",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-7"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-7"
       }
     },
     {
@@ -2136,7 +2136,7 @@
       "notes": [],
       "work_passage_id": "wsc:8",
       "html_path": "works/wsc/index.html#p-8",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-8",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-8",
       "alignment_revision": "sha256:6a3db2e7e960fe68ee4033e19e8848b9a593c1372f416c33322449ac9e76621e",
       "review_state": {
         "human_reviewed": false,
@@ -2160,9 +2160,9 @@
         "reference": "8",
         "display_reference": "WSC 8",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:4cc9d6e43d887a69951e0bc46ce499ed9158a06feaca588d6717d76c41f0475e",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-8"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-8"
       }
     },
     {
@@ -2335,7 +2335,7 @@
       "notes": [],
       "work_passage_id": "wsc:9",
       "html_path": "works/wsc/index.html#p-9",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-9",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-9",
       "alignment_revision": "sha256:221a329865716978f28962338f4a582ab4b5fe76c920e12e3f0f4e991f41de15",
       "review_state": {
         "human_reviewed": false,
@@ -2359,9 +2359,9 @@
         "reference": "9",
         "display_reference": "WSC 9",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ef597ed4ce4c765f18e258283dbafe4c1c829d53290e7d81d4ea61bb14bf8f53",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-9"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-9"
       }
     },
     {
@@ -2539,7 +2539,7 @@
       "notes": [],
       "work_passage_id": "wsc:10",
       "html_path": "works/wsc/index.html#p-10",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-10",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-10",
       "alignment_revision": "sha256:2230cf6540d52435b09c99464bb3ff39188a1154d6b8549a4a53dca2cce79d73",
       "review_state": {
         "human_reviewed": false,
@@ -2563,9 +2563,9 @@
         "reference": "10",
         "display_reference": "WSC 10",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:005fcc1e7b6f118acfde81d9566c269a877939380a53bd780203e78d8193d03a",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-10"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-10"
       }
     },
     {
@@ -2772,7 +2772,7 @@
       "notes": [],
       "work_passage_id": "wsc:11",
       "html_path": "works/wsc/index.html#p-11",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-11",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-11",
       "alignment_revision": "sha256:5d65614b024be7fddc76014dc9bb0cb1a3297e2b6c6506578ea49d273bd461e6",
       "review_state": {
         "human_reviewed": false,
@@ -2796,9 +2796,9 @@
         "reference": "11",
         "display_reference": "WSC 11",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:c345e3c9bb7ad2627822bbfe23b0c1470df446b908f3a02e55ed31503ae8d244",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-11"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-11"
       }
     },
     {
@@ -2992,7 +2992,7 @@
       ],
       "work_passage_id": "wsc:12",
       "html_path": "works/wsc/index.html#p-12",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-12",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-12",
       "alignment_revision": "sha256:da359322a68da317c9bc31a1b37e8d9c0b9c685bf129ad12c82441b49202a0c8",
       "review_state": {
         "human_reviewed": false,
@@ -3016,9 +3016,9 @@
         "reference": "12",
         "display_reference": "WSC 12",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:fbc5bde189b5f6e88954a876837bd08370caa7d6b0accc3d5d8834d8bd10efc1",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-12"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-12"
       }
     },
     {
@@ -3192,7 +3192,7 @@
       "notes": [],
       "work_passage_id": "wsc:13",
       "html_path": "works/wsc/index.html#p-13",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-13",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-13",
       "alignment_revision": "sha256:4d1ce6ed346e020d4174016611b4bd8d70278d655215e9ab14b2ed0ae616bbde",
       "review_state": {
         "human_reviewed": false,
@@ -3216,9 +3216,9 @@
         "reference": "13",
         "display_reference": "WSC 13",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ff80b142d91de3b4349edb996803a0efe870d5321268afcbeeb6a548936a00c1",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-13"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-13"
       }
     },
     {
@@ -3339,7 +3339,7 @@
       ],
       "work_passage_id": "wsc:14",
       "html_path": "works/wsc/index.html#p-14",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-14",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-14",
       "alignment_revision": "sha256:90d4c5cf2f2c2d878f823edff13ab6f7a69dddd59f7d9261b86b28b3a9c484eb",
       "review_state": {
         "human_reviewed": false,
@@ -3363,9 +3363,9 @@
         "reference": "14",
         "display_reference": "WSC 14",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:308b751c3c76e3b426096140a88a84238a4a74176b31c93db0692af83782875f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-14"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-14"
       }
     },
     {
@@ -3521,7 +3521,7 @@
       "notes": [],
       "work_passage_id": "wsc:15",
       "html_path": "works/wsc/index.html#p-15",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-15",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-15",
       "alignment_revision": "sha256:73a90e8cb05f51d142c1c0ec0ab6a6501b26301f7595d499e6b70da17439badb",
       "review_state": {
         "human_reviewed": false,
@@ -3545,9 +3545,9 @@
         "reference": "15",
         "display_reference": "WSC 15",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:bdd96382d838b88c9bc73bceb0808afc504afbbdb2d6336421a44dc29ad01acd",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-15"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-15"
       }
     },
     {
@@ -3736,7 +3736,7 @@
       ],
       "work_passage_id": "wsc:16",
       "html_path": "works/wsc/index.html#p-16",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-16",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-16",
       "alignment_revision": "sha256:2bfd5c14a3265c3893ca16b7709eacbb9edff5129e0a57b77183be9331aa02bd",
       "review_state": {
         "human_reviewed": false,
@@ -3760,9 +3760,9 @@
         "reference": "16",
         "display_reference": "WSC 16",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ed4b225c7c56a06330155316c064f5deaf40d5afbde0cd8c74249e254161ae36",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-16"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-16"
       }
     },
     {
@@ -3881,7 +3881,7 @@
       "notes": [],
       "work_passage_id": "wsc:17",
       "html_path": "works/wsc/index.html#p-17",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-17",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-17",
       "alignment_revision": "sha256:5cf25791228e2d67e43317f2fa67e530ae7cb1a9a029babf8f71c4d95e7309a3",
       "review_state": {
         "human_reviewed": false,
@@ -3905,9 +3905,9 @@
         "reference": "17",
         "display_reference": "WSC 17",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:1db072511bbf24157ab53863201bce623ce4d5a0ef307e826ba404a634cf12a2",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-17"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-17"
       }
     },
     {
@@ -4164,7 +4164,7 @@
       ],
       "work_passage_id": "wsc:18",
       "html_path": "works/wsc/index.html#p-18",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-18",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-18",
       "alignment_revision": "sha256:2dc1168d13e949fc17131179d5ec47fb73a902e4d9fe075d2755649aeeae5f34",
       "review_state": {
         "human_reviewed": false,
@@ -4188,9 +4188,9 @@
         "reference": "18",
         "display_reference": "WSC 18",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:fae3a0d8fe668db4dfb1d10686446464d1c21f4a983318d67f3e4da2a3a0aa25",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-18"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-18"
       }
     },
     {
@@ -4451,7 +4451,7 @@
       ],
       "work_passage_id": "wsc:19",
       "html_path": "works/wsc/index.html#p-19",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-19",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-19",
       "alignment_revision": "sha256:9ee00dc9e15eb4539de0d58a0588f6a5ac6cf458403524f981bd7485f122d77a",
       "review_state": {
         "human_reviewed": false,
@@ -4475,9 +4475,9 @@
         "reference": "19",
         "display_reference": "WSC 19",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:0742755fbbeb8b5318e240a89c0b3b8460fed18df9f066a5f06f78a2024d2c1e",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-19"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-19"
       }
     },
     {
@@ -4711,7 +4711,7 @@
       ],
       "work_passage_id": "wsc:20",
       "html_path": "works/wsc/index.html#p-20",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-20",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-20",
       "alignment_revision": "sha256:3057dd1a6b103380ca48a5adca01fbf12fe46e0ff5b6a63d6f18b564ae7a4518",
       "review_state": {
         "human_reviewed": false,
@@ -4735,9 +4735,9 @@
         "reference": "20",
         "display_reference": "WSC 20",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:a894c88770ec1fd8469a078682b24a114e2fc7fb3b962bcc89b686b37abfbaa3",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-20"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-20"
       }
     },
     {
@@ -4966,7 +4966,7 @@
       ],
       "work_passage_id": "wsc:21",
       "html_path": "works/wsc/index.html#p-21",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-21",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-21",
       "alignment_revision": "sha256:a80b97c2cc13b88a015934f19cb320f8072ce8ca4da3c8f433535cf5ccb5ce42",
       "review_state": {
         "human_reviewed": false,
@@ -4990,9 +4990,9 @@
         "reference": "21",
         "display_reference": "WSC 21",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:8209584e60b30b0c7734cf284ee896cd978862d09672e94855eb48de204f3209",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-21"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-21"
       }
     },
     {
@@ -5255,7 +5255,7 @@
       ],
       "work_passage_id": "wsc:22",
       "html_path": "works/wsc/index.html#p-22",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-22",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-22",
       "alignment_revision": "sha256:e542f280f813d3176b959a9633372a396d3a3c979f9c2ee08dc1212bace5f571",
       "review_state": {
         "human_reviewed": false,
@@ -5279,9 +5279,9 @@
         "reference": "22",
         "display_reference": "WSC 22",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ad09271bfd1bf8cb54c3557a913bcdf9765e39bfea522c64bbf6fc8916f6e662",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-22"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-22"
       }
     },
     {
@@ -5512,7 +5512,7 @@
       "notes": [],
       "work_passage_id": "wsc:23",
       "html_path": "works/wsc/index.html#p-23",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-23",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-23",
       "alignment_revision": "sha256:7c1e0d4643c28e79d7ce475550e9d6a82b40b400fb2fd8c25057a35dfe990da4",
       "review_state": {
         "human_reviewed": false,
@@ -5536,9 +5536,9 @@
         "reference": "23",
         "display_reference": "WSC 23",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ccf97b6592cd38f5170f54190b31e87d1b04bb46cd2ee1c3ca4742532975ffea",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-23"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-23"
       }
     },
     {
@@ -5709,7 +5709,7 @@
       "notes": [],
       "work_passage_id": "wsc:24",
       "html_path": "works/wsc/index.html#p-24",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-24",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-24",
       "alignment_revision": "sha256:0b2669532b1f215df9773f8a32305d108ba5c81dc85fc8d2ffacda114e046eb8",
       "review_state": {
         "human_reviewed": false,
@@ -5733,9 +5733,9 @@
         "reference": "24",
         "display_reference": "WSC 24",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:39685b6e5711b6ecd5c49747f9e73a5ec597a71004f583885899111f10b29b2e",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-24"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-24"
       }
     },
     {
@@ -5953,7 +5953,7 @@
       ],
       "work_passage_id": "wsc:25",
       "html_path": "works/wsc/index.html#p-25",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-25",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-25",
       "alignment_revision": "sha256:0c8289ae4b142197bc6e66b34622bf15c5f317b0c82abb895e1310e1ec3ab475",
       "review_state": {
         "human_reviewed": false,
@@ -5977,9 +5977,9 @@
         "reference": "25",
         "display_reference": "WSC 25",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:f123d8539aebb3126b8bd78d3fb86a93ac235f6ea8a16bc0827e95ffb265b412",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-25"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-25"
       }
     },
     {
@@ -6212,7 +6212,7 @@
       "notes": [],
       "work_passage_id": "wsc:26",
       "html_path": "works/wsc/index.html#p-26",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-26",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-26",
       "alignment_revision": "sha256:bf5f5c34b53b94e5c677161fb985fa134adb7e5c181a5870274862450d5ef7aa",
       "review_state": {
         "human_reviewed": false,
@@ -6236,9 +6236,9 @@
         "reference": "26",
         "display_reference": "WSC 26",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:bdbcc6a33f310936c775c5aa4c020d6e0c08e2b59117422bb59005ab765c6fc5",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-26"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-26"
       }
     },
     {
@@ -6594,7 +6594,7 @@
       "notes": [],
       "work_passage_id": "wsc:27",
       "html_path": "works/wsc/index.html#p-27",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-27",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-27",
       "alignment_revision": "sha256:f2dec40bce07605a06aa5c57712db1caf4dd0865532d667f13bf5b2ccc8f34f3",
       "review_state": {
         "human_reviewed": false,
@@ -6618,9 +6618,9 @@
         "reference": "27",
         "display_reference": "WSC 27",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:9b65b1754264f63af53097c70f177d837210f6a3ce85c155cb9c4e14f5af5566",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-27"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-27"
       }
     },
     {
@@ -6844,7 +6844,7 @@
       "notes": [],
       "work_passage_id": "wsc:28",
       "html_path": "works/wsc/index.html#p-28",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-28",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-28",
       "alignment_revision": "sha256:d548ee97e7e8db296290907d9a14e0c396c10fe388f8f4c0248d7b07268070d4",
       "review_state": {
         "human_reviewed": false,
@@ -6868,9 +6868,9 @@
         "reference": "28",
         "display_reference": "WSC 28",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:fa602342bc1b76bad76385ffb222d4e1cc6cb83410d7a9ee63b17522a3f52496",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-28"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-28"
       }
     },
     {
@@ -7046,7 +7046,7 @@
       "notes": [],
       "work_passage_id": "wsc:29",
       "html_path": "works/wsc/index.html#p-29",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-29",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-29",
       "alignment_revision": "sha256:45bf76190987f39eb4f21cb0b244821658161c278995d9189b57c52efc91ed9f",
       "review_state": {
         "human_reviewed": false,
@@ -7070,9 +7070,9 @@
         "reference": "29",
         "display_reference": "WSC 29",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:484d3e8ffaf0a9fb7b532caf2ed2e80aad5023803bf17d09ab6edae53e0cab9e",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-29"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-29"
       }
     },
     {
@@ -7279,7 +7279,7 @@
       "notes": [],
       "work_passage_id": "wsc:30",
       "html_path": "works/wsc/index.html#p-30",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-30",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-30",
       "alignment_revision": "sha256:81a913ed471a1070b2b38a7114755583832251dc13f1c1bda6c127baa10c169b",
       "review_state": {
         "human_reviewed": false,
@@ -7303,9 +7303,9 @@
         "reference": "30",
         "display_reference": "WSC 30",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:bc68750d0928d80b8656cd870c611f3dbe7963e6d83bfb1c5e7fb2bc5fe67a3f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-30"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-30"
       }
     },
     {
@@ -7600,7 +7600,7 @@
       ],
       "work_passage_id": "wsc:31",
       "html_path": "works/wsc/index.html#p-31",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-31",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-31",
       "alignment_revision": "sha256:94f879e4e526668e669c290e71808e3de79d9f0410dd085da65ee8411039248c",
       "review_state": {
         "human_reviewed": false,
@@ -7624,9 +7624,9 @@
         "reference": "31",
         "display_reference": "WSC 31",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:4f77234d6d340ac7a744bd2f43404a69eb6f30bcfd699e9e6d070e158a076ed1",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-31"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-31"
       }
     },
     {
@@ -7832,7 +7832,7 @@
       "notes": [],
       "work_passage_id": "wsc:32",
       "html_path": "works/wsc/index.html#p-32",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-32",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-32",
       "alignment_revision": "sha256:13b5131a3276534096bfb3a3f78e150a10a00390ddd36550d64cf1fc8103dc36",
       "review_state": {
         "human_reviewed": false,
@@ -7856,9 +7856,9 @@
         "reference": "32",
         "display_reference": "WSC 32",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:2efc1f5f3d43d8fd7e2d96bfd442eeb4f6952b36c608105585b2303011ca4dbf",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-32"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-32"
       }
     },
     {
@@ -8124,7 +8124,7 @@
       "notes": [],
       "work_passage_id": "wsc:33",
       "html_path": "works/wsc/index.html#p-33",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-33",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-33",
       "alignment_revision": "sha256:2cec7823696a7c290bb1079dde2e56c4dcfda81329ba6c9446c2a00cdc0a7b90",
       "review_state": {
         "human_reviewed": false,
@@ -8148,9 +8148,9 @@
         "reference": "33",
         "display_reference": "WSC 33",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:faef9f8fa3990117c7bd365f240cd21e62870633f17200f3da41af4bfbe9cacd",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-33"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-33"
       }
     },
     {
@@ -8311,7 +8311,7 @@
       "notes": [],
       "work_passage_id": "wsc:34",
       "html_path": "works/wsc/index.html#p-34",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-34",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-34",
       "alignment_revision": "sha256:5baf2ac7664f0e521846e3d3904a94027cbfe3d2a3c2e840eb742907377da48e",
       "review_state": {
         "human_reviewed": false,
@@ -8335,9 +8335,9 @@
         "reference": "34",
         "display_reference": "WSC 34",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:3f64be88b2ca431ebebf5f4b9084aac65d6bb629215e0fbd98ddce9afe4793cb",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-34"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-34"
       }
     },
     {
@@ -8540,7 +8540,7 @@
       "notes": [],
       "work_passage_id": "wsc:35",
       "html_path": "works/wsc/index.html#p-35",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-35",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-35",
       "alignment_revision": "sha256:d63660a783b95343e3e9c0a5a3d0fad93f2f7308fc0aad08e75996121d1443f3",
       "review_state": {
         "human_reviewed": false,
@@ -8564,9 +8564,9 @@
         "reference": "35",
         "display_reference": "WSC 35",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:28089f42d8a2d355927b53d9d76f66639f47d4b6692a37435a8a26f02ad8f983",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-35"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-35"
       }
     },
     {
@@ -8833,7 +8833,7 @@
       "notes": [],
       "work_passage_id": "wsc:36",
       "html_path": "works/wsc/index.html#p-36",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-36",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-36",
       "alignment_revision": "sha256:228a8e7e0711c503c36f3defd66ff8c910e2ee332c166e2cc72bec2d451838dd",
       "review_state": {
         "human_reviewed": false,
@@ -8857,9 +8857,9 @@
         "reference": "36",
         "display_reference": "WSC 36",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ea8e24e74fa4335052cb152f06d4a1daf8b32d49525d5a4e41dd67dcd49faa4f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-36"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-36"
       }
     },
     {
@@ -9121,7 +9121,7 @@
       "notes": [],
       "work_passage_id": "wsc:37",
       "html_path": "works/wsc/index.html#p-37",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-37",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-37",
       "alignment_revision": "sha256:f9cff24d0e606774f25436c3a3ec1e096cef666e6aa01dbae61ac35e93cfb78e",
       "review_state": {
         "human_reviewed": false,
@@ -9145,9 +9145,9 @@
         "reference": "37",
         "display_reference": "WSC 37",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:a3236738ab0c1fcb4fae94b3177c5725fd5d705c219b951f42bb508a64809ec7",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-37"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-37"
       }
     },
     {
@@ -9379,7 +9379,7 @@
       "notes": [],
       "work_passage_id": "wsc:38",
       "html_path": "works/wsc/index.html#p-38",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-38",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-38",
       "alignment_revision": "sha256:e08f9c78c9088cbeca98eadfd2b308b22156efcb29f4ee993d9b27445801e96a",
       "review_state": {
         "human_reviewed": false,
@@ -9403,9 +9403,9 @@
         "reference": "38",
         "display_reference": "WSC 38",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:78b665664dbf0e66319cb343349d636240aea104aefc63a8da20e624dbb61c73",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-38"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-38"
       }
     },
     {
@@ -9530,7 +9530,7 @@
       "notes": [],
       "work_passage_id": "wsc:39",
       "html_path": "works/wsc/index.html#p-39",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-39",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-39",
       "alignment_revision": "sha256:f84f7c24df9df1bacae85b8408a144f23c922c0c90ed045fdfb385e0800126ca",
       "review_state": {
         "human_reviewed": false,
@@ -9554,9 +9554,9 @@
         "reference": "39",
         "display_reference": "WSC 39",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:f230f7dc72447957f030990fc53a7903cdbf2648806ce09f4658b41f567f26f7",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-39"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-39"
       }
     },
     {
@@ -9696,7 +9696,7 @@
       "notes": [],
       "work_passage_id": "wsc:40",
       "html_path": "works/wsc/index.html#p-40",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-40",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-40",
       "alignment_revision": "sha256:d506ff7c10e65b1ff7cb99c03d136f9144aa3206af7f5ae7e540996b1c91f505",
       "review_state": {
         "human_reviewed": false,
@@ -9720,9 +9720,9 @@
         "reference": "40",
         "display_reference": "WSC 40",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:9f6cddb87528e12835babad3b77cc3716932ed9917ec35bcbb3faeb19655367c",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-40"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-40"
       }
     },
     {
@@ -9841,7 +9841,7 @@
       "notes": [],
       "work_passage_id": "wsc:41",
       "html_path": "works/wsc/index.html#p-41",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-41",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-41",
       "alignment_revision": "sha256:a4c2249caf23bd123632037bbc00a2a7152a33be23c0e8de7da8503d378c72d5",
       "review_state": {
         "human_reviewed": false,
@@ -9865,9 +9865,9 @@
         "reference": "41",
         "display_reference": "WSC 41",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:73daa81ac5c237278859a6596f03a162dfd57bcb2b076ea9f48361c0a4839f15",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-41"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-41"
       }
     },
     {
@@ -10048,7 +10048,7 @@
       "notes": [],
       "work_passage_id": "wsc:42",
       "html_path": "works/wsc/index.html#p-42",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-42",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-42",
       "alignment_revision": "sha256:f8581f27bef8e03304a076dc82eea649fe99bd259fda7b7f0ff888097533eddf",
       "review_state": {
         "human_reviewed": false,
@@ -10072,9 +10072,9 @@
         "reference": "42",
         "display_reference": "WSC 42",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:eb7ae6dcbff07845d3c6cb93ec410b890e81ead7fe9440a484aa36ddf4df80af",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-42"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-42"
       }
     },
     {
@@ -10230,7 +10230,7 @@
       ],
       "work_passage_id": "wsc:43",
       "html_path": "works/wsc/index.html#p-43",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-43",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-43",
       "alignment_revision": "sha256:dcea0b48562c04ef73f7a8721c0aa1d08d332c0114b6f078d00fd465d56bc1ed",
       "review_state": {
         "human_reviewed": false,
@@ -10254,9 +10254,9 @@
         "reference": "43",
         "display_reference": "WSC 43",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:364d023f665817fbf9e8e0872d7011a9b24ed29233af9bc5a09e7c6d03c4025f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-43"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-43"
       }
     },
     {
@@ -10464,7 +10464,7 @@
       "notes": [],
       "work_passage_id": "wsc:44",
       "html_path": "works/wsc/index.html#p-44",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-44",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-44",
       "alignment_revision": "sha256:77366e3905b3658ce0f5e79c7360117f6e6dbe3cef4712f747a48b234bec019b",
       "review_state": {
         "human_reviewed": false,
@@ -10488,9 +10488,9 @@
         "reference": "44",
         "display_reference": "WSC 44",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:cf097a357eb39446acf6f6bf3736ad4a8a930434f12317ab25f520546ef06069",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-44"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-44"
       }
     },
     {
@@ -10622,7 +10622,7 @@
       "notes": [],
       "work_passage_id": "wsc:45",
       "html_path": "works/wsc/index.html#p-45",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-45",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-45",
       "alignment_revision": "sha256:8e8a324e9232c0deaf8f1b4031490a79468543ce2502a13f3530d2ee28a642d2",
       "review_state": {
         "human_reviewed": false,
@@ -10646,9 +10646,9 @@
         "reference": "45",
         "display_reference": "WSC 45",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:f715008bb1dd3f9b208d540d356ebe81674cd82d15d1e9be83b156d4e4609f03",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-45"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-45"
       }
     },
     {
@@ -10815,7 +10815,7 @@
       "notes": [],
       "work_passage_id": "wsc:46",
       "html_path": "works/wsc/index.html#p-46",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-46",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-46",
       "alignment_revision": "sha256:1ce4b51535bd47738740b942d078590a310168c0c602a9af3d9c3f993d710b2c",
       "review_state": {
         "human_reviewed": false,
@@ -10839,9 +10839,9 @@
         "reference": "46",
         "display_reference": "WSC 46",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:496f2b1ffbbac99f99767d974dc932217e162272c499c138852172f2ef30bcad",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-46"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-46"
       }
     },
     {
@@ -11045,7 +11045,7 @@
       "notes": [],
       "work_passage_id": "wsc:47",
       "html_path": "works/wsc/index.html#p-47",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-47",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-47",
       "alignment_revision": "sha256:763ca5e1a2278b4d600177c65a6d150f68b3b0225fb8e7a471736a8df5b49e54",
       "review_state": {
         "human_reviewed": false,
@@ -11069,9 +11069,9 @@
         "reference": "47",
         "display_reference": "WSC 47",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:a1fea1e3552a8a3ec35ad4bc0a2971ccdc032a23ad4f23ede1dc6f3b76308d7f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-47"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-47"
       }
     },
     {
@@ -11243,7 +11243,7 @@
       "notes": [],
       "work_passage_id": "wsc:48",
       "html_path": "works/wsc/index.html#p-48",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-48",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-48",
       "alignment_revision": "sha256:d66825bdd508dc97aa23f483f2d35b7c71c57f0ce2b7335c4043f368e2009506",
       "review_state": {
         "human_reviewed": false,
@@ -11267,9 +11267,9 @@
         "reference": "48",
         "display_reference": "WSC 48",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:8cf98f0272475ceaf9ed79acaf2ea6183b285bec51eb3ddb232c73f4ab1c838e",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-48"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-48"
       }
     },
     {
@@ -11591,7 +11591,7 @@
       ],
       "work_passage_id": "wsc:49",
       "html_path": "works/wsc/index.html#p-49",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-49",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-49",
       "alignment_revision": "sha256:5597598b9e5236ff7a8f388545fc72b104cdf5b1ef76ce86edb03469b8d55a3c",
       "review_state": {
         "human_reviewed": false,
@@ -11615,9 +11615,9 @@
         "reference": "49",
         "display_reference": "WSC 49",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:73212336721d7932ff761a5958e3a2258dc56e9c341ab818011140692ceae84a",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-49"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-49"
       }
     },
     {
@@ -11779,7 +11779,7 @@
       "notes": [],
       "work_passage_id": "wsc:50",
       "html_path": "works/wsc/index.html#p-50",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-50",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-50",
       "alignment_revision": "sha256:ac00ba7b6502dc97ea07460bb00f63d48d5821422fbdcd7c13e6ef2342dd07e3",
       "review_state": {
         "human_reviewed": false,
@@ -11803,9 +11803,9 @@
         "reference": "50",
         "display_reference": "WSC 50",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:6505d0b9adf7313e747be7be13d39ad7ac5dd5c9d1bac438ee885f74b02f1410",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-50"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-50"
       }
     },
     {
@@ -12002,7 +12002,7 @@
       "notes": [],
       "work_passage_id": "wsc:51",
       "html_path": "works/wsc/index.html#p-51",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-51",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-51",
       "alignment_revision": "sha256:a0863b642daec2b2e084d7e5d97abe34ee78cd1a75d768b8ac663fcb71140848",
       "review_state": {
         "human_reviewed": false,
@@ -12026,9 +12026,9 @@
         "reference": "51",
         "display_reference": "WSC 51",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:1763f3cea97c9b84a6a910cd44d69c2d4509c01bacffdd5a55c539460cfcf6a2",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-51"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-51"
       }
     },
     {
@@ -12239,7 +12239,7 @@
       ],
       "work_passage_id": "wsc:52",
       "html_path": "works/wsc/index.html#p-52",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-52",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-52",
       "alignment_revision": "sha256:fd9f7615140a234b838f011d45d6f94cdd25e5b794e10ed752975906a360c35e",
       "review_state": {
         "human_reviewed": false,
@@ -12263,9 +12263,9 @@
         "reference": "52",
         "display_reference": "WSC 52",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:314a17c908a8028d5d9f9dbb62f2764d9a7b94b658e9425e3373c011d15a127b",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-52"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-52"
       }
     },
     {
@@ -12430,7 +12430,7 @@
       ],
       "work_passage_id": "wsc:53",
       "html_path": "works/wsc/index.html#p-53",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-53",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-53",
       "alignment_revision": "sha256:ed0a3e9502a87624870b8f896586022d8c124ce09ba615dbf8142ed4c205f4d0",
       "review_state": {
         "human_reviewed": false,
@@ -12454,9 +12454,9 @@
         "reference": "53",
         "display_reference": "WSC 53",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:e64555f29208c45cfbdae92f05a1f405e3afb671b14d04133c3937b2859f4009",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-53"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-53"
       }
     },
     {
@@ -12678,7 +12678,7 @@
       "notes": [],
       "work_passage_id": "wsc:54",
       "html_path": "works/wsc/index.html#p-54",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-54",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-54",
       "alignment_revision": "sha256:6d84776bef24736c14449ae25203228799b4946ebee47b0571acbf7828468104",
       "review_state": {
         "human_reviewed": false,
@@ -12702,9 +12702,9 @@
         "reference": "54",
         "display_reference": "WSC 54",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:2055ab7d083c7e7c05465fb26afeff26a4b158ca0f8fd1a21b9a7a03dc2f47f7",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-54"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-54"
       }
     },
     {
@@ -12856,7 +12856,7 @@
       "notes": [],
       "work_passage_id": "wsc:55",
       "html_path": "works/wsc/index.html#p-55",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-55",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-55",
       "alignment_revision": "sha256:3ecd573b55d9235689abebb9227f44f9ef48f4b71b72b286bf4ea2a22cae4b37",
       "review_state": {
         "human_reviewed": false,
@@ -12880,9 +12880,9 @@
         "reference": "55",
         "display_reference": "WSC 55",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:4ed3c45ffc27f8067291952f0d08913dceaa313cdd89f99517484a472e2b2f75",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-55"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-55"
       }
     },
     {
@@ -13092,7 +13092,7 @@
       ],
       "work_passage_id": "wsc:56",
       "html_path": "works/wsc/index.html#p-56",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-56",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-56",
       "alignment_revision": "sha256:46d1cfcecd8483f3e6ac55ebf90eae9a18e6365b5831398f13ea6d0b6bbedd05",
       "review_state": {
         "human_reviewed": false,
@@ -13116,9 +13116,9 @@
         "reference": "56",
         "display_reference": "WSC 56",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:49f5a65b58aefce71fc44c05a92a33691489c5e16277265b64592629c891f197",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-56"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-56"
       }
     },
     {
@@ -13429,7 +13429,7 @@
       ],
       "work_passage_id": "wsc:57",
       "html_path": "works/wsc/index.html#p-57",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-57",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-57",
       "alignment_revision": "sha256:25ad0433726ddfa492d9a73cf520cfa781c10ca60b6ccb662cb11270c909123a",
       "review_state": {
         "human_reviewed": false,
@@ -13453,9 +13453,9 @@
         "reference": "57",
         "display_reference": "WSC 57",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:99ad4b24f655fcb27bea2c3eff456ded89ed5431d281e75ff8c4cb89f7a8323a",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-57"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-57"
       }
     },
     {
@@ -13617,7 +13617,7 @@
       "notes": [],
       "work_passage_id": "wsc:58",
       "html_path": "works/wsc/index.html#p-58",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-58",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-58",
       "alignment_revision": "sha256:12a9d64aa795b2bf13cd1ed0e1642d7c0773e0b82b435d6c6baffddf1052194d",
       "review_state": {
         "human_reviewed": false,
@@ -13641,9 +13641,9 @@
         "reference": "58",
         "display_reference": "WSC 58",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:5068d538e7440a5151e4d59d720f14fdfebe223ed01e78a388269da406b1bb17",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-58"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-58"
       }
     },
     {
@@ -13863,7 +13863,7 @@
       ],
       "work_passage_id": "wsc:59",
       "html_path": "works/wsc/index.html#p-59",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-59",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-59",
       "alignment_revision": "sha256:e430d5a8116cbacd4d71c46fe351aea7fb72c3e2d0adfea5a425f2f23b1b8715",
       "review_state": {
         "human_reviewed": false,
@@ -13887,9 +13887,9 @@
         "reference": "59",
         "display_reference": "WSC 59",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:df63deab709e27b9b497e116d039d9d0d06b912dbcfe1b6ff23b32fa957f8b65",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-59"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-59"
       }
     },
     {
@@ -14211,7 +14211,7 @@
       ],
       "work_passage_id": "wsc:60",
       "html_path": "works/wsc/index.html#p-60",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-60",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-60",
       "alignment_revision": "sha256:5ef4f6b1a9d4816c99f9c50c10b94ea3dc6a1e8910d79881e7f459497f6ac58d",
       "review_state": {
         "human_reviewed": false,
@@ -14235,9 +14235,9 @@
         "reference": "60",
         "display_reference": "WSC 60",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:5ae011fd13fcd819b17cdc6e56049a72a680631cc8c4d92094b88f13f2fba82c",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-60"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-60"
       }
     },
     {
@@ -14500,7 +14500,7 @@
       "notes": [],
       "work_passage_id": "wsc:61",
       "html_path": "works/wsc/index.html#p-61",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-61",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-61",
       "alignment_revision": "sha256:b8744a78d93b01eeb448f8ed7a7029e2f3e1cbf86dc5791a293e54384a44422a",
       "review_state": {
         "human_reviewed": false,
@@ -14524,9 +14524,9 @@
         "reference": "61",
         "display_reference": "WSC 61",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:362bcf823c1a2407e39f10b8b093f52293533f6a839de7b8a79301728d290ca0",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-61"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-61"
       }
     },
     {
@@ -14723,7 +14723,7 @@
       ],
       "work_passage_id": "wsc:62",
       "html_path": "works/wsc/index.html#p-62",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-62",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-62",
       "alignment_revision": "sha256:9787bdc029bb4cc63e0746b0d3deb7a406e59fd5064dae0821ceb9b9d0d68542",
       "review_state": {
         "human_reviewed": false,
@@ -14747,9 +14747,9 @@
         "reference": "62",
         "display_reference": "WSC 62",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:8fc38b365d5efba02f583fe77feb0886e175ae0f90c04c166cd744fbcfb6410c",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-62"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-62"
       }
     },
     {
@@ -14903,7 +14903,7 @@
       "notes": [],
       "work_passage_id": "wsc:63",
       "html_path": "works/wsc/index.html#p-63",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-63",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-63",
       "alignment_revision": "sha256:2a15b1b3ad0991c8657a4c2bd5b4b0c0b82d74c24b997e464549c5ec2a274504",
       "review_state": {
         "human_reviewed": false,
@@ -14927,9 +14927,9 @@
         "reference": "63",
         "display_reference": "WSC 63",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:62102ee0229bf0c6dadfb1286b094f806370e31d7e45fb510d008e134a5061de",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-63"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-63"
       }
     },
     {
@@ -15122,7 +15122,7 @@
       ],
       "work_passage_id": "wsc:64",
       "html_path": "works/wsc/index.html#p-64",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-64",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-64",
       "alignment_revision": "sha256:f76fca810fd9d49d380072b03e2ccf2ea55af5c78328813c672b77566e307de9",
       "review_state": {
         "human_reviewed": false,
@@ -15146,9 +15146,9 @@
         "reference": "64",
         "display_reference": "WSC 64",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:1268fc87bc59af72baed1c6cb424a1590e88731df8f3ba2d1851672c04d4b359",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-64"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-64"
       }
     },
     {
@@ -15334,7 +15334,7 @@
       "notes": [],
       "work_passage_id": "wsc:65",
       "html_path": "works/wsc/index.html#p-65",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-65",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-65",
       "alignment_revision": "sha256:d6c9eef18af8fc019b80d41b875c74d68826a065349f208f9ef4bd2717605751",
       "review_state": {
         "human_reviewed": false,
@@ -15358,9 +15358,9 @@
         "reference": "65",
         "display_reference": "WSC 65",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:24ca1ccc0018d55eb91708e24713ecebef9629d7812739e67a453ea447f21f3d",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-65"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-65"
       }
     },
     {
@@ -15522,7 +15522,7 @@
       "notes": [],
       "work_passage_id": "wsc:66",
       "html_path": "works/wsc/index.html#p-66",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-66",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-66",
       "alignment_revision": "sha256:8065320f6df3f69a8a6ae46e6df41b88cb1514f08934c2483f6b0b748bb2cfa1",
       "review_state": {
         "human_reviewed": false,
@@ -15546,9 +15546,9 @@
         "reference": "66",
         "display_reference": "WSC 66",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:db23b7571318671e7ae883fce5b4df9f6f44f11ca6c738fe40e45c84dc302e3f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-66"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-66"
       }
     },
     {
@@ -15680,7 +15680,7 @@
       "notes": [],
       "work_passage_id": "wsc:67",
       "html_path": "works/wsc/index.html#p-67",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-67",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-67",
       "alignment_revision": "sha256:57a3724bb1d5449ade4765da2d143342f14fe82e0ef73295523cf7da1c513b2d",
       "review_state": {
         "human_reviewed": false,
@@ -15704,9 +15704,9 @@
         "reference": "67",
         "display_reference": "WSC 67",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ec4b7b9cbb2116d0387e01122307c2adc924c74b0ad3b957029b8ebdc0d4210a",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-67"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-67"
       }
     },
     {
@@ -15845,7 +15845,7 @@
       "notes": [],
       "work_passage_id": "wsc:68",
       "html_path": "works/wsc/index.html#p-68",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-68",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-68",
       "alignment_revision": "sha256:976b5c282d2da2df3325a290e2fecb163dad1d34805ee2512559a360925e3a3a",
       "review_state": {
         "human_reviewed": false,
@@ -15869,9 +15869,9 @@
         "reference": "68",
         "display_reference": "WSC 68",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:eb4ffa1e87a8589df005e6971c2518fb460f149f8a65ac60c804579ad7e61f29",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-68"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-68"
       }
     },
     {
@@ -16018,7 +16018,7 @@
       "notes": [],
       "work_passage_id": "wsc:69",
       "html_path": "works/wsc/index.html#p-69",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-69",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-69",
       "alignment_revision": "sha256:a75f5c43c6e93946bd26b3d31545d0be9d4b76c7d2de594174ff94d3d8e6efbb",
       "review_state": {
         "human_reviewed": false,
@@ -16042,9 +16042,9 @@
         "reference": "69",
         "display_reference": "WSC 69",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:8b3ec9a3df2ca2528dd48955a247ca0b41777cd2ab5b1249437513ff6f5439a8",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-69"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-69"
       }
     },
     {
@@ -16176,7 +16176,7 @@
       "notes": [],
       "work_passage_id": "wsc:70",
       "html_path": "works/wsc/index.html#p-70",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-70",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-70",
       "alignment_revision": "sha256:07a9ed3e76fda7632ff5f0c337fef381eae241fff6ee5f53bd43b450b85b3397",
       "review_state": {
         "human_reviewed": false,
@@ -16200,9 +16200,9 @@
         "reference": "70",
         "display_reference": "WSC 70",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:5a174a1146e0e48715aa35a7b9f5c2caa60d0a670ebb52550a3812a42bf6af17",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-70"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-70"
       }
     },
     {
@@ -16366,7 +16366,7 @@
       "notes": [],
       "work_passage_id": "wsc:71",
       "html_path": "works/wsc/index.html#p-71",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-71",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-71",
       "alignment_revision": "sha256:0242c8f125cb68a389e622b35131c1066176c61426f1d9561c0992165bcca1ee",
       "review_state": {
         "human_reviewed": false,
@@ -16390,9 +16390,9 @@
         "reference": "71",
         "display_reference": "WSC 71",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:fe9540a27e5ee2dafafcbaae6ee1df4ec99f3a3664f3b8bbd06fa23c8fb02b04",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-71"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-71"
       }
     },
     {
@@ -16529,7 +16529,7 @@
       "notes": [],
       "work_passage_id": "wsc:72",
       "html_path": "works/wsc/index.html#p-72",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-72",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-72",
       "alignment_revision": "sha256:bfb77879c6e951f02a390228d068d6222b2b7d651807b7b7d2be256de9bc03fa",
       "review_state": {
         "human_reviewed": false,
@@ -16553,9 +16553,9 @@
         "reference": "72",
         "display_reference": "WSC 72",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ba89228cdd0c796c46a5749c901b819130cbcbfec69a43d2061fbdb015153b05",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-72"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-72"
       }
     },
     {
@@ -16687,7 +16687,7 @@
       "notes": [],
       "work_passage_id": "wsc:73",
       "html_path": "works/wsc/index.html#p-73",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-73",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-73",
       "alignment_revision": "sha256:173eba447ee2ef347158bab8e737bd051184a6004587bcbd70add71e341529b1",
       "review_state": {
         "human_reviewed": false,
@@ -16711,9 +16711,9 @@
         "reference": "73",
         "display_reference": "WSC 73",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:32c6cd4c15992dde445e0041eec0fbbc917daaaeeb58c69581a1b7d14d6a1a8d",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-73"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-73"
       }
     },
     {
@@ -16909,7 +16909,7 @@
       ],
       "work_passage_id": "wsc:74",
       "html_path": "works/wsc/index.html#p-74",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-74",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-74",
       "alignment_revision": "sha256:9aae2a55a291b3efacde1d6a8e1610a28887460a79ca68ff257ef2ed7a68398a",
       "review_state": {
         "human_reviewed": false,
@@ -16933,9 +16933,9 @@
         "reference": "74",
         "display_reference": "WSC 74",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:7125d204316f62267ec37c7418fcca26287451529f51ecb7ad4bc6de1ad6b748",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-74"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-74"
       }
     },
     {
@@ -17087,7 +17087,7 @@
       "notes": [],
       "work_passage_id": "wsc:75",
       "html_path": "works/wsc/index.html#p-75",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-75",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-75",
       "alignment_revision": "sha256:2bdc90fa73fcf230913d520c520b7d88fe8974450df47b89fbda228987f0d7ae",
       "review_state": {
         "human_reviewed": false,
@@ -17111,9 +17111,9 @@
         "reference": "75",
         "display_reference": "WSC 75",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:7002fa47d9df360bccda68d9be3343160ab83e9505af07c1d17a50dab65942ab",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-75"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-75"
       }
     },
     {
@@ -17245,7 +17245,7 @@
       "notes": [],
       "work_passage_id": "wsc:76",
       "html_path": "works/wsc/index.html#p-76",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-76",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-76",
       "alignment_revision": "sha256:d4caa3d1197659f7d3d41248dce3e0f92eddf5ee47f98b3b862be357a17289d2",
       "review_state": {
         "human_reviewed": false,
@@ -17269,9 +17269,9 @@
         "reference": "76",
         "display_reference": "WSC 76",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:83e105c91ba9bb1d7a698c5455b2cf6cb7d30cbba93c193157826073a7a80e17",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-76"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-76"
       }
     },
     {
@@ -17468,7 +17468,7 @@
       "notes": [],
       "work_passage_id": "wsc:77",
       "html_path": "works/wsc/index.html#p-77",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-77",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-77",
       "alignment_revision": "sha256:f4e6cab2817f6970ae0c362ae36c6672ef3beff494efcb286a627c6ad088b2c2",
       "review_state": {
         "human_reviewed": false,
@@ -17492,9 +17492,9 @@
         "reference": "77",
         "display_reference": "WSC 77",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:c4341b8dc942ac5e7c10ab256c63e71ccd93cdfb671dae68240f50ca281603bb",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-77"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-77"
       }
     },
     {
@@ -17634,7 +17634,7 @@
       "notes": [],
       "work_passage_id": "wsc:78",
       "html_path": "works/wsc/index.html#p-78",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-78",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-78",
       "alignment_revision": "sha256:2c3cef619e2885e7babf52f6a9a3b808ee9c9a158e0235f7b3c5aed746d1b7ea",
       "review_state": {
         "human_reviewed": false,
@@ -17658,9 +17658,9 @@
         "reference": "78",
         "display_reference": "WSC 78",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:49fe1fbe63b1b54e7d2bf916abd677dba5e5c87bf76b2a30bca623ecd045feba",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-78"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-78"
       }
     },
     {
@@ -17845,7 +17845,7 @@
       "notes": [],
       "work_passage_id": "wsc:79",
       "html_path": "works/wsc/index.html#p-79",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-79",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-79",
       "alignment_revision": "sha256:1a1a33f44ed40982a7580b850cd5d620f7d61e9ee93d053868216d25fe09dd23",
       "review_state": {
         "human_reviewed": false,
@@ -17869,9 +17869,9 @@
         "reference": "79",
         "display_reference": "WSC 79",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:d0bbbd7d251f69e95522d95b28f97021107b8b629aa611f14499b39a857b8e83",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-79"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-79"
       }
     },
     {
@@ -18079,7 +18079,7 @@
       ],
       "work_passage_id": "wsc:80",
       "html_path": "works/wsc/index.html#p-80",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-80",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-80",
       "alignment_revision": "sha256:c1ae748f3e5d2a3f7c257d349e362c7d375e5de084ca76790be9208bbd466ecf",
       "review_state": {
         "human_reviewed": false,
@@ -18103,9 +18103,9 @@
         "reference": "80",
         "display_reference": "WSC 80",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:cadcc3b3e50537b0c20b73bda945040a4b7ba38e3a770a7e8d456ff6a615657f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-80"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-80"
       }
     },
     {
@@ -18340,7 +18340,7 @@
       ],
       "work_passage_id": "wsc:81",
       "html_path": "works/wsc/index.html#p-81",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-81",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-81",
       "alignment_revision": "sha256:5417a6d38d293dbc4ea3b2cb297c36f4c704e84bf7218693e159a22e591e4e12",
       "review_state": {
         "human_reviewed": false,
@@ -18364,9 +18364,9 @@
         "reference": "81",
         "display_reference": "WSC 81",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:e8036558e943d141b4d83311e26b78aa4e231080646d5cef3a285742aa7cf8d3",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-81"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-81"
       }
     },
     {
@@ -18568,7 +18568,7 @@
       ],
       "work_passage_id": "wsc:82",
       "html_path": "works/wsc/index.html#p-82",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-82",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-82",
       "alignment_revision": "sha256:bc3ba0768b087e11733ab912ca37f69703cb8b056eaaf41b2332162b7c502e3e",
       "review_state": {
         "human_reviewed": false,
@@ -18592,9 +18592,9 @@
         "reference": "82",
         "display_reference": "WSC 82",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:3c0db817a30cf365a366aec9a5071d3552f18c1027795197930c2941077b26e6",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-82"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-82"
       }
     },
     {
@@ -18758,7 +18758,7 @@
       "notes": [],
       "work_passage_id": "wsc:83",
       "html_path": "works/wsc/index.html#p-83",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-83",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-83",
       "alignment_revision": "sha256:a90b05767a84b608b287f4c348ef56f612c183486ec15fe321494822a89c0ccb",
       "review_state": {
         "human_reviewed": false,
@@ -18782,9 +18782,9 @@
         "reference": "83",
         "display_reference": "WSC 83",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:a64fc49e9e99e7878aba54fb89a70b01699d34a56c2d1d6047eafb9d54eab4c4",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-83"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-83"
       }
     },
     {
@@ -18921,7 +18921,7 @@
       "notes": [],
       "work_passage_id": "wsc:84",
       "html_path": "works/wsc/index.html#p-84",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-84",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-84",
       "alignment_revision": "sha256:90d821507d39986f37bc8e15bf3676de463a6e1153cbfba67366017c77dfd48d",
       "review_state": {
         "human_reviewed": false,
@@ -18945,9 +18945,9 @@
         "reference": "84",
         "display_reference": "WSC 84",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:0aefa68e7f37aff4f50c7ee4916ee9fa68e17567889f7392c7f9ea1d25944c50",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-84"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-84"
       }
     },
     {
@@ -19156,7 +19156,7 @@
       ],
       "work_passage_id": "wsc:85",
       "html_path": "works/wsc/index.html#p-85",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-85",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-85",
       "alignment_revision": "sha256:1fdd446a1688061fc911214d3f366dfd8de31164460cd96b913db67ce9aaaf78",
       "review_state": {
         "human_reviewed": false,
@@ -19180,9 +19180,9 @@
         "reference": "85",
         "display_reference": "WSC 85",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:48b0fe7f6ca4f4a55437e7b29959a97fb8f0e7f94f6cc75c4f0f06230e2317b4",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-85"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-85"
       }
     },
     {
@@ -19361,7 +19361,7 @@
       "notes": [],
       "work_passage_id": "wsc:86",
       "html_path": "works/wsc/index.html#p-86",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-86",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-86",
       "alignment_revision": "sha256:4563607549376f1aa881dc0932aa03aa3e25cb4d7f267d943b907b9dea52edcb",
       "review_state": {
         "human_reviewed": false,
@@ -19385,9 +19385,9 @@
         "reference": "86",
         "display_reference": "WSC 86",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:227787652c5af1418c9cab71b246efc7063fb73496865d92ec3d1c203cffa2c2",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-86"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-86"
       }
     },
     {
@@ -19680,7 +19680,7 @@
       ],
       "work_passage_id": "wsc:87",
       "html_path": "works/wsc/index.html#p-87",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-87",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-87",
       "alignment_revision": "sha256:31fdbecbfa29e5ad148eb3365cf3f55c1540e7af0d5fd708b820a3f65466705c",
       "review_state": {
         "human_reviewed": false,
@@ -19704,9 +19704,9 @@
         "reference": "87",
         "display_reference": "WSC 87",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:1a12e1c8db4aac95ebc58ffae763982ae615367b842b2fe26962ba752a40769d",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-87"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-87"
       }
     },
     {
@@ -19911,7 +19911,7 @@
       "notes": [],
       "work_passage_id": "wsc:88",
       "html_path": "works/wsc/index.html#p-88",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-88",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-88",
       "alignment_revision": "sha256:8609995b513a59eb2c59dffaec116299a7647c6b864bda5dfc9266c61e30b88e",
       "review_state": {
         "human_reviewed": false,
@@ -19935,9 +19935,9 @@
         "reference": "88",
         "display_reference": "WSC 88",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:0e2daa9e56ca5508659373e4e108ed7fdc1b5a067dfc27eac69e72f25c661541",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-88"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-88"
       }
     },
     {
@@ -20190,7 +20190,7 @@
       "notes": [],
       "work_passage_id": "wsc:89",
       "html_path": "works/wsc/index.html#p-89",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-89",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-89",
       "alignment_revision": "sha256:bfaba268d2380765a1ce3c077949e7fa05c77aaa3b70b63c7dfca81da448d1c2",
       "review_state": {
         "human_reviewed": false,
@@ -20214,9 +20214,9 @@
         "reference": "89",
         "display_reference": "WSC 89",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:6695024c7da5d67ab5aa1c01b672a1455b2bde8f04ff103cccc88bffaa0c4b54",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-89"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-89"
       }
     },
     {
@@ -20502,7 +20502,7 @@
       "notes": [],
       "work_passage_id": "wsc:90",
       "html_path": "works/wsc/index.html#p-90",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-90",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-90",
       "alignment_revision": "sha256:4ffa36f6cdafc5fd065f8fa4914e34e9f8993f900766fca40d1b1a096d0835b1",
       "review_state": {
         "human_reviewed": false,
@@ -20526,9 +20526,9 @@
         "reference": "90",
         "display_reference": "WSC 90",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:eb5489da6cb5b6945a236dc716e0139ca1f1cf83404a6b49787f69d44dce301c",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-90"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-90"
       }
     },
     {
@@ -20756,7 +20756,7 @@
       ],
       "work_passage_id": "wsc:91",
       "html_path": "works/wsc/index.html#p-91",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-91",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-91",
       "alignment_revision": "sha256:d24070de972ae290cb181a9588a0b679ee45e42ff73df88d8d87a73409e3a3b5",
       "review_state": {
         "human_reviewed": false,
@@ -20780,9 +20780,9 @@
         "reference": "91",
         "display_reference": "WSC 91",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:d1a659434675e6c6c1bfbbe820f3a5d6d18454a4d7778e52448c95c037c8deb4",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-91"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-91"
       }
     },
     {
@@ -20971,7 +20971,7 @@
       ],
       "work_passage_id": "wsc:92",
       "html_path": "works/wsc/index.html#p-92",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-92",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-92",
       "alignment_revision": "sha256:e95773898fc24afafd925ddec4e80aca219b28d9369f2485703adf7f68466db2",
       "review_state": {
         "human_reviewed": false,
@@ -20995,9 +20995,9 @@
         "reference": "92",
         "display_reference": "WSC 92",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:af936a1e586d3a530fb3c8c4efa9a6ae1bb98925c3a1c93bc885a0ff51c690c1",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-92"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-92"
       }
     },
     {
@@ -21142,7 +21142,7 @@
       "notes": [],
       "work_passage_id": "wsc:93",
       "html_path": "works/wsc/index.html#p-93",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-93",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-93",
       "alignment_revision": "sha256:b76f63e232b3e576f42e82e5e9238cda3c685a47087a3eb6d004181c95474107",
       "review_state": {
         "human_reviewed": false,
@@ -21166,9 +21166,9 @@
         "reference": "93",
         "display_reference": "WSC 93",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:553d20ec41d1c36ec552fa768490aa88895ca73831b287201e81643b7cda4dbe",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-93"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-93"
       }
     },
     {
@@ -21375,7 +21375,7 @@
       ],
       "work_passage_id": "wsc:94",
       "html_path": "works/wsc/index.html#p-94",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-94",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-94",
       "alignment_revision": "sha256:2488c6c08badaf5a4ec4a3a6c52694ce9b354eccdeb941ac7d0e0acc26a9f7d1",
       "review_state": {
         "human_reviewed": false,
@@ -21399,9 +21399,9 @@
         "reference": "94",
         "display_reference": "WSC 94",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:3cca621439556d266f9ad7a1b134a30849e2c22fa0e135b92e904658e7f5a450",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-94"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-94"
       }
     },
     {
@@ -21620,7 +21620,7 @@
       "notes": [],
       "work_passage_id": "wsc:95",
       "html_path": "works/wsc/index.html#p-95",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-95",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-95",
       "alignment_revision": "sha256:3221a41a2bf5cd4c117fc197b636daf99331f2fa61f24acc0903b8afb0057768",
       "review_state": {
         "human_reviewed": false,
@@ -21644,9 +21644,9 @@
         "reference": "95",
         "display_reference": "WSC 95",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ec7e2c1ce1fbf8e3e2af19af6b8435e0f99d0e822b7c4b445aa64cf5c7d93741",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-95"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-95"
       }
     },
     {
@@ -21889,7 +21889,7 @@
       ],
       "work_passage_id": "wsc:96",
       "html_path": "works/wsc/index.html#p-96",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-96",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-96",
       "alignment_revision": "sha256:39c04df4b110f7aebe00c4e211f59c34333320cd239c97189c52c066579a639c",
       "review_state": {
         "human_reviewed": false,
@@ -21913,9 +21913,9 @@
         "reference": "96",
         "display_reference": "WSC 96",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:8c1c5b9ee79742012e31886d8e4c7d1b840bbca4e23850f23836afce0bed7062",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-96"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-96"
       }
     },
     {
@@ -22225,7 +22225,7 @@
       "notes": [],
       "work_passage_id": "wsc:97",
       "html_path": "works/wsc/index.html#p-97",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-97",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-97",
       "alignment_revision": "sha256:828fbbcdd3094931d194c01417c1e51efbdb3a01189e0c9ac6f34366b6b0a272",
       "review_state": {
         "human_reviewed": false,
@@ -22249,9 +22249,9 @@
         "reference": "97",
         "display_reference": "WSC 97",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:8f5ab6553bf2ecfb75dee76b8f4f1d0c4bfb6608aa58af1b8cbbff023e8ff933",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-97"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-97"
       }
     },
     {
@@ -22508,7 +22508,7 @@
       "notes": [],
       "work_passage_id": "wsc:98",
       "html_path": "works/wsc/index.html#p-98",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-98",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-98",
       "alignment_revision": "sha256:c0090e15c15dabbf175f927aad2314a9b736ac89f4efc8d6758a93261673161c",
       "review_state": {
         "human_reviewed": false,
@@ -22532,9 +22532,9 @@
         "reference": "98",
         "display_reference": "WSC 98",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:a6e0732e1d6381d541c7799bec86df27d807c8632cd624adf723ff84f1d763cc",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-98"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-98"
       }
     },
     {
@@ -22753,7 +22753,7 @@
       "notes": [],
       "work_passage_id": "wsc:99",
       "html_path": "works/wsc/index.html#p-99",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-99",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-99",
       "alignment_revision": "sha256:20335352ad94f99345e37014ff1163bbfbfc9340b23054676726ff3bbe549479",
       "review_state": {
         "human_reviewed": false,
@@ -22777,9 +22777,9 @@
         "reference": "99",
         "display_reference": "WSC 99",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:5d75c5ebe2615eef9f03823bfd2e347e09af1dc8fc07f71ea1b133f29f478c18",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-99"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-99"
       }
     },
     {
@@ -23010,7 +23010,7 @@
       "notes": [],
       "work_passage_id": "wsc:100",
       "html_path": "works/wsc/index.html#p-100",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-100",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-100",
       "alignment_revision": "sha256:c5dcc758972cb84aec59b7b43a328164de9637be1e95208d68e16ccbef75bd11",
       "review_state": {
         "human_reviewed": false,
@@ -23034,9 +23034,9 @@
         "reference": "100",
         "display_reference": "WSC 100",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:e7881dd518cd482df7c7ce84559a2526f1935305dad231472c42bc9f98cf1c7d",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-100"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-100"
       }
     },
     {
@@ -23242,7 +23242,7 @@
       "notes": [],
       "work_passage_id": "wsc:101",
       "html_path": "works/wsc/index.html#p-101",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-101",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-101",
       "alignment_revision": "sha256:52e6d4e7bcf585e8770ac954cf791101ceeeae5c7909e63c051b3fec3706be94",
       "review_state": {
         "human_reviewed": false,
@@ -23266,9 +23266,9 @@
         "reference": "101",
         "display_reference": "WSC 101",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:80a11f22fefe47068e94834c0c7b19ed8ea1c402b0f26bcc2be7fe9a3caeaa73",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-101"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-101"
       }
     },
     {
@@ -23552,7 +23552,7 @@
       "notes": [],
       "work_passage_id": "wsc:102",
       "html_path": "works/wsc/index.html#p-102",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-102",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-102",
       "alignment_revision": "sha256:8e97188f6884fef33c9d55ecead828db245205245b2d8b48b43462ee138d1e1a",
       "review_state": {
         "human_reviewed": false,
@@ -23576,9 +23576,9 @@
         "reference": "102",
         "display_reference": "WSC 102",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:63a104ff421641876da456cf0a4c7ce2acff88a4c88ff6895699a165156e802e",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-102"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-102"
       }
     },
     {
@@ -23821,7 +23821,7 @@
       "notes": [],
       "work_passage_id": "wsc:103",
       "html_path": "works/wsc/index.html#p-103",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-103",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-103",
       "alignment_revision": "sha256:cfab419d97192927fb699f90bba35037e5cc86f10dd3ca17122006e891f63751",
       "review_state": {
         "human_reviewed": false,
@@ -23845,9 +23845,9 @@
         "reference": "103",
         "display_reference": "WSC 103",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:e227fbb4d8dd286839be43ae9cff221f552e79073c0992b6cdcf9ea601cff83f",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-103"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-103"
       }
     },
     {
@@ -24050,7 +24050,7 @@
       ],
       "work_passage_id": "wsc:104",
       "html_path": "works/wsc/index.html#p-104",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-104",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-104",
       "alignment_revision": "sha256:dd70aee819b487279135adb0af198f663e17d23584bc22a3751eacff3f0d46a2",
       "review_state": {
         "human_reviewed": false,
@@ -24074,9 +24074,9 @@
         "reference": "104",
         "display_reference": "WSC 104",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:d7eed8c9fb5ec032983ff3b5e010164f483dbf8ec7fa7e91a53ff4d3f2495b82",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-104"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-104"
       }
     },
     {
@@ -24333,7 +24333,7 @@
       ],
       "work_passage_id": "wsc:105",
       "html_path": "works/wsc/index.html#p-105",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-105",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-105",
       "alignment_revision": "sha256:96f0e014d67bded163867af52f8fa2a4da3572fde7fd9fe2ae5584ce4186d49d",
       "review_state": {
         "human_reviewed": false,
@@ -24357,9 +24357,9 @@
         "reference": "105",
         "display_reference": "WSC 105",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:ff3bd0c8ad63f7f4926be97ebd7fb7f7e00d5bcb0d0a5e2f1952f3093ecdc533",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-105"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-105"
       }
     },
     {
@@ -24558,7 +24558,7 @@
       ],
       "work_passage_id": "wsc:106",
       "html_path": "works/wsc/index.html#p-106",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-106",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-106",
       "alignment_revision": "sha256:c621db33149830977b6b9f11f3fd4ec111401d14a85a3c4ac60e53fbc408c902",
       "review_state": {
         "human_reviewed": false,
@@ -24582,9 +24582,9 @@
         "reference": "106",
         "display_reference": "WSC 106",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:3269b5b559e4c6cb2e62f58192ef1f2b48ed4542b0190c3d79aff69939d14dd1",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-106"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-106"
       }
     },
     {
@@ -24914,7 +24914,7 @@
       "notes": [],
       "work_passage_id": "wsc:107",
       "html_path": "works/wsc/index.html#p-107",
-      "fixed_html_path": "releases/public-0.2/works/wsc/index.html#p-107",
+      "fixed_html_path": "releases/public-0.3/works/wsc/index.html#p-107",
       "alignment_revision": "sha256:e8f2cebbf60ade1cba2d07454ef972501bc387c2dbe617f729a01116114a10ed",
       "review_state": {
         "human_reviewed": false,
@@ -24938,9 +24938,9 @@
         "reference": "107",
         "display_reference": "WSC 107",
         "edition": "증거 구절이 붙은 첫 인쇄본. London: J.F., 1648 (Wing W1440C). archive.org의 EEBO 마이크로필름 스캔.",
-        "release": "public-0.2",
+        "release": "public-0.3",
         "translation_revision": "sha256:332699bec2ded507a8471f6be819a10855a7a340447293cb4aa7eb01890ae30c",
-        "fixed_path": "releases/public-0.2/works/wsc/index.html#p-107"
+        "fixed_path": "releases/public-0.3/works/wsc/index.html#p-107"
       }
     }
   ],
