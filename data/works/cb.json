@@ -40,14 +40,14 @@
   "language_label": "프랑스어",
   "coverage_label": "전문",
   "coverage": "complete",
-  "release_id": "public-0.4",
+  "release_id": "public-0.5",
   "source_language": "fr",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/cb/index.html",
   "json_path": "data/works/cb.json",
-  "fixed_html_path": "releases/public-0.4/works/cb/index.html",
+  "fixed_html_path": "releases/public-0.5/works/cb/index.html",
   "source_profile": "cb-schaff1877-djvu-1",
   "base_witness": {
     "id": "schaff1877",
@@ -1610,7 +1610,7 @@
       ],
       "work_passage_id": "cb:title",
       "html_path": "works/cb/index.html#p-title",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-title",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-title",
       "alignment_revision": "sha256:79897550b51a9513ffcce6f2e36618c089f2200db674bcb730d33c0caa3aaaf1",
       "review_state": {
         "human_reviewed": false,
@@ -1634,9 +1634,9 @@
         "reference": "title",
         "display_reference": "CB title",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:51cd32dceca0a4d3a287171c764115f8d30ff2cf8044836648907d057665e0af",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-title"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-title"
       }
     },
     {
@@ -1994,7 +1994,7 @@
       ],
       "work_passage_id": "cb:1",
       "html_path": "works/cb/index.html#p-1",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-1",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-1",
       "alignment_revision": "sha256:46ddcb92a174f879376aa72bccccc40204185915c3719b5dcfedd9174ca351ed",
       "review_state": {
         "human_reviewed": false,
@@ -2018,9 +2018,9 @@
         "reference": "1",
         "display_reference": "CB 1",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:2e6ec24fb6ba676716e8cc21ed582d1e678bcfbeab9c524700d4e339aae34f11",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-1"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-1"
       }
     },
     {
@@ -2412,7 +2412,7 @@
       ],
       "work_passage_id": "cb:2",
       "html_path": "works/cb/index.html#p-2",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-2",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-2",
       "alignment_revision": "sha256:6d2456198557166fc95cd3a15a9e48a8465e2258499047655d7bda046cfd77f7",
       "review_state": {
         "human_reviewed": false,
@@ -2436,9 +2436,9 @@
         "reference": "2",
         "display_reference": "CB 2",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:5c463bb4657c36c564a2780b42912e1cf6296ed7aec748f7bc5264fcef8c5bea",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-2"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-2"
       }
     },
     {
@@ -2753,7 +2753,7 @@
       ],
       "work_passage_id": "cb:3",
       "html_path": "works/cb/index.html#p-3",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-3",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-3",
       "alignment_revision": "sha256:a8b3e5aca94944edbf0fc759bc0c5e91c0fa72ad3a17d0696ec9cc3c1ae102e5",
       "review_state": {
         "human_reviewed": false,
@@ -2777,9 +2777,9 @@
         "reference": "3",
         "display_reference": "CB 3",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:24cfc6976dcfc1db69e836a38bc1949b1bf7851997d9e48330aacbc31a8baec2",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-3"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-3"
       }
     },
     {
@@ -3344,7 +3344,7 @@
       ],
       "work_passage_id": "cb:4",
       "html_path": "works/cb/index.html#p-4",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-4",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-4",
       "alignment_revision": "sha256:c4fae4e646937c3bce03de4cbe82143eb06a2c6216fbacd0fc0a8feb500cd7e8",
       "review_state": {
         "human_reviewed": false,
@@ -3368,9 +3368,9 @@
         "reference": "4",
         "display_reference": "CB 4",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:ac8bc21ebeb4707acb11b7937ae31acc0ecc578525a5492dc42ba3e336349812",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-4"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-4"
       }
     },
     {
@@ -3607,7 +3607,7 @@
       "notes": [],
       "work_passage_id": "cb:5",
       "html_path": "works/cb/index.html#p-5",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-5",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-5",
       "alignment_revision": "sha256:a0e7b2b47689e80a9c987ebe44bdea51f801e65e8bd565846c8bcf147483bbe0",
       "review_state": {
         "human_reviewed": false,
@@ -3631,9 +3631,9 @@
         "reference": "5",
         "display_reference": "CB 5",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:94fb095ab26f290bca0ba13fb0631e869b348c0bfb065c0df215e22de39126ab",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-5"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-5"
       }
     },
     {
@@ -3973,7 +3973,7 @@
       ],
       "work_passage_id": "cb:6",
       "html_path": "works/cb/index.html#p-6",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-6",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-6",
       "alignment_revision": "sha256:857e25d3bdea54e291158950cb2a037374bba554422184563a789a6975e25184",
       "review_state": {
         "human_reviewed": false,
@@ -3997,9 +3997,9 @@
         "reference": "6",
         "display_reference": "CB 6",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:6e9e260cbb49eff65a1e22351798b5c1a48b7495ff7fe5aa67e0d4813c65bd82",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-6"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-6"
       }
     },
     {
@@ -4905,7 +4905,7 @@
       ],
       "work_passage_id": "cb:7",
       "html_path": "works/cb/index.html#p-7",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-7",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-7",
       "alignment_revision": "sha256:88bb4f53765406f96e6e4a60334070d53f258b1bd621674b91d6b684cf0bbece",
       "review_state": {
         "human_reviewed": false,
@@ -4929,9 +4929,9 @@
         "reference": "7",
         "display_reference": "CB 7",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:44bc73f2ff3f2ea5a4473c115afeb80d2049f83f50ae7687dd56e4f0e6a9c3bd",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-7"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-7"
       }
     },
     {
@@ -5762,7 +5762,7 @@
       ],
       "work_passage_id": "cb:8",
       "html_path": "works/cb/index.html#p-8",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-8",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-8",
       "alignment_revision": "sha256:25579fc8e6a6e143a2fc3bb1ed83382396e59e0f9e4e49c15e1e52c99669a243",
       "review_state": {
         "human_reviewed": false,
@@ -5786,9 +5786,9 @@
         "reference": "8",
         "display_reference": "CB 8",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:8288dd97d743f606b16a047c266cf018f1fc73fa7a2509d81a8a506ded632a09",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-8"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-8"
       }
     },
     {
@@ -7388,7 +7388,7 @@
       ],
       "work_passage_id": "cb:9",
       "html_path": "works/cb/index.html#p-9",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-9",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-9",
       "alignment_revision": "sha256:02842b1b5536d87549dbaebf5bd0785b711d750ac79c33dd81312845f87c0a38",
       "review_state": {
         "human_reviewed": false,
@@ -7412,9 +7412,9 @@
         "reference": "9",
         "display_reference": "CB 9",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:b295a08084b550378ab38d025cd88a91a003c73c491035dfdac7f15349019040",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-9"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-9"
       }
     },
     {
@@ -8210,7 +8210,7 @@
       ],
       "work_passage_id": "cb:10",
       "html_path": "works/cb/index.html#p-10",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-10",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-10",
       "alignment_revision": "sha256:00af5258ce2455a66da41557f6f0f060eb39650a7685c3198f5d9a6a4f5cea36",
       "review_state": {
         "human_reviewed": false,
@@ -8234,9 +8234,9 @@
         "reference": "10",
         "display_reference": "CB 10",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:58eb06ef65bee9485ff595d7e3bbd51d5cebbb2f7b7eae490d2b512977d7f0fe",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-10"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-10"
       }
     },
     {
@@ -8549,7 +8549,7 @@
       "notes": [],
       "work_passage_id": "cb:11",
       "html_path": "works/cb/index.html#p-11",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-11",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-11",
       "alignment_revision": "sha256:a2866fd4afc1aac1d7f4cab978fe187ef59c25c1e954cd19e66435a371a66e64",
       "review_state": {
         "human_reviewed": false,
@@ -8573,9 +8573,9 @@
         "reference": "11",
         "display_reference": "CB 11",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:513514e5630d6aa03c935cb24a3a67f07fced10ef0b202a00eb2862f5a632997",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-11"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-11"
       }
     },
     {
@@ -9544,7 +9544,7 @@
       ],
       "work_passage_id": "cb:12",
       "html_path": "works/cb/index.html#p-12",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-12",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-12",
       "alignment_revision": "sha256:c3ac567d690a9ed25729d7b1a84f3559b7e9c35f287bb00ba14dbe1a4e2001a3",
       "review_state": {
         "human_reviewed": false,
@@ -9568,9 +9568,9 @@
         "reference": "12",
         "display_reference": "CB 12",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:794f0c1f4333575cebe87680e07ceb030d48278eaf6f5ef7447eb5a984ac88cd",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-12"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-12"
       }
     },
     {
@@ -10646,7 +10646,7 @@
       ],
       "work_passage_id": "cb:13",
       "html_path": "works/cb/index.html#p-13",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-13",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-13",
       "alignment_revision": "sha256:d7d2c39cfdad7220059a38af6e852ed3baa7a1620fd07f46fbc7fa3336e30763",
       "review_state": {
         "human_reviewed": false,
@@ -10670,9 +10670,9 @@
         "reference": "13",
         "display_reference": "CB 13",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:25c2d8a2080495cd996198e2052a53c1e6c17d1fa67fa1301d8fda082ba4f3d1",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-13"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-13"
       }
     },
     {
@@ -12129,7 +12129,7 @@
       ],
       "work_passage_id": "cb:14",
       "html_path": "works/cb/index.html#p-14",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-14",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-14",
       "alignment_revision": "sha256:b81e3e0ca3666dcdb1528e7903ad98869f8d649cacf54d4ce873f8bb112c63ae",
       "review_state": {
         "human_reviewed": false,
@@ -12153,9 +12153,9 @@
         "reference": "14",
         "display_reference": "CB 14",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:f55e79237bc08960ac43dacd01141c5854742208a56f6fe274ae0ae795ae18e9",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-14"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-14"
       }
     },
     {
@@ -12786,7 +12786,7 @@
       ],
       "work_passage_id": "cb:15",
       "html_path": "works/cb/index.html#p-15",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-15",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-15",
       "alignment_revision": "sha256:930d195b3729520aa15e65b15c0d5990a49f2def2e4d29826b42d6211b998513",
       "review_state": {
         "human_reviewed": false,
@@ -12810,9 +12810,9 @@
         "reference": "15",
         "display_reference": "CB 15",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:896f41fc78bd3319a80169ec75f7e6347fc2446bc1edd05d38b5800014340f38",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-15"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-15"
       }
     },
     {
@@ -13287,7 +13287,7 @@
       ],
       "work_passage_id": "cb:16",
       "html_path": "works/cb/index.html#p-16",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-16",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-16",
       "alignment_revision": "sha256:ed8b9884a91dc9626c7643bfb90c03958cc20238e86ebda706525479dba53004",
       "review_state": {
         "human_reviewed": false,
@@ -13311,9 +13311,9 @@
         "reference": "16",
         "display_reference": "CB 16",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:5b9a005fef71c3254b261dbde322a3add0870cacecfd3154e5bb6f4b2484d253",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-16"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-16"
       }
     },
     {
@@ -13615,7 +13615,7 @@
       "notes": [],
       "work_passage_id": "cb:17",
       "html_path": "works/cb/index.html#p-17",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-17",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-17",
       "alignment_revision": "sha256:2b16312869ad2762ba1becbc554b3d143ac7d960db5094bfc5676195dee9eabf",
       "review_state": {
         "human_reviewed": false,
@@ -13639,9 +13639,9 @@
         "reference": "17",
         "display_reference": "CB 17",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:2b923e3861c8dbb50b43e30459b3980f236e706bf7d0ac0a9b891e71769b8e97",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-17"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-17"
       }
     },
     {
@@ -14629,7 +14629,7 @@
       ],
       "work_passage_id": "cb:18",
       "html_path": "works/cb/index.html#p-18",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-18",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-18",
       "alignment_revision": "sha256:dd14dc67228b190409249653cc648e2c02ea9f4f0cb2ec33d6655dfa5f9e8c33",
       "review_state": {
         "human_reviewed": false,
@@ -14653,9 +14653,9 @@
         "reference": "18",
         "display_reference": "CB 18",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:42c6e04249d87af62dfbd57e46ada410b00bb0dea4bcdff5f4dc2709fc23e10d",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-18"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-18"
       }
     },
     {
@@ -15461,7 +15461,7 @@
       ],
       "work_passage_id": "cb:19",
       "html_path": "works/cb/index.html#p-19",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-19",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-19",
       "alignment_revision": "sha256:99ee8bdb33770a1fa0eb215400bce5346dcca50edffa201d3e3d42bb0275235e",
       "review_state": {
         "human_reviewed": false,
@@ -15485,9 +15485,9 @@
         "reference": "19",
         "display_reference": "CB 19",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:59007aecbd41994044700fb9cc0defb039a9c2dbaef8869ef197c37e63003d0d",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-19"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-19"
       }
     },
     {
@@ -15851,7 +15851,7 @@
       "notes": [],
       "work_passage_id": "cb:20",
       "html_path": "works/cb/index.html#p-20",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-20",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-20",
       "alignment_revision": "sha256:4a49072b3e1f2fa0b78b2a544d01f8a91a608a111fa406e90df5706db8ababd0",
       "review_state": {
         "human_reviewed": false,
@@ -15875,9 +15875,9 @@
         "reference": "20",
         "display_reference": "CB 20",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:88dab063d02486052f5f94cf5860a7c181395aa127cb6cf9fdc26183e6a1e991",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-20"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-20"
       }
     },
     {
@@ -16983,7 +16983,7 @@
       "notes": [],
       "work_passage_id": "cb:21",
       "html_path": "works/cb/index.html#p-21",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-21",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-21",
       "alignment_revision": "sha256:656468caccbf441d46fd35315c4ed10f0093af4ce2c88753a035fbc17ab469fd",
       "review_state": {
         "human_reviewed": false,
@@ -17007,9 +17007,9 @@
         "reference": "21",
         "display_reference": "CB 21",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:e3a1412efff38b537d8aacb35e35e44745761fe3e0b91135505b8841a9b32fd6",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-21"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-21"
       }
     },
     {
@@ -17840,7 +17840,7 @@
       ],
       "work_passage_id": "cb:22",
       "html_path": "works/cb/index.html#p-22",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-22",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-22",
       "alignment_revision": "sha256:e954b5f5ff370c771976b17ba47d88fad9e0959098f255607a0fec065a079a9c",
       "review_state": {
         "human_reviewed": false,
@@ -17864,9 +17864,9 @@
         "reference": "22",
         "display_reference": "CB 22",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:83fe0b812001ef923a785fa684acf355c6e621a00d6d34c0970f6aa912255785",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-22"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-22"
       }
     },
     {
@@ -18760,7 +18760,7 @@
       "notes": [],
       "work_passage_id": "cb:23",
       "html_path": "works/cb/index.html#p-23",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-23",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-23",
       "alignment_revision": "sha256:f380d84feb253765eda4540583c2a965acc75ef2894e02a40f9dedb077ceec2a",
       "review_state": {
         "human_reviewed": false,
@@ -18784,9 +18784,9 @@
         "reference": "23",
         "display_reference": "CB 23",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:040185c5ceac3a307d9421052feb1b8f55c4ab1fd954289bb0ecb4deea49d708",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-23"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-23"
       }
     },
     {
@@ -20288,7 +20288,7 @@
       ],
       "work_passage_id": "cb:24",
       "html_path": "works/cb/index.html#p-24",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-24",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-24",
       "alignment_revision": "sha256:4cd685ed1490323af3f5dc7eeca8ab702ae3865731628523e5db582d7c1968d6",
       "review_state": {
         "human_reviewed": false,
@@ -20312,9 +20312,9 @@
         "reference": "24",
         "display_reference": "CB 24",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:a68d0d3f44c866d7c3571512d79bf96c88936e5da5583caddba558eb3e3e540c",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-24"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-24"
       }
     },
     {
@@ -20612,7 +20612,7 @@
       "notes": [],
       "work_passage_id": "cb:25",
       "html_path": "works/cb/index.html#p-25",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-25",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-25",
       "alignment_revision": "sha256:5ec27f84627b42ce15e534b5d7093c6a317126716dbcb6afa3e386dfeb76f2c3",
       "review_state": {
         "human_reviewed": false,
@@ -20636,9 +20636,9 @@
         "reference": "25",
         "display_reference": "CB 25",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:800f2cc3bb22303ed593c424dc3c81025ff13904ad48e2f8976c8326a6241fe0",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-25"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-25"
       }
     },
     {
@@ -22665,7 +22665,7 @@
       ],
       "work_passage_id": "cb:26",
       "html_path": "works/cb/index.html#p-26",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-26",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-26",
       "alignment_revision": "sha256:83fcc2364f7b7b6642374d63d0652db672eee5baaff0424b04bf9583ce8dbf59",
       "review_state": {
         "human_reviewed": false,
@@ -22689,9 +22689,9 @@
         "reference": "26",
         "display_reference": "CB 26",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:4b1acbe8105b9955a34861bea846938193b2fdf8817a5ce564185d49e3d8e1f1",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-26"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-26"
       }
     },
     {
@@ -23420,7 +23420,7 @@
       ],
       "work_passage_id": "cb:27",
       "html_path": "works/cb/index.html#p-27",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-27",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-27",
       "alignment_revision": "sha256:f2d3825fbef1673fa28e5786b3208e12b7ebe43b1cb4665e1d23dcf472da9203",
       "review_state": {
         "human_reviewed": false,
@@ -23444,9 +23444,9 @@
         "reference": "27",
         "display_reference": "CB 27",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:2b3ece2c97b93c3c9b4a0d3bbdfb77924c99eeef4d5e1ca4f9f332bf381f5e43",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-27"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-27"
       }
     },
     {
@@ -24158,7 +24158,7 @@
       "notes": [],
       "work_passage_id": "cb:28",
       "html_path": "works/cb/index.html#p-28",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-28",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-28",
       "alignment_revision": "sha256:171fd8d832c54509fe12f3580173fe665c51bb8aa5ddcb03de4c7372798edc4a",
       "review_state": {
         "human_reviewed": false,
@@ -24182,9 +24182,9 @@
         "reference": "28",
         "display_reference": "CB 28",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:cab68d9b5ed269cbee610a148ed71bc47b54c0bfe9c8b8831b203137a56e40c7",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-28"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-28"
       }
     },
     {
@@ -25589,7 +25589,7 @@
       "notes": [],
       "work_passage_id": "cb:29",
       "html_path": "works/cb/index.html#p-29",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-29",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-29",
       "alignment_revision": "sha256:1f9035073dda77b5367dfc36e9e0d93e986233b827caf6b0663ae674bafa0bdd",
       "review_state": {
         "human_reviewed": false,
@@ -25613,9 +25613,9 @@
         "reference": "29",
         "display_reference": "CB 29",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:b6fc2e1a1d96a870ead8e88705bd3e8ee01ce345c06ad8edb21f5b7b2865cd34",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-29"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-29"
       }
     },
     {
@@ -26093,7 +26093,7 @@
       ],
       "work_passage_id": "cb:30",
       "html_path": "works/cb/index.html#p-30",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-30",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-30",
       "alignment_revision": "sha256:1945153660f08f9bc7569d3e7546757e246733c14862bf25e33aa0a8d085b2bc",
       "review_state": {
         "human_reviewed": false,
@@ -26117,9 +26117,9 @@
         "reference": "30",
         "display_reference": "CB 30",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:2c5815d4745ff844718033cef5ba34ea3167cccd62f4c7a04872f8cf9c73f94f",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-30"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-30"
       }
     },
     {
@@ -26778,7 +26778,7 @@
       ],
       "work_passage_id": "cb:31",
       "html_path": "works/cb/index.html#p-31",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-31",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-31",
       "alignment_revision": "sha256:fa9ed0e4fadec1072dcfd3b10db97bba9d1a4ed9c44e36a9b132df51cf0a2e37",
       "review_state": {
         "human_reviewed": false,
@@ -26802,9 +26802,9 @@
         "reference": "31",
         "display_reference": "CB 31",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:6695d3e1a2fc80f580452b4502d10d6ff88e8616b470de3fa07a32c71a836da2",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-31"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-31"
       }
     },
     {
@@ -27253,7 +27253,7 @@
       ],
       "work_passage_id": "cb:32",
       "html_path": "works/cb/index.html#p-32",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-32",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-32",
       "alignment_revision": "sha256:f52337cd8fe1483f5bc59b4e440db47488210d53d599db80c2f475326080d3ec",
       "review_state": {
         "human_reviewed": false,
@@ -27277,9 +27277,9 @@
         "reference": "32",
         "display_reference": "CB 32",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:946e583b043ccbdd220feb6bdb1aea71e495d2481e65ba9c2ad42ba3e08a0244",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-32"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-32"
       }
     },
     {
@@ -27847,7 +27847,7 @@
       "notes": [],
       "work_passage_id": "cb:33",
       "html_path": "works/cb/index.html#p-33",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-33",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-33",
       "alignment_revision": "sha256:956362257e968e9830fdd3dc874cbb720a5b0bb6d469ac9984f4f3cb2525b30c",
       "review_state": {
         "human_reviewed": false,
@@ -27871,9 +27871,9 @@
         "reference": "33",
         "display_reference": "CB 33",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:a53cc32dc19bf44f8956f880b802373319232eae4c33026aa7ba03e8e6833be6",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-33"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-33"
       }
     },
     {
@@ -29634,7 +29634,7 @@
       ],
       "work_passage_id": "cb:34",
       "html_path": "works/cb/index.html#p-34",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-34",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-34",
       "alignment_revision": "sha256:58784482076a3e8c9042c880aad0d718f3d292ab94121e267c3178859392ea0a",
       "review_state": {
         "human_reviewed": false,
@@ -29658,9 +29658,9 @@
         "reference": "34",
         "display_reference": "CB 34",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:d933f479021cf58894a7ef3cc7d1c8c54ea3575aee9a26212f7adbdc6e877236",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-34"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-34"
       }
     },
     {
@@ -31755,7 +31755,7 @@
       ],
       "work_passage_id": "cb:35",
       "html_path": "works/cb/index.html#p-35",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-35",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-35",
       "alignment_revision": "sha256:5d0c4a32f82d5cd3e276588c4e974a2400833e92c6b70777e854bd3795e4ba3d",
       "review_state": {
         "human_reviewed": false,
@@ -31779,9 +31779,9 @@
         "reference": "35",
         "display_reference": "CB 35",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:23a4400900969073a14cbe157b5282e29a6884b61efecf284d44cdd7ad0b3139",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-35"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-35"
       }
     },
     {
@@ -32721,7 +32721,7 @@
       ],
       "work_passage_id": "cb:36",
       "html_path": "works/cb/index.html#p-36",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-36",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-36",
       "alignment_revision": "sha256:5d2652a5c6f273cb95268de3ea8897bf8ffb6bd63cda001f8e3b6a5b7fa47d3c",
       "review_state": {
         "human_reviewed": false,
@@ -32745,9 +32745,9 @@
         "reference": "36",
         "display_reference": "CB 36",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:b24efd4d9b103ffa1cadd1bcd8166d459d1930a3539aab34bc4944ec2ce660cb",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-36"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-36"
       }
     },
     {
@@ -34727,7 +34727,7 @@
       ],
       "work_passage_id": "cb:37",
       "html_path": "works/cb/index.html#p-37",
-      "fixed_html_path": "releases/public-0.4/works/cb/index.html#p-37",
+      "fixed_html_path": "releases/public-0.5/works/cb/index.html#p-37",
       "alignment_revision": "sha256:3a686e62efdee6abf533859e3cf901088467634a913d7bde2802e582d7087a4c",
       "review_state": {
         "human_reviewed": false,
@@ -34751,9 +34751,9 @@
         "reference": "37",
         "display_reference": "CB 37",
         "edition": "1580년 공인 사본에 1619년 도르트 총회의 개정을 더한 프랑스어 본문. Philip Schaff, Bibliotheca Symbolica Ecclesiae Universalis. The Creeds of Christendom, III권(New York: Harper & Brothers, 1877; 제3판 1882), 383-436쪽. 증거 구절은 Schaff가 프랑스어 본문에 각주로 단 성경 참조이며, 증거 구절 번호는 조항마다 1부터 이어지는 번호다(Schaff의 각주 번호는 쪽마다 새로 시작한다).",
-        "release": "public-0.4",
+        "release": "public-0.5",
         "translation_revision": "sha256:13e9ac75efc3af0597a2eb8d1585119a4ea00460fdef0db61654a5347f603a01",
-        "fixed_path": "releases/public-0.4/works/cb/index.html#p-37"
+        "fixed_path": "releases/public-0.5/works/cb/index.html#p-37"
       }
     }
   ],
