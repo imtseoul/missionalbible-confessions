@@ -35,14 +35,14 @@
   "language_label": "독일어",
   "coverage_label": "소교리문답 전문",
   "coverage": "complete",
-  "release_id": "public-0.5",
+  "release_id": "public-0.6",
   "source_language": "de",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/lsc/index.html",
   "json_path": "data/works/lsc.json",
-  "fixed_html_path": "releases/public-0.5/works/lsc/index.html",
+  "fixed_html_path": "releases/public-0.6/works/lsc/index.html",
   "source_profile": "lsc-dresden1580-djvu-1",
   "base_witness": {
     "id": "dresden1580",
@@ -260,7 +260,7 @@
       ],
       "work_passage_id": "lsc:title",
       "html_path": "works/lsc/index.html#p-title",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-title",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-title",
       "alignment_revision": "sha256:4121b4359771718ac1cbb26b3b1e3d48f78aec63a5ca8c7eef9150a0a86035e0",
       "review_state": {
         "human_reviewed": false,
@@ -284,9 +284,9 @@
         "reference": "title",
         "display_reference": "LSC title",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:535691ddf23bf0d29173fd984c4b9e4739eeb8b43a43175d264db47a8b923576",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-title"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-title"
       }
     },
     {
@@ -3822,7 +3822,7 @@
       ],
       "work_passage_id": "lsc:pref",
       "html_path": "works/lsc/index.html#p-pref",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-pref",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-pref",
       "alignment_revision": "sha256:05ba09c90544a4890a70df782fce7f4eb43f007d1e430bf7d551bacae6c2e057",
       "review_state": {
         "human_reviewed": false,
@@ -3846,9 +3846,9 @@
         "reference": "pref",
         "display_reference": "LSC pref",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f530226565ff52a764abc5564aa149d75c2028bb4353b89c4083d8035e524e93",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-pref"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-pref"
       }
     },
     {
@@ -4009,7 +4009,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.1",
       "html_path": "works/lsc/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-1",
       "alignment_revision": "sha256:e4e52cfb1ee0afa177b18976079e55ec619d42a0191a6a806e8017bd7bda0126",
       "review_state": {
         "human_reviewed": false,
@@ -4033,9 +4033,9 @@
         "reference": "1.1",
         "display_reference": "LSC 1.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:085e3b0b8e09fd4da502e2422f80b17b5a09c5e9e174e58a55c4c442731561d0",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-1"
       }
     },
     {
@@ -4218,7 +4218,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.2",
       "html_path": "works/lsc/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-2",
       "alignment_revision": "sha256:d579434ba8ed8f149773a4e0a8a6f767df99e008b2ed820b32d3fdac6885f075",
       "review_state": {
         "human_reviewed": false,
@@ -4242,9 +4242,9 @@
         "reference": "1.2",
         "display_reference": "LSC 1.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:adf28e5f9895093eb0cacc98c1e4b5890ae6b55c66e097a27da64cc5b8753041",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-2"
       }
     },
     {
@@ -4409,7 +4409,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.3",
       "html_path": "works/lsc/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-3",
       "alignment_revision": "sha256:cc542d7b06130973e22c55847862bf662b7ccd72fb99883155cbfddb7617627a",
       "review_state": {
         "human_reviewed": false,
@@ -4433,9 +4433,9 @@
         "reference": "1.3",
         "display_reference": "LSC 1.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1399dfcf6fccbe0c7b7247a3887f4610756e3050d6aca881ff4492eab71bcf56",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-3"
       }
     },
     {
@@ -4609,7 +4609,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.4",
       "html_path": "works/lsc/index.html#p-1-4",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-4",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-4",
       "alignment_revision": "sha256:25b31844890f7afa1a1dd1044c5491e06e8c71ad19929a39c59909bb2801421d",
       "review_state": {
         "human_reviewed": false,
@@ -4633,9 +4633,9 @@
         "reference": "1.4",
         "display_reference": "LSC 1.4",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9d48db133ed81d71b9affce2944b4c0c7a13e20329009e9aa027adca7682699e",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-4"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-4"
       }
     },
     {
@@ -4800,7 +4800,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.5",
       "html_path": "works/lsc/index.html#p-1-5",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-5",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-5",
       "alignment_revision": "sha256:d81d181839d2029ea925c3d9a2e0981a7b9f124b55f6fda32164d848b3c196f7",
       "review_state": {
         "human_reviewed": false,
@@ -4824,9 +4824,9 @@
         "reference": "1.5",
         "display_reference": "LSC 1.5",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4a57d9b5f8a2d8ed514eb095cfd98e2c685a2ba0345c1466237178806f6f82ea",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-5"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-5"
       }
     },
     {
@@ -4982,7 +4982,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.6",
       "html_path": "works/lsc/index.html#p-1-6",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-6",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-6",
       "alignment_revision": "sha256:21d037f2647055ea76d6c083538d506f20eff8f55c2ac7f77adb6af125460b98",
       "review_state": {
         "human_reviewed": false,
@@ -5006,9 +5006,9 @@
         "reference": "1.6",
         "display_reference": "LSC 1.6",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c3d16cfc95c5b6967b902c3ccce6abddc321ba84077ad9bc8e11c1e5e266b8ab",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-6"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-6"
       }
     },
     {
@@ -5195,7 +5195,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.7",
       "html_path": "works/lsc/index.html#p-1-7",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-7",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-7",
       "alignment_revision": "sha256:7344db78959453e95dc6744211f627a2fb6bea1c283a3b3f15c0198697388e6d",
       "review_state": {
         "human_reviewed": false,
@@ -5219,9 +5219,9 @@
         "reference": "1.7",
         "display_reference": "LSC 1.7",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ce913670e6c9035a9e9eb2ab0c0857957781c41c6479bce1879ef12eebcc8dd2",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-7"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-7"
       }
     },
     {
@@ -5417,7 +5417,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.8",
       "html_path": "works/lsc/index.html#p-1-8",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-8",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-8",
       "alignment_revision": "sha256:9bb2e21d3340b2076ef2b9869e17d0ce0be3cb2beea89ec5d0c397930ee9650e",
       "review_state": {
         "human_reviewed": false,
@@ -5441,9 +5441,9 @@
         "reference": "1.8",
         "display_reference": "LSC 1.8",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:aefb2902ef72395ac9ac172947baafa0fef8beb3a13a1066dbf23320e20a9646",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-8"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-8"
       }
     },
     {
@@ -5630,7 +5630,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.9",
       "html_path": "works/lsc/index.html#p-1-9",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-9",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-9",
       "alignment_revision": "sha256:e37524b07d8e0c502b926a757f0a180eb5fcdf00a1ef132ed0a88735baf9719e",
       "review_state": {
         "human_reviewed": false,
@@ -5654,9 +5654,9 @@
         "reference": "1.9",
         "display_reference": "LSC 1.9",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9d47cac6f01b03a7f9b5293c038a8f7d576c92b7940f607fae628e9cc3141186",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-9"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-9"
       }
     },
     {
@@ -5839,7 +5839,7 @@
       "notes": [],
       "work_passage_id": "lsc:1.10",
       "html_path": "works/lsc/index.html#p-1-10",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-10",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-10",
       "alignment_revision": "sha256:38d24667ecbe76a2028d4342fdf943788dcecd6f2651b68538c255aab34d1ea1",
       "review_state": {
         "human_reviewed": false,
@@ -5863,9 +5863,9 @@
         "reference": "1.10",
         "display_reference": "LSC 1.10",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f5112ee828e2a6d28ea484859dad975df5d9edf274ebc2c2b20761b65e47434a",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-10"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-10"
       }
     },
     {
@@ -6156,7 +6156,7 @@
       ],
       "work_passage_id": "lsc:1.11",
       "html_path": "works/lsc/index.html#p-1-11",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-1-11",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-1-11",
       "alignment_revision": "sha256:00fbe73ea7e308e09a988dbc81838038ede335fdce67c8deb7d2fc366ed8f6f1",
       "review_state": {
         "human_reviewed": false,
@@ -6180,9 +6180,9 @@
         "reference": "1.11",
         "display_reference": "LSC 1.11",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1a1cb809ff4ca86e8279a156858889a72ad5e1ea940bb83541fdc848944c570d",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-1-11"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-1-11"
       }
     },
     {
@@ -6546,7 +6546,7 @@
       "notes": [],
       "work_passage_id": "lsc:2.1",
       "html_path": "works/lsc/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-2-1",
       "alignment_revision": "sha256:0dbb18f4d1a70d25058b6e56d9315600409ee83be2a805f2c6f6df6a24b47c1f",
       "review_state": {
         "human_reviewed": false,
@@ -6570,9 +6570,9 @@
         "reference": "2.1",
         "display_reference": "LSC 2.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2c6e7f07e4d5dbbd7d3875df559f3db584e1c4b9bf4f53ee5228632f3546ce93",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-2-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-2-1"
       }
     },
     {
@@ -7163,7 +7163,7 @@
       "notes": [],
       "work_passage_id": "lsc:2.2",
       "html_path": "works/lsc/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-2-2",
       "alignment_revision": "sha256:4e4f63728e7824998b816e8ea5be0191504d8ee78c74f348048b41439fac3f14",
       "review_state": {
         "human_reviewed": false,
@@ -7187,9 +7187,9 @@
         "reference": "2.2",
         "display_reference": "LSC 2.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:541d2c6482815a238fee5d1035111629ea946039ba359189c3f8a4b5bfc2c13f",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-2-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-2-2"
       }
     },
     {
@@ -7659,7 +7659,7 @@
       ],
       "work_passage_id": "lsc:2.3",
       "html_path": "works/lsc/index.html#p-2-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-2-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-2-3",
       "alignment_revision": "sha256:1efa87617eeae1ae8090c629b57e0f6780b58a80b4c22d524013881ecb73967e",
       "review_state": {
         "human_reviewed": false,
@@ -7683,9 +7683,9 @@
         "reference": "2.3",
         "display_reference": "LSC 2.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5e23646eb5deee3e47c5a6a23923601a9741ab1f6890e6055cb4d7118e4c024a",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-2-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-2-3"
       }
     },
     {
@@ -7868,7 +7868,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.1",
       "html_path": "works/lsc/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-1",
       "alignment_revision": "sha256:39371a1a90f126331a7ab5a4c6034a77d2fae76d152ed07ed7df288c27ffbee7",
       "review_state": {
         "human_reviewed": false,
@@ -7892,9 +7892,9 @@
         "reference": "3.1",
         "display_reference": "LSC 3.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3042ad2203772790818d6159a30247cfad610bec2d82472707f3c977e0094b0a",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-1"
       }
     },
     {
@@ -8173,7 +8173,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.2",
       "html_path": "works/lsc/index.html#p-3-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-2",
       "alignment_revision": "sha256:deee73391aa7754cb4f483452d03760e78edb29fd3e8a5f0fd094110af5b5ed5",
       "review_state": {
         "human_reviewed": false,
@@ -8197,9 +8197,9 @@
         "reference": "3.2",
         "display_reference": "LSC 3.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bb83a1d2473f74bea3667ebedd5e49c9d435f0ff35799ec5293f6a420f94a352",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-2"
       }
     },
     {
@@ -8421,7 +8421,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.3",
       "html_path": "works/lsc/index.html#p-3-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-3",
       "alignment_revision": "sha256:bb487138f4a0c9f4f227f1ccd5ab1669e31e7e28069c3c9aa1dac8c6c6480966",
       "review_state": {
         "human_reviewed": false,
@@ -8445,9 +8445,9 @@
         "reference": "3.3",
         "display_reference": "LSC 3.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1e04bcae4c91db448e0296a80d7772e5c298e570f7072c9f480dbf78d47a9663",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-3"
       }
     },
     {
@@ -8722,7 +8722,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.4",
       "html_path": "works/lsc/index.html#p-3-4",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-4",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-4",
       "alignment_revision": "sha256:21fe878f495265ac5fb63337e3554173450ab8c8aa0e6e0242c78b93a0fb1160",
       "review_state": {
         "human_reviewed": false,
@@ -8746,9 +8746,9 @@
         "reference": "3.4",
         "display_reference": "LSC 3.4",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:fdb85d6e78a20c521e0ded27419072190253299eb836a6af3b9e4971f0e66cae",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-4"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-4"
       }
     },
     {
@@ -9036,7 +9036,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.5",
       "html_path": "works/lsc/index.html#p-3-5",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-5",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-5",
       "alignment_revision": "sha256:4d0811bdbda5b1a463960e6b034c7937ff57e0eb875c349b6b2a262211072008",
       "review_state": {
         "human_reviewed": false,
@@ -9060,9 +9060,9 @@
         "reference": "3.5",
         "display_reference": "LSC 3.5",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:358c3910fc0d5c10286a391627ea19ce47411990624c317c3da485041200c198",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-5"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-5"
       }
     },
     {
@@ -9330,7 +9330,7 @@
       ],
       "work_passage_id": "lsc:3.6",
       "html_path": "works/lsc/index.html#p-3-6",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-6",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-6",
       "alignment_revision": "sha256:74bc303f731732b122aa2c63e3d73198028c428f1ae6af766c09d31ab19683a2",
       "review_state": {
         "human_reviewed": false,
@@ -9354,9 +9354,9 @@
         "reference": "3.6",
         "display_reference": "LSC 3.6",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:29b080af72b0496eb0700f1116fc4112024e42f5b846d6f6772010da6145d4b2",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-6"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-6"
       }
     },
     {
@@ -9539,7 +9539,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.7",
       "html_path": "works/lsc/index.html#p-3-7",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-7",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-7",
       "alignment_revision": "sha256:ba88d5e38bad69dc331e6c20dc11b673620047365ea20b786be22d8714d57389",
       "review_state": {
         "human_reviewed": false,
@@ -9563,9 +9563,9 @@
         "reference": "3.7",
         "display_reference": "LSC 3.7",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ff28c14750a463e41bc205a9768aabf5fd20cf2fa3cb1380fcd27ce2755abbd9",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-7"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-7"
       }
     },
     {
@@ -9752,7 +9752,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.8",
       "html_path": "works/lsc/index.html#p-3-8",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-8",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-8",
       "alignment_revision": "sha256:14a5a20b047e42f288fa137397e49e73dc3deef6dae1fcfc0db4e8d536bc219c",
       "review_state": {
         "human_reviewed": false,
@@ -9776,9 +9776,9 @@
         "reference": "3.8",
         "display_reference": "LSC 3.8",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:18d8c7d20f764173b5ed59f86f7430294747e597442a22329896e9500c5a7e9f",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-8"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-8"
       }
     },
     {
@@ -9934,7 +9934,7 @@
       "notes": [],
       "work_passage_id": "lsc:3.9",
       "html_path": "works/lsc/index.html#p-3-9",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-3-9",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-3-9",
       "alignment_revision": "sha256:633c4e1593baa0c695f5e9943f008a93e01a996e4a6288b49de6f559e770cadb",
       "review_state": {
         "human_reviewed": false,
@@ -9958,9 +9958,9 @@
         "reference": "3.9",
         "display_reference": "LSC 3.9",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:05e3d485d15203e3f70f170d1021d9ae0f7fa8f885f5421b3b90b76a1aac8729",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-3-9"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-3-9"
       }
     },
     {
@@ -10216,7 +10216,7 @@
       ],
       "work_passage_id": "lsc:4.1",
       "html_path": "works/lsc/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-4-1",
       "alignment_revision": "sha256:2a42120366a921b7d51e08dc9b64ff9b9526d105bd3e5e8beb5a89518f2c13f7",
       "review_state": {
         "human_reviewed": false,
@@ -10240,9 +10240,9 @@
         "reference": "4.1",
         "display_reference": "LSC 4.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:950f522f688af9b4cb6834fcdd5744d5f4986b2a04f79150e48dfa7d456f0fbb",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-4-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-4-1"
       }
     },
     {
@@ -10445,7 +10445,7 @@
       ],
       "work_passage_id": "lsc:4.2",
       "html_path": "works/lsc/index.html#p-4-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-4-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-4-2",
       "alignment_revision": "sha256:6c428b1c09614660f124364400a3a3f294cf25ba073bf2e1fd5899de0e4e98e1",
       "review_state": {
         "human_reviewed": false,
@@ -10469,9 +10469,9 @@
         "reference": "4.2",
         "display_reference": "LSC 4.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:db84b6ab41d56744b2af1313c9e3f7dd15aaa1391569044aeaab0b92b1e53807",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-4-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-4-2"
       }
     },
     {
@@ -10775,7 +10775,7 @@
       ],
       "work_passage_id": "lsc:4.3",
       "html_path": "works/lsc/index.html#p-4-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-4-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-4-3",
       "alignment_revision": "sha256:7875ed97341561b7b84269ce12f704c2b1cf0ffa1e2b5e8c8529e6d17a83143d",
       "review_state": {
         "human_reviewed": false,
@@ -10799,9 +10799,9 @@
         "reference": "4.3",
         "display_reference": "LSC 4.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7473af53b40ca1880cd6028cdadc21b610b17479f7fadfeb1fbf351770e4de2b",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-4-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-4-3"
       }
     },
     {
@@ -11118,7 +11118,7 @@
       ],
       "work_passage_id": "lsc:4.4",
       "html_path": "works/lsc/index.html#p-4-4",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-4-4",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-4-4",
       "alignment_revision": "sha256:44aeb1a6426526709ac788bac56dab0a258006c164cfa7a13cc0cf374957d3b0",
       "review_state": {
         "human_reviewed": false,
@@ -11142,9 +11142,9 @@
         "reference": "4.4",
         "display_reference": "LSC 4.4",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6d07b860433caaf64102f70c7ea34961f7c2749ff7535bce731ab6f1a113652a",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-4-4"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-4-4"
       }
     },
     {
@@ -11333,7 +11333,7 @@
       ],
       "work_passage_id": "lsc:5.1",
       "html_path": "works/lsc/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-1",
       "alignment_revision": "sha256:452dbe6c8289d2ed40a3f99f71324b357ebb21a134ed76b85b55a972200e693b",
       "review_state": {
         "human_reviewed": false,
@@ -11357,9 +11357,9 @@
         "reference": "5.1",
         "display_reference": "LSC 5.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f4d045af31fd50ec08b32ceb5d35178ae2144e9c2674768653e2f8fb1da615ab",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-1"
       }
     },
     {
@@ -11480,7 +11480,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.2",
       "html_path": "works/lsc/index.html#p-5-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-2",
       "alignment_revision": "sha256:839cf2998827b14444a5bcd484fb7c5f4e9c7385e122cb284f2444ef02a27e2f",
       "review_state": {
         "human_reviewed": false,
@@ -11504,9 +11504,9 @@
         "reference": "5.2",
         "display_reference": "LSC 5.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:af307ea70589456f4f186ef3478950fbe4cc8998fab6a07516f575aebe428467",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-2"
       }
     },
     {
@@ -11662,7 +11662,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.3",
       "html_path": "works/lsc/index.html#p-5-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-3",
       "alignment_revision": "sha256:7ba114d4ceb83e80bbab433e4ade6c8514ca809f8f3c699899a5aeef4f88da77",
       "review_state": {
         "human_reviewed": false,
@@ -11686,9 +11686,9 @@
         "reference": "5.3",
         "display_reference": "LSC 5.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:29f622c4cfe0bf4c65f470dbb9cd956e6602528792ea4347cfdc73ac6316a35a",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-3"
       }
     },
     {
@@ -12082,7 +12082,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.4",
       "html_path": "works/lsc/index.html#p-5-4",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-4",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-4",
       "alignment_revision": "sha256:925975e19f9944abf789152dc5d0a813637746a508b404e7e51db2d964446de0",
       "review_state": {
         "human_reviewed": false,
@@ -12106,9 +12106,9 @@
         "reference": "5.4",
         "display_reference": "LSC 5.4",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:10522f538bacd92ac0e432c03b281541256d2ee63f8323ce093d95902428d719",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-4"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-4"
       }
     },
     {
@@ -12330,7 +12330,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.5",
       "html_path": "works/lsc/index.html#p-5-5",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-5",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-5",
       "alignment_revision": "sha256:8b5640bf792e7a51ec87c170246a90a00e7b5255eecff4b398b54f03f15a5fd5",
       "review_state": {
         "human_reviewed": false,
@@ -12354,9 +12354,9 @@
         "reference": "5.5",
         "display_reference": "LSC 5.5",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:551f5fc586fbe6bdaa44829c31cbd626500213c9762d73b4a44ced4755fd81ce",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-5"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-5"
       }
     },
     {
@@ -12635,7 +12635,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.6",
       "html_path": "works/lsc/index.html#p-5-6",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-6",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-6",
       "alignment_revision": "sha256:9807de92fadbf7a7a2d8e8bc00f5ac10cfe34b8942c3ae02ce1e5042a042abfa",
       "review_state": {
         "human_reviewed": false,
@@ -12659,9 +12659,9 @@
         "reference": "5.6",
         "display_reference": "LSC 5.6",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6852a13660c2b0eb829658aa88e33db760286bf4d4fce14402fd69e45b205736",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-6"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-6"
       }
     },
     {
@@ -12928,7 +12928,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.7",
       "html_path": "works/lsc/index.html#p-5-7",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-7",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-7",
       "alignment_revision": "sha256:39da69abce9d95c3ecff181ffa12e936816fd199e226ff14e8ee43ddf6e71cb1",
       "review_state": {
         "human_reviewed": false,
@@ -12952,9 +12952,9 @@
         "reference": "5.7",
         "display_reference": "LSC 5.7",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e68b882beddc7d199d36d736ec0b56fc0fec9d82bae18e592b0e97a46b7ca125",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-7"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-7"
       }
     },
     {
@@ -13075,7 +13075,7 @@
       "notes": [],
       "work_passage_id": "lsc:5.8",
       "html_path": "works/lsc/index.html#p-5-8",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-5-8",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-5-8",
       "alignment_revision": "sha256:c7507e1feecbc0d461b04360bc661d5fc82bed0318180aab0b2e1a92be8824ec",
       "review_state": {
         "human_reviewed": false,
@@ -13099,9 +13099,9 @@
         "reference": "5.8",
         "display_reference": "LSC 5.8",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a9871e64b83d9bfd48b240522f86a2db8f810f5f3a1cc831eeecec9f4d135fd2",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-5-8"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-5-8"
       }
     },
     {
@@ -13286,7 +13286,7 @@
       ],
       "work_passage_id": "lsc:6.1",
       "html_path": "works/lsc/index.html#p-6-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-6-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-6-1",
       "alignment_revision": "sha256:92f558654f884e33e984f38ba8ea16defd1ccff1cde8dcc6c43b0ae40c573dc2",
       "review_state": {
         "human_reviewed": false,
@@ -13310,9 +13310,9 @@
         "reference": "6.1",
         "display_reference": "LSC 6.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8e35da3640e0583079b3b75a60581e4949028248de138f6cdb58d189e5be7fd6",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-6-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-6-1"
       }
     },
     {
@@ -13664,7 +13664,7 @@
       ],
       "work_passage_id": "lsc:6.2",
       "html_path": "works/lsc/index.html#p-6-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-6-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-6-2",
       "alignment_revision": "sha256:a9cc8cdb50783a2a72b47a0c0a36b735a390d219b9f77cf0182272a9362a1d64",
       "review_state": {
         "human_reviewed": false,
@@ -13688,9 +13688,9 @@
         "reference": "6.2",
         "display_reference": "LSC 6.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:496f2331c980b52ad5c369bdcbb3df9e69d8db56681b89f2c72adb093002239d",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-6-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-6-2"
       }
     },
     {
@@ -13842,7 +13842,7 @@
       "notes": [],
       "work_passage_id": "lsc:6.3",
       "html_path": "works/lsc/index.html#p-6-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-6-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-6-3",
       "alignment_revision": "sha256:9fd052ddf955f8c602395d9119b1793c58953eed0f528e6c55f2de42a1c2ed0a",
       "review_state": {
         "human_reviewed": false,
@@ -13866,9 +13866,9 @@
         "reference": "6.3",
         "display_reference": "LSC 6.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:75c5ea4dfa36fd10e6fef28dba5dc928beb080f80b6b456e59f18d7d550541fe",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-6-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-6-3"
       }
     },
     {
@@ -14064,7 +14064,7 @@
       "notes": [],
       "work_passage_id": "lsc:6.4",
       "html_path": "works/lsc/index.html#p-6-4",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-6-4",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-6-4",
       "alignment_revision": "sha256:1b794f8361443d693cf6f9ccaa6b930fd55ce3f4ccb0f592f217ff5eb84d974d",
       "review_state": {
         "human_reviewed": false,
@@ -14088,9 +14088,9 @@
         "reference": "6.4",
         "display_reference": "LSC 6.4",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:773373128e2bc7cf19c721dc64fa5fc1dbcc8fedb69c21be2965ad9594366ac5",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-6-4"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-6-4"
       }
     },
     {
@@ -14295,7 +14295,7 @@
       "notes": [],
       "work_passage_id": "lsc:6.5",
       "html_path": "works/lsc/index.html#p-6-5",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-6-5",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-6-5",
       "alignment_revision": "sha256:68448e028ce1eca6f1993a3c84624bd8c371b55d0f4532a970171130c6f6d68c",
       "review_state": {
         "human_reviewed": false,
@@ -14319,9 +14319,9 @@
         "reference": "6.5",
         "display_reference": "LSC 6.5",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0fdf5a01e3494479f28dab0a6fae21153b1fe78a1e9a612f961e822b363ce066",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-6-5"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-6-5"
       }
     },
     {
@@ -14707,7 +14707,7 @@
       "notes": [],
       "work_passage_id": "lsc:7.1",
       "html_path": "works/lsc/index.html#p-7-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-7-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-7-1",
       "alignment_revision": "sha256:818431399c7d46d2d7707eaff3a8057033f6b13f6b278644c3149a02d911e884",
       "review_state": {
         "human_reviewed": false,
@@ -14731,9 +14731,9 @@
         "reference": "7.1",
         "display_reference": "LSC 7.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ce71cf4e380482907838505d2fb3c222aeb139e19a4e1d83721570065518cb9c",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-7-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-7-1"
       }
     },
     {
@@ -15070,7 +15070,7 @@
       "notes": [],
       "work_passage_id": "lsc:7.2",
       "html_path": "works/lsc/index.html#p-7-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-7-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-7-2",
       "alignment_revision": "sha256:964170539b89d2831de95f36ac6d13f8515fe830468e61c1e60c09204be559c5",
       "review_state": {
         "human_reviewed": false,
@@ -15094,9 +15094,9 @@
         "reference": "7.2",
         "display_reference": "LSC 7.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:44fcfb2f67683a12eaa5ded8154d4480530f5e061b886226ea2801695d5597db",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-7-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-7-2"
       }
     },
     {
@@ -15436,7 +15436,7 @@
       ],
       "work_passage_id": "lsc:8.1",
       "html_path": "works/lsc/index.html#p-8-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-8-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-8-1",
       "alignment_revision": "sha256:62e6816e9ba3653c50703477745bb0a90f2d9c34efca6dae5399eaa4306d07c8",
       "review_state": {
         "human_reviewed": false,
@@ -15460,9 +15460,9 @@
         "reference": "8.1",
         "display_reference": "LSC 8.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:33e6a2a5aa1bc567970ab28ca815f5726a7c6ef83a452940a1bc2d89c0cb7d51",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-8-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-8-1"
       }
     },
     {
@@ -15797,7 +15797,7 @@
       ],
       "work_passage_id": "lsc:8.2",
       "html_path": "works/lsc/index.html#p-8-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-8-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-8-2",
       "alignment_revision": "sha256:d13668d1dffff16363d5995ee79a6cc46a3df0f221d6def1777c6ca4dcc29cec",
       "review_state": {
         "human_reviewed": false,
@@ -15821,9 +15821,9 @@
         "reference": "8.2",
         "display_reference": "LSC 8.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d5135bc9e4e6bdb2dc0ec56383b3214914e9071f069a8c0f1ef44069d5f2694e",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-8-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-8-2"
       }
     },
     {
@@ -16123,7 +16123,7 @@
       ],
       "work_passage_id": "lsc:9.1",
       "html_path": "works/lsc/index.html#p-9-1",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-1",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-1",
       "alignment_revision": "sha256:b9ad6ec908b1d764747eafd92b879d798101572b09e3a9010aebd907ed4ddf0e",
       "review_state": {
         "human_reviewed": false,
@@ -16147,9 +16147,9 @@
         "reference": "9.1",
         "display_reference": "LSC 9.1",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7401943909a6c6c696a1a4068ede3aa5cb07c21dec480e2997b6c1f6d7eaf35f",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-1"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-1"
       }
     },
     {
@@ -16336,7 +16336,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.2",
       "html_path": "works/lsc/index.html#p-9-2",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-2",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-2",
       "alignment_revision": "sha256:3c4b3d5cc4831a43d0d1a38f5e277b1c2221b993fa335fd34afc898b4c1f356a",
       "review_state": {
         "human_reviewed": false,
@@ -16360,9 +16360,9 @@
         "reference": "9.2",
         "display_reference": "LSC 9.2",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:de3842bef96a6e63fc729de57138abfc05543a42ba69375c5a08987c7a57a9a8",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-2"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-2"
       }
     },
     {
@@ -16531,7 +16531,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.3",
       "html_path": "works/lsc/index.html#p-9-3",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-3",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-3",
       "alignment_revision": "sha256:d05e3dc2efd5a3dd443278f8fb2caee54a723098fda3339f3385dd93a8a22e46",
       "review_state": {
         "human_reviewed": false,
@@ -16555,9 +16555,9 @@
         "reference": "9.3",
         "display_reference": "LSC 9.3",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bc0a789903a3458bcb76f73f664a8388aa15a1364b0f7fb33790e644ce2bb108",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-3"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-3"
       }
     },
     {
@@ -16693,7 +16693,7 @@
       ],
       "work_passage_id": "lsc:9.4",
       "html_path": "works/lsc/index.html#p-9-4",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-4",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-4",
       "alignment_revision": "sha256:1060a383b14447b86c4656869caf4d7a9c36b8115e3c044d7a06a1da6cae7a75",
       "review_state": {
         "human_reviewed": false,
@@ -16717,9 +16717,9 @@
         "reference": "9.4",
         "display_reference": "LSC 9.4",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7c008ed33d6b0975016310741f14f23f6b45229629ee0b8608542dbfea9465fe",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-4"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-4"
       }
     },
     {
@@ -16818,7 +16818,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.5",
       "html_path": "works/lsc/index.html#p-9-5",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-5",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-5",
       "alignment_revision": "sha256:54907c03b9c7fd4820f95e0005963139af4a49a930d1f0109cc67e058c4a0045",
       "review_state": {
         "human_reviewed": false,
@@ -16842,9 +16842,9 @@
         "reference": "9.5",
         "display_reference": "LSC 9.5",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1c5e229cf4cdd4f3352c3693cbb3f1d0cb4f9e194618a30913d95642e2999d58",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-5"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-5"
       }
     },
     {
@@ -16991,7 +16991,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.6",
       "html_path": "works/lsc/index.html#p-9-6",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-6",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-6",
       "alignment_revision": "sha256:a2ec20b426d9876c5439d0b49a01defdac8e3ac0d0d206705a57ff2c5cf3e121",
       "review_state": {
         "human_reviewed": false,
@@ -17015,9 +17015,9 @@
         "reference": "9.6",
         "display_reference": "LSC 9.6",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0ccaaad7817cabb5233b2461294b55ab69e5f1b52804b8134209b0ea2ccd704d",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-6"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-6"
       }
     },
     {
@@ -17226,7 +17226,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.7",
       "html_path": "works/lsc/index.html#p-9-7",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-7",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-7",
       "alignment_revision": "sha256:633f224b00cca70b594e0ae8eac7ea649891805bae05745599db802d463fc282",
       "review_state": {
         "human_reviewed": false,
@@ -17250,9 +17250,9 @@
         "reference": "9.7",
         "display_reference": "LSC 9.7",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4015ab146c5fef98df06796be0d5098ca4e48bd40e1bcdbec6d23995d1ede09c",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-7"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-7"
       }
     },
     {
@@ -17373,7 +17373,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.8",
       "html_path": "works/lsc/index.html#p-9-8",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-8",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-8",
       "alignment_revision": "sha256:46ddf2edc0a38ce80340e828a38803f9bff987701efef681eb833369c98db954",
       "review_state": {
         "human_reviewed": false,
@@ -17397,9 +17397,9 @@
         "reference": "9.8",
         "display_reference": "LSC 9.8",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c2597813f8ca2483fa4e997b969e3f8384936579fe2b16876c20867b9d8f615d",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-8"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-8"
       }
     },
     {
@@ -17542,7 +17542,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.9",
       "html_path": "works/lsc/index.html#p-9-9",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-9",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-9",
       "alignment_revision": "sha256:53c9c5950a27d01c8502bae2304641edd2ec18681a7bdcdd7b2b5b0bc8205489",
       "review_state": {
         "human_reviewed": false,
@@ -17566,9 +17566,9 @@
         "reference": "9.9",
         "display_reference": "LSC 9.9",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:615a98be0d20b9b4ed0988d210033c589caeb3074b592a0a3280e1a5ddc98566",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-9"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-9"
       }
     },
     {
@@ -17689,7 +17689,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.10",
       "html_path": "works/lsc/index.html#p-9-10",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-10",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-10",
       "alignment_revision": "sha256:91c8247addf746a1f9db23fc64a7d412be9c2da4eb033bd8c1e27a44a0601bf9",
       "review_state": {
         "human_reviewed": false,
@@ -17713,9 +17713,9 @@
         "reference": "9.10",
         "display_reference": "LSC 9.10",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2c83fd4c3c768be532b7b2fe1846d9a02e492765d8ae44fa6f1abc55e7a302f7",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-10"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-10"
       }
     },
     {
@@ -17840,7 +17840,7 @@
       "notes": [],
       "work_passage_id": "lsc:9.11",
       "html_path": "works/lsc/index.html#p-9-11",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-9-11",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-9-11",
       "alignment_revision": "sha256:03f85af69c8679d2c7b7e8239979423121e1c8885935b26d01a5ed4315d65e19",
       "review_state": {
         "human_reviewed": false,
@@ -17864,9 +17864,9 @@
         "reference": "9.11",
         "display_reference": "LSC 9.11",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4a8122196113ca752fd4b4febfab85bf5266ecb84a88f7598b68aed53d33c413",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-9-11"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-9-11"
       }
     },
     {
@@ -17936,7 +17936,7 @@
       ],
       "work_passage_id": "lsc:concl",
       "html_path": "works/lsc/index.html#p-concl",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html#p-concl",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html#p-concl",
       "alignment_revision": "sha256:c992e923966d7189425ea190c6deb01d36ce7c546790fb17ce930f8295a81c4b",
       "review_state": {
         "human_reviewed": false,
@@ -17960,9 +17960,9 @@
         "reference": "concl",
         "display_reference": "LSC concl",
         "edition": "1580년 드레스덴 『일치서』 독일어판(VD16 K 1990, 160r-173v). Matthes Stöckel과 Gimel Bergen 인쇄. 읽기 화면의 장·항 번호는 인쇄본의 순서로 붙인 인용 위치다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1f42e0695bfcb02d8baa1798ac8ca1e75d6c73c1f2c84df0e38cdbdc5edea551",
-        "fixed_path": "releases/public-0.5/works/lsc/index.html#p-concl"
+        "fixed_path": "releases/public-0.6/works/lsc/index.html#p-concl"
       }
     }
   ],

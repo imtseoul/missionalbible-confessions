@@ -1,12 +1,12 @@
 {
   "schema_version": "confessions-library-1",
-  "release_id": "public-0.5",
+  "release_id": "public-0.6",
   "publication_status": "public_review_edition",
   "site_name": "종교개혁 시대 신앙고백 문헌",
-  "complete_works": 10,
+  "complete_works": 11,
   "complete_scopes": 0,
-  "work_count": 10,
-  "passage_count": 1087,
+  "work_count": 11,
+  "passage_count": 1097,
   "traditions": {
     "lutheran": "루터파",
     "reformed": "개혁파",
@@ -33,14 +33,14 @@
       "source_language": "en",
       "html_path": "works/wsc/index.html",
       "json_path": "data/works/wsc.json",
-      "fixed_html_path": "releases/public-0.5/works/wsc/index.html",
+      "fixed_html_path": "releases/public-0.6/works/wsc/index.html",
       "aliases": [
         "소요리문답",
         "Westminster Shorter Catechism",
         "Shorter Catechism"
       ],
       "passage_count": 108,
-      "json_sha256": "cffe9f7c54cf76cfdfcc79fd14fad8a8ce4347f07c46526965bb3b43f1461ec3"
+      "json_sha256": "e837c03a0e522f8f0108f47eac2cab2cf24136fc27efde0f83c009769736f6c7"
     },
     {
       "id": "hc",
@@ -59,14 +59,14 @@
       "source_language": "de",
       "html_path": "works/hc/index.html",
       "json_path": "data/works/hc.json",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html",
       "aliases": [
         "하이델베르크 요리문답",
         "Heidelberger Katechismus",
         "Heidelberg Catechism"
       ],
       "passage_count": 129,
-      "json_sha256": "b9d191e0b46a142c66233a7731493f46f0945f2b3744a6d37fc8375e76481c97"
+      "json_sha256": "b911279179d39f28784190c0eec9e1a4919854bd1e4a822427986d5a24a24e46"
     },
     {
       "id": "cd",
@@ -85,7 +85,7 @@
       "source_language": "lat",
       "html_path": "works/cd/index.html",
       "json_path": "data/works/cd.json",
-      "fixed_html_path": "releases/public-0.5/works/cd/index.html",
+      "fixed_html_path": "releases/public-0.6/works/cd/index.html",
       "aliases": [
         "도르트 신조",
         "도르트 교회법",
@@ -94,7 +94,7 @@
         "Iudicium Synodi Nationalis"
       ],
       "passage_count": 94,
-      "json_sha256": "4b623ff411606267addc0f66b28f1af7c6d309bae676a5420d985bd005cc350e"
+      "json_sha256": "396e365009dd2393f3a7305f518a423b944694098634022717c45e5d8fca2a21"
     },
     {
       "id": "ca",
@@ -113,14 +113,14 @@
       "source_language": "lat",
       "html_path": "works/ca/index.html",
       "json_path": "data/works/ca.json",
-      "fixed_html_path": "releases/public-0.5/works/ca/index.html",
+      "fixed_html_path": "releases/public-0.6/works/ca/index.html",
       "aliases": [
         "아우구스타나",
         "Confessio Augustana",
         "Augsburg Confession"
       ],
       "passage_count": 99,
-      "json_sha256": "e3d03c41ff9c1d685f3efa232d5c507154393363ba6438c1a1eae6f98bacc152"
+      "json_sha256": "c5737cb1cbfa5068f0d8140e35fbb877708a627f285669f9de132e8eed273131"
     },
     {
       "id": "cb",
@@ -139,7 +139,7 @@
       "source_language": "fr",
       "html_path": "works/cb/index.html",
       "json_path": "data/works/cb.json",
-      "fixed_html_path": "releases/public-0.5/works/cb/index.html",
+      "fixed_html_path": "releases/public-0.6/works/cb/index.html",
       "aliases": [
         "벨기에 신앙고백",
         "Confessio Belgica",
@@ -147,7 +147,7 @@
         "Confession de Foi des Pays-Bas"
       ],
       "passage_count": 38,
-      "json_sha256": "2d47026bf1016dafd72d1622b68005c6a2acb95b68760b508d53cf06c8ef65ff"
+      "json_sha256": "8adcace0ab90213bf5ebf71a131bec2cf7ef5bd1c3c24747d30c498190616755"
     },
     {
       "id": "chp",
@@ -166,7 +166,7 @@
       "source_language": "lat",
       "html_path": "works/chp/index.html",
       "json_path": "data/works/chp.json",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html",
       "aliases": [
         "제2 스위스 신앙고백",
         "후기 스위스 신앙고백",
@@ -174,7 +174,7 @@
         "Second Helvetic Confession"
       ],
       "passage_count": 149,
-      "json_sha256": "9e39859687385631599c7d504a806cbcbcb2d84787e29a429e652b342c02c02a"
+      "json_sha256": "29ff575b374dca7f2ace07b20983adb55894f79218ef178a1ac2011b7d3d2734"
     },
     {
       "id": "wcf",
@@ -193,14 +193,14 @@
       "source_language": "en",
       "html_path": "works/wcf/index.html",
       "json_path": "data/works/wcf.json",
-      "fixed_html_path": "releases/public-0.5/works/wcf/index.html",
+      "fixed_html_path": "releases/public-0.6/works/wcf/index.html",
       "aliases": [
         "웨스트민스터 신앙고백서",
         "Westminster Confession of Faith",
         "Westminster Confession"
       ],
       "passage_count": 173,
-      "json_sha256": "6705fa88ccba003235e329cc53ab06242827b38df560f017c3ec45d536f3e6b6"
+      "json_sha256": "2abff6745589245bf1c787086f120ee2ccff83fb60b418cf3e33ed524c9e0676"
     },
     {
       "id": "wlc",
@@ -219,14 +219,14 @@
       "source_language": "en",
       "html_path": "works/wlc/index.html",
       "json_path": "data/works/wlc.json",
-      "fixed_html_path": "releases/public-0.5/works/wlc/index.html",
+      "fixed_html_path": "releases/public-0.6/works/wlc/index.html",
       "aliases": [
         "대요리문답",
         "Westminster Larger Catechism",
         "Larger Catechism"
       ],
       "passage_count": 198,
-      "json_sha256": "e8502898e2839604a9570025dcf0b2605806df042a5d8b287e569562609f80dc"
+      "json_sha256": "bfde73b327e8491d79de49c43ceef1d7e6018bf912d6c68989dea7313339f09d"
     },
     {
       "id": "a39",
@@ -245,7 +245,7 @@
       "source_language": "en",
       "html_path": "works/a39/index.html",
       "json_path": "data/works/a39.json",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html",
       "aliases": [
         "39개조",
         "39개 신조",
@@ -254,7 +254,7 @@
         "Articles of Religion"
       ],
       "passage_count": 41,
-      "json_sha256": "5de671d1b619a0990be9f83c3468e96ded5598ca36cf7ce2721850a96384bc5b"
+      "json_sha256": "7ed5965d0c0fa5ae250f68810a4995e169222d590cb33fc74bb999be01bb6008"
     },
     {
       "id": "lsc",
@@ -273,7 +273,7 @@
       "source_language": "de",
       "html_path": "works/lsc/index.html",
       "json_path": "data/works/lsc.json",
-      "fixed_html_path": "releases/public-0.5/works/lsc/index.html",
+      "fixed_html_path": "releases/public-0.6/works/lsc/index.html",
       "aliases": [
         "소교리문답",
         "소요리문답",
@@ -282,14 +282,42 @@
         "Enchiridion"
       ],
       "passage_count": 58,
-      "json_sha256": "02c79902f68d180388c163a9581c41663e52ccaf356477c7f70862a7cf3090f6"
+      "json_sha256": "31bb6703b13aaef164e28b6aa4d694fcfedf1d6945539865ba0bc1a2f30a4af4"
+    },
+    {
+      "id": "sch",
+      "title": "슐라이트하임 신앙고백",
+      "display_title": "슐라이트하임 신앙고백",
+      "original_title": "Brüderliche vereynigung etzlicher kinder Gottes / ſiben Artickel betreffend.",
+      "issuer": "슐라이트하임에 모인 재세례파 형제들",
+      "year": 1527,
+      "tradition": "anabaptist",
+      "language": "de",
+      "abbreviation": "SCH",
+      "reference_scheme": "article",
+      "expected_units": 10,
+      "coverage": "complete",
+      "scope": "표제, 머리 편지와 조항 목록, 일곱 조항, 맺는 편지와 끝맺음",
+      "source_language": "de",
+      "html_path": "works/sch/index.html",
+      "json_path": "data/works/sch.json",
+      "fixed_html_path": "releases/public-0.6/works/sch/index.html",
+      "aliases": [
+        "슐라이트하임 조항",
+        "형제의 연합",
+        "Schleitheimer Artikel",
+        "Schleitheim Confession",
+        "Brüderliche Vereinigung"
+      ],
+      "passage_count": 10,
+      "json_sha256": "f36a6c6a523061e40aef03ef06de05123234e3b5d12b247b21f9807eb0f6fe73"
     }
   ],
   "passage_index": {
     "schema_version": "confessions-passages-compact-1",
     "path": "data/passages.jsonl",
     "scope": "main_works",
-    "passage_count": 1087,
+    "passage_count": 1097,
     "fields": [
       "work_id",
       "work_json_path",
@@ -312,12 +340,12 @@
     ],
     "detail_source": "work_json_path",
     "detail_key": "work_passage_id",
-    "sha256": "212cbed6acc9e3a315fe21677972111b9d9adf65e3123642df7f0ab90262f23e"
+    "sha256": "c14f55a90c33bed06dcd96de419e60c5f99da6912c6c67a9d8d3de3c77b15433"
   },
   "search_index": {
     "schema_version": "confessions-search-1",
     "path": "data/search.json",
-    "sha256": "ccddb696560df9dc7b650e192072c3d2d9e9e2a07a5ac6a3315766d3243a9d70"
+    "sha256": "bab2b73813018e0b357e2160add64caf321114a46e64f9b2b743c4d726fd1468"
   },
   "base_url": "https://confessions.missionalbible.org/"
 }

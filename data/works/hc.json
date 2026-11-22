@@ -43,14 +43,14 @@
   "language_label": "독일어",
   "coverage_label": "129문 전문",
   "coverage": "complete",
-  "release_id": "public-0.5",
+  "release_id": "public-0.6",
   "source_language": "de",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/hc/index.html",
   "json_path": "data/works/hc.json",
-  "fixed_html_path": "releases/public-0.5/works/hc/index.html",
+  "fixed_html_path": "releases/public-0.6/works/hc/index.html",
   "source_profile": "hc-mueller1903-djvu-1",
   "base_witness": {
     "id": "mueller1903",
@@ -1633,7 +1633,7 @@
       ],
       "work_passage_id": "hc:1",
       "html_path": "works/hc/index.html#p-1",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-1",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-1",
       "alignment_revision": "sha256:043418b0a80edf880a8f1991df3b6c6f2b0d4ce8468c1c59bd4b5960dce88a53",
       "review_state": {
         "human_reviewed": false,
@@ -1657,9 +1657,9 @@
         "reference": "1",
         "display_reference": "HC 1",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5ab0f4d6eebcf72fb58d47bab28dae4462b8543781844ecda0202c9e9c680a6d",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-1"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-1"
       }
     },
     {
@@ -1913,7 +1913,7 @@
       ],
       "work_passage_id": "hc:2",
       "html_path": "works/hc/index.html#p-2",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-2",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-2",
       "alignment_revision": "sha256:2ea4a8c928952240b78c13af5204a496d1b58672bc3fd6e103cd098f7988d82f",
       "review_state": {
         "human_reviewed": false,
@@ -1937,9 +1937,9 @@
         "reference": "2",
         "display_reference": "HC 2",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:94e25b3f14412238f5817da2fac8ca862e266e5bc593467fc8d1c2c48834b77f",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-2"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-2"
       }
     },
     {
@@ -2056,7 +2056,7 @@
       ],
       "work_passage_id": "hc:3",
       "html_path": "works/hc/index.html#p-3",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-3",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-3",
       "alignment_revision": "sha256:61579056fbbf557ed0f3dee4edfe7f64c9dca83ba1c18e8b58b3bc3c8cd5226e",
       "review_state": {
         "human_reviewed": false,
@@ -2080,9 +2080,9 @@
         "reference": "3",
         "display_reference": "HC 3",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c78f85b2436978517ac7bf0181b57861b766cfdc24e45fadfda665b399f7c2a5",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-3"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-3"
       }
     },
     {
@@ -2302,7 +2302,7 @@
       "notes": [],
       "work_passage_id": "hc:4",
       "html_path": "works/hc/index.html#p-4",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-4",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-4",
       "alignment_revision": "sha256:8b3a28f81263763196220e9c93227ab0cd69a7d8d27ebec8883c2bbfb571222c",
       "review_state": {
         "human_reviewed": false,
@@ -2326,9 +2326,9 @@
         "reference": "4",
         "display_reference": "HC 4",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4990117186fc8a7d6c9facf32202c511b679c20072af3902b94cad0967cc7ed9",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-4"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-4"
       }
     },
     {
@@ -2502,7 +2502,7 @@
       "notes": [],
       "work_passage_id": "hc:5",
       "html_path": "works/hc/index.html#p-5",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-5",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-5",
       "alignment_revision": "sha256:1193d53aab69eb031ed18cd5f207341e5dd9ae066e16581d4fdc9311179b574f",
       "review_state": {
         "human_reviewed": false,
@@ -2526,9 +2526,9 @@
         "reference": "5",
         "display_reference": "HC 5",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1bb4b2e593b0e1e0b4e4acfee9ce1bfa3d465cf0fb9eb7849bd4f06c6484b1cc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-5"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-5"
       }
     },
     {
@@ -2773,7 +2773,7 @@
       ],
       "work_passage_id": "hc:6",
       "html_path": "works/hc/index.html#p-6",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-6",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-6",
       "alignment_revision": "sha256:e0c4d3ab59e9f625968f46d11135eec4569d9bced539aa4761a5f5d92bd5933d",
       "review_state": {
         "human_reviewed": false,
@@ -2797,9 +2797,9 @@
         "reference": "6",
         "display_reference": "HC 6",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b8d014798639a71ccc001c58b753128b8486205ff42ec6c9d10371c60f77522e",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-6"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-6"
       }
     },
     {
@@ -2985,7 +2985,7 @@
       ],
       "work_passage_id": "hc:7",
       "html_path": "works/hc/index.html#p-7",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-7",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-7",
       "alignment_revision": "sha256:cbacee442d7a14ac27022a7e9a52ce18faefc5293cb9ab84314f1381efcecb84",
       "review_state": {
         "human_reviewed": false,
@@ -3009,9 +3009,9 @@
         "reference": "7",
         "display_reference": "HC 7",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ba1564b33556e5a18a370b22bed9470b16c4fd95e0e3ad020ae25d42404c284c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-7"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-7"
       }
     },
     {
@@ -3208,7 +3208,7 @@
       ],
       "work_passage_id": "hc:8",
       "html_path": "works/hc/index.html#p-8",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-8",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-8",
       "alignment_revision": "sha256:2d08f337bb510017e981b6effa7959b41eb13339ee2232d494034303c0c80345",
       "review_state": {
         "human_reviewed": false,
@@ -3232,9 +3232,9 @@
         "reference": "8",
         "display_reference": "HC 8",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:821b9274eac742695109ee255c7ec8454c75073bb7c5745cd3a21fda3954a29d",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-8"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-8"
       }
     },
     {
@@ -3424,7 +3424,7 @@
       "notes": [],
       "work_passage_id": "hc:9",
       "html_path": "works/hc/index.html#p-9",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-9",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-9",
       "alignment_revision": "sha256:2b446981e9a6b22b5655e3598d96490703156ca5bcb5213741ebe3c2edb509d1",
       "review_state": {
         "human_reviewed": false,
@@ -3448,9 +3448,9 @@
         "reference": "9",
         "display_reference": "HC 9",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6830ff3e4f8d705cd158c3c3ab7fbdc46203840e779065a4c593676d657b7097",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-9"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-9"
       }
     },
     {
@@ -3689,7 +3689,7 @@
       ],
       "work_passage_id": "hc:10",
       "html_path": "works/hc/index.html#p-10",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-10",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-10",
       "alignment_revision": "sha256:ba18f31bf14a4914be92e9cb156b56573de1923c885ab2c6ea51055bd41fac1d",
       "review_state": {
         "human_reviewed": false,
@@ -3713,9 +3713,9 @@
         "reference": "10",
         "display_reference": "HC 10",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:355506ecc0a8e2e59acf27fbaf66e66a5d907ebc97e7c61c0d558d3f623b86cc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-10"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-10"
       }
     },
     {
@@ -3934,7 +3934,7 @@
       "notes": [],
       "work_passage_id": "hc:11",
       "html_path": "works/hc/index.html#p-11",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-11",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-11",
       "alignment_revision": "sha256:369956eb43a1dd878edf53e230b54de46d331068a37d098e0474037c8799ec3b",
       "review_state": {
         "human_reviewed": false,
@@ -3958,9 +3958,9 @@
         "reference": "11",
         "display_reference": "HC 11",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:35817a5ea2bde749149e4ae37ebf775e6456192a667525fe1c0d0bb366324b25",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-11"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-11"
       }
     },
     {
@@ -4159,7 +4159,7 @@
       ],
       "work_passage_id": "hc:12",
       "html_path": "works/hc/index.html#p-12",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-12",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-12",
       "alignment_revision": "sha256:ced4c28446fe045f45c3830669f91ddfdfe2a6537b3946709518e7b6c7d70253",
       "review_state": {
         "human_reviewed": false,
@@ -4183,9 +4183,9 @@
         "reference": "12",
         "display_reference": "HC 12",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:886e63d89d7977f97076a4175b2c13b4a802026e3753095e81b15f82c1fdffd7",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-12"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-12"
       }
     },
     {
@@ -4335,7 +4335,7 @@
       ],
       "work_passage_id": "hc:13",
       "html_path": "works/hc/index.html#p-13",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-13",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-13",
       "alignment_revision": "sha256:750b4c04bc70d8f1bb3057feff17ead1b9540cad0b218b77397ef8a9e01c12bd",
       "review_state": {
         "human_reviewed": false,
@@ -4359,9 +4359,9 @@
         "reference": "13",
         "display_reference": "HC 13",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1defc1797612d2b7c6dcae8563f40100fe450491fc9908c80c569fdbf1acabd7",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-13"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-13"
       }
     },
     {
@@ -4555,7 +4555,7 @@
       "notes": [],
       "work_passage_id": "hc:14",
       "html_path": "works/hc/index.html#p-14",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-14",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-14",
       "alignment_revision": "sha256:064457a2394dcd0e900a946c2fb39bc966b294582243ef8bec3488ba0157b604",
       "review_state": {
         "human_reviewed": false,
@@ -4579,9 +4579,9 @@
         "reference": "14",
         "display_reference": "HC 14",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a03518f950941d85d3db0fef8ad6c1f204b2de7d077b25e5178b1b4b43fee77f",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-14"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-14"
       }
     },
     {
@@ -4777,7 +4777,7 @@
       ],
       "work_passage_id": "hc:15",
       "html_path": "works/hc/index.html#p-15",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-15",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-15",
       "alignment_revision": "sha256:5abcf9fd51f62f847d0bd37821105592274641299909e859773369e1a587414f",
       "review_state": {
         "human_reviewed": false,
@@ -4801,9 +4801,9 @@
         "reference": "15",
         "display_reference": "HC 15",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a73cfb2bea63e389c248e0b7f428f7510017583c9370a59305a7ddebd550c45e",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-15"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-15"
       }
     },
     {
@@ -4987,7 +4987,7 @@
       "notes": [],
       "work_passage_id": "hc:16",
       "html_path": "works/hc/index.html#p-16",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-16",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-16",
       "alignment_revision": "sha256:42fb382f93c52ed61ed53f503554fbc9b9a53ce66c8d81ac31c35da7f847b97b",
       "review_state": {
         "human_reviewed": false,
@@ -5011,9 +5011,9 @@
         "reference": "16",
         "display_reference": "HC 16",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:782a1852703d16d7ba5605a7915a650294b93c5aeea108ee4436a2ec4bb131d2",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-16"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-16"
       }
     },
     {
@@ -5232,7 +5232,7 @@
       ],
       "work_passage_id": "hc:17",
       "html_path": "works/hc/index.html#p-17",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-17",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-17",
       "alignment_revision": "sha256:e6e484289b7f7e0550ded3f95d140709060b4cc46c5e6e490c279d08bd5db6b4",
       "review_state": {
         "human_reviewed": false,
@@ -5256,9 +5256,9 @@
         "reference": "17",
         "display_reference": "HC 17",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ab600fcbea801ea959511cb518d15f9bc6affbb1e26ac1e08107b7533cf3b7dc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-17"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-17"
       }
     },
     {
@@ -5429,7 +5429,7 @@
       "notes": [],
       "work_passage_id": "hc:18",
       "html_path": "works/hc/index.html#p-18",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-18",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-18",
       "alignment_revision": "sha256:b479f2cae8a36a81f2210ae3bd729aed8a3cd517dbcaf2011868027bb0d62c58",
       "review_state": {
         "human_reviewed": false,
@@ -5453,9 +5453,9 @@
         "reference": "18",
         "display_reference": "HC 18",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:aba65112d82140c8133acb730a1691635fc4abd0b231675c7cd93c5aa73bbeda",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-18"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-18"
       }
     },
     {
@@ -5731,7 +5731,7 @@
       ],
       "work_passage_id": "hc:19",
       "html_path": "works/hc/index.html#p-19",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-19",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-19",
       "alignment_revision": "sha256:4f7ad6cae8745f033a1de47a9cc264e7e6425359b601b2fa228d2c1f044c7b2e",
       "review_state": {
         "human_reviewed": false,
@@ -5755,9 +5755,9 @@
         "reference": "19",
         "display_reference": "HC 19",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1502eb46cc3d513e29ab17852298b7c4b0c799fc4085f20fe0b109520ceb1f17",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-19"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-19"
       }
     },
     {
@@ -5934,7 +5934,7 @@
       ],
       "work_passage_id": "hc:20",
       "html_path": "works/hc/index.html#p-20",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-20",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-20",
       "alignment_revision": "sha256:fb4f155ae1c2151033f74b853604c8c06dca48b4f69f89db5897eb52a41b8264",
       "review_state": {
         "human_reviewed": false,
@@ -5958,9 +5958,9 @@
         "reference": "20",
         "display_reference": "HC 20",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a67dbbffcda7bf1c7cdb6c28c60adae1131c8c9383b07ff2fa9b495d15b96022",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-20"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-20"
       }
     },
     {
@@ -6304,7 +6304,7 @@
       ],
       "work_passage_id": "hc:21",
       "html_path": "works/hc/index.html#p-21",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-21",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-21",
       "alignment_revision": "sha256:b48f88e8e9017453324bf01e6ebfad18e10f605ca518345b970ac267baeb1460",
       "review_state": {
         "human_reviewed": false,
@@ -6328,9 +6328,9 @@
         "reference": "21",
         "display_reference": "HC 21",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4520421dbfc750fc9d8a161b84d2bd8b0e8afceb9929db0c95c9684cc8be4c06",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-21"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-21"
       }
     },
     {
@@ -6481,7 +6481,7 @@
       "notes": [],
       "work_passage_id": "hc:22",
       "html_path": "works/hc/index.html#p-22",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-22",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-22",
       "alignment_revision": "sha256:647a00dfb44a8ab70ca3b617d6b186f33654271cc5fdd31fbf654cea683bfb37",
       "review_state": {
         "human_reviewed": false,
@@ -6505,9 +6505,9 @@
         "reference": "22",
         "display_reference": "HC 22",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:644bef358d8991d7ab18f2a889713215c031fea62cf89e8942326ddedfd90fe6",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-22"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-22"
       }
     },
     {
@@ -6865,7 +6865,7 @@
       ],
       "work_passage_id": "hc:23",
       "html_path": "works/hc/index.html#p-23",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-23",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-23",
       "alignment_revision": "sha256:78b2c5d036f10c085f3de3afaf4c4f4e356ba9e0d179a855d40a6730a251b443",
       "review_state": {
         "human_reviewed": false,
@@ -6889,9 +6889,9 @@
         "reference": "23",
         "display_reference": "HC 23",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:00802704e312401e0bb02f76ccf0ddaf810ed40aac47a6b821b5bd8449c94416",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-23"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-23"
       }
     },
     {
@@ -7046,7 +7046,7 @@
       "notes": [],
       "work_passage_id": "hc:24",
       "html_path": "works/hc/index.html#p-24",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-24",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-24",
       "alignment_revision": "sha256:0fdec62cbb0945cfba7f999eba3b6633df06c3be1e424cdf3afe647752367b5a",
       "review_state": {
         "human_reviewed": false,
@@ -7070,9 +7070,9 @@
         "reference": "24",
         "display_reference": "HC 24",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:760173c67a00c1e096ee20dd616085bd475b93afc44e0694b92885692c99504c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-24"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-24"
       }
     },
     {
@@ -7279,7 +7279,7 @@
       ],
       "work_passage_id": "hc:25",
       "html_path": "works/hc/index.html#p-25",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-25",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-25",
       "alignment_revision": "sha256:77dc97be00773ca14f12489e506b978697891e31287881aebaf2b02abec9fc6c",
       "review_state": {
         "human_reviewed": false,
@@ -7303,9 +7303,9 @@
         "reference": "25",
         "display_reference": "HC 25",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8e94f33d6a3b64619bd1ade64508fa01ed1e22029bf41a915fbfac7885ca7d65",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-25"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-25"
       }
     },
     {
@@ -7752,7 +7752,7 @@
       ],
       "work_passage_id": "hc:26",
       "html_path": "works/hc/index.html#p-26",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-26",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-26",
       "alignment_revision": "sha256:63a5d6971b184bbc7d0365f63ba609b490b4740591be05017f487606e82dc8cb",
       "review_state": {
         "human_reviewed": false,
@@ -7776,9 +7776,9 @@
         "reference": "26",
         "display_reference": "HC 26",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e8102b0e886aa7498b71941b9b9120507c17c0735879357c3ef936b247122f67",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-26"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-26"
       }
     },
     {
@@ -8056,7 +8056,7 @@
       ],
       "work_passage_id": "hc:27",
       "html_path": "works/hc/index.html#p-27",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-27",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-27",
       "alignment_revision": "sha256:484d286540719f82b7d0417d53c44122d8e022ba268e8e574488f5d38c94f2df",
       "review_state": {
         "human_reviewed": false,
@@ -8080,9 +8080,9 @@
         "reference": "27",
         "display_reference": "HC 27",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b333743c9487a061f4b38a31e5e2dbe417a5b885d20575944195f5c85710ad31",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-27"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-27"
       }
     },
     {
@@ -8352,7 +8352,7 @@
       "notes": [],
       "work_passage_id": "hc:28",
       "html_path": "works/hc/index.html#p-28",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-28",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-28",
       "alignment_revision": "sha256:b137206acc8a2ec9ee5edfff629cb9e178affc5ca1501054873724f1d94fa657",
       "review_state": {
         "human_reviewed": false,
@@ -8376,9 +8376,9 @@
         "reference": "28",
         "display_reference": "HC 28",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3873c3209472effc2b708662b0fd8f74bf367234c003c5cb44068615f764f84a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-28"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-28"
       }
     },
     {
@@ -8537,7 +8537,7 @@
       ],
       "work_passage_id": "hc:29",
       "html_path": "works/hc/index.html#p-29",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-29",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-29",
       "alignment_revision": "sha256:4386fecbfe17429bd780a2fba083187f1098c46a3c94dd27f429c7c949a99587",
       "review_state": {
         "human_reviewed": false,
@@ -8561,9 +8561,9 @@
         "reference": "29",
         "display_reference": "HC 29",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2112b5caf7ccae039e99d285b1ddd2502c727341d9268d2b54d167e0d65f27d1",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-29"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-29"
       }
     },
     {
@@ -8807,7 +8807,7 @@
       ],
       "work_passage_id": "hc:30",
       "html_path": "works/hc/index.html#p-30",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-30",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-30",
       "alignment_revision": "sha256:25ccc2dc158706609ab5251e96b2c46a1d637b142aa2c281ddac34dc4c24424d",
       "review_state": {
         "human_reviewed": false,
@@ -8831,9 +8831,9 @@
         "reference": "30",
         "display_reference": "HC 30",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9f41e7d1b5cd358f949f77df98a3c92e42ea9b3fefd55cb224e24eb1876a155c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-30"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-30"
       }
     },
     {
@@ -9207,7 +9207,7 @@
       "notes": [],
       "work_passage_id": "hc:31",
       "html_path": "works/hc/index.html#p-31",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-31",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-31",
       "alignment_revision": "sha256:e9ea7643cb68dd854be7ba29efb593867eb1a566af0be4d982406a8104a0802d",
       "review_state": {
         "human_reviewed": false,
@@ -9231,9 +9231,9 @@
         "reference": "31",
         "display_reference": "HC 31",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6a3b1d6ffce696399b1e4f5324ebc05949a2bb45dcf138aaf57bc104b43a7846",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-31"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-31"
       }
     },
     {
@@ -9548,7 +9548,7 @@
       "notes": [],
       "work_passage_id": "hc:32",
       "html_path": "works/hc/index.html#p-32",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-32",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-32",
       "alignment_revision": "sha256:8798b98e68bf6a7e9a59d28f9a9f480e8a0a6d12796d1b3710867f888378f15a",
       "review_state": {
         "human_reviewed": false,
@@ -9572,9 +9572,9 @@
         "reference": "32",
         "display_reference": "HC 32",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:05e4534e0696cf62061ca73cfb9bbe524e2d2168b2f21923902cbd60985dbf5d",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-32"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-32"
       }
     },
     {
@@ -9769,7 +9769,7 @@
       ],
       "work_passage_id": "hc:33",
       "html_path": "works/hc/index.html#p-33",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-33",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-33",
       "alignment_revision": "sha256:8bc021bd4f7283ee692807d10483a9ef3962b9cf8d93a274f62e6bbae57d7b9f",
       "review_state": {
         "human_reviewed": false,
@@ -9793,9 +9793,9 @@
         "reference": "33",
         "display_reference": "HC 33",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:28e7884a2765f810b6899d38898dee5ad65938c7918a0e1e0478f492501208c8",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-33"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-33"
       }
     },
     {
@@ -9971,7 +9971,7 @@
       "notes": [],
       "work_passage_id": "hc:34",
       "html_path": "works/hc/index.html#p-34",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-34",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-34",
       "alignment_revision": "sha256:e7c0c11515d120af7ed0a435b189fe26dde6cd03047c8ba472d84965bcf3c019",
       "review_state": {
         "human_reviewed": false,
@@ -9995,9 +9995,9 @@
         "reference": "34",
         "display_reference": "HC 34",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d981aec005810f679d234d763686a1f090c95fa8a4e69c67c8f5880eaff2b0d5",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-34"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-34"
       }
     },
     {
@@ -10332,7 +10332,7 @@
       ],
       "work_passage_id": "hc:35",
       "html_path": "works/hc/index.html#p-35",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-35",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-35",
       "alignment_revision": "sha256:7654aa2aea11ef29d17ffd7fe5de0c27c1ec37ced45c2594befe2e522ae86d07",
       "review_state": {
         "human_reviewed": false,
@@ -10356,9 +10356,9 @@
         "reference": "35",
         "display_reference": "HC 35",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5ecac91748d4bc0e05d58e3b99e7d30f1d6e8f937e42c2b878d05f3e4ae767a3",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-35"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-35"
       }
     },
     {
@@ -10534,7 +10534,7 @@
       ],
       "work_passage_id": "hc:36",
       "html_path": "works/hc/index.html#p-36",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-36",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-36",
       "alignment_revision": "sha256:33985a41b91be64a0a7ddb1749c586bbd6c8fa88d29a92b0226cee23233afb4c",
       "review_state": {
         "human_reviewed": false,
@@ -10558,9 +10558,9 @@
         "reference": "36",
         "display_reference": "HC 36",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:099c61a0e153aed432d740bd148099acab0611a60b5984e28f6d2b0a9f52b75b",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-36"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-36"
       }
     },
     {
@@ -10818,7 +10818,7 @@
       ],
       "work_passage_id": "hc:37",
       "html_path": "works/hc/index.html#p-37",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-37",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-37",
       "alignment_revision": "sha256:88c70cc2a4b48cbb4c3c66f477a950625a7242191cad22a4b835fb4e9d90e619",
       "review_state": {
         "human_reviewed": false,
@@ -10842,9 +10842,9 @@
         "reference": "37",
         "display_reference": "HC 37",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ddf58ef00343ab851ec52e303afa9252cb9cd3a99657351404bddbd81f005f64",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-37"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-37"
       }
     },
     {
@@ -11035,7 +11035,7 @@
       ],
       "work_passage_id": "hc:38",
       "html_path": "works/hc/index.html#p-38",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-38",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-38",
       "alignment_revision": "sha256:97173fdcefce6761dff0817127b20df5f61dba6521c710dcfe3330485d40b833",
       "review_state": {
         "human_reviewed": false,
@@ -11059,9 +11059,9 @@
         "reference": "38",
         "display_reference": "HC 38",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6d70b4ea6d1ab7fbb24b1cdb33bd48381e80862b13959aa4e1e0fc8ede4e123c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-38"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-38"
       }
     },
     {
@@ -11237,7 +11237,7 @@
       ],
       "work_passage_id": "hc:39",
       "html_path": "works/hc/index.html#p-39",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-39",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-39",
       "alignment_revision": "sha256:d973c4a7408834c6145c7f87fc04d0eeb39a67f421bfc8395694d10d1263ed49",
       "review_state": {
         "human_reviewed": false,
@@ -11261,9 +11261,9 @@
         "reference": "39",
         "display_reference": "HC 39",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4fd70026757c14f2397361d57d64b14643d6414c5845ca5345caf05c027f59a0",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-39"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-39"
       }
     },
     {
@@ -11444,7 +11444,7 @@
       ],
       "work_passage_id": "hc:40",
       "html_path": "works/hc/index.html#p-40",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-40",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-40",
       "alignment_revision": "sha256:f378963b52e136316a9e94679892456804e9e57e00a1a2fd549f31ea7e465242",
       "review_state": {
         "human_reviewed": false,
@@ -11468,9 +11468,9 @@
         "reference": "40",
         "display_reference": "HC 40",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:403f37744faf69c1011e533291e982b361437ed4f2b7b54283690b4689f356a3",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-40"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-40"
       }
     },
     {
@@ -11602,7 +11602,7 @@
       "notes": [],
       "work_passage_id": "hc:41",
       "html_path": "works/hc/index.html#p-41",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-41",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-41",
       "alignment_revision": "sha256:8c35e3ceeb16cdc916e46f21ae448e94679d52e3d5fe52a34b265f048785d096",
       "review_state": {
         "human_reviewed": false,
@@ -11626,9 +11626,9 @@
         "reference": "41",
         "display_reference": "HC 41",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4bfa30dc4147fedd80bf947c151f9c8ad0c27e641aa04044a2595bacc6b2d9ef",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-41"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-41"
       }
     },
     {
@@ -11787,7 +11787,7 @@
       ],
       "work_passage_id": "hc:42",
       "html_path": "works/hc/index.html#p-42",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-42",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-42",
       "alignment_revision": "sha256:b8df058beab8bfb01a62c155beb9ebc1a2601d0b689cd7428fadb45702363b33",
       "review_state": {
         "human_reviewed": false,
@@ -11811,9 +11811,9 @@
         "reference": "42",
         "display_reference": "HC 42",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:19231da75979793c77cadcf0c3f3ea05fae018ca68db26d8e71063cd522ea105",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-42"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-42"
       }
     },
     {
@@ -12035,7 +12035,7 @@
       "notes": [],
       "work_passage_id": "hc:43",
       "html_path": "works/hc/index.html#p-43",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-43",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-43",
       "alignment_revision": "sha256:8d6de04e158b474c9c9b5e9dd0c55deb7bf65163bb2876319880b86029f39171",
       "review_state": {
         "human_reviewed": false,
@@ -12059,9 +12059,9 @@
         "reference": "43",
         "display_reference": "HC 43",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:56bed0dd13dcc07c8c187afd629009b91e8f55f0186f3c59259d182d27f0d457",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-43"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-43"
       }
     },
     {
@@ -12250,7 +12250,7 @@
       ],
       "work_passage_id": "hc:44",
       "html_path": "works/hc/index.html#p-44",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-44",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-44",
       "alignment_revision": "sha256:7fa22b61a1bcdd2f812d232445d3f6c82b9cfae0ababcfcabbb268b0e8d07e05",
       "review_state": {
         "human_reviewed": false,
@@ -12274,9 +12274,9 @@
         "reference": "44",
         "display_reference": "HC 44",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ea539ad5b3d655db5e8149449ab1623140f04f143cf60adc59ead693ca5f6dff",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-44"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-44"
       }
     },
     {
@@ -12544,7 +12544,7 @@
       "notes": [],
       "work_passage_id": "hc:45",
       "html_path": "works/hc/index.html#p-45",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-45",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-45",
       "alignment_revision": "sha256:7be481cd24358a41e5b179dad447574061704b5c126dd6bc61e13d24fc932389",
       "review_state": {
         "human_reviewed": false,
@@ -12568,9 +12568,9 @@
         "reference": "45",
         "display_reference": "HC 45",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8d4d7088cb60e0b898fb6655e7b54c17ccd67c788f54c9737552f537d60fde00",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-45"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-45"
       }
     },
     {
@@ -12813,7 +12813,7 @@
       ],
       "work_passage_id": "hc:46",
       "html_path": "works/hc/index.html#p-46",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-46",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-46",
       "alignment_revision": "sha256:7ad6ec12097a4917d6e2639cd74901c283e3b334aaecff16da307ead608238b3",
       "review_state": {
         "human_reviewed": false,
@@ -12837,9 +12837,9 @@
         "reference": "46",
         "display_reference": "HC 46",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8833ad66b767b31524ded04335fccfc52829cfdfcbf3d7475e1ce97fe7a77a52",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-46"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-46"
       }
     },
     {
@@ -13070,7 +13070,7 @@
       "notes": [],
       "work_passage_id": "hc:47",
       "html_path": "works/hc/index.html#p-47",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-47",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-47",
       "alignment_revision": "sha256:3cd614561c3c5ad49c4ca75850bc1b7588e9affd0376771b965c98f2fc52dad0",
       "review_state": {
         "human_reviewed": false,
@@ -13094,9 +13094,9 @@
         "reference": "47",
         "display_reference": "HC 47",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7f3e0757352e67cbcbf715971b674b3bd2b20dc18d69b15ed6284ba0c874ebc7",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-47"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-47"
       }
     },
     {
@@ -13336,7 +13336,7 @@
       ],
       "work_passage_id": "hc:48",
       "html_path": "works/hc/index.html#p-48",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-48",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-48",
       "alignment_revision": "sha256:180ea449c3eefaf134456b6c221bc171b8e19792ffed3c2b8d65ad4e37a44ccd",
       "review_state": {
         "human_reviewed": false,
@@ -13360,9 +13360,9 @@
         "reference": "48",
         "display_reference": "HC 48",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e833742f99a1fd766e21eb3ad1117e2ef957b673ac303968c7f344c069482bd3",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-48"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-48"
       }
     },
     {
@@ -13682,7 +13682,7 @@
       ],
       "work_passage_id": "hc:49",
       "html_path": "works/hc/index.html#p-49",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-49",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-49",
       "alignment_revision": "sha256:2e0ea07d10432cb091b819dbadff7766f4470b23ace15c1c2658684687cbef2c",
       "review_state": {
         "human_reviewed": false,
@@ -13706,9 +13706,9 @@
         "reference": "49",
         "display_reference": "HC 49",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:613a226d5470e6e9b7c9b36abdc67cd3b4a3bbc0a92be4ce0fe51c9c6f35ae1e",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-49"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-49"
       }
     },
     {
@@ -13894,7 +13894,7 @@
       ],
       "work_passage_id": "hc:50",
       "html_path": "works/hc/index.html#p-50",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-50",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-50",
       "alignment_revision": "sha256:2412af773849b556270117f5c22810477749b883fc46ebdfe5fc40539b8ee221",
       "review_state": {
         "human_reviewed": false,
@@ -13918,9 +13918,9 @@
         "reference": "50",
         "display_reference": "HC 50",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:118069bb0a252c713b93596022030d7d94082b5f099cb8e5eec7481c52a23a3b",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-50"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-50"
       }
     },
     {
@@ -14093,7 +14093,7 @@
       ],
       "work_passage_id": "hc:51",
       "html_path": "works/hc/index.html#p-51",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-51",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-51",
       "alignment_revision": "sha256:580f0f2505f3feb16ca20e274b5dda00118453584c22e3dbf3ca5de9daa2105f",
       "review_state": {
         "human_reviewed": false,
@@ -14117,9 +14117,9 @@
         "reference": "51",
         "display_reference": "HC 51",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:69a03ff44aaddcb6d7b95bbc37811ac9ff9711c71874000c0e0af15d3503d1db",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-51"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-51"
       }
     },
     {
@@ -14418,7 +14418,7 @@
       ],
       "work_passage_id": "hc:52",
       "html_path": "works/hc/index.html#p-52",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-52",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-52",
       "alignment_revision": "sha256:9edb2cf91b168b7da881bf555508c64703b06d0478bc5a220ae0f84a8a2de9cb",
       "review_state": {
         "human_reviewed": false,
@@ -14442,9 +14442,9 @@
         "reference": "52",
         "display_reference": "HC 52",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f004040118ee8e0e9f07b13f8d18ecf332261e36fe27fce7834ba7953cb96641",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-52"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-52"
       }
     },
     {
@@ -14744,7 +14744,7 @@
       ],
       "work_passage_id": "hc:53",
       "html_path": "works/hc/index.html#p-53",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-53",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-53",
       "alignment_revision": "sha256:7851cdbb7e6f94d9cadbc03938ae9c073b37878e7772ab3462b16d8bc062375b",
       "review_state": {
         "human_reviewed": false,
@@ -14768,9 +14768,9 @@
         "reference": "53",
         "display_reference": "HC 53",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:62d1452b72af9f902164306f6e6271c285d01f68e8204f2d20ebaf755b49a34f",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-53"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-53"
       }
     },
     {
@@ -15151,7 +15151,7 @@
       ],
       "work_passage_id": "hc:54",
       "html_path": "works/hc/index.html#p-54",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-54",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-54",
       "alignment_revision": "sha256:086b3db7fcf91506efbf7e3c6236ec3f999ea7c02536baa7b5f831e413e0a05b",
       "review_state": {
         "human_reviewed": false,
@@ -15175,9 +15175,9 @@
         "reference": "54",
         "display_reference": "HC 54",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c97dd4da4d0569a63aecd34f24a7a9f8e5bec505657a919c7641c3781dae36f7",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-54"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-54"
       }
     },
     {
@@ -15385,7 +15385,7 @@
       ],
       "work_passage_id": "hc:55",
       "html_path": "works/hc/index.html#p-55",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-55",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-55",
       "alignment_revision": "sha256:56c5df59db1b378fb68955e71c3c2668e9bd0626b84b7702bc3efe90c42cca6b",
       "review_state": {
         "human_reviewed": false,
@@ -15409,9 +15409,9 @@
         "reference": "55",
         "display_reference": "HC 55",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bb14904d0e74b2244067894e96bb7ff94140d5fea6defbf5ffc91668ef3dedd1",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-55"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-55"
       }
     },
     {
@@ -15682,7 +15682,7 @@
       ],
       "work_passage_id": "hc:56",
       "html_path": "works/hc/index.html#p-56",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-56",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-56",
       "alignment_revision": "sha256:806692981458e782b33a3e76036f254f507e6b3dee47d08eccefd90ae443bf94",
       "review_state": {
         "human_reviewed": false,
@@ -15706,9 +15706,9 @@
         "reference": "56",
         "display_reference": "HC 56",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f279e105d6d546c2be2b134b219e400ea425c32143b8ce85b805a56db10642dc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-56"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-56"
       }
     },
     {
@@ -15916,7 +15916,7 @@
       ],
       "work_passage_id": "hc:57",
       "html_path": "works/hc/index.html#p-57",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-57",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-57",
       "alignment_revision": "sha256:dd474390e0860959817a8ef8299edc3797395df69dd6bb2fe6e6b64697cd84f9",
       "review_state": {
         "human_reviewed": false,
@@ -15940,9 +15940,9 @@
         "reference": "57",
         "display_reference": "HC 57",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c3d4b4eac7ba425c39010c1b690618c32a67daf06868f11c0b6e771700f4d3c1",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-57"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-57"
       }
     },
     {
@@ -16153,7 +16153,7 @@
       ],
       "work_passage_id": "hc:58",
       "html_path": "works/hc/index.html#p-58",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-58",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-58",
       "alignment_revision": "sha256:7176b49f2d758fbc3de20ef2681db7e518974e471580979981c8a07171ae48d0",
       "review_state": {
         "human_reviewed": false,
@@ -16177,9 +16177,9 @@
         "reference": "58",
         "display_reference": "HC 58",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:81a100f4535c7d65f2cf2b7d001cf6acc27665e0ba83851543464f393642756a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-58"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-58"
       }
     },
     {
@@ -16314,7 +16314,7 @@
       "notes": [],
       "work_passage_id": "hc:59",
       "html_path": "works/hc/index.html#p-59",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-59",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-59",
       "alignment_revision": "sha256:8248bbc1073122b09c3153a300c224d48cdebee1fd2f60c0eb6836c4f592f8a9",
       "review_state": {
         "human_reviewed": false,
@@ -16338,9 +16338,9 @@
         "reference": "59",
         "display_reference": "HC 59",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f8f80337f09315738fd6d256377092a40e8006b25f58d6dcc6208b7756ced6b7",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-59"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-59"
       }
     },
     {
@@ -16800,7 +16800,7 @@
       ],
       "work_passage_id": "hc:60",
       "html_path": "works/hc/index.html#p-60",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-60",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-60",
       "alignment_revision": "sha256:e57e7000587c285d7dbf0f6715811122c2ac1f34d23ede91b1914190848a0e05",
       "review_state": {
         "human_reviewed": false,
@@ -16824,9 +16824,9 @@
         "reference": "60",
         "display_reference": "HC 60",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ca142c030d02cf4ad9727321493f0ca3cd46bc5aa2d5cced3d8aeed794677cef",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-60"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-60"
       }
     },
     {
@@ -17022,7 +17022,7 @@
       "notes": [],
       "work_passage_id": "hc:61",
       "html_path": "works/hc/index.html#p-61",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-61",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-61",
       "alignment_revision": "sha256:1beb50f062a1779b22cedf5dba3b7028659169d40e10b316450692f27abe43d1",
       "review_state": {
         "human_reviewed": false,
@@ -17046,9 +17046,9 @@
         "reference": "61",
         "display_reference": "HC 61",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1ff7af8bf221b837dd2a574acaf7e5d014bac4ffdc6c7d7b9b355b724718286a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-61"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-61"
       }
     },
     {
@@ -17244,7 +17244,7 @@
       "notes": [],
       "work_passage_id": "hc:62",
       "html_path": "works/hc/index.html#p-62",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-62",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-62",
       "alignment_revision": "sha256:2a5bc1d5daffe3999cf38b332f98bf745a6752af7bffd8c3e5aad08a10cb13c4",
       "review_state": {
         "human_reviewed": false,
@@ -17268,9 +17268,9 @@
         "reference": "62",
         "display_reference": "HC 62",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7df9ab78e7bc6de130e9a158017ecbeffc3d22d7a3ae680d76d5c98ae1e222f7",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-62"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-62"
       }
     },
     {
@@ -17393,7 +17393,7 @@
       "notes": [],
       "work_passage_id": "hc:63",
       "html_path": "works/hc/index.html#p-63",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-63",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-63",
       "alignment_revision": "sha256:31cabda3261de4ee55036f21c1f11fe90c40afef57059d97ecb72b006212a4f0",
       "review_state": {
         "human_reviewed": false,
@@ -17417,9 +17417,9 @@
         "reference": "63",
         "display_reference": "HC 63",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a9de4585a95f962b987e74b0affdc7fb60d114d1a146b3fcb09ddbec611b9344",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-63"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-63"
       }
     },
     {
@@ -17566,7 +17566,7 @@
       ],
       "work_passage_id": "hc:64",
       "html_path": "works/hc/index.html#p-64",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-64",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-64",
       "alignment_revision": "sha256:c5ea8b6113b5778f6e8002e1fbf09be24134e1bd32d877da4bf9ccef8e3db2c7",
       "review_state": {
         "human_reviewed": false,
@@ -17590,9 +17590,9 @@
         "reference": "64",
         "display_reference": "HC 64",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c1730a670c60baa9b6cf59b0e27fc7a53e0042383ff6945c47aa53d2de57a8f6",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-64"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-64"
       }
     },
     {
@@ -17787,7 +17787,7 @@
       ],
       "work_passage_id": "hc:65",
       "html_path": "works/hc/index.html#p-65",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-65",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-65",
       "alignment_revision": "sha256:177fad5698299abf27fa8caff1082b530aa58b237e70bfd98bcfb6e808924b17",
       "review_state": {
         "human_reviewed": false,
@@ -17811,9 +17811,9 @@
         "reference": "65",
         "display_reference": "HC 65",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:059415c085404f32c7ebb64c262716434315d1bbf1ca94a4fd9c85acf9a0a7c8",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-65"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-65"
       }
     },
     {
@@ -18038,7 +18038,7 @@
       "notes": [],
       "work_passage_id": "hc:66",
       "html_path": "works/hc/index.html#p-66",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-66",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-66",
       "alignment_revision": "sha256:164c75d961cae8ab978b5e2ace3c0e7defb06156d3612af9ad4b32667628ebe5",
       "review_state": {
         "human_reviewed": false,
@@ -18062,9 +18062,9 @@
         "reference": "66",
         "display_reference": "HC 66",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5ba22072f59043ef5fd8ff3d95029da1bf565eced59773d4f33a0930e707cd72",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-66"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-66"
       }
     },
     {
@@ -18259,7 +18259,7 @@
       "notes": [],
       "work_passage_id": "hc:67",
       "html_path": "works/hc/index.html#p-67",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-67",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-67",
       "alignment_revision": "sha256:3e383de0323ff089204aa2fb8f7da18d27a65510da273ef75940717c43d2317e",
       "review_state": {
         "human_reviewed": false,
@@ -18283,9 +18283,9 @@
         "reference": "67",
         "display_reference": "HC 67",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2e078332543e947311e572024024cf31929712b4a278b52fb157ce25dd219621",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-67"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-67"
       }
     },
     {
@@ -18383,7 +18383,7 @@
       "notes": [],
       "work_passage_id": "hc:68",
       "html_path": "works/hc/index.html#p-68",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-68",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-68",
       "alignment_revision": "sha256:c617216551bff0fe635b2cc503a8e05ae0c0e88be37cff9acd0a7b2e719e9185",
       "review_state": {
         "human_reviewed": false,
@@ -18407,9 +18407,9 @@
         "reference": "68",
         "display_reference": "HC 68",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a390a48e6039de8768e73b4c02ca9447a2780f31bced2113f36d65e51196222d",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-68"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-68"
       }
     },
     {
@@ -18674,7 +18674,7 @@
       ],
       "work_passage_id": "hc:69",
       "html_path": "works/hc/index.html#p-69",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-69",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-69",
       "alignment_revision": "sha256:db5cc28b4f07e7b090031e907b44017c5ad67a50a8fcc776891f206956c18be0",
       "review_state": {
         "human_reviewed": false,
@@ -18698,9 +18698,9 @@
         "reference": "69",
         "display_reference": "HC 69",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d3029881743337e13a2fcf61b3b9714360862b9f8fff191a992ca58bcb054080",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-69"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-69"
       }
     },
     {
@@ -18966,7 +18966,7 @@
       "notes": [],
       "work_passage_id": "hc:70",
       "html_path": "works/hc/index.html#p-70",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-70",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-70",
       "alignment_revision": "sha256:0211b047e68d20d73b89cb8bc9b6cc5c606da13a1e8b18690a5b1aef3fa5c4f1",
       "review_state": {
         "human_reviewed": false,
@@ -18990,9 +18990,9 @@
         "reference": "70",
         "display_reference": "HC 70",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0570d4337c5ec05c4c6534187ffc7f5702c6cb4d04ac1f9440882624554c3cba",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-70"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-70"
       }
     },
     {
@@ -19276,7 +19276,7 @@
       "notes": [],
       "work_passage_id": "hc:71",
       "html_path": "works/hc/index.html#p-71",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-71",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-71",
       "alignment_revision": "sha256:100857e7327d84cafc3f32db4acef1ec99c69ca064fd1f53df3d127cb6c79f13",
       "review_state": {
         "human_reviewed": false,
@@ -19300,9 +19300,9 @@
         "reference": "71",
         "display_reference": "HC 71",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:729bc0f1d00ad4ed08edf95c83062636b274539289f71f7c1f6df07f916062aa",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-71"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-71"
       }
     },
     {
@@ -19479,7 +19479,7 @@
       "notes": [],
       "work_passage_id": "hc:72",
       "html_path": "works/hc/index.html#p-72",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-72",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-72",
       "alignment_revision": "sha256:b78ff7ec916030d2e123d3a24624ae55ad2bfad8ee59ede4926464a37ee3d4f8",
       "review_state": {
         "human_reviewed": false,
@@ -19503,9 +19503,9 @@
         "reference": "72",
         "display_reference": "HC 72",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b3652a4dbbc98f08227ca3dec5682fc66cd393d59f6a6b3bfec48f051ddb76cb",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-72"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-72"
       }
     },
     {
@@ -19781,7 +19781,7 @@
       ],
       "work_passage_id": "hc:73",
       "html_path": "works/hc/index.html#p-73",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-73",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-73",
       "alignment_revision": "sha256:1e895f8ee657bf5480d975d888ce489c88f777735ae1dd635c95288cbc84efa8",
       "review_state": {
         "human_reviewed": false,
@@ -19805,9 +19805,9 @@
         "reference": "73",
         "display_reference": "HC 73",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:38c1dc2fa8622fa3b28293c5f7b2aff17e6ee0d84ca596fc3a31a0c04112eef9",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-73"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-73"
       }
     },
     {
@@ -20165,7 +20165,7 @@
       ],
       "work_passage_id": "hc:74",
       "html_path": "works/hc/index.html#p-74",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-74",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-74",
       "alignment_revision": "sha256:67d195ca6edfeaad5c0ece5ef4418560e6a300ef36e7112bd5ebdc3e852ccd36",
       "review_state": {
         "human_reviewed": false,
@@ -20189,9 +20189,9 @@
         "reference": "74",
         "display_reference": "HC 74",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d351ea0cb019b78cda59c7af7dda6d013b68b4f617ec80289829dfed22e919a8",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-74"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-74"
       }
     },
     {
@@ -20551,7 +20551,7 @@
       ],
       "work_passage_id": "hc:75",
       "html_path": "works/hc/index.html#p-75",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-75",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-75",
       "alignment_revision": "sha256:2d5aa657caaf33862a2c639f2e75ebae543bfccabb7c87eff677fa5b01e7983c",
       "review_state": {
         "human_reviewed": false,
@@ -20575,9 +20575,9 @@
         "reference": "75",
         "display_reference": "HC 75",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:61f2c5a334d1183a1ff2ab8b41969c076cf807d4a6ab82a38e7d9d19b3c92954",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-75"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-75"
       }
     },
     {
@@ -20993,7 +20993,7 @@
       ],
       "work_passage_id": "hc:76",
       "html_path": "works/hc/index.html#p-76",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-76",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-76",
       "alignment_revision": "sha256:c41af41d2391b86bc275845259f987ecf1032f72e4d67caf0cf08ac0e28e5400",
       "review_state": {
         "human_reviewed": false,
@@ -21017,9 +21017,9 @@
         "reference": "76",
         "display_reference": "HC 76",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:50437739b1bd92a346c8749a0bf7bfbb6424fa927491f63233151ab28a5429e4",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-76"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-76"
       }
     },
     {
@@ -21498,7 +21498,7 @@
       ],
       "work_passage_id": "hc:77",
       "html_path": "works/hc/index.html#p-77",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-77",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-77",
       "alignment_revision": "sha256:159892ed8efafcfef0fa2c763af8afc7177ec6b201dfb06c7faa861d142d43f3",
       "review_state": {
         "human_reviewed": false,
@@ -21522,9 +21522,9 @@
         "reference": "77",
         "display_reference": "HC 77",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:94115c4eeb02565048de31924a31895b05fa7a7e35ca88b88fd3bcf28fc1c7af",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-77"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-77"
       }
     },
     {
@@ -21826,7 +21826,7 @@
       ],
       "work_passage_id": "hc:78",
       "html_path": "works/hc/index.html#p-78",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-78",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-78",
       "alignment_revision": "sha256:39175ac59442874852db2db5efc64d88ed20afd2d73d89108051de8f4b3a218e",
       "review_state": {
         "human_reviewed": false,
@@ -21850,9 +21850,9 @@
         "reference": "78",
         "display_reference": "HC 78",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:33c871ab76d93834dd8999e911ee955766e92b38bf5cf14217c2124cda98741d",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-78"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-78"
       }
     },
     {
@@ -22202,7 +22202,7 @@
       "notes": [],
       "work_passage_id": "hc:79",
       "html_path": "works/hc/index.html#p-79",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-79",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-79",
       "alignment_revision": "sha256:65b8e34a8f7840c98eeaf85fac746df32a3436af8e4c866a09116286aa603700",
       "review_state": {
         "human_reviewed": false,
@@ -22226,9 +22226,9 @@
         "reference": "79",
         "display_reference": "HC 79",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:44ba57cbd032d2d4e2706219fa90f8179bfd0e40f17b610b0ffd6843c9e902ac",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-79"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-79"
       }
     },
     {
@@ -22755,7 +22755,7 @@
       ],
       "work_passage_id": "hc:80",
       "html_path": "works/hc/index.html#p-80",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-80",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-80",
       "alignment_revision": "sha256:4881bf748eabbb6e2204367678c5578a8186aee90d04db55d996ce999e08cefc",
       "review_state": {
         "human_reviewed": false,
@@ -22779,9 +22779,9 @@
         "reference": "80",
         "display_reference": "HC 80",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:720ceff285b5ffc41d60038e5bce8f875e7d069b368f25153412163174871c4a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-80"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-80"
       }
     },
     {
@@ -22998,7 +22998,7 @@
       "notes": [],
       "work_passage_id": "hc:81",
       "html_path": "works/hc/index.html#p-81",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-81",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-81",
       "alignment_revision": "sha256:1daf093aa74baab8742900159fdddd13d2bb93141fc29321be3b9fb315604b2b",
       "review_state": {
         "human_reviewed": false,
@@ -23022,9 +23022,9 @@
         "reference": "81",
         "display_reference": "HC 81",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:575d3b0d89813e798a85ae4d8c448468babe74e1c828671df971976215ce9c5e",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-81"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-81"
       }
     },
     {
@@ -23252,7 +23252,7 @@
       "notes": [],
       "work_passage_id": "hc:82",
       "html_path": "works/hc/index.html#p-82",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-82",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-82",
       "alignment_revision": "sha256:552a48dc7e82e1392895f95083540610cd06b3e8cfeb41a142e381faa0bd163f",
       "review_state": {
         "human_reviewed": false,
@@ -23276,9 +23276,9 @@
         "reference": "82",
         "display_reference": "HC 82",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:aa1a391e1f2d746624f8006b0da768268edafee079f295087057773036dc6052",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-82"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-82"
       }
     },
     {
@@ -23431,7 +23431,7 @@
       ],
       "work_passage_id": "hc:83",
       "html_path": "works/hc/index.html#p-83",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-83",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-83",
       "alignment_revision": "sha256:97e97258f0d551e7d0af72a787cc0aab5c44488da113499fb28d09bada40feae",
       "review_state": {
         "human_reviewed": false,
@@ -23455,9 +23455,9 @@
         "reference": "83",
         "display_reference": "HC 83",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7d4d69d43a81faf0e96cc4e7c43b4699414ab62a65b3eadb660ec280623c5de3",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-83"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-83"
       }
     },
     {
@@ -23714,7 +23714,7 @@
       "notes": [],
       "work_passage_id": "hc:84",
       "html_path": "works/hc/index.html#p-84",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-84",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-84",
       "alignment_revision": "sha256:1b46d36a9e1b29fd26329fa9665842cfcb3e51ed9db506a241f656277d79dd93",
       "review_state": {
         "human_reviewed": false,
@@ -23738,9 +23738,9 @@
         "reference": "84",
         "display_reference": "HC 84",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ca3d2f24c15ec5b30634972fb44f6ef07e35667015cd5912cca2cd937d06ebc8",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-84"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-84"
       }
     },
     {
@@ -24055,7 +24055,7 @@
       ],
       "work_passage_id": "hc:85",
       "html_path": "works/hc/index.html#p-85",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-85",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-85",
       "alignment_revision": "sha256:fe6c8726c662fbd3481d2cb506ac15b2c70b0caf5023b4120c9702eff4e584cc",
       "review_state": {
         "human_reviewed": false,
@@ -24079,9 +24079,9 @@
         "reference": "85",
         "display_reference": "HC 85",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:11aff296e7a627070e9239f40bf75bd360f66c766d45879ca9558bfe0679c0c1",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-85"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-85"
       }
     },
     {
@@ -24444,7 +24444,7 @@
       ],
       "work_passage_id": "hc:86",
       "html_path": "works/hc/index.html#p-86",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-86",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-86",
       "alignment_revision": "sha256:9e1e309cfce9999fe5914fd471200851e64a011a60f4e43b1ce4ae1d2ed3466c",
       "review_state": {
         "human_reviewed": false,
@@ -24468,9 +24468,9 @@
         "reference": "86",
         "display_reference": "HC 86",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9ce7a47cdf614c6d7e89878381abae151010b3bbe5582fedda96856dd6b13847",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-86"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-86"
       }
     },
     {
@@ -24649,7 +24649,7 @@
       "notes": [],
       "work_passage_id": "hc:87",
       "html_path": "works/hc/index.html#p-87",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-87",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-87",
       "alignment_revision": "sha256:60a4c4504983c1d9d36aaca8025ff96ea949054206062e8e31ebd8057686f900",
       "review_state": {
         "human_reviewed": false,
@@ -24673,9 +24673,9 @@
         "reference": "87",
         "display_reference": "HC 87",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:057ba534de6457b39ac38d614154cb26d5b676759b391b41b785ab8d3a70d10c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-87"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-87"
       }
     },
     {
@@ -24838,7 +24838,7 @@
       "notes": [],
       "work_passage_id": "hc:88",
       "html_path": "works/hc/index.html#p-88",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-88",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-88",
       "alignment_revision": "sha256:9251c138c713a5ec07d7ca92375391a841ea3013241319dffc442e50bd5d1aeb",
       "review_state": {
         "human_reviewed": false,
@@ -24862,9 +24862,9 @@
         "reference": "88",
         "display_reference": "HC 88",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:cf4e700233c0f7d1b9b2f011601d96010fa90486a8965c4ecc729fa229d67358",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-88"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-88"
       }
     },
     {
@@ -24995,7 +24995,7 @@
       ],
       "work_passage_id": "hc:89",
       "html_path": "works/hc/index.html#p-89",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-89",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-89",
       "alignment_revision": "sha256:a481155c2749313d2f82da4d28b99a0c613f968f68a44cd7a7b7c2e3a567fd3f",
       "review_state": {
         "human_reviewed": false,
@@ -25019,9 +25019,9 @@
         "reference": "89",
         "display_reference": "HC 89",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d7153f294e90bc39a1066952db1022d776516402b0379bbd0e55c921a96bff1b",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-89"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-89"
       }
     },
     {
@@ -25189,7 +25189,7 @@
       "notes": [],
       "work_passage_id": "hc:90",
       "html_path": "works/hc/index.html#p-90",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-90",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-90",
       "alignment_revision": "sha256:68a139208bcfafb1b969952d906fdab43d0adaa64998a0bee821568af27505aa",
       "review_state": {
         "human_reviewed": false,
@@ -25213,9 +25213,9 @@
         "reference": "90",
         "display_reference": "HC 90",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:379fb3f68cdaf71e57d861e72ce743f90fba55bddbbdfbd8ffe3609ba9e06f94",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-90"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-90"
       }
     },
     {
@@ -25428,7 +25428,7 @@
       ],
       "work_passage_id": "hc:91",
       "html_path": "works/hc/index.html#p-91",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-91",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-91",
       "alignment_revision": "sha256:154a6565de2744297094a048652ab5e4a5ea6f93e6ab8ccf638b8445a14b8cce",
       "review_state": {
         "human_reviewed": false,
@@ -25452,9 +25452,9 @@
         "reference": "91",
         "display_reference": "HC 91",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9611c5bd602e0eb1e258e1acd8c08ae93d7c3927fac04f2e94bee8ecba21a466",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-91"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-91"
       }
     },
     {
@@ -26487,7 +26487,7 @@
       ],
       "work_passage_id": "hc:92",
       "html_path": "works/hc/index.html#p-92",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-92",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-92",
       "alignment_revision": "sha256:ec628f9e7d9f7ec5dd864014837002dc51e60409b11711d2953930e2fd894646",
       "review_state": {
         "human_reviewed": false,
@@ -26511,9 +26511,9 @@
         "reference": "92",
         "display_reference": "HC 92",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:51b0ad2ee2f2a9c80108888468329cd6bc008f1d5ced7da00d698e5c63f5ffdb",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-92"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-92"
       }
     },
     {
@@ -26699,7 +26699,7 @@
       ],
       "work_passage_id": "hc:93",
       "html_path": "works/hc/index.html#p-93",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-93",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-93",
       "alignment_revision": "sha256:11879433d452b048d819c56a968a11dda2a191caabdb44b998a1e5349049b275",
       "review_state": {
         "human_reviewed": false,
@@ -26723,9 +26723,9 @@
         "reference": "93",
         "display_reference": "HC 93",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3d9d9512fc8800d886867fa56c2a6f3356b00f89c42d61f4e3e4936769df40ab",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-93"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-93"
       }
     },
     {
@@ -27235,7 +27235,7 @@
       ],
       "work_passage_id": "hc:94",
       "html_path": "works/hc/index.html#p-94",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-94",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-94",
       "alignment_revision": "sha256:57b4662ae63ef3e91397cacf3bb4fe3315de5d51632980d8dd01003a56454646",
       "review_state": {
         "human_reviewed": false,
@@ -27259,9 +27259,9 @@
         "reference": "94",
         "display_reference": "HC 94",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:82febcf02c367f3d016bb2ed92b6b80231287acdd0555bdb22631e8715390902",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-94"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-94"
       }
     },
     {
@@ -27461,7 +27461,7 @@
       "notes": [],
       "work_passage_id": "hc:95",
       "html_path": "works/hc/index.html#p-95",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-95",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-95",
       "alignment_revision": "sha256:0c9e35610567d43e09d7b25a391da2d1aace1a377e7780df236a16e52fa5591f",
       "review_state": {
         "human_reviewed": false,
@@ -27485,9 +27485,9 @@
         "reference": "95",
         "display_reference": "HC 95",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8142c70ecd08f76cdaa92f9be5ab5dbd2ecd1ac34fc40a419ad3e8ff57e30147",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-95"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-95"
       }
     },
     {
@@ -27669,7 +27669,7 @@
       ],
       "work_passage_id": "hc:96",
       "html_path": "works/hc/index.html#p-96",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-96",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-96",
       "alignment_revision": "sha256:17cb4e0063f70b69f04740a9c8c552f2611f602d1dbceacccc55f5b03bb64cb9",
       "review_state": {
         "human_reviewed": false,
@@ -27693,9 +27693,9 @@
         "reference": "96",
         "display_reference": "HC 96",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8217bb7f45d2448ea06469f4de42e99c4cacc9c4dd40024ab38254705bd76375",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-96"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-96"
       }
     },
     {
@@ -27898,7 +27898,7 @@
       "notes": [],
       "work_passage_id": "hc:97",
       "html_path": "works/hc/index.html#p-97",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-97",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-97",
       "alignment_revision": "sha256:ccf4e63f7040bbc00f52c708d5860558d79aab99c4554a2e0cbcc907de36ca68",
       "review_state": {
         "human_reviewed": false,
@@ -27922,9 +27922,9 @@
         "reference": "97",
         "display_reference": "HC 97",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ee61fbbe05b7d8727bb3cda50362895e067182d347922c9d8164f4dacb35c3bf",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-97"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-97"
       }
     },
     {
@@ -28119,7 +28119,7 @@
       ],
       "work_passage_id": "hc:98",
       "html_path": "works/hc/index.html#p-98",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-98",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-98",
       "alignment_revision": "sha256:c51ad93c47dfc1c8480597e34064e921233041640c2a1e5a20ecd40bba868165",
       "review_state": {
         "human_reviewed": false,
@@ -28143,9 +28143,9 @@
         "reference": "98",
         "display_reference": "HC 98",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1a2117859bee044b3b671f08d9ccec0ddb24043ce29ed6b089f2391085d3b85c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-98"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-98"
       }
     },
     {
@@ -28467,7 +28467,7 @@
       "notes": [],
       "work_passage_id": "hc:99",
       "html_path": "works/hc/index.html#p-99",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-99",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-99",
       "alignment_revision": "sha256:99e33f9c6f88ea04fb21acf2bb132a00d3be7ed988b9ac7ddf077659c8216893",
       "review_state": {
         "human_reviewed": false,
@@ -28491,9 +28491,9 @@
         "reference": "99",
         "display_reference": "HC 99",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:be5ed1e951939ad421c4f51675142855b961a1c5b59387b36e97c72d5134c575",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-99"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-99"
       }
     },
     {
@@ -28696,7 +28696,7 @@
       "notes": [],
       "work_passage_id": "hc:100",
       "html_path": "works/hc/index.html#p-100",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-100",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-100",
       "alignment_revision": "sha256:6e7930a8a321f73f12a4090b31b9614bfabd3b10e4e6d5390e7665f101909d74",
       "review_state": {
         "human_reviewed": false,
@@ -28720,9 +28720,9 @@
         "reference": "100",
         "display_reference": "HC 100",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:96b3c93f08364be4fdc307188597833f9dba1fb58196a1f0076a8408dc244b5c",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-100"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-100"
       }
     },
     {
@@ -29002,7 +29002,7 @@
       ],
       "work_passage_id": "hc:101",
       "html_path": "works/hc/index.html#p-101",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-101",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-101",
       "alignment_revision": "sha256:d72577a334753a131ed4403a57429812c7f9cb0c0fda0de3291fcadeb1b4d6c9",
       "review_state": {
         "human_reviewed": false,
@@ -29026,9 +29026,9 @@
         "reference": "101",
         "display_reference": "HC 101",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1f7d6bfe4c7bb8df4bcb9dda3dcf2ce59eb890075eba6cc2de61af446078fc14",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-101"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-101"
       }
     },
     {
@@ -29237,7 +29237,7 @@
       "notes": [],
       "work_passage_id": "hc:102",
       "html_path": "works/hc/index.html#p-102",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-102",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-102",
       "alignment_revision": "sha256:be794ca2773e7f4986ec48bea73a1c972f96cdbc04a10b1b45fd7aea195a0f58",
       "review_state": {
         "human_reviewed": false,
@@ -29261,9 +29261,9 @@
         "reference": "102",
         "display_reference": "HC 102",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:002907559b391191f2631b4917ea4f4ba533be03ec5c763de100e446ad0d4d16",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-102"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-102"
       }
     },
     {
@@ -29667,7 +29667,7 @@
       ],
       "work_passage_id": "hc:103",
       "html_path": "works/hc/index.html#p-103",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-103",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-103",
       "alignment_revision": "sha256:23b227873cb89f33cfaf1e9e557ec41505eff8a0c36f003ac42533e6233cac04",
       "review_state": {
         "human_reviewed": false,
@@ -29691,9 +29691,9 @@
         "reference": "103",
         "display_reference": "HC 103",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4121c3dfc22f1d5bceea6a28a2ab5dc920547732dc664cbceccff00c7daa4b98",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-103"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-103"
       }
     },
     {
@@ -30006,7 +30006,7 @@
       "notes": [],
       "work_passage_id": "hc:104",
       "html_path": "works/hc/index.html#p-104",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-104",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-104",
       "alignment_revision": "sha256:756aae932f41c2d23f3d573ce346cc385e6af5b6422b5c8367e5c4afb5c62c66",
       "review_state": {
         "human_reviewed": false,
@@ -30030,9 +30030,9 @@
         "reference": "104",
         "display_reference": "HC 104",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4e8f013b80b964f29eb4cbdc7f679b07c4d19b32e7210abee044481ff6a19702",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-104"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-104"
       }
     },
     {
@@ -30353,7 +30353,7 @@
       ],
       "work_passage_id": "hc:105",
       "html_path": "works/hc/index.html#p-105",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-105",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-105",
       "alignment_revision": "sha256:1e5574b993ef67eeef4ce01c034cfe7da2c31379669f7c03dba83c8c680e03c6",
       "review_state": {
         "human_reviewed": false,
@@ -30377,9 +30377,9 @@
         "reference": "105",
         "display_reference": "HC 105",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3412dd57e4d26c9cb67f40bb45824c706bef68afb74bcde850a11a781362b0bb",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-105"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-105"
       }
     },
     {
@@ -30585,7 +30585,7 @@
       "notes": [],
       "work_passage_id": "hc:106",
       "html_path": "works/hc/index.html#p-106",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-106",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-106",
       "alignment_revision": "sha256:47bd9432edda6bdb2eecc8e611a6e1ff1fe25db690d3a9e6c2c766f1e692576f",
       "review_state": {
         "human_reviewed": false,
@@ -30609,9 +30609,9 @@
         "reference": "106",
         "display_reference": "HC 106",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:809d90cbe6399d7397b244f9d488932dded4237509d63258dd2ec3d91bdadcb2",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-106"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-106"
       }
     },
     {
@@ -30947,7 +30947,7 @@
       "notes": [],
       "work_passage_id": "hc:107",
       "html_path": "works/hc/index.html#p-107",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-107",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-107",
       "alignment_revision": "sha256:af92b581f286464d3e506c68f8e249b73eea855a0a97f1ae73bfecc0043396c6",
       "review_state": {
         "human_reviewed": false,
@@ -30971,9 +30971,9 @@
         "reference": "107",
         "display_reference": "HC 107",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2492781bbd16f3b51c3e5bff17b1545f6c2ae358da8f2affbb415a789970f8fe",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-107"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-107"
       }
     },
     {
@@ -31195,7 +31195,7 @@
       ],
       "work_passage_id": "hc:108",
       "html_path": "works/hc/index.html#p-108",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-108",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-108",
       "alignment_revision": "sha256:3e61e1561a6571463727cccda672345c187e982884393fa878f765c6b368f0a8",
       "review_state": {
         "human_reviewed": false,
@@ -31219,9 +31219,9 @@
         "reference": "108",
         "display_reference": "HC 108",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4321b53809fdedb95a98c8f26da8546d6e376d080f36fa6b4d860eee95c8bddc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-108"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-108"
       }
     },
     {
@@ -31450,7 +31450,7 @@
       "notes": [],
       "work_passage_id": "hc:109",
       "html_path": "works/hc/index.html#p-109",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-109",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-109",
       "alignment_revision": "sha256:69c7158dec152d7d9e3362ae660a4c9a51c9118e8107a703e34a989526494229",
       "review_state": {
         "human_reviewed": false,
@@ -31474,9 +31474,9 @@
         "reference": "109",
         "display_reference": "HC 109",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8f6047aa877f718fa26cb9088544c40fd88fde65bd51ca151763381062107932",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-109"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-109"
       }
     },
     {
@@ -31834,7 +31834,7 @@
       ],
       "work_passage_id": "hc:110",
       "html_path": "works/hc/index.html#p-110",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-110",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-110",
       "alignment_revision": "sha256:21586efc29dcdd3bfcce25783d9cf6e75d776df4d98a8ee8c88e3e59442f1810",
       "review_state": {
         "human_reviewed": false,
@@ -31858,9 +31858,9 @@
         "reference": "110",
         "display_reference": "HC 110",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b7db574fc7d7d5e8047a44f63cec1e9e6316e2699fff716c8605633e7601b25a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-110"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-110"
       }
     },
     {
@@ -32032,7 +32032,7 @@
       "notes": [],
       "work_passage_id": "hc:111",
       "html_path": "works/hc/index.html#p-111",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-111",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-111",
       "alignment_revision": "sha256:524c19c4eb4bd416a3d95623aa54b25701e1a6c24110db9d4582c86ced2cc004",
       "review_state": {
         "human_reviewed": false,
@@ -32056,9 +32056,9 @@
         "reference": "111",
         "display_reference": "HC 111",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:432569b1c06d8087f94b6b3205cf1127160295b419c65e786e28ef4d5e182fc2",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-111"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-111"
       }
     },
     {
@@ -32416,7 +32416,7 @@
       ],
       "work_passage_id": "hc:112",
       "html_path": "works/hc/index.html#p-112",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-112",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-112",
       "alignment_revision": "sha256:ab8fe5bd05061e31fe90d717f38500ce05a99d52bb203e146178b1f896be5ce7",
       "review_state": {
         "human_reviewed": false,
@@ -32440,9 +32440,9 @@
         "reference": "112",
         "display_reference": "HC 112",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a2f711a7f7274c9bc1e87a3e54cdaf5a4d6b1b94a36f7fd231381b936832adc1",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-112"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-112"
       }
     },
     {
@@ -32596,7 +32596,7 @@
       "notes": [],
       "work_passage_id": "hc:113",
       "html_path": "works/hc/index.html#p-113",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-113",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-113",
       "alignment_revision": "sha256:f06331bf0191d5224decf54c4f864e24413297fe5a86dde87690c90e8c74e7eb",
       "review_state": {
         "human_reviewed": false,
@@ -32620,9 +32620,9 @@
         "reference": "113",
         "display_reference": "HC 113",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9e81eec60cdd81601a308618525b7fbe041b2c3bedd37960d8be8e3b6b8986cc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-113"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-113"
       }
     },
     {
@@ -32833,7 +32833,7 @@
       ],
       "work_passage_id": "hc:114",
       "html_path": "works/hc/index.html#p-114",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-114",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-114",
       "alignment_revision": "sha256:958e611459deaf6a51c89c9880e0e372a113d1044d648343c4ae0fa3de02196f",
       "review_state": {
         "human_reviewed": false,
@@ -32857,9 +32857,9 @@
         "reference": "114",
         "display_reference": "HC 114",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:18e3862f94645893c79468c637290db3927761d67d342c1a3ecaa73174735f7f",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-114"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-114"
       }
     },
     {
@@ -33119,7 +33119,7 @@
       "notes": [],
       "work_passage_id": "hc:115",
       "html_path": "works/hc/index.html#p-115",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-115",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-115",
       "alignment_revision": "sha256:996cd70b7eae50686cab250c7757309769fa963cbe57fbc5c2870601bb246672",
       "review_state": {
         "human_reviewed": false,
@@ -33143,9 +33143,9 @@
         "reference": "115",
         "display_reference": "HC 115",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6bafaa4f9b04863af5ef5a1bb609544729b742ad166c2cd6d5de99675124dce9",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-115"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-115"
       }
     },
     {
@@ -33347,7 +33347,7 @@
       ],
       "work_passage_id": "hc:116",
       "html_path": "works/hc/index.html#p-116",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-116",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-116",
       "alignment_revision": "sha256:1fd56353e99e496ff584989aaba6729b3f9560ba2b4635d0d2ba104db5204d37",
       "review_state": {
         "human_reviewed": false,
@@ -33371,9 +33371,9 @@
         "reference": "116",
         "display_reference": "HC 116",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:dcc0e58de80f8e266a69183f1aee75b01438ed9af5b899a183f15b6c5dd8c2bc",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-116"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-116"
       }
     },
     {
@@ -33771,7 +33771,7 @@
       "notes": [],
       "work_passage_id": "hc:117",
       "html_path": "works/hc/index.html#p-117",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-117",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-117",
       "alignment_revision": "sha256:30fa434ed3563e400ea2a0884c3a4670737c930b19c0495d8d801dfb95978a93",
       "review_state": {
         "human_reviewed": false,
@@ -33795,9 +33795,9 @@
         "reference": "117",
         "display_reference": "HC 117",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7bc62feea8884c0b08ed8bcb8b2b661547a2fc62b5c3181e423f5a6bfbb9c91e",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-117"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-117"
       }
     },
     {
@@ -33928,7 +33928,7 @@
       ],
       "work_passage_id": "hc:118",
       "html_path": "works/hc/index.html#p-118",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-118",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-118",
       "alignment_revision": "sha256:eeeba886c0d332a25759e317728067e07c9d1f40cb01c7619ed7648c30121f47",
       "review_state": {
         "human_reviewed": false,
@@ -33952,9 +33952,9 @@
         "reference": "118",
         "display_reference": "HC 118",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:cfc80a3feafcc66d1103934a70b175815f90a53774f5f2903daf8996b5dd15bf",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-118"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-118"
       }
     },
     {
@@ -34230,7 +34230,7 @@
       ],
       "work_passage_id": "hc:119",
       "html_path": "works/hc/index.html#p-119",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-119",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-119",
       "alignment_revision": "sha256:701243500987e60dd2423c77f4e34ea2a02b057d0ab1c49f8875c409ca25a172",
       "review_state": {
         "human_reviewed": false,
@@ -34254,9 +34254,9 @@
         "reference": "119",
         "display_reference": "HC 119",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:461a79f4e7bca56e4f77817925c469050e3fef60b19217eac776b03c5c9db9c5",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-119"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-119"
       }
     },
     {
@@ -34462,7 +34462,7 @@
       ],
       "work_passage_id": "hc:120",
       "html_path": "works/hc/index.html#p-120",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-120",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-120",
       "alignment_revision": "sha256:043183f884955c421eee9c56e4fa20d0202ddbbf6cfc91315ba7501b5d083b83",
       "review_state": {
         "human_reviewed": false,
@@ -34486,9 +34486,9 @@
         "reference": "120",
         "display_reference": "HC 120",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9def2e000e4e4110b2136e771511ce4d88c22616958a56a267ddcedca69ed66d",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-120"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-120"
       }
     },
     {
@@ -34659,7 +34659,7 @@
       "notes": [],
       "work_passage_id": "hc:121",
       "html_path": "works/hc/index.html#p-121",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-121",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-121",
       "alignment_revision": "sha256:a02bec3ccb3b314df3c3f0afff25d0ae6c7b9aee9b7f58aadae0eee4e4eb2bbc",
       "review_state": {
         "human_reviewed": false,
@@ -34683,9 +34683,9 @@
         "reference": "121",
         "display_reference": "HC 121",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a61c20aa8e8e4cc3da8df71b5325c807c59e0c5eb0e1394558e3e892bedf2f99",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-121"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-121"
       }
     },
     {
@@ -34969,7 +34969,7 @@
       ],
       "work_passage_id": "hc:122",
       "html_path": "works/hc/index.html#p-122",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-122",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-122",
       "alignment_revision": "sha256:745879da7aacd70d0bffa46bd12de6b70c3d006bf2611e28dac4a26a57560058",
       "review_state": {
         "human_reviewed": false,
@@ -34993,9 +34993,9 @@
         "reference": "122",
         "display_reference": "HC 122",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0691ce268a7fec2234038c223bccd3e4118b765ea5a81766d39975fe14f2eb6a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-122"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-122"
       }
     },
     {
@@ -35305,7 +35305,7 @@
       ],
       "work_passage_id": "hc:123",
       "html_path": "works/hc/index.html#p-123",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-123",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-123",
       "alignment_revision": "sha256:dabea75b013412bef7442943e7175067676f9d5e9c7a62ec3b519697fc362422",
       "review_state": {
         "human_reviewed": false,
@@ -35329,9 +35329,9 @@
         "reference": "123",
         "display_reference": "HC 123",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:05a6d388ff6e59523554327c05f206f8eb2b874ca8acfc3334c69f209544c08a",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-123"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-123"
       }
     },
     {
@@ -35583,7 +35583,7 @@
       ],
       "work_passage_id": "hc:124",
       "html_path": "works/hc/index.html#p-124",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-124",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-124",
       "alignment_revision": "sha256:2d4fcc06f79560997a40bb17fd264aa35edbf0708638c50657f7c9cfd05c72c3",
       "review_state": {
         "human_reviewed": false,
@@ -35607,9 +35607,9 @@
         "reference": "124",
         "display_reference": "HC 124",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0a038457a2a70f442be7ff5b5626399b88d157910fff3810cc60abe756dbdd57",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-124"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-124"
       }
     },
     {
@@ -35898,7 +35898,7 @@
       "notes": [],
       "work_passage_id": "hc:125",
       "html_path": "works/hc/index.html#p-125",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-125",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-125",
       "alignment_revision": "sha256:70ce9dbda38a2cde85d13d23aad9dc9851298e2dad0931ede9668060eb320049",
       "review_state": {
         "human_reviewed": false,
@@ -35922,9 +35922,9 @@
         "reference": "125",
         "display_reference": "HC 125",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:97fe2f6cf35c5b5f22b04f29eccdc3632e843c0d8b405b4a8fece7d317b01b36",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-125"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-125"
       }
     },
     {
@@ -36163,7 +36163,7 @@
       ],
       "work_passage_id": "hc:126",
       "html_path": "works/hc/index.html#p-126",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-126",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-126",
       "alignment_revision": "sha256:448c4c77b621cf638150d09b094830ef6fdbb2787db97de15a2f8c0e3de6ee00",
       "review_state": {
         "human_reviewed": false,
@@ -36187,9 +36187,9 @@
         "reference": "126",
         "display_reference": "HC 126",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f830ecc3536f5619abadf89f48dfeff79d937bd02ebed7be879e0c33f65ab611",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-126"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-126"
       }
     },
     {
@@ -36546,7 +36546,7 @@
       ],
       "work_passage_id": "hc:127",
       "html_path": "works/hc/index.html#p-127",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-127",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-127",
       "alignment_revision": "sha256:38ef9c7d6fd48c7cca378862f8e77a2e6f8c58c69caabf68519cc743dbab84b6",
       "review_state": {
         "human_reviewed": false,
@@ -36570,9 +36570,9 @@
         "reference": "127",
         "display_reference": "HC 127",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:19df9aa309694f2d87b25c09b2c396d1a5e38f3f08b12561d18ab22488fc9357",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-127"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-127"
       }
     },
     {
@@ -36787,7 +36787,7 @@
       "notes": [],
       "work_passage_id": "hc:128",
       "html_path": "works/hc/index.html#p-128",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-128",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-128",
       "alignment_revision": "sha256:027ef9648e8eed437148b9e3744035e4e09d6610c69eeb02663c58e37e1aae4d",
       "review_state": {
         "human_reviewed": false,
@@ -36811,9 +36811,9 @@
         "reference": "128",
         "display_reference": "HC 128",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2a5149d7c9441b23011598f8cb30417aadbd06c261c9b7d9e2abeb37a5f0d723",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-128"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-128"
       }
     },
     {
@@ -36977,7 +36977,7 @@
       "notes": [],
       "work_passage_id": "hc:129",
       "html_path": "works/hc/index.html#p-129",
-      "fixed_html_path": "releases/public-0.5/works/hc/index.html#p-129",
+      "fixed_html_path": "releases/public-0.6/works/hc/index.html#p-129",
       "alignment_revision": "sha256:b9e9663061d78ad6d29b2dfee45eb14b8c2fe84e8a30936629eb5d5a610cba60",
       "review_state": {
         "human_reviewed": false,
@@ -37001,9 +37001,9 @@
         "reference": "129",
         "display_reference": "HC 129",
         "edition": "1563년 팔츠 교회규정 수록본. E. F. K. Müller, Die Bekenntnisschriften der reformierten Kirche (Leipzig 1903), 682-719쪽. archive.org의 Google Books 스캔.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d84747d521597fe315b162ed6636878d8af5a6b229660152aef24f9030b099cd",
-        "fixed_path": "releases/public-0.5/works/hc/index.html#p-129"
+        "fixed_path": "releases/public-0.6/works/hc/index.html#p-129"
       }
     }
   ],

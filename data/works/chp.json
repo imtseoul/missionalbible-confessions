@@ -34,14 +34,14 @@
   "language_label": "라틴어",
   "coverage_label": "전문",
   "coverage": "complete",
-  "release_id": "public-0.5",
+  "release_id": "public-0.6",
   "source_language": "lat",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/chp/index.html",
   "json_path": "data/works/chp.json",
-  "fixed_html_path": "releases/public-0.5/works/chp/index.html",
+  "fixed_html_path": "releases/public-0.6/works/chp/index.html",
   "source_profile": "chp-froschauer1566-iiif-1",
   "base_witness": {
     "id": "froschauer1566",
@@ -7161,7 +7161,7 @@
       ],
       "work_passage_id": "chp:pref",
       "html_path": "works/chp/index.html#p-pref",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-pref",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-pref",
       "alignment_revision": "sha256:b57f307d341f2d1bf7d238cf48d6d468744f0fe5c6e0741b8c12bd722dc5733d",
       "review_state": {
         "human_reviewed": false,
@@ -7185,9 +7185,9 @@
         "reference": "pref",
         "display_reference": "CHP pref",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b9ff0d21ad6927383a7a387b3a3d72d37bfc3d88058afa80c51b1b958aaaf5c8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-pref"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-pref"
       }
     },
     {
@@ -7747,7 +7747,7 @@
       "notes": [],
       "work_passage_id": "chp:1.1",
       "html_path": "works/chp/index.html#p-1-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-1-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-1-1",
       "alignment_revision": "sha256:9e53323b3b6fd865ce4b43e9cb45fd7837d7f947afd9ddfd8c1a7482ed94f63c",
       "review_state": {
         "human_reviewed": false,
@@ -7771,9 +7771,9 @@
         "reference": "1.1",
         "display_reference": "CHP 1.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d8753a5a0fbcba3af7c9b90420f0cebc3bde9224aca87471a0a3d7409a89180c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-1-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-1-1"
       }
     },
     {
@@ -8455,7 +8455,7 @@
       ],
       "work_passage_id": "chp:1.2",
       "html_path": "works/chp/index.html#p-1-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-1-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-1-2",
       "alignment_revision": "sha256:e5d0a01400631483959f01cb5ea14e9c990b0bc26e9c158d581c2716e58f1c21",
       "review_state": {
         "human_reviewed": false,
@@ -8479,9 +8479,9 @@
         "reference": "1.2",
         "display_reference": "CHP 1.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:11c41ed53e3fba992119ebe86f02450a3f9e49dae991c9de527101ca2578ec49",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-1-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-1-2"
       }
     },
     {
@@ -8716,7 +8716,7 @@
       ],
       "work_passage_id": "chp:1.3",
       "html_path": "works/chp/index.html#p-1-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-1-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-1-3",
       "alignment_revision": "sha256:8a7b0912b33d31f508e81c7d4fcf2b3aed0ae1d3f70295dc5465635ef0f22e89",
       "review_state": {
         "human_reviewed": false,
@@ -8740,9 +8740,9 @@
         "reference": "1.3",
         "display_reference": "CHP 1.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5b5a47976739532b6c268381ac131e085546bde628f22457572cdcb207b7b1b8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-1-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-1-3"
       }
     },
     {
@@ -9061,7 +9061,7 @@
       "notes": [],
       "work_passage_id": "chp:2.1",
       "html_path": "works/chp/index.html#p-2-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-2-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-2-1",
       "alignment_revision": "sha256:2d3f235b0aa84b98d3c1c1637d4fbc7d393e095dcafca33f138db2836da0321e",
       "review_state": {
         "human_reviewed": false,
@@ -9085,9 +9085,9 @@
         "reference": "2.1",
         "display_reference": "CHP 2.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e40d09a7e7614ed34d14d09c52d1b52d52dcf32871b0b833653ff87e94b36f69",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-2-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-2-1"
       }
     },
     {
@@ -9323,7 +9323,7 @@
       "notes": [],
       "work_passage_id": "chp:2.2",
       "html_path": "works/chp/index.html#p-2-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-2-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-2-2",
       "alignment_revision": "sha256:4490181be71c6cd7fed9697aea571b6f2c6063dd2e82b3872aef363a0c7f09bb",
       "review_state": {
         "human_reviewed": false,
@@ -9347,9 +9347,9 @@
         "reference": "2.2",
         "display_reference": "CHP 2.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:490ba9ad3eec7a51da63f4df737310fa1c1834a88b98d2d9a28bad42c1cca1f2",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-2-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-2-2"
       }
     },
     {
@@ -9627,7 +9627,7 @@
       ],
       "work_passage_id": "chp:2.3",
       "html_path": "works/chp/index.html#p-2-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-2-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-2-3",
       "alignment_revision": "sha256:e5666ca23eebeda5b5ddd5613ab5b40376b910dadb44628eb95b00277a523cc6",
       "review_state": {
         "human_reviewed": false,
@@ -9651,9 +9651,9 @@
         "reference": "2.3",
         "display_reference": "CHP 2.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6eed99b7e738654dcb5c786681c334dde2227e31ecb31d0b67045dd3e0ccccb8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-2-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-2-3"
       }
     },
     {
@@ -10055,7 +10055,7 @@
       "notes": [],
       "work_passage_id": "chp:2.4",
       "html_path": "works/chp/index.html#p-2-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-2-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-2-4",
       "alignment_revision": "sha256:34c0459e74e084bc3914aa3fd8799ebb0e08e59df7fe02ac9281ff749cb71ba0",
       "review_state": {
         "human_reviewed": false,
@@ -10079,9 +10079,9 @@
         "reference": "2.4",
         "display_reference": "CHP 2.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b7b1d7345190378554c0debd93d485f0e1d5eb2a65d0b16676a9a430d43a91c6",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-2-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-2-4"
       }
     },
     {
@@ -10463,7 +10463,7 @@
       "notes": [],
       "work_passage_id": "chp:3.1",
       "html_path": "works/chp/index.html#p-3-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-3-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-3-1",
       "alignment_revision": "sha256:d439c2595df394fff1657ac1bb295575d528742c7926ef861aaccae0b14163e3",
       "review_state": {
         "human_reviewed": false,
@@ -10487,9 +10487,9 @@
         "reference": "3.1",
         "display_reference": "CHP 3.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9940acc4252a6d767b20e7727cfc916148f88f7ba4bcf56c9c28ad252ddec33c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-3-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-3-1"
       }
     },
     {
@@ -11066,7 +11066,7 @@
       ],
       "work_passage_id": "chp:3.2",
       "html_path": "works/chp/index.html#p-3-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-3-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-3-2",
       "alignment_revision": "sha256:1fcf4d058ad169bd93f38edbd9eed306698605db8ba485a532985d8d423fd014",
       "review_state": {
         "human_reviewed": false,
@@ -11090,9 +11090,9 @@
         "reference": "3.2",
         "display_reference": "CHP 3.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:694293a895c56ea919e8dabf348037d7db8beaa231f97c59a6b6885871141c7a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-3-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-3-2"
       }
     },
     {
@@ -11315,7 +11315,7 @@
       ],
       "work_passage_id": "chp:3.3",
       "html_path": "works/chp/index.html#p-3-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-3-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-3-3",
       "alignment_revision": "sha256:3dfb6e2a6c78244bd62a301af1ebd2090f700b027c1904188926d71db774e98c",
       "review_state": {
         "human_reviewed": false,
@@ -11339,9 +11339,9 @@
         "reference": "3.3",
         "display_reference": "CHP 3.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:290d78b1347729a04b23c87f7f67aaf0c6ae02c170a53b12f7fe245dc19382d5",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-3-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-3-3"
       }
     },
     {
@@ -11910,7 +11910,7 @@
       ],
       "work_passage_id": "chp:4.1",
       "html_path": "works/chp/index.html#p-4-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-4-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-4-1",
       "alignment_revision": "sha256:f7a0359fb0944c071b24dc1e5fa726d56c656b1357218127f8833bb271174c04",
       "review_state": {
         "human_reviewed": false,
@@ -11934,9 +11934,9 @@
         "reference": "4.1",
         "display_reference": "CHP 4.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ee33f40789326e1396f4f99088ea322889a322cf9e23c2cc263dabd0f45d2a60",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-4-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-4-1"
       }
     },
     {
@@ -12432,7 +12432,7 @@
       ],
       "work_passage_id": "chp:4.2",
       "html_path": "works/chp/index.html#p-4-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-4-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-4-2",
       "alignment_revision": "sha256:0741913a29e59bc5eb9ea7fe0a0b91d206f2907160acb5dbab1a47e59815eda6",
       "review_state": {
         "human_reviewed": false,
@@ -12456,9 +12456,9 @@
         "reference": "4.2",
         "display_reference": "CHP 4.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d5d475ab9cd4bf98d587c101d4da19bffdf016678df2e3a9926ea4103fb4d789",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-4-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-4-2"
       }
     },
     {
@@ -13167,7 +13167,7 @@
       ],
       "work_passage_id": "chp:5.1",
       "html_path": "works/chp/index.html#p-5-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-5-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-5-1",
       "alignment_revision": "sha256:21db4ba79c64bef7c1fc8cc3af48780f8bdc08fa7d4715635e605fa43b1f0e3d",
       "review_state": {
         "human_reviewed": false,
@@ -13191,9 +13191,9 @@
         "reference": "5.1",
         "display_reference": "CHP 5.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2f67f2326bca6dcbd67d1582c72d072cd0f7440ec18580a8de9be75d3195206f",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-5-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-5-1"
       }
     },
     {
@@ -13437,7 +13437,7 @@
       "notes": [],
       "work_passage_id": "chp:5.2",
       "html_path": "works/chp/index.html#p-5-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-5-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-5-2",
       "alignment_revision": "sha256:fea34518d4e60834dcd61b9db73e8406420f73ebb2817d026104143587ea07b6",
       "review_state": {
         "human_reviewed": false,
@@ -13461,9 +13461,9 @@
         "reference": "5.2",
         "display_reference": "CHP 5.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:63c8407a4529bd611066f8f02395798b588b5f9392f9aed58cef75ecf491d111",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-5-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-5-2"
       }
     },
     {
@@ -13783,7 +13783,7 @@
       "notes": [],
       "work_passage_id": "chp:5.3",
       "html_path": "works/chp/index.html#p-5-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-5-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-5-3",
       "alignment_revision": "sha256:079797c564a760a0331d1bf3471a1a1fc1d6d67c6cd84aa9ad00fad7d6b3bb02",
       "review_state": {
         "human_reviewed": false,
@@ -13807,9 +13807,9 @@
         "reference": "5.3",
         "display_reference": "CHP 5.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8a9fbdf1666bffc04aab26eec669d7e400d27bd19a101194c8f4ee9ea2d864d1",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-5-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-5-3"
       }
     },
     {
@@ -14080,7 +14080,7 @@
       "notes": [],
       "work_passage_id": "chp:5.4",
       "html_path": "works/chp/index.html#p-5-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-5-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-5-4",
       "alignment_revision": "sha256:280f943e09cfa5b219ded32650c61b587c0b5eb8b3212bc24e60150c0e64e08c",
       "review_state": {
         "human_reviewed": false,
@@ -14104,9 +14104,9 @@
         "reference": "5.4",
         "display_reference": "CHP 5.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7f313d6b613ed8eb10e109cd7604afc135327dfa1eb3d363542a393d1f121b9b",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-5-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-5-4"
       }
     },
     {
@@ -14585,7 +14585,7 @@
       ],
       "work_passage_id": "chp:6.1",
       "html_path": "works/chp/index.html#p-6-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-6-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-6-1",
       "alignment_revision": "sha256:a347a3aea070522d966fcd85ed462c4528a8c71375bcbf65be2c423ffa8fa222",
       "review_state": {
         "human_reviewed": false,
@@ -14609,9 +14609,9 @@
         "reference": "6.1",
         "display_reference": "CHP 6.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0e12be8b3db799fdcfa6fb238d4d8599f0b0914692829f4e92c1982a315854e9",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-6-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-6-1"
       }
     },
     {
@@ -14825,7 +14825,7 @@
       ],
       "work_passage_id": "chp:6.2",
       "html_path": "works/chp/index.html#p-6-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-6-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-6-2",
       "alignment_revision": "sha256:c948e1e878222c708fe8d8d4e61db088530f8e8d9efa1afb4fdf8771d075fc73",
       "review_state": {
         "human_reviewed": false,
@@ -14849,9 +14849,9 @@
         "reference": "6.2",
         "display_reference": "CHP 6.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0ec9f98a2e57158b762eb78d50a0df73c7d594970e0137bd45f6f0c8f69944ad",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-6-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-6-2"
       }
     },
     {
@@ -15402,7 +15402,7 @@
       "notes": [],
       "work_passage_id": "chp:6.3",
       "html_path": "works/chp/index.html#p-6-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-6-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-6-3",
       "alignment_revision": "sha256:9a08aad2f50e86f837817bddc9067d8b3134c0e676b3b2207b6b08be2f30e5f3",
       "review_state": {
         "human_reviewed": false,
@@ -15426,9 +15426,9 @@
         "reference": "6.3",
         "display_reference": "CHP 6.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:98b2cddaaaa167c9ea28206f59f8c43873c20775df2443899e59110e118256c0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-6-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-6-3"
       }
     },
     {
@@ -15700,7 +15700,7 @@
       ],
       "work_passage_id": "chp:7.1",
       "html_path": "works/chp/index.html#p-7-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-7-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-7-1",
       "alignment_revision": "sha256:0119e6b2cfc8aefb5e6f18daf2d772bb72e7e3706b27c3e65292b7d95125d531",
       "review_state": {
         "human_reviewed": false,
@@ -15724,9 +15724,9 @@
         "reference": "7.1",
         "display_reference": "CHP 7.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1a69359b5e9dfd711c7d2707deacea167fa43c55f451c721fd538d5d3311d224",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-7-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-7-1"
       }
     },
     {
@@ -16024,7 +16024,7 @@
       "notes": [],
       "work_passage_id": "chp:7.2",
       "html_path": "works/chp/index.html#p-7-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-7-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-7-2",
       "alignment_revision": "sha256:73b3b54c0f72f42f983336b1681ad523d069310322519774cc758969cd36d2b5",
       "review_state": {
         "human_reviewed": false,
@@ -16048,9 +16048,9 @@
         "reference": "7.2",
         "display_reference": "CHP 7.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ded6ab5067fdc69a27f718604bdc42c9b28400942f9ac3d17ea2d000918133be",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-7-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-7-2"
       }
     },
     {
@@ -16411,7 +16411,7 @@
       ],
       "work_passage_id": "chp:7.3",
       "html_path": "works/chp/index.html#p-7-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-7-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-7-3",
       "alignment_revision": "sha256:8369715a0afeef1f390888af7ed3045100aa52ecd8a71d3fb9dfac5f4b977674",
       "review_state": {
         "human_reviewed": false,
@@ -16435,9 +16435,9 @@
         "reference": "7.3",
         "display_reference": "CHP 7.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7d6dd9295cca8b98ff1c2ba3216a058df6b0fd60c2225d7a42fa98647494bfb0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-7-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-7-3"
       }
     },
     {
@@ -16870,7 +16870,7 @@
       "notes": [],
       "work_passage_id": "chp:8.1",
       "html_path": "works/chp/index.html#p-8-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-8-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-8-1",
       "alignment_revision": "sha256:1ed1d5182b9c2207e317d5e7ea043ba22883820bf8bedfc9612a30ed8588f27a",
       "review_state": {
         "human_reviewed": false,
@@ -16894,9 +16894,9 @@
         "reference": "8.1",
         "display_reference": "CHP 8.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:23cc294bcb06d68f4eb5231f72fe977e5dc626bf0881f1c7e1b1d3d63ab2db98",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-8-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-8-1"
       }
     },
     {
@@ -17127,7 +17127,7 @@
       "notes": [],
       "work_passage_id": "chp:8.2",
       "html_path": "works/chp/index.html#p-8-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-8-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-8-2",
       "alignment_revision": "sha256:b0203f15dcb321f060d3a1061e2e5bbb36129355835260530daaa1b6544afc89",
       "review_state": {
         "human_reviewed": false,
@@ -17151,9 +17151,9 @@
         "reference": "8.2",
         "display_reference": "CHP 8.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:773ebb7e31fd810b95755d073fb0991f0ca3a4ccac24909c35e101ee8e883882",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-8-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-8-2"
       }
     },
     {
@@ -18116,7 +18116,7 @@
       ],
       "work_passage_id": "chp:8.3",
       "html_path": "works/chp/index.html#p-8-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-8-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-8-3",
       "alignment_revision": "sha256:e24742639b24404ef1bcb4b5e08ff186f977fa5c28fe4be2fba4cf16ed1a9e9b",
       "review_state": {
         "human_reviewed": false,
@@ -18140,9 +18140,9 @@
         "reference": "8.3",
         "display_reference": "CHP 8.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8836c88688c06b2aa712c989221e24f9b483c43421b41e02b217146df7984fbf",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-8-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-8-3"
       }
     },
     {
@@ -18308,7 +18308,7 @@
       "notes": [],
       "work_passage_id": "chp:9.1",
       "html_path": "works/chp/index.html#p-9-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-1",
       "alignment_revision": "sha256:aaf95ca02ef28a8e9064d5029da2c587d0baa741407c14d83acd39f5ae164a22",
       "review_state": {
         "human_reviewed": false,
@@ -18332,9 +18332,9 @@
         "reference": "9.1",
         "display_reference": "CHP 9.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c2886834eec1eb56d43e452ea232735b3fbb0bae03349465e75b0d708f18c0f7",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-1"
       }
     },
     {
@@ -18665,7 +18665,7 @@
       ],
       "work_passage_id": "chp:9.2",
       "html_path": "works/chp/index.html#p-9-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-2",
       "alignment_revision": "sha256:9380b8b24f54e97ded7ef6a34d36705c04c588d2a0a8467bb199a054ceba1a6c",
       "review_state": {
         "human_reviewed": false,
@@ -18689,9 +18689,9 @@
         "reference": "9.2",
         "display_reference": "CHP 9.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3d58c1b4be9eccab81c99157005ef642c6fd94b267078475ce95dbcfe44c5957",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-2"
       }
     },
     {
@@ -19193,7 +19193,7 @@
       "notes": [],
       "work_passage_id": "chp:9.3",
       "html_path": "works/chp/index.html#p-9-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-3",
       "alignment_revision": "sha256:4223ae00066dba695606dd9e72c9a58ea3d7dce364eae91100ea312a91028d8a",
       "review_state": {
         "human_reviewed": false,
@@ -19217,9 +19217,9 @@
         "reference": "9.3",
         "display_reference": "CHP 9.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b328e5703c6bb3a88dd164e8aceff60628ebc32221ac3bc12ac67ce2ce27fe2f",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-3"
       }
     },
     {
@@ -19591,7 +19591,7 @@
       "notes": [],
       "work_passage_id": "chp:9.4",
       "html_path": "works/chp/index.html#p-9-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-4",
       "alignment_revision": "sha256:4f8f635efbe034cc57ddf2f8cdb5a492501f7202d4e0428a27cc53be07250df0",
       "review_state": {
         "human_reviewed": false,
@@ -19615,9 +19615,9 @@
         "reference": "9.4",
         "display_reference": "CHP 9.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:761fe0a9d24531c2c8b1a5c26172b136070c8488e5b1577977c5acc6b14c27a8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-4"
       }
     },
     {
@@ -20171,7 +20171,7 @@
       ],
       "work_passage_id": "chp:9.5",
       "html_path": "works/chp/index.html#p-9-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-5",
       "alignment_revision": "sha256:1507376536d1cd63dacd1ed19032551aaa1d7be109fd366ef51e8d22f0f20127",
       "review_state": {
         "human_reviewed": false,
@@ -20195,9 +20195,9 @@
         "reference": "9.5",
         "display_reference": "CHP 9.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:dde7b0d2dabac737157fae1694c972048b9acc8a56564efd0f100d40859ebfa8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-5"
       }
     },
     {
@@ -20410,7 +20410,7 @@
       "notes": [],
       "work_passage_id": "chp:9.6",
       "html_path": "works/chp/index.html#p-9-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-6",
       "alignment_revision": "sha256:c14fd14fd31ce21d6d1f6a15811ed89e01e73f30663f330f8aade832517ef18c",
       "review_state": {
         "human_reviewed": false,
@@ -20434,9 +20434,9 @@
         "reference": "9.6",
         "display_reference": "CHP 9.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a7a68b9c7b9a461b56d6a1dc853420e562aa57a01140a016adb51a428297f787",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-6"
       }
     },
     {
@@ -20586,7 +20586,7 @@
       ],
       "work_passage_id": "chp:9.7",
       "html_path": "works/chp/index.html#p-9-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-9-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-9-7",
       "alignment_revision": "sha256:cb3f0388dd88f2e9c8fd5cd7274e423ff2c4bc6b9f33667776b1792644322df0",
       "review_state": {
         "human_reviewed": false,
@@ -20610,9 +20610,9 @@
         "reference": "9.7",
         "display_reference": "CHP 9.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c2daddaeca5f47e9ba665a65dc334d2b4c62b61897ceb3c023456cae0bea527e",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-9-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-9-7"
       }
     },
     {
@@ -20876,7 +20876,7 @@
       ],
       "work_passage_id": "chp:10.1",
       "html_path": "works/chp/index.html#p-10-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-10-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-10-1",
       "alignment_revision": "sha256:5e7f20515bdc35cefb1dcaf1666c49c979be7c47493578cf6a97388c689c97c9",
       "review_state": {
         "human_reviewed": false,
@@ -20900,9 +20900,9 @@
         "reference": "10.1",
         "display_reference": "CHP 10.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:adfe7c584da4cf38b92e941b596850421fc4a14ff63b796e033e4b244dca8b00",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-10-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-10-1"
       }
     },
     {
@@ -21442,7 +21442,7 @@
       ],
       "work_passage_id": "chp:10.2",
       "html_path": "works/chp/index.html#p-10-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-10-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-10-2",
       "alignment_revision": "sha256:d6c7a2625346bb9c8ddbf4a43ec368249a3748e94477da45726c1f18b33cd9d1",
       "review_state": {
         "human_reviewed": false,
@@ -21466,9 +21466,9 @@
         "reference": "10.2",
         "display_reference": "CHP 10.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:be9d7dd8be7d44dd759d46013e59767ab45bc9559625de0d9f2c501300e33b77",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-10-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-10-2"
       }
     },
     {
@@ -22379,7 +22379,7 @@
       ],
       "work_passage_id": "chp:10.3",
       "html_path": "works/chp/index.html#p-10-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-10-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-10-3",
       "alignment_revision": "sha256:fbd61cc89698f87e92643432414b42cf4eff4d03ab9f7c61a4ecf8cf80f58159",
       "review_state": {
         "human_reviewed": false,
@@ -22403,9 +22403,9 @@
         "reference": "10.3",
         "display_reference": "CHP 10.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:35de47a100d6ee0d2953e0d33c38ab2f8c08b75bf29fc41e5b0721692e68ec54",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-10-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-10-3"
       }
     },
     {
@@ -23055,7 +23055,7 @@
       ],
       "work_passage_id": "chp:11.1",
       "html_path": "works/chp/index.html#p-11-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-1",
       "alignment_revision": "sha256:9e1fb763b7f352d450d3875bfac573cb10eb8af9316e6187eaa5adf779415487",
       "review_state": {
         "human_reviewed": false,
@@ -23079,9 +23079,9 @@
         "reference": "11.1",
         "display_reference": "CHP 11.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e144576a811b988a105c4cd86c1ee399051773f900c69b5cf9e352418a694b32",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-1"
       }
     },
     {
@@ -23470,7 +23470,7 @@
       ],
       "work_passage_id": "chp:11.2",
       "html_path": "works/chp/index.html#p-11-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-2",
       "alignment_revision": "sha256:52ee7165d9d8e569d15241b3b2d7e0a65e2f7d6ee62a606f5e69b1d2b210d3c0",
       "review_state": {
         "human_reviewed": false,
@@ -23494,9 +23494,9 @@
         "reference": "11.2",
         "display_reference": "CHP 11.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:77857bb8b6e517292e80e9798fb0286d4633ab6cc2ade67cdfb40411771560a9",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-2"
       }
     },
     {
@@ -24198,7 +24198,7 @@
       ],
       "work_passage_id": "chp:11.3",
       "html_path": "works/chp/index.html#p-11-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-3",
       "alignment_revision": "sha256:fc3e336f32f5a2ead7ac88234c90a525078b3bcd1dc81e62e0da33097ee2489b",
       "review_state": {
         "human_reviewed": false,
@@ -24222,9 +24222,9 @@
         "reference": "11.3",
         "display_reference": "CHP 11.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e5d4c12fa8ad6b05ea8c27c9ddce789ff20fe7d36c069e67728b4adc253ec02f",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-3"
       }
     },
     {
@@ -24441,7 +24441,7 @@
       "notes": [],
       "work_passage_id": "chp:11.4",
       "html_path": "works/chp/index.html#p-11-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-4",
       "alignment_revision": "sha256:8f6bcb71947ffe2addcbbb181b4a1386d8ada1fb22016376600f8a0cd9e5955d",
       "review_state": {
         "human_reviewed": false,
@@ -24465,9 +24465,9 @@
         "reference": "11.4",
         "display_reference": "CHP 11.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:246dd31bc43878408a387600821da3ca8139da92554cb859360d6f21cd2cf689",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-4"
       }
     },
     {
@@ -25267,7 +25267,7 @@
       ],
       "work_passage_id": "chp:11.5",
       "html_path": "works/chp/index.html#p-11-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-5",
       "alignment_revision": "sha256:dd0ff9be782e7366775fb369f65c8d8bf21b88346591c15d0d0d9b2cb643d47f",
       "review_state": {
         "human_reviewed": false,
@@ -25291,9 +25291,9 @@
         "reference": "11.5",
         "display_reference": "CHP 11.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6719cafbdf754d2bbbec33595c112eadfe8950442a90f411d73c330f5048abf2",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-5"
       }
     },
     {
@@ -25557,7 +25557,7 @@
       ],
       "work_passage_id": "chp:11.6",
       "html_path": "works/chp/index.html#p-11-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-6",
       "alignment_revision": "sha256:9fd9e8f96bf863bb354286aef8cb6a053772bf0563fd9f956ffab718787a6eff",
       "review_state": {
         "human_reviewed": false,
@@ -25581,9 +25581,9 @@
         "reference": "11.6",
         "display_reference": "CHP 11.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9cd9b96a00da604e62fda7962776306ddee7d2ffaee61d506277ddbb3e7a7988",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-6"
       }
     },
     {
@@ -26303,7 +26303,7 @@
       "notes": [],
       "work_passage_id": "chp:11.7",
       "html_path": "works/chp/index.html#p-11-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-7",
       "alignment_revision": "sha256:2240bfe2e4d198b7b841297ce121a7c899ab99657e9d13ec5c387659e1518cf2",
       "review_state": {
         "human_reviewed": false,
@@ -26327,9 +26327,9 @@
         "reference": "11.7",
         "display_reference": "CHP 11.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:db114d7cfcd49b9e70055feb173647a1116df0e003d4ad985e16887a69c48342",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-7"
       }
     },
     {
@@ -26573,7 +26573,7 @@
       ],
       "work_passage_id": "chp:11.8",
       "html_path": "works/chp/index.html#p-11-8",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-11-8",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-11-8",
       "alignment_revision": "sha256:6a560262578b7c422737d65b8bc5bca3694568521438a9f41bdc7f3993bd3863",
       "review_state": {
         "human_reviewed": false,
@@ -26597,9 +26597,9 @@
         "reference": "11.8",
         "display_reference": "CHP 11.8",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e6918083e2c9104a9e9e822080627058e4b0ddb280cd8524f6c62cbd989563a4",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-11-8"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-11-8"
       }
     },
     {
@@ -26910,7 +26910,7 @@
       "notes": [],
       "work_passage_id": "chp:12.1",
       "html_path": "works/chp/index.html#p-12-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-12-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-12-1",
       "alignment_revision": "sha256:f6d169676e07a5e7953a9616b874c0e41215f771a8dc12a8f6ae212d27d8f4a0",
       "review_state": {
         "human_reviewed": false,
@@ -26934,9 +26934,9 @@
         "reference": "12.1",
         "display_reference": "CHP 12.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:019ea01e6b8341f00ddcfe06a26fdc0ef9d943c1a64959fd30e8ff24acecd1d7",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-12-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-12-1"
       }
     },
     {
@@ -27075,7 +27075,7 @@
       "notes": [],
       "work_passage_id": "chp:12.2",
       "html_path": "works/chp/index.html#p-12-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-12-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-12-2",
       "alignment_revision": "sha256:159ea853006dd05602aa6b298025d49e37bcf54ef196f62bbe9bddf4e8cbfe8f",
       "review_state": {
         "human_reviewed": false,
@@ -27099,9 +27099,9 @@
         "reference": "12.2",
         "display_reference": "CHP 12.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8a5c6c7a6587f99691366a35dee2cbceb4f62a04b29ed5492b00687769daee80",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-12-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-12-2"
       }
     },
     {
@@ -27608,7 +27608,7 @@
       ],
       "work_passage_id": "chp:12.3",
       "html_path": "works/chp/index.html#p-12-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-12-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-12-3",
       "alignment_revision": "sha256:6e2b0aee5d051b5c202ce9dd952f125facccae59b7d33fdf22fe18ddb6327adf",
       "review_state": {
         "human_reviewed": false,
@@ -27632,9 +27632,9 @@
         "reference": "12.3",
         "display_reference": "CHP 12.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:113f97dbf0b4e2e26c14eee0bb909e626713e84d8c2ce4b89370b79f9e57129c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-12-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-12-3"
       }
     },
     {
@@ -27972,7 +27972,7 @@
       ],
       "work_passage_id": "chp:12.4",
       "html_path": "works/chp/index.html#p-12-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-12-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-12-4",
       "alignment_revision": "sha256:70786a3aba1641b1221f8e9dfb52dcfa80444dc07ed04c1f43f56d3a8b23dc91",
       "review_state": {
         "human_reviewed": false,
@@ -27996,9 +27996,9 @@
         "reference": "12.4",
         "display_reference": "CHP 12.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c7167eea9a304247b61bcaa1351c2f6efc1e78a13ec5d523e629fd27c68f34fb",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-12-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-12-4"
       }
     },
     {
@@ -28360,7 +28360,7 @@
       "notes": [],
       "work_passage_id": "chp:13.1",
       "html_path": "works/chp/index.html#p-13-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-13-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-13-1",
       "alignment_revision": "sha256:0f9db4b3818c1b4ee56767c2e528d61b14a65272ab901f9e082e2d6e4d7abfe7",
       "review_state": {
         "human_reviewed": false,
@@ -28384,9 +28384,9 @@
         "reference": "13.1",
         "display_reference": "CHP 13.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7600dce89d17b15e1cc4c974a49701c555f527597f049a27b19f172ffff7bff3",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-13-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-13-1"
       }
     },
     {
@@ -28710,7 +28710,7 @@
       "notes": [],
       "work_passage_id": "chp:13.2",
       "html_path": "works/chp/index.html#p-13-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-13-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-13-2",
       "alignment_revision": "sha256:e4faeee2adf16a0763d24e928e2e20cf9d58d08c497e32a920ca506b1ea98785",
       "review_state": {
         "human_reviewed": false,
@@ -28734,9 +28734,9 @@
         "reference": "13.2",
         "display_reference": "CHP 13.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b9183d458fbfbd34ee183f3b0bbfa9538e1498e19d0d2666523186a198f1de83",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-13-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-13-2"
       }
     },
     {
@@ -29079,7 +29079,7 @@
       "notes": [],
       "work_passage_id": "chp:13.3",
       "html_path": "works/chp/index.html#p-13-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-13-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-13-3",
       "alignment_revision": "sha256:bac8845cbeda5f1c9b5b0108fc1a1d581df6bce3017726f726582cd20221faef",
       "review_state": {
         "human_reviewed": false,
@@ -29103,9 +29103,9 @@
         "reference": "13.3",
         "display_reference": "CHP 13.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:92f70470f26a9c6562fce8fcbfbe6c0ff1cca8e4b32c2dbd377500f9fa3c178e",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-13-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-13-3"
       }
     },
     {
@@ -29448,7 +29448,7 @@
       ],
       "work_passage_id": "chp:13.4",
       "html_path": "works/chp/index.html#p-13-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-13-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-13-4",
       "alignment_revision": "sha256:013d8950168be4a6793ac5d3e5b8d90c06e805dc6f7e8fcf2a21d98bd6eb1a6d",
       "review_state": {
         "human_reviewed": false,
@@ -29472,9 +29472,9 @@
         "reference": "13.4",
         "display_reference": "CHP 13.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:41dd5aa395602d4b644c464560b2e0fad77a1af4c3ec480d5e9fdbab891c8ec8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-13-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-13-4"
       }
     },
     {
@@ -29862,7 +29862,7 @@
       ],
       "work_passage_id": "chp:13.5",
       "html_path": "works/chp/index.html#p-13-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-13-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-13-5",
       "alignment_revision": "sha256:61be6c4be9a78705ad2af5ddb4dd5a3bc710276bb981e8328d16d3f5609cf9e5",
       "review_state": {
         "human_reviewed": false,
@@ -29886,9 +29886,9 @@
         "reference": "13.5",
         "display_reference": "CHP 13.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8d3b99cda78f8a0058b1bda3a87b7f838eae5f6981cb6b03ce4b549b3ccad485",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-13-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-13-5"
       }
     },
     {
@@ -30675,7 +30675,7 @@
       ],
       "work_passage_id": "chp:14.1",
       "html_path": "works/chp/index.html#p-14-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-14-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-14-1",
       "alignment_revision": "sha256:5f0d5df05e30b92798f449383d631c392d1f2ab308340577407c3e802b9536f2",
       "review_state": {
         "human_reviewed": false,
@@ -30699,9 +30699,9 @@
         "reference": "14.1",
         "display_reference": "CHP 14.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6ac9064295cec85776c0908e90f29e0ed26caf059c68d6fdc997e300ae5de352",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-14-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-14-1"
       }
     },
     {
@@ -31225,7 +31225,7 @@
       "notes": [],
       "work_passage_id": "chp:14.2",
       "html_path": "works/chp/index.html#p-14-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-14-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-14-2",
       "alignment_revision": "sha256:843b8a736044d0e3edb34229f9ee86a874ef18406032c1ebb565664c1b73d718",
       "review_state": {
         "human_reviewed": false,
@@ -31249,9 +31249,9 @@
         "reference": "14.2",
         "display_reference": "CHP 14.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ff89c53043e642a3555bf931acccd1d8884214a4764a75d2ce46c6443d619624",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-14-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-14-2"
       }
     },
     {
@@ -31921,7 +31921,7 @@
       ],
       "work_passage_id": "chp:14.3",
       "html_path": "works/chp/index.html#p-14-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-14-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-14-3",
       "alignment_revision": "sha256:80d3238f693b18b83f754efe4204f5cd8996620779220e12ad1bb47736436cbb",
       "review_state": {
         "human_reviewed": false,
@@ -31945,9 +31945,9 @@
         "reference": "14.3",
         "display_reference": "CHP 14.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0c298d271281a40aeb6b2f5a58aacfcca87817e0ad7452e50ec3e03c5c18f381",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-14-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-14-3"
       }
     },
     {
@@ -32449,7 +32449,7 @@
       "notes": [],
       "work_passage_id": "chp:14.4",
       "html_path": "works/chp/index.html#p-14-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-14-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-14-4",
       "alignment_revision": "sha256:6757c70eb1694c7fbbefaf089f46d5eec34ffb43c70cae3a66be3476bcef023c",
       "review_state": {
         "human_reviewed": false,
@@ -32473,9 +32473,9 @@
         "reference": "14.4",
         "display_reference": "CHP 14.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c8c2372791e8ea5cb204874bb775fba3ef2634978f0ca455bfb7408f80d9e3f0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-14-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-14-4"
       }
     },
     {
@@ -33007,7 +33007,7 @@
       ],
       "work_passage_id": "chp:14.5",
       "html_path": "works/chp/index.html#p-14-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-14-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-14-5",
       "alignment_revision": "sha256:17b4d63278f1c33d5081a28c46a55f5267c450c61d6d9ed313af5a9f3e286969",
       "review_state": {
         "human_reviewed": false,
@@ -33031,9 +33031,9 @@
         "reference": "14.5",
         "display_reference": "CHP 14.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:129f902f38cb5f55b5a801149f744b53230814cb8c34a82719a03edf91bdb8d3",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-14-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-14-5"
       }
     },
     {
@@ -33535,7 +33535,7 @@
       "notes": [],
       "work_passage_id": "chp:15.1",
       "html_path": "works/chp/index.html#p-15-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-15-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-15-1",
       "alignment_revision": "sha256:7a535b318b3ef2b46113971d0b88212b9a829f706526424f46b1e36f775853da",
       "review_state": {
         "human_reviewed": false,
@@ -33559,9 +33559,9 @@
         "reference": "15.1",
         "display_reference": "CHP 15.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d57ed0f2c0f1dd2093c4b11d38e8aa0ff655b497557f8429bd9df4273676a3ea",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-15-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-15-1"
       }
     },
     {
@@ -33814,7 +33814,7 @@
       "notes": [],
       "work_passage_id": "chp:15.2",
       "html_path": "works/chp/index.html#p-15-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-15-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-15-2",
       "alignment_revision": "sha256:b23be2a75435b50965e5f817b8300585c883c2a58e338b96d9dc2295489f39b3",
       "review_state": {
         "human_reviewed": false,
@@ -33838,9 +33838,9 @@
         "reference": "15.2",
         "display_reference": "CHP 15.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3aa2a586ea04104380b91706eb52d2aa51f60817d75c4143e3644f266c13ec75",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-15-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-15-2"
       }
     },
     {
@@ -34498,7 +34498,7 @@
       "notes": [],
       "work_passage_id": "chp:15.3",
       "html_path": "works/chp/index.html#p-15-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-15-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-15-3",
       "alignment_revision": "sha256:9f576847d639415de08375b725f6916163d038ccdf6be4701124fcb4f1996205",
       "review_state": {
         "human_reviewed": false,
@@ -34522,9 +34522,9 @@
         "reference": "15.3",
         "display_reference": "CHP 15.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:821049768bdb9bb9cfe056c423754c00bdaf95af99fb9018e674555f0b0528d8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-15-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-15-3"
       }
     },
     {
@@ -34892,7 +34892,7 @@
       "notes": [],
       "work_passage_id": "chp:15.4",
       "html_path": "works/chp/index.html#p-15-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-15-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-15-4",
       "alignment_revision": "sha256:4f74fd586eca5453392918963bed07adc6c4aa9f22df1cde4bc8eba316010dae",
       "review_state": {
         "human_reviewed": false,
@@ -34916,9 +34916,9 @@
         "reference": "15.4",
         "display_reference": "CHP 15.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d1dfdef8fdc8c1a2b36e43c24e6de2ee836f38cf894eee9d04c8336d94186f50",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-15-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-15-4"
       }
     },
     {
@@ -35221,7 +35221,7 @@
       ],
       "work_passage_id": "chp:16.1",
       "html_path": "works/chp/index.html#p-16-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-1",
       "alignment_revision": "sha256:b13ee86fdedac8bd810956a39bb9715b68ec41734a98b0e6d314510da8da80f6",
       "review_state": {
         "human_reviewed": false,
@@ -35245,9 +35245,9 @@
         "reference": "16.1",
         "display_reference": "CHP 16.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5de208bb142afb5b891a66d1d3c4c88bb05253dd699e7bd7483961f53e458e3c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-1"
       }
     },
     {
@@ -35677,7 +35677,7 @@
       "notes": [],
       "work_passage_id": "chp:16.2",
       "html_path": "works/chp/index.html#p-16-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-2",
       "alignment_revision": "sha256:e76916063c6001965a073e7cb698b2803b6a7146e20c65f047449116f5cdf104",
       "review_state": {
         "human_reviewed": false,
@@ -35701,9 +35701,9 @@
         "reference": "16.2",
         "display_reference": "CHP 16.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ead3ca43aa47340fdff4f4c9640a8131006373ef24135b5887f5efe47e9ed2fb",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-2"
       }
     },
     {
@@ -35902,7 +35902,7 @@
       "notes": [],
       "work_passage_id": "chp:16.3",
       "html_path": "works/chp/index.html#p-16-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-3",
       "alignment_revision": "sha256:f71e1249f02cbe80e742b4bf7d39aac76a84f31df88ef67cafd99c2c1716aa3f",
       "review_state": {
         "human_reviewed": false,
@@ -35926,9 +35926,9 @@
         "reference": "16.3",
         "display_reference": "CHP 16.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1e267bfea53d770bbf81fbac04908cf65803de2daf95a4b3ca252a5778eb8b79",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-3"
       }
     },
     {
@@ -36628,7 +36628,7 @@
       ],
       "work_passage_id": "chp:16.4",
       "html_path": "works/chp/index.html#p-16-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-4",
       "alignment_revision": "sha256:bdad3a19413c2c8c4059f536a48386417c2ec562fe0ca326c7b0a960a78faec1",
       "review_state": {
         "human_reviewed": false,
@@ -36652,9 +36652,9 @@
         "reference": "16.4",
         "display_reference": "CHP 16.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2547e1fda28c61ae4913cace909a423d7a2ebce35bd812645d0e546b0653418c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-4"
       }
     },
     {
@@ -37179,7 +37179,7 @@
       "notes": [],
       "work_passage_id": "chp:16.5",
       "html_path": "works/chp/index.html#p-16-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-5",
       "alignment_revision": "sha256:63441614206dc333e9d70c3eb4a95fcec7361c92a031d2167f2aee8bb736c160",
       "review_state": {
         "human_reviewed": false,
@@ -37203,9 +37203,9 @@
         "reference": "16.5",
         "display_reference": "CHP 16.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:95a2606cb1aea33180afad00b08595895c737ad4d6fa40dfdfea41dd546ad11a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-5"
       }
     },
     {
@@ -37538,7 +37538,7 @@
       "notes": [],
       "work_passage_id": "chp:16.6",
       "html_path": "works/chp/index.html#p-16-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-6",
       "alignment_revision": "sha256:2b8acd2cce65a357d881cfe0a5179a803e31f7ba2a03514c3ddfa1f46405ab9f",
       "review_state": {
         "human_reviewed": false,
@@ -37562,9 +37562,9 @@
         "reference": "16.6",
         "display_reference": "CHP 16.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5aa2d477053025843904804562e46e4d6f8caaec640ab0e19742f6378bb0bfdd",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-6"
       }
     },
     {
@@ -38022,7 +38022,7 @@
       ],
       "work_passage_id": "chp:16.7",
       "html_path": "works/chp/index.html#p-16-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-7",
       "alignment_revision": "sha256:81bd9237eec3094e8ed2e641f181cb77cea890f745feba47e122e16a22fa99ee",
       "review_state": {
         "human_reviewed": false,
@@ -38046,9 +38046,9 @@
         "reference": "16.7",
         "display_reference": "CHP 16.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:749e80774a8f619549ff862479f09de0bd0ddb167ffd2620bd5cb78320235e92",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-7"
       }
     },
     {
@@ -38299,7 +38299,7 @@
       ],
       "work_passage_id": "chp:16.8",
       "html_path": "works/chp/index.html#p-16-8",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-16-8",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-16-8",
       "alignment_revision": "sha256:29efacc74ff121c322ddf28ad253dc4d3aa5fea725d6525d9506a8ea79e57480",
       "review_state": {
         "human_reviewed": false,
@@ -38323,9 +38323,9 @@
         "reference": "16.8",
         "display_reference": "CHP 16.8",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:13f30fbeefa9a901bf6516528de831754b03113551c3e7036cd13d7869b7f937",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-16-8"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-16-8"
       }
     },
     {
@@ -38682,7 +38682,7 @@
       ],
       "work_passage_id": "chp:17.1",
       "html_path": "works/chp/index.html#p-17-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-1",
       "alignment_revision": "sha256:0aae84dee4012de0c4cc5dc6390fbaf357c2c03d0ef28484e7dc9d2b5b901973",
       "review_state": {
         "human_reviewed": false,
@@ -38706,9 +38706,9 @@
         "reference": "17.1",
         "display_reference": "CHP 17.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:15b67f04c3359d333e328d7111421b7593f7400a0af9d14749748558ee0a1460",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-1"
       }
     },
     {
@@ -38955,7 +38955,7 @@
       ],
       "work_passage_id": "chp:17.2",
       "html_path": "works/chp/index.html#p-17-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-2",
       "alignment_revision": "sha256:5caa8c12cf6dc84b03447f7212e052d802ad4713fb8881f2c38a5175aa49ab6a",
       "review_state": {
         "human_reviewed": false,
@@ -38979,9 +38979,9 @@
         "reference": "17.2",
         "display_reference": "CHP 17.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:95c69b53e11ee23752d9456a4e92620f0528bfb124e2dd424421ff5b5bd2cce0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-2"
       }
     },
     {
@@ -39182,7 +39182,7 @@
       "notes": [],
       "work_passage_id": "chp:17.3",
       "html_path": "works/chp/index.html#p-17-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-3",
       "alignment_revision": "sha256:bfd0a07a6c4a6f8a99e60e5dc647dfbabdd1a277722f05725c649d6b27fa4069",
       "review_state": {
         "human_reviewed": false,
@@ -39206,9 +39206,9 @@
         "reference": "17.3",
         "display_reference": "CHP 17.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9f010b4a25e4d2f9ee598b2966b31b0f850aee8697f58c46c67969d3e59c92f2",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-3"
       }
     },
     {
@@ -39515,7 +39515,7 @@
       "notes": [],
       "work_passage_id": "chp:17.4",
       "html_path": "works/chp/index.html#p-17-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-4",
       "alignment_revision": "sha256:0704108c0cd99ebf29798c1ad067a90ab311d788223a58163d49756ed605010e",
       "review_state": {
         "human_reviewed": false,
@@ -39539,9 +39539,9 @@
         "reference": "17.4",
         "display_reference": "CHP 17.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:473fa18c61cca5fdaddab5f40f7d09999c4040fd3ec390145db45d212621eec3",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-4"
       }
     },
     {
@@ -39862,7 +39862,7 @@
       ],
       "work_passage_id": "chp:17.5",
       "html_path": "works/chp/index.html#p-17-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-5",
       "alignment_revision": "sha256:a04414e68126a759548f359ee1593857f7ebefdf4afe5eef8d87c8a42a3c85e6",
       "review_state": {
         "human_reviewed": false,
@@ -39886,9 +39886,9 @@
         "reference": "17.5",
         "display_reference": "CHP 17.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ee7b31fd68b0054e1c2dbbd4dbe476468b745a0065b1f358a16fd5e910205d39",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-5"
       }
     },
     {
@@ -40621,7 +40621,7 @@
       ],
       "work_passage_id": "chp:17.6",
       "html_path": "works/chp/index.html#p-17-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-6",
       "alignment_revision": "sha256:372af584d43403b64ed9aef8193cc4873d29431070c954614e56852fb3995431",
       "review_state": {
         "human_reviewed": false,
@@ -40645,9 +40645,9 @@
         "reference": "17.6",
         "display_reference": "CHP 17.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:54120b3c1cea1e97725c5b390c1414dca66b7ca0339a8ecf6627b2dbdd391b86",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-6"
       }
     },
     {
@@ -40863,7 +40863,7 @@
       ],
       "work_passage_id": "chp:17.7",
       "html_path": "works/chp/index.html#p-17-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-7",
       "alignment_revision": "sha256:d68d7c2bf3eec9df302cf70b832f1597bac31b43903a42d90de7ff3e07e15561",
       "review_state": {
         "human_reviewed": false,
@@ -40887,9 +40887,9 @@
         "reference": "17.7",
         "display_reference": "CHP 17.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d21aa2ee0c3989a76d0f689a8a70b5a487f3a26e2b1bcbe6bdb1efed165f904a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-7"
       }
     },
     {
@@ -41374,7 +41374,7 @@
       ],
       "work_passage_id": "chp:17.8",
       "html_path": "works/chp/index.html#p-17-8",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-8",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-8",
       "alignment_revision": "sha256:fba7fdc6940b5098a2aa47ed39f1219e48052487007893c92095590e6805b866",
       "review_state": {
         "human_reviewed": false,
@@ -41398,9 +41398,9 @@
         "reference": "17.8",
         "display_reference": "CHP 17.8",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a3ffac429852a44073b66f02def9b72ae094eb0e79a1b01e23704cda5da6708a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-8"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-8"
       }
     },
     {
@@ -42159,7 +42159,7 @@
       "notes": [],
       "work_passage_id": "chp:17.9",
       "html_path": "works/chp/index.html#p-17-9",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-9",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-9",
       "alignment_revision": "sha256:fe31bbc5b18abcf48e17ddc5c7a3b9e01c7e178b7ba39e985aecdf565b731910",
       "review_state": {
         "human_reviewed": false,
@@ -42183,9 +42183,9 @@
         "reference": "17.9",
         "display_reference": "CHP 17.9",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9d76885139c1592df7007d2bcc37dc8017ff489d46ad29c5dfa264ca45fe3dbb",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-9"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-9"
       }
     },
     {
@@ -42355,7 +42355,7 @@
       "notes": [],
       "work_passage_id": "chp:17.10",
       "html_path": "works/chp/index.html#p-17-10",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-10",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-10",
       "alignment_revision": "sha256:7dd9c08adf16e565d65af2a25bb04bf808760d3527bde4025f95d99c29667996",
       "review_state": {
         "human_reviewed": false,
@@ -42379,9 +42379,9 @@
         "reference": "17.10",
         "display_reference": "CHP 17.10",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:50234ee8ec87420f8a854d9dc73f02f8f512f6ff6e0fab81f66edeada5a1df7a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-10"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-10"
       }
     },
     {
@@ -42997,7 +42997,7 @@
       "notes": [],
       "work_passage_id": "chp:17.11",
       "html_path": "works/chp/index.html#p-17-11",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-11",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-11",
       "alignment_revision": "sha256:19c376409d7a9c4001dd834b3e2159ff2b0ab756e4f2fa53225298838c49723d",
       "review_state": {
         "human_reviewed": false,
@@ -43021,9 +43021,9 @@
         "reference": "17.11",
         "display_reference": "CHP 17.11",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:04d913d2019f4f0c89c0d1019ad88f2d07d33a1e22dd6d749586f316fce021a1",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-11"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-11"
       }
     },
     {
@@ -43589,7 +43589,7 @@
       "notes": [],
       "work_passage_id": "chp:17.12",
       "html_path": "works/chp/index.html#p-17-12",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-12",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-12",
       "alignment_revision": "sha256:dc930d9ad4a7838dabe79eb9ec2c5c891a2a9b26da08c1dd9a69e5b5f3583fc3",
       "review_state": {
         "human_reviewed": false,
@@ -43613,9 +43613,9 @@
         "reference": "17.12",
         "display_reference": "CHP 17.12",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6bf6556cfb07b941a9a2b7bf51da7f2f3b8157b8ee93deb38bdd6d51e2fef44a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-12"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-12"
       }
     },
     {
@@ -43986,7 +43986,7 @@
       "notes": [],
       "work_passage_id": "chp:17.13",
       "html_path": "works/chp/index.html#p-17-13",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-17-13",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-17-13",
       "alignment_revision": "sha256:af7cd366c428ead316310e42e6e19d892813d1ef922f9d1774ce8cb92049a988",
       "review_state": {
         "human_reviewed": false,
@@ -44010,9 +44010,9 @@
         "reference": "17.13",
         "display_reference": "CHP 17.13",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:702044ede3551739011c09b5f0fa49a4b6a5c01bcd43c43c21e149731a4ff9f8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-17-13"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-17-13"
       }
     },
     {
@@ -44864,7 +44864,7 @@
       "notes": [],
       "work_passage_id": "chp:18.1",
       "html_path": "works/chp/index.html#p-18-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-1",
       "alignment_revision": "sha256:3b42a3882154ea4d7fcd736f7754ae7334e69368fd114e39f4f969c0f5e1fd6a",
       "review_state": {
         "human_reviewed": false,
@@ -44888,9 +44888,9 @@
         "reference": "18.1",
         "display_reference": "CHP 18.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7946a1b05b5bd46f7169809b7477d0916da63a65ea3991743bb7af6f087853ad",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-1"
       }
     },
     {
@@ -45325,7 +45325,7 @@
       "notes": [],
       "work_passage_id": "chp:18.2",
       "html_path": "works/chp/index.html#p-18-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-2",
       "alignment_revision": "sha256:54d20b060f53d955c83e6a48311416d016480a18ff7c43fb5b67744d3bcbbab4",
       "review_state": {
         "human_reviewed": false,
@@ -45349,9 +45349,9 @@
         "reference": "18.2",
         "display_reference": "CHP 18.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6784a5f86f29020942d0f8747c0b8695d0f2c9484e29a6a584e36c8a08450982",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-2"
       }
     },
     {
@@ -45766,7 +45766,7 @@
       ],
       "work_passage_id": "chp:18.3",
       "html_path": "works/chp/index.html#p-18-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-3",
       "alignment_revision": "sha256:593f734790e0ab97c86ed7435a1f6d99568fdf71fee6f3ae7afb16e51c0c03c4",
       "review_state": {
         "human_reviewed": false,
@@ -45790,9 +45790,9 @@
         "reference": "18.3",
         "display_reference": "CHP 18.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a44517566338cea3a687c776e130618d8d85be275597227c0640d5ff6938c27c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-3"
       }
     },
     {
@@ -45986,7 +45986,7 @@
       ],
       "work_passage_id": "chp:18.4",
       "html_path": "works/chp/index.html#p-18-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-4",
       "alignment_revision": "sha256:99d033fc144bb0ddcd23c5cb58f97f0a4fbc6741a57458aa93d7fa8a8cee17e1",
       "review_state": {
         "human_reviewed": false,
@@ -46010,9 +46010,9 @@
         "reference": "18.4",
         "display_reference": "CHP 18.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d4d02a72918853bcfddb629a580fad48ad7a58fcb54c4e0d645ded7071f46593",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-4"
       }
     },
     {
@@ -46306,7 +46306,7 @@
       ],
       "work_passage_id": "chp:18.5",
       "html_path": "works/chp/index.html#p-18-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-5",
       "alignment_revision": "sha256:672af59ac4fb901b9de7c74541d5d85859fa5ea8118ea5e5186cc8744e2401b3",
       "review_state": {
         "human_reviewed": false,
@@ -46330,9 +46330,9 @@
         "reference": "18.5",
         "display_reference": "CHP 18.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6bc3f9a6b9374371d3c5ef93c3c909dc11668a437113f7fa98670f3794b7c7bd",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-5"
       }
     },
     {
@@ -46955,7 +46955,7 @@
       ],
       "work_passage_id": "chp:18.6",
       "html_path": "works/chp/index.html#p-18-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-6",
       "alignment_revision": "sha256:f59014146571e5e35b4cc086b879497098a9f2422b106b97d26ea05e15390253",
       "review_state": {
         "human_reviewed": false,
@@ -46979,9 +46979,9 @@
         "reference": "18.6",
         "display_reference": "CHP 18.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:21cbf909cf5d01d96bc022806d1abfa69c85893fb2f65fc339afba2e67eec779",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-6"
       }
     },
     {
@@ -47759,7 +47759,7 @@
       ],
       "work_passage_id": "chp:18.7",
       "html_path": "works/chp/index.html#p-18-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-7",
       "alignment_revision": "sha256:ac86fdda3ec2564a06b30fcbfea478d04c3a2b8bf95018682423b817cb59c30c",
       "review_state": {
         "human_reviewed": false,
@@ -47783,9 +47783,9 @@
         "reference": "18.7",
         "display_reference": "CHP 18.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b66a57bb385369b511601c1ad49631c9d7cd9fb7a5b4c3a963da2f63ff28a0d9",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-7"
       }
     },
     {
@@ -48724,7 +48724,7 @@
       ],
       "work_passage_id": "chp:18.8",
       "html_path": "works/chp/index.html#p-18-8",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-8",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-8",
       "alignment_revision": "sha256:3d1817fd810b30c96d1efd4ea870911f5ece151eb8b64c89cb179aaf526b3072",
       "review_state": {
         "human_reviewed": false,
@@ -48748,9 +48748,9 @@
         "reference": "18.8",
         "display_reference": "CHP 18.8",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9c914fd432f2bfec3132f58223e491c7d29e1595119c6bb0222b71983894463d",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-8"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-8"
       }
     },
     {
@@ -49439,7 +49439,7 @@
       ],
       "work_passage_id": "chp:18.9",
       "html_path": "works/chp/index.html#p-18-9",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-9",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-9",
       "alignment_revision": "sha256:a1256fa22a8245ff09c1eb2bb63c2e2e057466c3f89cb804bc93dc2bb9ca1114",
       "review_state": {
         "human_reviewed": false,
@@ -49463,9 +49463,9 @@
         "reference": "18.9",
         "display_reference": "CHP 18.9",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7459103f0305e04aad0ee70c96f5847c0c0c444ce1971c85609e228b910736dc",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-9"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-9"
       }
     },
     {
@@ -50314,7 +50314,7 @@
       ],
       "work_passage_id": "chp:18.10",
       "html_path": "works/chp/index.html#p-18-10",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-10",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-10",
       "alignment_revision": "sha256:d9f2b869da082a1ee46d1b10237f131baec21e854a7a33403b53a17785d22d9e",
       "review_state": {
         "human_reviewed": false,
@@ -50338,9 +50338,9 @@
         "reference": "18.10",
         "display_reference": "CHP 18.10",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:272786ce0a92c442b68d5856784ab112ac10cd2464a6ed9e8fd0e28881a86f3b",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-10"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-10"
       }
     },
     {
@@ -50751,7 +50751,7 @@
       "notes": [],
       "work_passage_id": "chp:18.11",
       "html_path": "works/chp/index.html#p-18-11",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-11",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-11",
       "alignment_revision": "sha256:3619ac942f18d41c87ec617203fe8ae6637957be366df6235879d00a10d3d342",
       "review_state": {
         "human_reviewed": false,
@@ -50775,9 +50775,9 @@
         "reference": "18.11",
         "display_reference": "CHP 18.11",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6674250dc6c761ba5833b8f614af4e8ec4d454e2b1f24c99c85e91a1066ea4b0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-11"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-11"
       }
     },
     {
@@ -50951,7 +50951,7 @@
       "notes": [],
       "work_passage_id": "chp:18.12",
       "html_path": "works/chp/index.html#p-18-12",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-18-12",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-18-12",
       "alignment_revision": "sha256:afeefbc43430bc660661db5ffc348984976e1e2463ff75e388fe09715ca4254a",
       "review_state": {
         "human_reviewed": false,
@@ -50975,9 +50975,9 @@
         "reference": "18.12",
         "display_reference": "CHP 18.12",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1a311a1a0ee77cd1781409bc15a45e5aab018139318b7de07ad630d5c533628b",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-18-12"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-18-12"
       }
     },
     {
@@ -51284,7 +51284,7 @@
       "notes": [],
       "work_passage_id": "chp:19.1",
       "html_path": "works/chp/index.html#p-19-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-1",
       "alignment_revision": "sha256:30b5b338253ddccaff4691dc9f65984d7d9b57c69514a9ee8ca89f15307e15b1",
       "review_state": {
         "human_reviewed": false,
@@ -51308,9 +51308,9 @@
         "reference": "19.1",
         "display_reference": "CHP 19.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f11be1b7b88e110d99c1cbf98f333bf0d0c74f0eb7388f37dd86afc6273dbc93",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-1"
       }
     },
     {
@@ -52005,7 +52005,7 @@
       "notes": [],
       "work_passage_id": "chp:19.2",
       "html_path": "works/chp/index.html#p-19-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-2",
       "alignment_revision": "sha256:69cb72c17abc89f212ecd21bc1560cb154fa232f258180bf54fc0eda84b8603b",
       "review_state": {
         "human_reviewed": false,
@@ -52029,9 +52029,9 @@
         "reference": "19.2",
         "display_reference": "CHP 19.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:be08c85c8343a85627c25b155e651b74e8c63a409877d8570231ee34ac1b9ab4",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-2"
       }
     },
     {
@@ -52225,7 +52225,7 @@
       ],
       "work_passage_id": "chp:19.3",
       "html_path": "works/chp/index.html#p-19-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-3",
       "alignment_revision": "sha256:e98c739213c7d1903931f7ac9c57a266587298c27fcceaedd4024676389e3d2d",
       "review_state": {
         "human_reviewed": false,
@@ -52249,9 +52249,9 @@
         "reference": "19.3",
         "display_reference": "CHP 19.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:09eb1f65c8ca6969c11018c7490666d4b1726d4be5bb53f566b7f35bfc8327e6",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-3"
       }
     },
     {
@@ -52518,7 +52518,7 @@
       "notes": [],
       "work_passage_id": "chp:19.4",
       "html_path": "works/chp/index.html#p-19-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-4",
       "alignment_revision": "sha256:2b46fa45a19cc60d4f855876bc2228df66b929b7d57606076a1a339a37c305e8",
       "review_state": {
         "human_reviewed": false,
@@ -52542,9 +52542,9 @@
         "reference": "19.4",
         "display_reference": "CHP 19.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:af9ce5abaae5327035d63300b3f363ae33714bcc603b53afd51cf492e89d32d0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-4"
       }
     },
     {
@@ -52771,7 +52771,7 @@
       "notes": [],
       "work_passage_id": "chp:19.5",
       "html_path": "works/chp/index.html#p-19-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-5",
       "alignment_revision": "sha256:1a3bb6f945bf59f3f8eb561e138334b5242889c46a3bb57a582cb69483341f73",
       "review_state": {
         "human_reviewed": false,
@@ -52795,9 +52795,9 @@
         "reference": "19.5",
         "display_reference": "CHP 19.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bb0a6613180f4784e3886685716d58316f50aa37269b4c1e5829b392130109f7",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-5"
       }
     },
     {
@@ -52914,7 +52914,7 @@
       "notes": [],
       "work_passage_id": "chp:19.6",
       "html_path": "works/chp/index.html#p-19-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-6",
       "alignment_revision": "sha256:6c0b5cb2a214df186c6808bba03d1850ec4636a09cd8063823d998739f63ac4f",
       "review_state": {
         "human_reviewed": false,
@@ -52938,9 +52938,9 @@
         "reference": "19.6",
         "display_reference": "CHP 19.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:54505d4f4828a2ae8e16ce7069cd0ee56cc857911bd786f99fcfb5c9625255c2",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-6"
       }
     },
     {
@@ -53955,7 +53955,7 @@
       ],
       "work_passage_id": "chp:19.7",
       "html_path": "works/chp/index.html#p-19-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-7",
       "alignment_revision": "sha256:0a95637726c4ae0c3e99d76e3a2341f6b91062801f5a502baac489d18f56dfc3",
       "review_state": {
         "human_reviewed": false,
@@ -53979,9 +53979,9 @@
         "reference": "19.7",
         "display_reference": "CHP 19.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:48de6f0408d67bf33897e01dfbd5ea9b52fd598bd5e75dda3fb24fcfce13082b",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-7"
       }
     },
     {
@@ -54299,7 +54299,7 @@
       ],
       "work_passage_id": "chp:19.8",
       "html_path": "works/chp/index.html#p-19-8",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-8",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-8",
       "alignment_revision": "sha256:cf764f05bdd2a0f48b7fd518b41a2ef879286c1156aaa793b50a448441a1993b",
       "review_state": {
         "human_reviewed": false,
@@ -54323,9 +54323,9 @@
         "reference": "19.8",
         "display_reference": "CHP 19.8",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1edb8b292f33096c8a01a42ccde9fe5af0fcbbe25ba6644b2ae9cc43a362a4c0",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-8"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-8"
       }
     },
     {
@@ -54696,7 +54696,7 @@
       "notes": [],
       "work_passage_id": "chp:19.9",
       "html_path": "works/chp/index.html#p-19-9",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-9",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-9",
       "alignment_revision": "sha256:4ad86f1c02db35709cf3445b033b16759fcc9ca7ae31f51172d80e4c0462ed45",
       "review_state": {
         "human_reviewed": false,
@@ -54720,9 +54720,9 @@
         "reference": "19.9",
         "display_reference": "CHP 19.9",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b20c7276b50b954eda6b185b76d6d417f30a9458ab454e2f544e8ff4ad8ba642",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-9"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-9"
       }
     },
     {
@@ -54845,7 +54845,7 @@
       ],
       "work_passage_id": "chp:19.10",
       "html_path": "works/chp/index.html#p-19-10",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-19-10",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-19-10",
       "alignment_revision": "sha256:4a349dd5a05c5754398f483dde8504ade1e9bbd3120f82098abc0994ab87c752",
       "review_state": {
         "human_reviewed": false,
@@ -54869,9 +54869,9 @@
         "reference": "19.10",
         "display_reference": "CHP 19.10",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b9f2b09f153b459ee096f97800c7cb7f3ca100f5a7486457d5feff2515b471e7",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-19-10"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-19-10"
       }
     },
     {
@@ -55146,7 +55146,7 @@
       "notes": [],
       "work_passage_id": "chp:20.1",
       "html_path": "works/chp/index.html#p-20-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-20-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-20-1",
       "alignment_revision": "sha256:347f1f03b63b15e6e15c874519361d2da28ff043207525b812fe49f1ac80881e",
       "review_state": {
         "human_reviewed": false,
@@ -55170,9 +55170,9 @@
         "reference": "20.1",
         "display_reference": "CHP 20.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3d7673aa20cea6bd68b5ff3a695aaaaf09f81e1181b46b6fc1b85b2691f28102",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-20-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-20-1"
       }
     },
     {
@@ -55688,7 +55688,7 @@
       ],
       "work_passage_id": "chp:20.2",
       "html_path": "works/chp/index.html#p-20-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-20-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-20-2",
       "alignment_revision": "sha256:5a4bc3d7af8f1fd2634d3b16f3934c9de889577061d826102e09428c71e5b2fd",
       "review_state": {
         "human_reviewed": false,
@@ -55712,9 +55712,9 @@
         "reference": "20.2",
         "display_reference": "CHP 20.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:063d5a1de9900bb75e4c6d2523e1e2e1dc281a00bb707131aea01c473e13bcc6",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-20-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-20-2"
       }
     },
     {
@@ -55930,7 +55930,7 @@
       ],
       "work_passage_id": "chp:20.3",
       "html_path": "works/chp/index.html#p-20-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-20-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-20-3",
       "alignment_revision": "sha256:46f27e026dd5a1d47d77bb3f989c157ab1b673b592cac53372376694640cd49e",
       "review_state": {
         "human_reviewed": false,
@@ -55954,9 +55954,9 @@
         "reference": "20.3",
         "display_reference": "CHP 20.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:c71408c10e5ddc6dfcf866d6695a456f6fb537d7ba5dc744baf2934d290baa1d",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-20-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-20-3"
       }
     },
     {
@@ -56181,7 +56181,7 @@
       ],
       "work_passage_id": "chp:20.4",
       "html_path": "works/chp/index.html#p-20-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-20-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-20-4",
       "alignment_revision": "sha256:316b2d37006260fc3413abda2dfff63a262c85566ae21eaed54ca9b7d920d992",
       "review_state": {
         "human_reviewed": false,
@@ -56205,9 +56205,9 @@
         "reference": "20.4",
         "display_reference": "CHP 20.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:2302ec50c9159adb1be14690617393c33ce9d3e954e031a82adb622153c09fad",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-20-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-20-4"
       }
     },
     {
@@ -56476,7 +56476,7 @@
       ],
       "work_passage_id": "chp:20.5",
       "html_path": "works/chp/index.html#p-20-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-20-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-20-5",
       "alignment_revision": "sha256:8f66720a93923984ef3c287dca8d7088f61b7cd77415ea9dcfa463603020912c",
       "review_state": {
         "human_reviewed": false,
@@ -56500,9 +56500,9 @@
         "reference": "20.5",
         "display_reference": "CHP 20.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b8dd07e0c4101a3b90fe849d8bb550f7c941abe35fa975eb869396e1c9400642",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-20-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-20-5"
       }
     },
     {
@@ -57345,7 +57345,7 @@
       ],
       "work_passage_id": "chp:21.1",
       "html_path": "works/chp/index.html#p-21-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-1",
       "alignment_revision": "sha256:c7dea293822fb3656ff958b2273da2c72c6b4ac431ef5d3ff310aa77c6e1f812",
       "review_state": {
         "human_reviewed": false,
@@ -57369,9 +57369,9 @@
         "reference": "21.1",
         "display_reference": "CHP 21.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:941de28b65e5298eae88f82a622e4865dbd995d8b67efd163787d63aa73147b2",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-1"
       }
     },
     {
@@ -57697,7 +57697,7 @@
       ],
       "work_passage_id": "chp:21.2",
       "html_path": "works/chp/index.html#p-21-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-2",
       "alignment_revision": "sha256:79267b7b082d12cf9ebb7ca5d079a44ac81e802a2d1bba1c5b0f98f16f80e4e4",
       "review_state": {
         "human_reviewed": false,
@@ -57721,9 +57721,9 @@
         "reference": "21.2",
         "display_reference": "CHP 21.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:52cae6c36448c8e4fb884c0d354a87c868a0a31989be34f35289e6a59753ccbc",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-2"
       }
     },
     {
@@ -58545,7 +58545,7 @@
       ],
       "work_passage_id": "chp:21.3",
       "html_path": "works/chp/index.html#p-21-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-3",
       "alignment_revision": "sha256:e5be30f224ba71d5e6b593f53c775f94ef4f408ed4298d2c96823d5da4a141ec",
       "review_state": {
         "human_reviewed": false,
@@ -58569,9 +58569,9 @@
         "reference": "21.3",
         "display_reference": "CHP 21.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:da399e5b5e7b950309e969f71ed31d70256b03c9ed9215232f65bab6cb21a4cb",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-3"
       }
     },
     {
@@ -59041,7 +59041,7 @@
       "notes": [],
       "work_passage_id": "chp:21.4",
       "html_path": "works/chp/index.html#p-21-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-4",
       "alignment_revision": "sha256:ce3247e508424fc75568316fe558ca6cba35009baefc3e48bccc205d7d791f72",
       "review_state": {
         "human_reviewed": false,
@@ -59065,9 +59065,9 @@
         "reference": "21.4",
         "display_reference": "CHP 21.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:594721218d97bd13e769a046daa29b16d53b8af274c1054a75d1b88169a94425",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-4"
       }
     },
     {
@@ -59261,7 +59261,7 @@
       ],
       "work_passage_id": "chp:21.5",
       "html_path": "works/chp/index.html#p-21-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-5",
       "alignment_revision": "sha256:6401413bd0f0a3755a185a85019d4a3371f34469bc1819b20b2ea754e18747c5",
       "review_state": {
         "human_reviewed": false,
@@ -59285,9 +59285,9 @@
         "reference": "21.5",
         "display_reference": "CHP 21.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ed30bcf9002add1253ac2b32415988d1cf49e792e1dea997a5fae2ac7591d626",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-5"
       }
     },
     {
@@ -59666,7 +59666,7 @@
       ],
       "work_passage_id": "chp:21.6",
       "html_path": "works/chp/index.html#p-21-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-6",
       "alignment_revision": "sha256:da14eb2c398c434f2e7f2d94db879db0834b2562ebfb32e95c1474ec864d4b1b",
       "review_state": {
         "human_reviewed": false,
@@ -59690,9 +59690,9 @@
         "reference": "21.6",
         "display_reference": "CHP 21.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a7f7178b37cf5ab583eb81adcfa76e5b468274b9f46c4ae9d1b0a9e973714819",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-6"
       }
     },
     {
@@ -60226,7 +60226,7 @@
       ],
       "work_passage_id": "chp:21.7",
       "html_path": "works/chp/index.html#p-21-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-7",
       "alignment_revision": "sha256:ee80ea4ddb313769ebf96663f71e0b7ae901428a6c1e72ed27f593d13218858b",
       "review_state": {
         "human_reviewed": false,
@@ -60250,9 +60250,9 @@
         "reference": "21.7",
         "display_reference": "CHP 21.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:3d894d810f85cb8ae3facdcdd969774355333edc711e50d6bae7935119fd2005",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-7"
       }
     },
     {
@@ -60521,7 +60521,7 @@
       ],
       "work_passage_id": "chp:21.8",
       "html_path": "works/chp/index.html#p-21-8",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-21-8",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-21-8",
       "alignment_revision": "sha256:5458eb54205c0f2ad0e5d7aadc7f9943445150c18a216319bcc8fbf1e5d62049",
       "review_state": {
         "human_reviewed": false,
@@ -60545,9 +60545,9 @@
         "reference": "21.8",
         "display_reference": "CHP 21.8",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e78dfe65194fa9c7a7c0b3959f447864622e526af2a5516d364b6199b340de61",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-21-8"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-21-8"
       }
     },
     {
@@ -61343,7 +61343,7 @@
       ],
       "work_passage_id": "chp:22.1",
       "html_path": "works/chp/index.html#p-22-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-22-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-22-1",
       "alignment_revision": "sha256:3977f4a3a952a1a4bee14a29c96770d23f582488f120e4af9edfcfb9832031da",
       "review_state": {
         "human_reviewed": false,
@@ -61367,9 +61367,9 @@
         "reference": "22.1",
         "display_reference": "CHP 22.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bbaf55aa64a0febea6c67bda6324221f428707b8bfa0983dc624e65a20457599",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-22-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-22-1"
       }
     },
     {
@@ -61803,7 +61803,7 @@
       ],
       "work_passage_id": "chp:23.1",
       "html_path": "works/chp/index.html#p-23-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-23-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-23-1",
       "alignment_revision": "sha256:679143f57337b2902f8cf198bdf24e89ee28aa92337f438579a2d3c7d11205f3",
       "review_state": {
         "human_reviewed": false,
@@ -61827,9 +61827,9 @@
         "reference": "23.1",
         "display_reference": "CHP 23.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8f4ada3cc3c75af2bf21409430b2f6bc7bc15761b5af022858282ddd4dc7af51",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-23-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-23-1"
       }
     },
     {
@@ -62180,7 +62180,7 @@
       "notes": [],
       "work_passage_id": "chp:23.2",
       "html_path": "works/chp/index.html#p-23-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-23-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-23-2",
       "alignment_revision": "sha256:20d239142dea14f21c142254e59cd9bbc2f806c6494f8d7f9232b77061af0876",
       "review_state": {
         "human_reviewed": false,
@@ -62204,9 +62204,9 @@
         "reference": "23.2",
         "display_reference": "CHP 23.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:45bbad53fa32131edb91f61a82bb3a0209146ac128dec4155c3f4c968a9cae7a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-23-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-23-2"
       }
     },
     {
@@ -62332,7 +62332,7 @@
       "notes": [],
       "work_passage_id": "chp:23.3",
       "html_path": "works/chp/index.html#p-23-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-23-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-23-3",
       "alignment_revision": "sha256:1c71b87a9dcd29090d68674cd913235129c96bd7b76e2998239c1b8f4c9ad55d",
       "review_state": {
         "human_reviewed": false,
@@ -62356,9 +62356,9 @@
         "reference": "23.3",
         "display_reference": "CHP 23.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b3398563ba460f993755ed45ad840b1b6fbdb389f98bb308f42bf6701a77d697",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-23-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-23-3"
       }
     },
     {
@@ -62749,7 +62749,7 @@
       "notes": [],
       "work_passage_id": "chp:24.1",
       "html_path": "works/chp/index.html#p-24-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-1",
       "alignment_revision": "sha256:3b436310f5793dfaf8fb353c45b52970c485901630da3f7f10c72b849f99f89a",
       "review_state": {
         "human_reviewed": false,
@@ -62773,9 +62773,9 @@
         "reference": "24.1",
         "display_reference": "CHP 24.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:14da702de0f1a9ee6c3bf904adce201e424b4ac807a346467042296f9abc109b",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-1"
       }
     },
     {
@@ -62994,7 +62994,7 @@
       "notes": [],
       "work_passage_id": "chp:24.2",
       "html_path": "works/chp/index.html#p-24-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-2",
       "alignment_revision": "sha256:545d8e942d9da4e5497836784b4b1f777579f8d83b537a0a3afb352450a53107",
       "review_state": {
         "human_reviewed": false,
@@ -63018,9 +63018,9 @@
         "reference": "24.2",
         "display_reference": "CHP 24.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:4f5d27240bdbb07422e5798a29319c795ca3dfd43f9fb4332249b23d36eeff48",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-2"
       }
     },
     {
@@ -63353,7 +63353,7 @@
       "notes": [],
       "work_passage_id": "chp:24.3",
       "html_path": "works/chp/index.html#p-24-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-3",
       "alignment_revision": "sha256:122cdedb2edeb0cdf01dae23cd5194daf32df74db7b03ba38de37cfbbab701a8",
       "review_state": {
         "human_reviewed": false,
@@ -63377,9 +63377,9 @@
         "reference": "24.3",
         "display_reference": "CHP 24.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:748fbd382612518f390f2894e15475d793c472734018a9272b5ce9198dd519bc",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-3"
       }
     },
     {
@@ -63628,7 +63628,7 @@
       "notes": [],
       "work_passage_id": "chp:24.4",
       "html_path": "works/chp/index.html#p-24-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-4",
       "alignment_revision": "sha256:7731e7dd6fd23c8ca4215e831b9f08d288b7bfb465ac8dc5cbd6e935808d05c4",
       "review_state": {
         "human_reviewed": false,
@@ -63652,9 +63652,9 @@
         "reference": "24.4",
         "display_reference": "CHP 24.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:aca6a4f2ff3ee51481004f54b7877e66926be4cb047a1e0e80b7c0ecbc0a15e3",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-4"
       }
     },
     {
@@ -63784,7 +63784,7 @@
       "notes": [],
       "work_passage_id": "chp:24.5",
       "html_path": "works/chp/index.html#p-24-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-5",
       "alignment_revision": "sha256:d3e5cdb7c1640a37740c61fa313e1a49b6c60fef412a18274a5412c976e293a8",
       "review_state": {
         "human_reviewed": false,
@@ -63808,9 +63808,9 @@
         "reference": "24.5",
         "display_reference": "CHP 24.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:107dbcfab0c2a7548d1392a3eee083e5a23be7a549381ab93f2ca1c5c35dcd5b",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-5"
       }
     },
     {
@@ -64111,7 +64111,7 @@
       ],
       "work_passage_id": "chp:24.6",
       "html_path": "works/chp/index.html#p-24-6",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-6",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-6",
       "alignment_revision": "sha256:954d15496737cfc1e9694e55fff92de24b2412d582fe4be3a94439f86824744f",
       "review_state": {
         "human_reviewed": false,
@@ -64135,9 +64135,9 @@
         "reference": "24.6",
         "display_reference": "CHP 24.6",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8445064803db341dc2510cc59d956e7a694dae2c1edb005c70f47d0cecc799d8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-6"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-6"
       }
     },
     {
@@ -64615,7 +64615,7 @@
       ],
       "work_passage_id": "chp:24.7",
       "html_path": "works/chp/index.html#p-24-7",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-24-7",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-24-7",
       "alignment_revision": "sha256:17764303226389317147dc113bcdb4bdebd4c2314c4bed66028684690ebce161",
       "review_state": {
         "human_reviewed": false,
@@ -64639,9 +64639,9 @@
         "reference": "24.7",
         "display_reference": "CHP 24.7",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7dfdf721a5b749e43485ab7b225fb5effdd921bbf58188795ce7f1e91bacd7c8",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-24-7"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-24-7"
       }
     },
     {
@@ -65000,7 +65000,7 @@
       "notes": [],
       "work_passage_id": "chp:25.1",
       "html_path": "works/chp/index.html#p-25-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-25-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-25-1",
       "alignment_revision": "sha256:5b807bccaf8228f56bbc75a9423c244a5901370b317cc58c22efa1c79857ea8b",
       "review_state": {
         "human_reviewed": false,
@@ -65024,9 +65024,9 @@
         "reference": "25.1",
         "display_reference": "CHP 25.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:23a29a087e4b2e6f865e71e81380ba9ac7bcb34a3acc421e48dabff0bab6a94c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-25-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-25-1"
       }
     },
     {
@@ -65346,7 +65346,7 @@
       "notes": [],
       "work_passage_id": "chp:25.2",
       "html_path": "works/chp/index.html#p-25-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-25-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-25-2",
       "alignment_revision": "sha256:e8046fe1fca41625a76a17cbfdac216f37ef884b92ab860137a1782d8eecd134",
       "review_state": {
         "human_reviewed": false,
@@ -65370,9 +65370,9 @@
         "reference": "25.2",
         "display_reference": "CHP 25.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:870e56f5d2423d336d507775c1b9ddcc1cd0f7aaa52092b45192427071175605",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-25-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-25-2"
       }
     },
     {
@@ -65902,7 +65902,7 @@
       ],
       "work_passage_id": "chp:26.1",
       "html_path": "works/chp/index.html#p-26-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-26-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-26-1",
       "alignment_revision": "sha256:f9486671d77fd33aa1df4827354f12ab34ba0bf6c1d8f9333799f161b1b52f77",
       "review_state": {
         "human_reviewed": false,
@@ -65926,9 +65926,9 @@
         "reference": "26.1",
         "display_reference": "CHP 26.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e80153b54c73c75f970039ecf33cdbc26102b3b7d3506e3853f22ce32548e8e4",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-26-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-26-1"
       }
     },
     {
@@ -66154,7 +66154,7 @@
       "notes": [],
       "work_passage_id": "chp:26.2",
       "html_path": "works/chp/index.html#p-26-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-26-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-26-2",
       "alignment_revision": "sha256:59f60e209e02d205fb0a72b408d1024586bdd868e6869bc25e41e64e2ad5a363",
       "review_state": {
         "human_reviewed": false,
@@ -66178,9 +66178,9 @@
         "reference": "26.2",
         "display_reference": "CHP 26.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7d28648aafe5dfdae7c1ca1120d5be2a5ae954fdce4fa099cd9f29873c153ade",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-26-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-26-2"
       }
     },
     {
@@ -66453,7 +66453,7 @@
       ],
       "work_passage_id": "chp:26.3",
       "html_path": "works/chp/index.html#p-26-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-26-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-26-3",
       "alignment_revision": "sha256:92918b9b41856107d418e0a4db8c0f0b82000a114f6c505f40ca486e51717916",
       "review_state": {
         "human_reviewed": false,
@@ -66477,9 +66477,9 @@
         "reference": "26.3",
         "display_reference": "CHP 26.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:de521e9dbe17a5375ffd1fb83bfe1464282276d050ce9417c2f0fcfb8bf27b75",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-26-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-26-3"
       }
     },
     {
@@ -66927,7 +66927,7 @@
       "notes": [],
       "work_passage_id": "chp:27.1",
       "html_path": "works/chp/index.html#p-27-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-27-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-27-1",
       "alignment_revision": "sha256:73ed471af71dc8baaea599537c2c6ee0fac756a494781acd1e631af60e867d16",
       "review_state": {
         "human_reviewed": false,
@@ -66951,9 +66951,9 @@
         "reference": "27.1",
         "display_reference": "CHP 27.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7eded5de2e42c04604bc30602bdd83a13f052b0ca28a77ece963eb1349a5f138",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-27-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-27-1"
       }
     },
     {
@@ -67226,7 +67226,7 @@
       ],
       "work_passage_id": "chp:27.2",
       "html_path": "works/chp/index.html#p-27-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-27-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-27-2",
       "alignment_revision": "sha256:a1f560245e3ae388f353114dc4832818b131babb4854579605eb1188ecc6a02a",
       "review_state": {
         "human_reviewed": false,
@@ -67250,9 +67250,9 @@
         "reference": "27.2",
         "display_reference": "CHP 27.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5de4abb0d1bc83446fa4808b4e147749dd28c2abb1eb6bf1a2f4c9f2927249ed",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-27-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-27-2"
       }
     },
     {
@@ -67491,7 +67491,7 @@
       ],
       "work_passage_id": "chp:27.3",
       "html_path": "works/chp/index.html#p-27-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-27-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-27-3",
       "alignment_revision": "sha256:85f80733c0b16a6c857f3f69b9544546cb03c67b0ec407baf66f3b0734659f99",
       "review_state": {
         "human_reviewed": false,
@@ -67515,9 +67515,9 @@
         "reference": "27.3",
         "display_reference": "CHP 27.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e2bcb897a7d9ec5f0f2990380e6ebaad531584c033e6e3638d7b0dce3eea0824",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-27-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-27-3"
       }
     },
     {
@@ -67771,7 +67771,7 @@
       "notes": [],
       "work_passage_id": "chp:28.1",
       "html_path": "works/chp/index.html#p-28-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-28-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-28-1",
       "alignment_revision": "sha256:704d1ab15137da67c61913bf5b6134353d59c83344550b9ff17974b800fe133f",
       "review_state": {
         "human_reviewed": false,
@@ -67795,9 +67795,9 @@
         "reference": "28.1",
         "display_reference": "CHP 28.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:be732482042cee75e879714eff65c696053cc27d42246127c0164589d12507d9",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-28-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-28-1"
       }
     },
     {
@@ -67958,7 +67958,7 @@
       "notes": [],
       "work_passage_id": "chp:28.2",
       "html_path": "works/chp/index.html#p-28-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-28-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-28-2",
       "alignment_revision": "sha256:cb0515ae529c916355e32d7310becb749796d929c31fa231896064a1b47f072f",
       "review_state": {
         "human_reviewed": false,
@@ -67982,9 +67982,9 @@
         "reference": "28.2",
         "display_reference": "CHP 28.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:8a28b27686d6dd05b043c27aae07855846ff14e5fd489544bb9f85d8df67716a",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-28-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-28-2"
       }
     },
     {
@@ -68223,7 +68223,7 @@
       "notes": [],
       "work_passage_id": "chp:29.1",
       "html_path": "works/chp/index.html#p-29-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-29-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-29-1",
       "alignment_revision": "sha256:2f81665f0f4d99efc58debedb26f6adb96fbe2d4fd03715025fe164a158de728",
       "review_state": {
         "human_reviewed": false,
@@ -68247,9 +68247,9 @@
         "reference": "29.1",
         "display_reference": "CHP 29.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:21a7927285183b9acafbb1220dce8630cd81f65dbb6ae02b5953e16ac64ce2e5",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-29-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-29-1"
       }
     },
     {
@@ -68716,7 +68716,7 @@
       ],
       "work_passage_id": "chp:29.2",
       "html_path": "works/chp/index.html#p-29-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-29-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-29-2",
       "alignment_revision": "sha256:4fdd8d5585163a1dadd401dea573a998fb2d363d2e4da94f0ee00dea48f15e7b",
       "review_state": {
         "human_reviewed": false,
@@ -68740,9 +68740,9 @@
         "reference": "29.2",
         "display_reference": "CHP 29.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a3f6b6add36cdaff9641a5a90b12c48138e235d144075a0dfc371d8f5d6655e9",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-29-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-29-2"
       }
     },
     {
@@ -68941,7 +68941,7 @@
       "notes": [],
       "work_passage_id": "chp:29.3",
       "html_path": "works/chp/index.html#p-29-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-29-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-29-3",
       "alignment_revision": "sha256:ce3d4263e0b3e50f0521799287b99afc35aa1b6a6f2032b4101954e7b5909eac",
       "review_state": {
         "human_reviewed": false,
@@ -68965,9 +68965,9 @@
         "reference": "29.3",
         "display_reference": "CHP 29.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:82f344d1047e0f94d509e9268abc357bb68bb773878f4017b33bf704b233d8bb",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-29-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-29-3"
       }
     },
     {
@@ -69281,7 +69281,7 @@
       ],
       "work_passage_id": "chp:29.4",
       "html_path": "works/chp/index.html#p-29-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-29-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-29-4",
       "alignment_revision": "sha256:d3c09a83b21019dcd187d60226b8f0ff0eeba7a4c0855d231602a7179bb668b3",
       "review_state": {
         "human_reviewed": false,
@@ -69305,9 +69305,9 @@
         "reference": "29.4",
         "display_reference": "CHP 29.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b48295fc7bba72c9553f6d4f778dad35e353b176d1aa519ab24c537e4dc15103",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-29-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-29-4"
       }
     },
     {
@@ -69503,7 +69503,7 @@
       "notes": [],
       "work_passage_id": "chp:30.1",
       "html_path": "works/chp/index.html#p-30-1",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-30-1",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-30-1",
       "alignment_revision": "sha256:a8a3660dd28d3463404e6075f9a318a0876c4c9c29be142a37d0abe246fbb70d",
       "review_state": {
         "human_reviewed": false,
@@ -69527,9 +69527,9 @@
         "reference": "30.1",
         "display_reference": "CHP 30.1",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7a124b1633406645971466aa3439b06ecebefed365ce4d27e58f8646ffbc2783",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-30-1"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-30-1"
       }
     },
     {
@@ -69734,7 +69734,7 @@
       "notes": [],
       "work_passage_id": "chp:30.2",
       "html_path": "works/chp/index.html#p-30-2",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-30-2",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-30-2",
       "alignment_revision": "sha256:01aba4dc0a251332c8629308f5de8cba8d345bdcc4fd32530ee38bd8387bd5c1",
       "review_state": {
         "human_reviewed": false,
@@ -69758,9 +69758,9 @@
         "reference": "30.2",
         "display_reference": "CHP 30.2",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d6f30806685c275fd23c406b83dde0f2b724a0f3bde5193399e40632c52feafe",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-30-2"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-30-2"
       }
     },
     {
@@ -70261,7 +70261,7 @@
       ],
       "work_passage_id": "chp:30.3",
       "html_path": "works/chp/index.html#p-30-3",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-30-3",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-30-3",
       "alignment_revision": "sha256:200817635de8d47d11717d7ba7bd029462ead3b225bf6af77b8865b2b27756ea",
       "review_state": {
         "human_reviewed": false,
@@ -70285,9 +70285,9 @@
         "reference": "30.3",
         "display_reference": "CHP 30.3",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:22397825aa739f588ca549a2c2ef13d0bff0e15f1e087bff132c9de528ea7c3c",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-30-3"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-30-3"
       }
     },
     {
@@ -70569,7 +70569,7 @@
       ],
       "work_passage_id": "chp:30.4",
       "html_path": "works/chp/index.html#p-30-4",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-30-4",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-30-4",
       "alignment_revision": "sha256:4eb911551071f276dc00c17e291616506b599071b389465369dd2420615394d3",
       "review_state": {
         "human_reviewed": false,
@@ -70593,9 +70593,9 @@
         "reference": "30.4",
         "display_reference": "CHP 30.4",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d046ee662c5250d7b1fd505891751a554b9969a64cd3164a72da3b58c4b3c5aa",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-30-4"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-30-4"
       }
     },
     {
@@ -70681,7 +70681,7 @@
       "notes": [],
       "work_passage_id": "chp:30.5",
       "html_path": "works/chp/index.html#p-30-5",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-30-5",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-30-5",
       "alignment_revision": "sha256:6a007a74de454b982aa6fba6d9822d7366899d0f86b7cf0a34d7d36ea44fc600",
       "review_state": {
         "human_reviewed": false,
@@ -70705,9 +70705,9 @@
         "reference": "30.5",
         "display_reference": "CHP 30.5",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:76256e54cd32fffabad0007328a15b054e4d7379c6a57f3a837b7655cb21f558",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-30-5"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-30-5"
       }
     },
     {
@@ -70828,7 +70828,7 @@
       "notes": [],
       "work_passage_id": "chp:concl",
       "html_path": "works/chp/index.html#p-concl",
-      "fixed_html_path": "releases/public-0.5/works/chp/index.html#p-concl",
+      "fixed_html_path": "releases/public-0.6/works/chp/index.html#p-concl",
       "alignment_revision": "sha256:7a8d77e1e01d6fc9b735b0ae3d0c772b4d14a1386745f0dc7b8f2ad5f050b8e1",
       "review_state": {
         "human_reviewed": false,
@@ -70852,9 +70852,9 @@
         "reference": "concl",
         "display_reference": "CHP concl",
         "edition": "1566년 3월 취리히 크리스토프 프로샤우어 인쇄 라틴어 초판(4절판, [4], 48장, VD16 B 9590). 취리히 중앙도서관 소장본 5.114,6. 본문은 인쇄본 앞에 실린 정오표 다섯 항목을 반영한 읽기이며, 정오표가 뜻을 바꾸는 곳(8.3, 10.3, 11.3, 11.6)의 인쇄된 읽기는 메모에 있다. 장 번호는 인쇄본의 로마 숫자이고, 장 안의 단락 번호(1.1, 21.3 등)는 인쇄된 단락 순서에 따른 번호다. 증거 구절은 인쇄본 바깥 여백의 성경 참조이며, 증거 구절 표지(a, b 등)는 그 참조가 옆에 찍힌 문장이나 구절 끝에 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d2433c47d79b6144474466203da5570c3c79bab79932939e3f6e3c71185dd92d",
-        "fixed_path": "releases/public-0.5/works/chp/index.html#p-concl"
+        "fixed_path": "releases/public-0.6/works/chp/index.html#p-concl"
       }
     }
   ],

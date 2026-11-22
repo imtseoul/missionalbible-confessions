@@ -40,14 +40,14 @@
   "language_label": "영어",
   "coverage_label": "39개조 전문",
   "coverage": "complete",
-  "release_id": "public-0.5",
+  "release_id": "public-0.6",
   "source_language": "en",
   "source_kind": "printed_confession_text",
   "human_reviewed": false,
   "translation_method": "인쇄면과 대조한 원어 본문에서 직접 번역",
   "html_path": "works/a39/index.html",
   "json_path": "data/works/a39.json",
-  "fixed_html_path": "releases/public-0.5/works/a39/index.html",
+  "fixed_html_path": "releases/public-0.6/works/a39/index.html",
   "source_profile": "a39-stc10038.9-tcp-1",
   "base_witness": {
     "id": "stc10038.9",
@@ -366,7 +366,7 @@
       ],
       "work_passage_id": "a39:title",
       "html_path": "works/a39/index.html#p-title",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-title",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-title",
       "alignment_revision": "sha256:d23792ac5b4b31502f76e9df86c12b6bc352cc2547c271e0ff3a1fc8050ab951",
       "review_state": {
         "human_reviewed": false,
@@ -390,9 +390,9 @@
         "reference": "title",
         "display_reference": "A39 title",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1acfb52c2f72f728484842860e4b6548df8ad8bb321b34053b4a59b3106d446c",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-title"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-title"
       }
     },
     {
@@ -644,7 +644,7 @@
       ],
       "work_passage_id": "a39:1",
       "html_path": "works/a39/index.html#p-1",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-1",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-1",
       "alignment_revision": "sha256:ef6d3c20f68481a28c64970db4ae7eff7892de3a3b859d0734214526863dd902",
       "review_state": {
         "human_reviewed": false,
@@ -668,9 +668,9 @@
         "reference": "1",
         "display_reference": "A39 1",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:719a51d0369ece07e3f715cdf25b43725ca45ed3b1b6ad42ffdc302717b819ba",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-1"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-1"
       }
     },
     {
@@ -948,7 +948,7 @@
       ],
       "work_passage_id": "a39:2",
       "html_path": "works/a39/index.html#p-2",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-2",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-2",
       "alignment_revision": "sha256:48d0ce2327029a54bfb79df0f7959caa7d173f238df557fabe4493b89faf5391",
       "review_state": {
         "human_reviewed": false,
@@ -972,9 +972,9 @@
         "reference": "2",
         "display_reference": "A39 2",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:efbd2ba0fe3b8f44d830439ddfc1702eb643acd23584ca1e98824c2ceddff5c3",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-2"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-2"
       }
     },
     {
@@ -1084,7 +1084,7 @@
       ],
       "work_passage_id": "a39:3",
       "html_path": "works/a39/index.html#p-3",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-3",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-3",
       "alignment_revision": "sha256:91bb56f14bd8ed7169a9ee51280faeb94beb5061d407f326ad1596b199bd85d9",
       "review_state": {
         "human_reviewed": false,
@@ -1108,9 +1108,9 @@
         "reference": "3",
         "display_reference": "A39 3",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a7d8c975416787b85a03191c438dde7f6b518dce4854d35d737198f7f3726121",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-3"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-3"
       }
     },
     {
@@ -1271,7 +1271,7 @@
       "notes": [],
       "work_passage_id": "a39:4",
       "html_path": "works/a39/index.html#p-4",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-4",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-4",
       "alignment_revision": "sha256:d4e144374934712f8bac1b933492ba00e4508f6c3a01e65dc50bb4b32c3b76cf",
       "review_state": {
         "human_reviewed": false,
@@ -1295,9 +1295,9 @@
         "reference": "4",
         "display_reference": "A39 4",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:fca17552a17c9bc5ea25cc7a4e5797a71059f6b50daa3e4a91d7305c7e8d3ada",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-4"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-4"
       }
     },
     {
@@ -1392,7 +1392,7 @@
       "notes": [],
       "work_passage_id": "a39:5",
       "html_path": "works/a39/index.html#p-5",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-5",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-5",
       "alignment_revision": "sha256:d22bac5b43b481ac48bf125941fcb99ae9f257f38d66a71b1d69fd5819bb8524",
       "review_state": {
         "human_reviewed": false,
@@ -1416,9 +1416,9 @@
         "reference": "5",
         "display_reference": "A39 5",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:86cf8a69441ee5adbbe921d363f1495a749d2445d493d5ae9abf7dc42f3d4c5b",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-5"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-5"
       }
     },
     {
@@ -2316,7 +2316,7 @@
       ],
       "work_passage_id": "a39:6",
       "html_path": "works/a39/index.html#p-6",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-6",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-6",
       "alignment_revision": "sha256:cf67b6e6178e3f4c77945ab8578ba6492b055ca03308e22b1dff1de03850769c",
       "review_state": {
         "human_reviewed": false,
@@ -2340,9 +2340,9 @@
         "reference": "6",
         "display_reference": "A39 6",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:30ff6b39fd5250aecf036dd5b333b4ac8e8ce6f53912a97dd2c2e06c973c814d",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-6"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-6"
       }
     },
     {
@@ -2601,7 +2601,7 @@
       "notes": [],
       "work_passage_id": "a39:7",
       "html_path": "works/a39/index.html#p-7",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-7",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-7",
       "alignment_revision": "sha256:992eac4535fb0f8b905a2cfa07bf4ac878dc972496e714f73b41f20cfa9246d5",
       "review_state": {
         "human_reviewed": false,
@@ -2625,9 +2625,9 @@
         "reference": "7",
         "display_reference": "A39 7",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:48005bd0b4efb6bc6e534e8cda54814441d9c693a1582b14076ae864a236b7f2",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-7"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-7"
       }
     },
     {
@@ -2766,7 +2766,7 @@
       "notes": [],
       "work_passage_id": "a39:8",
       "html_path": "works/a39/index.html#p-8",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-8",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-8",
       "alignment_revision": "sha256:5e3224cbf9bf5f29ab85b414377774a7fe5f347031f7cfac11a112fa34008a02",
       "review_state": {
         "human_reviewed": false,
@@ -2790,9 +2790,9 @@
         "reference": "8",
         "display_reference": "A39 8",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:04dfd377afd6a2ac15079967e9502afadf30096422f6f08d49ec9e2a820ea5e5",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-8"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-8"
       }
     },
     {
@@ -3151,7 +3151,7 @@
       ],
       "work_passage_id": "a39:9",
       "html_path": "works/a39/index.html#p-9",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-9",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-9",
       "alignment_revision": "sha256:ce7e09f4fac5877414e38a6ce9a7b325e948a26fd55e423a0b0aae0143716832",
       "review_state": {
         "human_reviewed": false,
@@ -3175,9 +3175,9 @@
         "reference": "9",
         "display_reference": "A39 9",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1a29a5e4252d1b37fbc348877578535ddf3c21d9a735e7a003084acd9dad1635",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-9"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-9"
       }
     },
     {
@@ -3358,7 +3358,7 @@
       ],
       "work_passage_id": "a39:10",
       "html_path": "works/a39/index.html#p-10",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-10",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-10",
       "alignment_revision": "sha256:5d90ecca8b9fa14b624bee9757f6014bf4d37a7c96e751f1cd3debd88d23dd7d",
       "review_state": {
         "human_reviewed": false,
@@ -3382,9 +3382,9 @@
         "reference": "10",
         "display_reference": "A39 10",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:5813337830975553f7d3852be086a913fbe29229bf5998faa4cf0026e8f6d4e7",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-10"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-10"
       }
     },
     {
@@ -3547,7 +3547,7 @@
       ],
       "work_passage_id": "a39:11",
       "html_path": "works/a39/index.html#p-11",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-11",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-11",
       "alignment_revision": "sha256:3a6fe05f0e8f1559015f81e1f845882e998696c91af653f02117fa9c2d67871a",
       "review_state": {
         "human_reviewed": false,
@@ -3571,9 +3571,9 @@
         "reference": "11",
         "display_reference": "A39 11",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:27947d93e146cefaec40438f44987ebe3ef5f70444a0de444add1465bc79421a",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-11"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-11"
       }
     },
     {
@@ -3756,7 +3756,7 @@
       "notes": [],
       "work_passage_id": "a39:12",
       "html_path": "works/a39/index.html#p-12",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-12",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-12",
       "alignment_revision": "sha256:6ae782cdb940147809db5e7d9573ebe1ae34f7e0e817e2b9e0fbd860b1fd542b",
       "review_state": {
         "human_reviewed": false,
@@ -3780,9 +3780,9 @@
         "reference": "12",
         "display_reference": "A39 12",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d765e09a5127b0ead0cc398302999e33b5fbff0b2b7a450f0ba3ef5a2ca66fef",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-12"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-12"
       }
     },
     {
@@ -3963,7 +3963,7 @@
       ],
       "work_passage_id": "a39:13",
       "html_path": "works/a39/index.html#p-13",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-13",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-13",
       "alignment_revision": "sha256:ef21f461513d91ac7cf732c80cfa8014500cb4198d6d82c2c806f0bdbe31304c",
       "review_state": {
         "human_reviewed": false,
@@ -3987,9 +3987,9 @@
         "reference": "13",
         "display_reference": "A39 13",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bfa0420318dd406daa81f0a775eee060f99fb444a14e8c18eb9de8ae5323d414",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-13"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-13"
       }
     },
     {
@@ -4167,7 +4167,7 @@
       ],
       "work_passage_id": "a39:14",
       "html_path": "works/a39/index.html#p-14",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-14",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-14",
       "alignment_revision": "sha256:b187af3d01406c8f6723bea4abd604a5e1f465457b7e131f3c1663337bb0617c",
       "review_state": {
         "human_reviewed": false,
@@ -4191,9 +4191,9 @@
         "reference": "14",
         "display_reference": "A39 14",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6466f0092bc2d962dc9add96ed58da12e6c92827d28c6a8e3dabfd9f661d3a1c",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-14"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-14"
       }
     },
     {
@@ -4419,7 +4419,7 @@
       ],
       "work_passage_id": "a39:15",
       "html_path": "works/a39/index.html#p-15",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-15",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-15",
       "alignment_revision": "sha256:0e56aecdbe70b2d73162f55f2a4df515f90b8ec7a2aed1b6815b4fd70279a81e",
       "review_state": {
         "human_reviewed": false,
@@ -4443,9 +4443,9 @@
         "reference": "15",
         "display_reference": "A39 15",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:7ffcfb8038b6fee53d7e6da97511544a9eaf475e0a1ebc2b9580f671046d0a3e",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-15"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-15"
       }
     },
     {
@@ -4667,7 +4667,7 @@
       ],
       "work_passage_id": "a39:16",
       "html_path": "works/a39/index.html#p-16",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-16",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-16",
       "alignment_revision": "sha256:587864f5fdb118d163f8ff0087efb59a3cff88336f9d51b8d6e000e9fcedf4f2",
       "review_state": {
         "human_reviewed": false,
@@ -4691,9 +4691,9 @@
         "reference": "16",
         "display_reference": "A39 16",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:062303cfe8e90ab962ce80b6e49ad5daf4a8069df2a60b7f4aeb708fdf390f8d",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-16"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-16"
       }
     },
     {
@@ -5335,7 +5335,7 @@
       ],
       "work_passage_id": "a39:17",
       "html_path": "works/a39/index.html#p-17",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-17",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-17",
       "alignment_revision": "sha256:e64094435d69cf186d7e1392b454f61be02dacedb9ac5e2a70ebf7a60727b812",
       "review_state": {
         "human_reviewed": false,
@@ -5359,9 +5359,9 @@
         "reference": "17",
         "display_reference": "A39 17",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:900788b7972112fe81c188adb35bde90f5b6370981c7f24b0236adac53affd23",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-17"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-17"
       }
     },
     {
@@ -5505,7 +5505,7 @@
       "notes": [],
       "work_passage_id": "a39:18",
       "html_path": "works/a39/index.html#p-18",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-18",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-18",
       "alignment_revision": "sha256:d343da4c8b24b0f4424c6211cf07db91913cc4fd04fd713e3dba366a6f88da86",
       "review_state": {
         "human_reviewed": false,
@@ -5529,9 +5529,9 @@
         "reference": "18",
         "display_reference": "A39 18",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:b5709c39c0d37c5cce83e760b395f69423486c161b68f9cbce156c1e4811bcb4",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-18"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-18"
       }
     },
     {
@@ -5719,7 +5719,7 @@
       "notes": [],
       "work_passage_id": "a39:19",
       "html_path": "works/a39/index.html#p-19",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-19",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-19",
       "alignment_revision": "sha256:69074ed3e631ae5118d8c5fe69ea60b8d83b64421321ff5411933b0b5ef8fbee",
       "review_state": {
         "human_reviewed": false,
@@ -5743,9 +5743,9 @@
         "reference": "19",
         "display_reference": "A39 19",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1673586ff9b136234fea62a935bb72de1e834a65df9a14a2f52a93d9227894f0",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-19"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-19"
       }
     },
     {
@@ -5955,7 +5955,7 @@
       "notes": [],
       "work_passage_id": "a39:20",
       "html_path": "works/a39/index.html#p-20",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-20",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-20",
       "alignment_revision": "sha256:b23cfd4730aa7690b2aa4f9f42a780b9d80271c6f21820a0b76f9891cc00734f",
       "review_state": {
         "human_reviewed": false,
@@ -5979,9 +5979,9 @@
         "reference": "20",
         "display_reference": "A39 20",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:85c812c1f72950d20f0a0ba7f00978694faa0a45094ca858a708a5f514c24e35",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-20"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-20"
       }
     },
     {
@@ -6187,7 +6187,7 @@
       "notes": [],
       "work_passage_id": "a39:21",
       "html_path": "works/a39/index.html#p-21",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-21",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-21",
       "alignment_revision": "sha256:86200653f4f46eec701c6a6aba939f076c03aacedfa3fc701d8d4906cbe01021",
       "review_state": {
         "human_reviewed": false,
@@ -6211,9 +6211,9 @@
         "reference": "21",
         "display_reference": "A39 21",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:9523283daf4dfc4e5efdf7c90a23563783492bdc8e5c76b946a7533347b63f70",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-21"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-21"
       }
     },
     {
@@ -6341,7 +6341,7 @@
       ],
       "work_passage_id": "a39:22",
       "html_path": "works/a39/index.html#p-22",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-22",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-22",
       "alignment_revision": "sha256:6d2a2d383f9edbf348d3cfbe9b8f383d074220a83be193b2dbd98be7054dbb53",
       "review_state": {
         "human_reviewed": false,
@@ -6365,9 +6365,9 @@
         "reference": "22",
         "display_reference": "A39 22",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:ac8f801b03d23ace6769171ab6670451c600b6561046a123caa09c5cd6fa9da5",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-22"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-22"
       }
     },
     {
@@ -6529,7 +6529,7 @@
       "notes": [],
       "work_passage_id": "a39:23",
       "html_path": "works/a39/index.html#p-23",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-23",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-23",
       "alignment_revision": "sha256:6215df8fc067b7db791c9bd8c6d4568a8c5828e749d0d1071035291bc28cb741",
       "review_state": {
         "human_reviewed": false,
@@ -6553,9 +6553,9 @@
         "reference": "23",
         "display_reference": "A39 23",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:55acf79386a10ce054d8512cc7c81e66a17dd29f46405f2872414d1248c86787",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-23"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-23"
       }
     },
     {
@@ -6677,7 +6677,7 @@
       "notes": [],
       "work_passage_id": "a39:24",
       "html_path": "works/a39/index.html#p-24",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-24",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-24",
       "alignment_revision": "sha256:539eb29297010b11b0b5a074a3584b52af0da0a4ee7e2667b461f43d4fa043d8",
       "review_state": {
         "human_reviewed": false,
@@ -6701,9 +6701,9 @@
         "reference": "24",
         "display_reference": "A39 24",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:854e2a051d67cc6456aa29ac929e45700aa79016b4486ea5251dcd1dee3d5c89",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-24"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-24"
       }
     },
     {
@@ -7125,7 +7125,7 @@
       ],
       "work_passage_id": "a39:25",
       "html_path": "works/a39/index.html#p-25",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-25",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-25",
       "alignment_revision": "sha256:7fe902b3e06d8ccebd4040f84c649a1f3b0ad62fd0c2778a6628c6c7e5773e53",
       "review_state": {
         "human_reviewed": false,
@@ -7149,9 +7149,9 @@
         "reference": "25",
         "display_reference": "A39 25",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:6fc73f215d5e35d75b32ad644923f9a8a5c78abfdb2c62d1a7ec8fd0dc51bbb6",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-25"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-25"
       }
     },
     {
@@ -7475,7 +7475,7 @@
       ],
       "work_passage_id": "a39:26",
       "html_path": "works/a39/index.html#p-26",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-26",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-26",
       "alignment_revision": "sha256:4e80dea5be182aeed61b797e396dd836dd4e53de3e14b82aafb6d91acc7dc6a8",
       "review_state": {
         "human_reviewed": false,
@@ -7499,9 +7499,9 @@
         "reference": "26",
         "display_reference": "A39 26",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:51004caeccf483551ccd1bcf43767a0befaadeb8d9a6ccee1537930f054a9daa",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-26"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-26"
       }
     },
     {
@@ -7742,7 +7742,7 @@
       "notes": [],
       "work_passage_id": "a39:27",
       "html_path": "works/a39/index.html#p-27",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-27",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-27",
       "alignment_revision": "sha256:d41028929de77791f91b29e08ab962ac62bfa351dcb47cee4f79e8faaf2023c6",
       "review_state": {
         "human_reviewed": false,
@@ -7766,9 +7766,9 @@
         "reference": "27",
         "display_reference": "A39 27",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:785689beefb452086060bc5af9779970573fb885c02838597cb0d9cf0068ed78",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-27"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-27"
       }
     },
     {
@@ -8155,7 +8155,7 @@
       ],
       "work_passage_id": "a39:28",
       "html_path": "works/a39/index.html#p-28",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-28",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-28",
       "alignment_revision": "sha256:076e213f5cb4a3a9f97824550e84a62d5e1ed83a27793981023a87c86f12f0cf",
       "review_state": {
         "human_reviewed": false,
@@ -8179,9 +8179,9 @@
         "reference": "28",
         "display_reference": "A39 28",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1018c517b9b9e431f6b315d3e46e5169ad2d685192ff3274da2b3a20b1b8ace5",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-28"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-28"
       }
     },
     {
@@ -8349,7 +8349,7 @@
       ],
       "work_passage_id": "a39:29",
       "html_path": "works/a39/index.html#p-29",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-29",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-29",
       "alignment_revision": "sha256:2534b0572c26d698c4257d941920c28a59ae9ce77491765973c5a6818eb84643",
       "review_state": {
         "human_reviewed": false,
@@ -8373,9 +8373,9 @@
         "reference": "29",
         "display_reference": "A39 29",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0dda4a8633c9c70f877e34d526f528bb68d4df62e311c45abff21d5c38d65ef7",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-29"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-29"
       }
     },
     {
@@ -8494,7 +8494,7 @@
       ],
       "work_passage_id": "a39:30",
       "html_path": "works/a39/index.html#p-30",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-30",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-30",
       "alignment_revision": "sha256:316a14442e5107117545871dc2f03b2241154dbeb605af1c07d95ce82f027eb4",
       "review_state": {
         "human_reviewed": false,
@@ -8518,9 +8518,9 @@
         "reference": "30",
         "display_reference": "A39 30",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:94290437b5034b54f3d4686d079e004e60b55b705c6f2a8da515aafaaf1e42e9",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-30"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-30"
       }
     },
     {
@@ -8714,7 +8714,7 @@
       ],
       "work_passage_id": "a39:31",
       "html_path": "works/a39/index.html#p-31",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-31",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-31",
       "alignment_revision": "sha256:7e3b9c6213ae9f34ea9572bb00e22d95d478ceda45baa15749712004aa66437e",
       "review_state": {
         "human_reviewed": false,
@@ -8738,9 +8738,9 @@
         "reference": "31",
         "display_reference": "A39 31",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:0f1b93a04f8067a2393fb6fadf5343add598b8d73cfe0b7213e707c7c1c01e8a",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-31"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-31"
       }
     },
     {
@@ -8875,7 +8875,7 @@
       "notes": [],
       "work_passage_id": "a39:32",
       "html_path": "works/a39/index.html#p-32",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-32",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-32",
       "alignment_revision": "sha256:7cb931ad6c0141927e9a42d8b0bacc44b61df282f342c165adcac47371a549f8",
       "review_state": {
         "human_reviewed": false,
@@ -8899,9 +8899,9 @@
         "reference": "32",
         "display_reference": "A39 32",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:a2c61e347843bfe2a4575b8f7273c3e33ceee601884479ae4b2c7f5087c96752",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-32"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-32"
       }
     },
     {
@@ -9069,7 +9069,7 @@
       ],
       "work_passage_id": "a39:33",
       "html_path": "works/a39/index.html#p-33",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-33",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-33",
       "alignment_revision": "sha256:b788dd469a028df91b0ddfc51c67deea8374d3458b9b34f25721c95ef1485366",
       "review_state": {
         "human_reviewed": false,
@@ -9093,9 +9093,9 @@
         "reference": "33",
         "display_reference": "A39 33",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f2b51efeaadbacfaa51f258939189feb373a358b82b9c01e648e2614d890f570",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-33"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-33"
       }
     },
     {
@@ -9430,7 +9430,7 @@
       ],
       "work_passage_id": "a39:34",
       "html_path": "works/a39/index.html#p-34",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-34",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-34",
       "alignment_revision": "sha256:b488498c7b0687c04961e13fcc1c7bb530e97973be91f725b8f81aa01742a75a",
       "review_state": {
         "human_reviewed": false,
@@ -9454,9 +9454,9 @@
         "reference": "34",
         "display_reference": "A39 34",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:bc06238ee20b68d13e7a722715e5ed3c1c8dc55cd19a3f17736a368b12db9a0f",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-34"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-34"
       }
     },
     {
@@ -10127,7 +10127,7 @@
       ],
       "work_passage_id": "a39:35",
       "html_path": "works/a39/index.html#p-35",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-35",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-35",
       "alignment_revision": "sha256:3d7e2baf52b7c49979b6905e3f3203b16d64d66cd1a37bc9abedb86b31502fec",
       "review_state": {
         "human_reviewed": false,
@@ -10151,9 +10151,9 @@
         "reference": "35",
         "display_reference": "A39 35",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:f9f067053cae932696cfed64c418991ee4a541010ed22b049d9a73ee05648a37",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-35"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-35"
       }
     },
     {
@@ -10396,7 +10396,7 @@
       ],
       "work_passage_id": "a39:36",
       "html_path": "works/a39/index.html#p-36",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-36",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-36",
       "alignment_revision": "sha256:c5505c9cbadef017e1a8d14d98861bf88512eb7b38d1126e7b582d21a96ceb1d",
       "review_state": {
         "human_reviewed": false,
@@ -10420,9 +10420,9 @@
         "reference": "36",
         "display_reference": "A39 36",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:054cc77601f95e040b927693fd035f451c791766c1de32fb020f450ed0e1e2cb",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-36"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-36"
       }
     },
     {
@@ -10882,7 +10882,7 @@
       ],
       "work_passage_id": "a39:37",
       "html_path": "works/a39/index.html#p-37",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-37",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-37",
       "alignment_revision": "sha256:2912f026bb7ed730ba45af7243c78c4071f4de80ccacb9bb80f502fb2318d447",
       "review_state": {
         "human_reviewed": false,
@@ -10906,9 +10906,9 @@
         "reference": "37",
         "display_reference": "A39 37",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:dd933f9890d084b23f4eb1e077c4f5135a34bd77a7a0b71bcd679b22facec175",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-37"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-37"
       }
     },
     {
@@ -11052,7 +11052,7 @@
       "notes": [],
       "work_passage_id": "a39:38",
       "html_path": "works/a39/index.html#p-38",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-38",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-38",
       "alignment_revision": "sha256:f04c178bc5b2113aa521637dcd4b4d89202341cc7444678dd949ed7eccaf5630",
       "review_state": {
         "human_reviewed": false,
@@ -11076,9 +11076,9 @@
         "reference": "38",
         "display_reference": "A39 38",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:1e94e90791fd557f7a9dedcec99f2ed00a1700036fa546a7e8dbe476719bfa95",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-38"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-38"
       }
     },
     {
@@ -11237,7 +11237,7 @@
       ],
       "work_passage_id": "a39:39",
       "html_path": "works/a39/index.html#p-39",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-39",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-39",
       "alignment_revision": "sha256:9f1c247f066f0ed7049dde12a9d58a9b7bf35e92cfc5c851582cd55984a8fd9c",
       "review_state": {
         "human_reviewed": false,
@@ -11261,9 +11261,9 @@
         "reference": "39",
         "display_reference": "A39 39",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:e146ff935860c7798116563d10dfa2fd6c6bf4d5ee2e43e557d5c5d9c5334e98",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-39"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-39"
       }
     },
     {
@@ -11464,7 +11464,7 @@
       ],
       "work_passage_id": "a39:concl",
       "html_path": "works/a39/index.html#p-concl",
-      "fixed_html_path": "releases/public-0.5/works/a39/index.html#p-concl",
+      "fixed_html_path": "releases/public-0.6/works/a39/index.html#p-concl",
       "alignment_revision": "sha256:1f79f2d29683aa0fe338a9eab9241cc5b4efd4fbe1088fcc18b72259bcab93ca",
       "review_state": {
         "human_reviewed": false,
@@ -11488,9 +11488,9 @@
         "reference": "concl",
         "display_reference": "A39 concl",
         "edition": "1571년 런던판. Richard Jugge와 John Cawood 인쇄. 25, [3]쪽(STC 10038.9, ESTC S124523). 표제의 1562년은 성직자 회의가 조항에 합의한 해이며, 비준문과 판권면은 1571년으로 적혀 있다.",
-        "release": "public-0.5",
+        "release": "public-0.6",
         "translation_revision": "sha256:d42fbbf1d0941e2aa9229c9f63e675d69bfa119c260c627eace283bce7a0aa52",
-        "fixed_path": "releases/public-0.5/works/a39/index.html#p-concl"
+        "fixed_path": "releases/public-0.6/works/a39/index.html#p-concl"
       }
     }
   ],
