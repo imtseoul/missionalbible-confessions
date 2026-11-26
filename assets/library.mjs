@@ -17,6 +17,35 @@ if(catalog){
   const input=$('#q');input.value=params.get('q')||'';const rows=[...document.querySelectorAll('.catalog-row')];
   const metadata=new Map(rows.map(row=>[row.dataset.work,norm(row.dataset.search)]));
   let bodyIndex=null,bodyRequest=null,bodyFailed=false;
+  const passageRequests=new Map();
+  let searchGeneration=0;
+  function showPassageMatch(row,q,generation){
+    const preview=row.querySelector('.match-preview');
+    preview.hidden=true;
+    preview.replaceChildren();
+    if(!q||!bodyIndex||metadata.get(row.dataset.work).includes(q)||row.hidden)return;
+    let request=passageRequests.get(row.dataset.work);
+    if(!request){
+      request=fetch(new URL(`../data/works/${row.dataset.work}.json`,import.meta.url))
+        .then(response=>{if(!response.ok)throw Error('Passage request failed');return response.json();});
+      passageRequests.set(row.dataset.work,request);
+    }
+    request.then(work=>{
+      if(generation!==searchGeneration||row.hidden)return;
+      const passage=work.passages.find(p=>norm(p.korean).includes(q)||norm(work.abbreviation+' '+p.ref).includes(q));
+      if(!passage)return;
+      const link=document.createElement('a');
+      link.href=new URL('../'+passage.html_path,import.meta.url).href;
+      link.textContent=passage.display_ref+' 본문 보기';
+      const excerpt=document.createElement('p');
+      const clean=passage.korean.replace(/\s+/g,' ').trim();
+      const position=clean.indexOf(input.value.trim());
+      const start=position>60?position-48:0;
+      excerpt.textContent=(start?'…':'')+clean.slice(start,start+160)+(clean.length>start+160?'…':'');
+      preview.replaceChildren(link,excerpt);
+      preview.hidden=false;
+    }).catch(()=>{passageRequests.delete(row.dataset.work);});
+  }
   const loadBodyIndex=()=>{
     if(bodyRequest)return;
     bodyRequest=fetch(new URL('../data/search.json',import.meta.url)).then(response=>{
@@ -28,9 +57,9 @@ if(catalog){
     }).catch(()=>{bodyRequest=null;bodyFailed=true;refresh(false);});
   };
   const refresh=(update=true)=>{
-    let total=0;const q=norm(input.value.trim());
+    let total=0;const q=norm(input.value.trim());const generation=++searchGeneration;
     const loading=Boolean(q&&!bodyIndex&&!bodyFailed);
-    for(const row of rows){const visible=Object.entries(filters).every(([g,v])=>v==='all'||row.dataset[g]===v)&&(!q||(bodyIndex||metadata).get(row.dataset.work).includes(q));row.hidden=!visible;if(visible)total++;}
+    for(const row of rows){const visible=Object.entries(filters).every(([g,v])=>v==='all'||row.dataset[g]===v)&&(!q||(bodyIndex||metadata).get(row.dataset.work).includes(q));row.hidden=!visible;if(visible)total++;showPassageMatch(row,q,generation);}
     // Issuer and tradition headings follow their works: a heading with no visible work is hidden.
     for(const group of document.querySelectorAll('.author-group'))group.hidden=!group.querySelector('.catalog-row:not([hidden])');
     for(const group of document.querySelectorAll('.corpus-group'))group.hidden=!group.querySelector('.author-group:not([hidden])');

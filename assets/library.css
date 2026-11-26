@@ -184,6 +184,7 @@ a.text-link,.information section p a,.translation-notes p a{text-decoration:unde
 .author-works .catalog-row:first-child{padding-top:2px}.author-works .catalog-row:last-child{border-bottom:0;padding-bottom:0}
 .row-title{margin:0;font-size:17px;font-weight:500;line-height:1.5;letter-spacing:-.01em}.row-title a{color:var(--ink)}.catalog-row h4 a::after{content:'';position:absolute;inset:0}.catalog-row:hover .row-title a{text-decoration:underline;text-underline-offset:4px;text-decoration-color:var(--accent)}
 .author-works .original-title{font-size:14px;margin-top:3px}.author-works .row-meta{font-size:12px;margin-top:4px}.author-works .coverage{font-size:13px;align-self:start;min-height:0;padding-top:3px}
+.match-preview{grid-column:1/-1;padding:16px 0 0;border-top:1px solid var(--line);min-width:0}.match-preview a{position:relative;z-index:1;display:inline-block;font-size:14px;font-weight:600;text-decoration:underline;text-decoration-color:var(--field);text-underline-offset:4px}.match-preview p{margin-top:8px;color:var(--muted);font-size:14px;line-height:1.65}
 /* Reader: one ~680px text column, original one step quieter with a rule. */
 .reader{max-width:760px}.work-heading h1{letter-spacing:-.03em}.work-heading .original-title{color:var(--muted)}
 .breadcrumb a{color:var(--muted)}.breadcrumb a:hover{color:var(--ink)}
